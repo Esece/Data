@@ -1,4 +1,4 @@
-# Day of Week
+# Days of Week
 
 ``` csharp
 Enum.GetValues(typeof(DayOfWeek)).Cast<DayOfWeek>().ToDictionary(d => (int)d, d => DateTimeFormatInfo.CurrentInfo.GetDayName(d))
