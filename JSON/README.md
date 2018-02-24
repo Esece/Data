@@ -1,6 +1,10 @@
 # Sample JSON Data
 
 ``` json
+{ "name":"John", "age":31, "city":"New York", "emails":["a@b.c", "d@e.f"] }
+```
+
+``` json
 [
   {
     "_id": "5a776b98e40b4ddbd1a7ea14",
