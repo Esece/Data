@@ -1,5 +1,11 @@
 ## PI
 
+**If you only need 15 or fewer digits, use the standard library method.**
+``` csharp
+System.Math.PI
+```
+
+Supporting 15+ digits
 ``` csharp
 class PI
 {
