@@ -1,5 +1,14 @@
 # Math
 
+### Fibonacci Numbers
+
+Example
+``` csharp
+FibonacciNumbers.Enumerate().Take(46);  [ 1, 1, 2, 3, 5, 8,... 1836311903 ]
+```
+
+-----
+
 ### PI
 Get up to 15 or more characters long
 ``` csharp
