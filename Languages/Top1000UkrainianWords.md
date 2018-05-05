@@ -974,6 +974,8 @@
 претензії<br>
 континент<br>
 
+-----
+
 Source
 ``` csharp
 IEnumerable<string> GetWords()
