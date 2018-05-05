@@ -2943,3 +2943,19 @@ yours<br>
 yourself<br> 
 youth<br> 
 zone<br> 
+
+-----
+
+Source
+``` csharp
+static IEnumerable<string> GetWords()
+{
+    var html = new System.Net.WebClient() { Encoding = Encoding.UTF8 }.DownloadString("http://1000mostcommonwords.com/1000-common-english-words/");
+
+    foreach (Match match in Regex.Matches(html, @"(<tr>.*?<td>\d*</td>.*?<td></td>.*?<td>)(.*?)(</td>.*?</tr>)", RegexOptions.Singleline))
+    {
+        yield return match.Groups[2].Value;
+    }
+}
+```
+
