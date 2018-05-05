@@ -973,3 +973,17 @@
 гнів<br>
 претензії<br>
 континент<br>
+
+Source
+``` csharp
+IEnumerable<string> GetWords()
+{
+    var html = new System.Net.WebClient() { Encoding = Encoding.UTF8 }.DownloadString("http://1000mostcommonwords.com/1000-most-common-ukrainian-words/");
+
+    foreach (Match match in Regex.Matches(html, @"(<tr>.*?<td>.*?\d*</td>.*?<td>)(.*?)(</td>.*?</tr>)", RegexOptions.Singleline))
+    {
+        yield return match.Groups[2].Value;
+    }
+}
+```
+
