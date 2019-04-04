@@ -1,0 +1,263 @@
+06608	41.187702	-73.181157	Bridgeport	Connecticut
+06901	41.053558	-73.538219	Stamford	Connecticut
+06519	41.295816	-72.938631	New Haven	Connecticut
+06710	41.568973	-73.046429	Waterbury	Connecticut
+06604	41.180711	-73.202740	Bridgeport	Connecticut
+06106	41.745998	-72.696264	Hartford	Connecticut
+06605	41.162092	-73.217672	Bridgeport	Connecticut
+06511	41.315718	-72.926166	New Haven	Connecticut
+06269	41.805684	-72.252176	Storrs Mansfield	Connecticut
+06510	41.306386	-72.925888	New Haven	Connecticut
+06606	41.212110	-73.206673	Bridgeport	Connecticut
+06112	41.793336	-72.695823	Hartford	Connecticut
+06105	41.777578	-72.704663	Hartford	Connecticut
+06119	41.763138	-72.727310	West Hartford	Connecticut
+06607	41.176374	-73.166056	Bridgeport	Connecticut
+06610	41.209283	-73.164603	Bridgeport	Connecticut
+06051	41.664618	-72.769196	New Britain	Connecticut
+06906	41.071800	-73.521643	Stamford	Connecticut
+06114	41.739769	-72.669396	Hartford	Connecticut
+06902	41.061506	-73.543359	Stamford	Connecticut
+06702	41.555954	-73.044543	Waterbury	Connecticut
+06854	41.091292	-73.430340	Norwalk	Connecticut
+06053	41.689279	-72.787470	New Britain	Connecticut
+06513	41.320139	-72.867122	New Haven	Connecticut
+06516	41.275342	-72.965117	West Haven	Connecticut
+06705	41.547659	-72.991708	Waterbury	Connecticut
+06320	41.352033	-72.105574	New London	Connecticut
+06905	41.087167	-73.543292	Stamford	Connecticut
+06907	41.101434	-73.521725	Stamford	Connecticut
+06110	41.732430	-72.733719	West Hartford	Connecticut
+06855	41.097462	-73.391074	Norwalk	Connecticut
+06515	41.328039	-72.970840	New Haven	Connecticut
+06706	41.532778	-73.023580	Waterbury	Connecticut
+06120	41.787192	-72.667994	Hartford	Connecticut
+06851	41.138233	-73.401526	Norwalk	Connecticut
+06878	41.035027	-73.583577	Riverside	Connecticut
+06870	41.032123	-73.569791	Old Greenwich	Connecticut
+06704	41.588692	-73.035390	Waterbury	Connecticut
+06401	41.344254	-73.066868	Ansonia	Connecticut
+06052	41.655568	-72.803107	New Britain	Connecticut
+06708	41.550872	-73.068653	Waterbury	Connecticut
+06614	41.228529	-73.128160	Stratford	Connecticut
+06853	41.070586	-73.438219	Norwalk	Connecticut
+06107	41.752511	-72.756898	West Hartford	Connecticut
+06108	41.780375	-72.623945	East Hartford	Connecticut
+06517	41.349255	-72.907215	Hamden	Connecticut
+06850	41.126683	-73.447459	Norwalk	Connecticut
+06615	41.171457	-73.135092	Stratford	Connecticut
+06512	41.279946	-72.872625	East Haven	Connecticut
+06118	41.746971	-72.610610	East Hartford	Connecticut
+06450	41.535812	-72.775686	Meriden	Connecticut
+06418	41.326243	-73.082616	Derby	Connecticut
+06226	41.708014	-72.206610	Willimantic	Connecticut
+06451	41.541906	-72.823409	Meriden	Connecticut
+06460	41.228015	-73.061779	Milford	Connecticut
+06779	41.596550	-73.081251	Oakville	Connecticut
+06514	41.375866	-72.943428	Hamden	Connecticut
+06010	41.681578	-72.940749	Bristol	Connecticut
+06111	41.687028	-72.730891	Newington	Connecticut
+06109	41.699905	-72.671913	Wethersfield	Connecticut
+06081	41.906648	-72.768727	Tariffville	Connecticut
+06810	41.377218	-73.459150	Danbury	Connecticut
+06807	41.062137	-73.588467	Cos Cob	Connecticut
+06040	41.775240	-72.524434	Manchester	Connecticut
+06770	41.487783	-73.052912	Naugatuck	Connecticut
+06380	41.577233	-72.049953	Taftville	Connecticut
+06504	41.303453	-72.935300	New Haven	Connecticut
+06830	41.048958	-73.624338	Greenwich	Connecticut
+06062	41.673992	-72.854434	Plainville	Connecticut
+06117	41.785160	-72.763564	West Hartford	Connecticut
+06066	41.837523	-72.459123	Vernon Rockville	Connecticut
+06820	41.081845	-73.483440	Darien	Connecticut
+06085	41.748955	-72.889415	Unionville	Connecticut
+06103	41.767347	-72.674191	Hartford	Connecticut
+06611	41.272891	-73.211899	Trumbull	Connecticut
+06096	41.927790	-72.651616	Windsor Locks	Connecticut
+06023	41.612590	-72.720095	East Berlin	Connecticut
+06811	41.418509	-73.489457	Danbury	Connecticut
+06082	41.983993	-72.555553	Enfield	Connecticut
+06067	41.657268	-72.666307	Rocky Hill	Connecticut
+06340	41.357477	-72.041780	Groton	Connecticut
+06405	41.285013	-72.793544	Branford	Connecticut
+06880	41.146573	-73.348638	Westport	Connecticut
+06479	41.574754	-72.911875	Plantsville	Connecticut
+06778	41.694837	-73.108706	Northfield	Connecticut
+06484	41.304667	-73.138917	Shelton	Connecticut
+06357	41.324532	-72.220077	Niantic	Connecticut
+06492	41.461989	-72.805511	Wallingford	Connecticut
+06801	41.369778	-73.389503	Bethel	Connecticut
+06473	41.381327	-72.856347	North Haven	Connecticut
+06483	41.385031	-73.084044	Seymour	Connecticut
+06457	41.546983	-72.655920	Middletown	Connecticut
+06489	41.614393	-72.869568	Southington	Connecticut
+06518	41.430635	-72.912088	Hamden	Connecticut
+06416	41.616580	-72.661880	Cromwell	Connecticut
+06089	41.837353	-72.825274	Weatogue	Connecticut
+06262	42.021666	-71.947629	Quinebaug	Connecticut
+06095	41.871037	-72.675082	Windsor	Connecticut
+06471	41.333787	-72.771834	North Branford	Connecticut
+06074	41.831580	-72.570650	South Windsor	Connecticut
+06355	41.381305	-71.971134	Mystic	Connecticut
+06840	41.161054	-73.501184	New Canaan	Connecticut
+06410	41.511827	-72.903617	Cheshire	Connecticut
+06790	41.834255	-73.131520	Torrington	Connecticut
+06413	41.301402	-72.527202	Clinton	Connecticut
+06033	41.707462	-72.538932	Glastonbury	Connecticut
+06804	41.463134	-73.393141	Brookfield	Connecticut
+06903	41.136016	-73.571143	Stamford	Connecticut
+06002	41.846762	-72.736998	Bloomfield	Connecticut
+06477	41.284948	-73.024635	Orange	Connecticut
+06468	41.336384	-73.226131	Monroe	Connecticut
+06716	41.596305	-72.969624	Wolcott	Connecticut
+06812	41.482820	-73.493423	New Fairfield	Connecticut
+06032	41.725223	-72.830309	Farmington	Connecticut
+06475	41.314952	-72.399553	Old Saybrook	Connecticut
+06877	41.306243	-73.501037	Ridgefield	Connecticut
+06442	41.341858	-72.434679	Ivoryton	Connecticut
+06379	41.368771	-71.850719	Pawcatuck	Connecticut
+06001	41.796815	-72.848481	Avon	Connecticut
+06037	41.606465	-72.777531	Berlin	Connecticut
+06897	41.206532	-73.437607	Wilton	Connecticut
+06360	41.540484	-72.035976	Norwich	Connecticut
+06786	41.664390	-73.018005	Terryville	Connecticut
+06070	41.879725	-72.826685	Simsbury	Connecticut
+06481	41.535205	-72.701882	Rockfall	Connecticut
+06712	41.499248	-72.975635	Prospect	Connecticut
+06409	41.340539	-72.416762	Centerbrook	Connecticut
+06385	41.361788	-72.156573	Waterford	Connecticut
+06092	41.865160	-72.854438	West Simsbury	Connecticut
+06335	41.434707	-72.058533	Gales Ferry	Connecticut
+06382	41.457716	-72.127247	Uncasville	Connecticut
+06426	41.353427	-72.399250	Essex	Connecticut
+06831	41.088724	-73.658838	Greenwich	Connecticut
+06403	41.438376	-73.058607	Beacon Falls	Connecticut
+06795	41.622230	-73.126107	Watertown	Connecticut
+06375	41.406338	-72.123236	Quaker Hill	Connecticut
+06482	41.408157	-73.242514	Sandy Hook	Connecticut
+06239	41.792546	-71.860970	Danielson	Connecticut
+06443	41.347116	-72.625877	Madison	Connecticut
+06883	41.228103	-73.366757	Weston	Connecticut
+06488	41.476862	-73.230081	Southbury	Connecticut
+06525	41.363538	-73.003892	Woodbridge	Connecticut
+06787	41.685387	-73.097602	Thomaston	Connecticut
+06020	41.874250	-72.900118	Canton Center	Connecticut
+06437	41.331777	-72.696816	Guilford	Connecticut
+06776	41.600210	-73.422164	New Milford	Connecticut
+06035	41.959215	-72.800545	Granby	Connecticut
+06260	41.908027	-71.870452	Putnam	Connecticut
+06019	41.847156	-72.893504	Canton	Connecticut
+06088	41.905687	-72.596035	East Windsor	Connecticut
+06498	41.308210	-72.465230	Westbrook	Connecticut
+06470	41.395083	-73.317663	Newtown	Connecticut
+06376	41.294723	-72.255852	South Lyme	Connecticut
+06029	41.915167	-72.444294	Ellington	Connecticut
+06078	41.988040	-72.652650	Suffield	Connecticut
+06472	41.393435	-72.771944	Northford	Connecticut
+06480	41.596184	-72.583985	Portland	Connecticut
+06762	41.525996	-73.117509	Middlebury	Connecticut
+06071	41.992781	-72.453630	Somers	Connecticut
+06351	41.603146	-71.967156	Jewett City	Connecticut
+06043	41.764588	-72.437576	Bolton	Connecticut
+06417	41.367609	-72.463072	Deep River	Connecticut
+06016	41.901899	-72.547432	Broad Brook	Connecticut
+06084	41.882488	-72.359068	Tolland	Connecticut
+06424	41.560603	-72.502329	East Hampton	Connecticut
+06268	41.798793	-72.248368	Storrs Mansfield	Connecticut
+06374	41.681878	-71.910931	Plainfield	Connecticut
+06238	41.780099	-72.344021	Coventry	Connecticut
+06022	41.866457	-72.926725	Collinsville	Connecticut
+06478	41.444000	-73.147998	Oxford	Connecticut
+06370	41.468318	-72.186089	Oakdale	Connecticut
+06339	41.441939	-71.990545	Ledyard	Connecticut
+06782	41.651536	-73.042744	Plymouth	Connecticut
+06469	41.507408	-72.449796	Moodus	Connecticut
+06073	41.664428	-72.555041	South Glastonbury	Connecticut
+06422	41.468922	-72.684525	Durham	Connecticut
+06415	41.551099	-72.348073	Colchester	Connecticut
+06013	41.757517	-72.957561	Burlington	Connecticut
+06026	41.929740	-72.745376	East Granby	Connecticut
+06455	41.514163	-72.717844	Middlefield	Connecticut
+06378	41.388369	-71.916436	Stonington	Connecticut
+06354	41.708858	-71.855134	Moosup	Connecticut
+06896	41.305415	-73.392584	Redding	Connecticut
+06612	41.264945	-73.300479	Easton	Connecticut
+06798	41.561632	-73.206096	Woodbury	Connecticut
+06333	41.388898	-72.231951	East Lyme	Connecticut
+06755	41.654506	-73.485114	Gaylordsville	Connecticut
+06447	41.636482	-72.454002	Marlborough	Connecticut
+06248	41.688578	-72.409107	Hebron	Connecticut
+06266	41.671666	-72.160685	South Windham	Connecticut
+06250	41.777290	-72.191963	Mansfield Center	Connecticut
+06524	41.422964	-72.994187	Bethany	Connecticut
+06241	41.853901	-71.847371	Dayville	Connecticut
+06237	41.694527	-72.305414	Columbia	Connecticut
+06280	41.698256	-72.141024	Windham	Connecticut
+06412	41.409683	-72.484735	Chester	Connecticut
+06231	41.624501	-72.369834	Amston	Connecticut
+06093	42.024210	-72.722626	West Suffield	Connecticut
+06098	41.949420	-73.080041	Winsted	Connecticut
+06750	41.723731	-73.268144	Bantam	Connecticut
+06234	41.787243	-71.957401	Brooklyn	Connecticut
+06232	41.732982	-72.374658	Andover	Connecticut
+06255	41.991085	-71.901950	North Grosvenordale	Connecticut
+06330	41.635570	-72.077527	Baltic	Connecticut
+06282	41.941385	-72.064126	Woodstock Valley	Connecticut
+06438	41.455264	-72.504397	Haddam	Connecticut
+06018	42.023525	-73.309629	Canaan	Connecticut
+06441	41.471081	-72.580378	Higganum	Connecticut
+06751	41.643213	-73.217315	Bethlehem	Connecticut
+06279	41.897267	-72.251848	Willington	Connecticut
+06371	41.368660	-72.332325	Old Lyme	Connecticut
+06419	41.380739	-72.576659	Killingworth	Connecticut
+06791	41.746030	-73.059135	Harwinton	Connecticut
+06060	41.998344	-72.848699	North Granby	Connecticut
+06277	41.966323	-71.835572	Thompson	Connecticut
+06256	41.758657	-72.127831	North Windham	Connecticut
+06784	41.577251	-73.492529	Sherman	Connecticut
+06377	41.730545	-71.819313	Sterling	Connecticut
+06365	41.503515	-71.974863	Preston	Connecticut
+06057	41.841041	-72.998680	New Hartford	Connecticut
+06076	41.984442	-72.263453	Stafford Springs	Connecticut
+06763	41.694322	-73.210000	Morris	Connecticut
+06024	42.020647	-73.259186	East Canaan	Connecticut
+06420	41.489351	-72.258383	Salem	Connecticut
+06249	41.632955	-72.240090	Lebanon	Connecticut
+06423	41.458058	-72.389489	East Haddam	Connecticut
+06334	41.544925	-72.173849	Bozrah	Connecticut
+06331	41.695706	-72.003414	Canterbury	Connecticut
+06281	41.973476	-72.014137	Woodstock	Connecticut
+06752	41.520294	-73.361093	Bridgewater	Connecticut
+06759	41.753640	-73.212028	Litchfield	Connecticut
+06278	41.897123	-72.171427	Ashford	Connecticut
+06254	41.621216	-72.142606	North Franklin	Connecticut
+06259	41.871502	-71.987646	Pomfret Center	Connecticut
+06039	41.955696	-73.445813	Lakeville	Connecticut
+06384	41.583096	-71.846906	Voluntown	Connecticut
+06359	41.471184	-71.872370	North Stonington	Connecticut
+06793	41.633703	-73.288900	Washington	Connecticut
+06373	41.671976	-71.806457	Oneco	Connecticut
+06794	41.646221	-73.329058	Washington Depot	Connecticut
+06027	42.004930	-72.915699	East Hartland	Connecticut
+06783	41.555498	-73.296011	Roxbury	Connecticut
+06777	41.703750	-73.331584	New Preston Marble Dale	Connecticut
+06247	41.768616	-72.062583	Hampton	Connecticut
+06336	41.580577	-72.195867	Gilman	Connecticut
+06059	41.944798	-72.924536	North Canton	Connecticut
+06235	41.808434	-72.134302	Chaplin	Connecticut
+06264	41.691285	-72.103349	Scotland	Connecticut
+06756	41.844214	-73.235287	Goshen	Connecticut
+06757	41.743775	-73.459954	Kent	Connecticut
+06090	41.944962	-72.867608	West Granby	Connecticut
+06069	41.842230	-73.443881	Sharon	Connecticut
+06021	42.022851	-73.110941	Colebrook	Connecticut
+06068	42.022480	-73.423131	Salisbury	Connecticut
+06242	41.895596	-72.093305	Eastford	Connecticut
+06063	41.932697	-72.969225	Barkhamsted	Connecticut
+06785	41.700090	-73.440011	South Kent	Connecticut
+06754	41.796808	-73.359587	Cornwall Bridge	Connecticut
+06031	41.955257	-73.316785	Falls Village	Connecticut
+06058	41.969900	-73.178492	Norfolk	Connecticut
+06091	42.003253	-72.988670	West Hartland	Connecticut
+06796	41.894763	-73.339256	West Cornwall	Connecticut
+06065	42.015580	-73.027357	Riverton	Connecticut
