@@ -1,0 +1,880 @@
+24142	37.137882	-80.550906	Radford	Virginia
+22209	38.893029	-77.073083	Arlington	Virginia
+22204	38.861073	-77.098881	Arlington	Virginia
+22203	38.873624	-77.116801	Arlington	Virginia
+22201	38.887182	-77.094312	Arlington	Virginia
+22311	38.833914	-77.121838	Alexandria	Virginia
+22305	38.834159	-77.061696	Alexandria	Virginia
+23186	37.271517	-76.717374	Williamsburg	Virginia
+22041	38.846971	-77.140471	Falls Church	Virginia
+22304	38.813140	-77.112126	Alexandria	Virginia
+22206	38.845619	-77.089683	Arlington	Virginia
+22301	38.819504	-77.059746	Alexandria	Virginia
+24215	36.922557	-82.796318	Andover	Virginia
+22303	38.795484	-77.088235	Alexandria	Virginia
+22302	38.827888	-77.083132	Alexandria	Virginia
+23508	36.887138	-76.302818	Norfolk	Virginia
+23220	37.549349	-77.460606	Richmond	Virginia
+22314	38.807080	-77.058379	Alexandria	Virginia
+23513	36.889082	-76.237950	Norfolk	Virginia
+22205	38.883586	-77.139477	Arlington	Virginia
+23504	36.857558	-76.266450	Norfolk	Virginia
+22312	38.817531	-77.153866	Alexandria	Virginia
+22044	38.862044	-77.154372	Falls Church	Virginia
+23663	37.034249	-76.314832	Hampton	Virginia
+22015	38.789077	-77.283314	Burke	Virginia
+22046	38.886335	-77.180975	Falls Church	Virginia
+22042	38.865389	-77.190864	Falls Church	Virginia
+23462	36.837313	-76.150514	Virginia Beach	Virginia
+23517	36.869367	-76.292172	Norfolk	Virginia
+23509	36.881927	-76.260498	Norfolk	Virginia
+22043	38.901488	-77.197424	Falls Church	Virginia
+23503	36.942794	-76.273934	Norfolk	Virginia
+20164	39.013299	-77.395067	Sterling	Virginia
+22213	38.895198	-77.162755	Arlington	Virginia
+22152	38.774478	-77.233183	Springfield	Virginia
+23607	36.987413	-76.423097	Newport News	Virginia
+22202	38.854723	-77.050511	Arlington	Virginia
+22207	38.906665	-77.124238	Arlington	Virginia
+23510	36.852130	-76.290133	Norfolk	Virginia
+23507	36.868300	-76.308420	Norfolk	Virginia
+20170	38.980039	-77.380901	Herndon	Virginia
+23702	36.802789	-76.327926	Portsmouth	Virginia
+23325	36.812436	-76.238907	Chesapeake	Virginia
+23608	37.150435	-76.544427	Newport News	Virginia
+23452	36.842722	-76.093398	Virginia Beach	Virginia
+22003	38.832252	-77.215400	Annandale	Virginia
+22306	38.757699	-77.090359	Alexandria	Virginia
+23464	36.795027	-76.179579	Virginia Beach	Virginia
+22315	38.759931	-77.152763	Alexandria	Virginia
+22153	38.744898	-77.237906	Springfield	Virginia
+23707	36.838036	-76.341429	Portsmouth	Virginia
+20194	38.981059	-77.340775	Reston	Virginia
+22309	38.720516	-77.107848	Alexandria	Virginia
+23221	37.553306	-77.493558	Richmond	Virginia
+22032	38.819046	-77.290301	Fairfax	Virginia
+23605	37.018444	-76.436250	Newport News	Virginia
+22310	38.783926	-77.122851	Alexandria	Virginia
+23294	37.631739	-77.542049	Richmond	Virginia
+22180	38.895439	-77.256133	Vienna	Virginia
+23505	36.917999	-76.291867	Norfolk	Virginia
+22031	38.859531	-77.258547	Fairfax	Virginia
+22033	38.876122	-77.379546	Fairfax	Virginia
+23704	36.825203	-76.311962	Portsmouth	Virginia
+23669	37.047422	-76.340544	Hampton	Virginia
+24013	37.266989	-79.921759	Roanoke	Virginia
+23518	36.912436	-76.214492	Norfolk	Virginia
+23701	36.810851	-76.367750	Portsmouth	Virginia
+23523	36.831185	-76.270889	Norfolk	Virginia
+22193	38.643048	-77.345235	Woodbridge	Virginia
+20191	38.934645	-77.351702	Reston	Virginia
+23222	37.582968	-77.418907	Richmond	Virginia
+24015	37.253074	-79.983552	Roanoke	Virginia
+23601	37.059320	-76.462159	Newport News	Virginia
+23324	36.799721	-76.273447	Chesapeake	Virginia
+22151	38.804093	-77.207804	Springfield	Virginia
+22307	38.770850	-77.059334	Alexandria	Virginia
+20190	38.958942	-77.336825	Reston	Virginia
+24474	37.805260	-79.847568	Selma	Virginia
+20110	38.745510	-77.484170	Manassas	Virginia
+23602	37.115540	-76.512057	Newport News	Virginia
+23661	37.009301	-76.386177	Hampton	Virginia
+23226	37.581917	-77.520010	Richmond	Virginia
+20171	38.924954	-77.399763	Herndon	Virginia
+24016	37.272432	-79.953147	Roanoke	Virginia
+20121	38.811059	-77.463237	Centreville	Virginia
+23455	36.888304	-76.147680	Virginia Beach	Virginia
+23224	37.497453	-77.466733	Richmond	Virginia
+22308	38.729282	-77.060994	Alexandria	Virginia
+23228	37.625202	-77.491591	Richmond	Virginia
+20165	39.050900	-77.387159	Sterling	Virginia
+23606	37.078166	-76.498365	Newport News	Virginia
+23665	37.088921	-76.373053	Hampton	Virginia
+23225	37.518624	-77.512937	Richmond	Virginia
+24017	37.297647	-79.990966	Roanoke	Virginia
+22150	38.770112	-77.190410	Springfield	Virginia
+23223	37.558305	-77.378183	Richmond	Virginia
+23502	36.856482	-76.211765	Norfolk	Virginia
+22601	39.174971	-78.175621	Winchester	Virginia
+22181	38.903844	-77.292073	Vienna	Virginia
+23451	36.866550	-76.004052	Virginia Beach	Virginia
+22027	38.893482	-77.220549	Dunn Loring	Virginia
+22191	38.620496	-77.268010	Woodbridge	Virginia
+23666	37.058904	-76.404036	Hampton	Virginia
+23229	37.590651	-77.567789	Richmond	Virginia
+22192	38.685012	-77.325719	Woodbridge	Virginia
+23075	37.546610	-77.317865	Highland Springs	Virginia
+22030	38.837138	-77.340466	Fairfax	Virginia
+22125	38.682611	-77.259192	Occoquan	Virginia
+23454	36.818048	-76.030783	Virginia Beach	Virginia
+20120	38.850374	-77.469946	Centreville	Virginia
+22101	38.940236	-77.164899	Mc Lean	Virginia
+22182	38.937076	-77.272944	Vienna	Virginia
+23703	36.882844	-76.379439	Portsmouth	Virginia
+23664	37.072637	-76.294914	Hampton	Virginia
+23227	37.611292	-77.438188	Richmond	Virginia
+23234	37.451423	-77.470660	Richmond	Virginia
+22401	38.299272	-77.486658	Fredericksburg	Virginia
+23060	37.657095	-77.536608	Glen Allen	Virginia
+23521	36.917770	-76.155540	Norfolk	Virginia
+22102	38.947955	-77.231920	Mc Lean	Virginia
+23236	37.475720	-77.587812	Richmond	Virginia
+23230	37.586479	-77.489411	Richmond	Virginia
+23062	37.257860	-76.496603	Gloucester Point	Virginia
+23235	37.514570	-77.564758	Richmond	Virginia
+23219	37.541670	-77.433859	Richmond	Virginia
+24201	36.611803	-82.171523	Bristol	Virginia
+23651	37.008282	-76.306893	Fort Monroe	Virginia
+22124	38.890344	-77.328914	Oakton	Virginia
+20109	38.794633	-77.523170	Manassas	Virginia
+23233	37.612102	-77.634284	Richmond	Virginia
+20111	38.751797	-77.432986	Manassas	Virginia
+24012	37.317594	-79.888805	Roanoke	Virginia
+24020	37.355539	-79.941947	Roanoke	Virginia
+23693	37.123066	-76.447129	Yorktown	Virginia
+23320	36.752658	-76.215767	Chesapeake	Virginia
+22026	38.578652	-77.316382	Dumfries	Virginia
+23112	37.439072	-77.663195	Midlothian	Virginia
+23321	36.800209	-76.420759	Chesapeake	Virginia
+20151	38.896524	-77.445141	Chantilly	Virginia
+24448	37.797110	-79.788524	Iron Gate	Virginia
+22801	38.411913	-78.886731	Harrisonburg	Virginia
+23831	37.346253	-77.450566	Chester	Virginia
+23456	36.721504	-76.021018	Virginia Beach	Virginia
+20147	39.034739	-77.485319	Ashburn	Virginia
+24019	37.342283	-79.949438	Roanoke	Virginia
+24502	37.357452	-79.216400	Lynchburg	Virginia
+24078	36.721020	-79.911638	Collinsville	Virginia
+23237	37.400878	-77.449054	Richmond	Virginia
+23708	36.844104	-76.308053	Portsmouth	Virginia
+23834	37.291770	-77.402212	Colonial Heights	Virginia
+23801	37.245604	-77.336063	Fort Lee	Virginia
+23316	37.283568	-75.967968	Cheriton	Virginia
+22211	38.877630	-77.069449	Ft Myer	Virginia
+24018	37.218056	-80.052561	Roanoke	Virginia
+23662	37.140745	-76.354281	Poquoson	Virginia
+22039	38.750523	-77.314559	Fairfax Station	Virginia
+23302	37.870747	-75.534833	Assawoman	Virginia
+22407	38.283474	-77.575684	Fredericksburg	Virginia
+24595	37.557868	-79.089019	Sweet Briar	Virginia
+24501	37.359607	-79.141653	Lynchburg	Virginia
+20124	38.782846	-77.388498	Clifton	Virginia
+22079	38.675735	-77.203840	Lorton	Virginia
+24014	37.218352	-79.924952	Roanoke	Virginia
+22066	39.012003	-77.302573	Great Falls	Virginia
+22060	38.706822	-77.156878	Fort Belvoir	Virginia
+24327	36.771626	-81.821579	Emory	Virginia
+23113	37.525730	-77.677389	Midlothian	Virginia
+23185	37.248911	-76.701378	Williamsburg	Virginia
+23832	37.392517	-77.600626	Chesterfield	Virginia
+22554	38.435600	-77.426856	Stafford	Virginia
+23860	37.272031	-77.225393	Hopewell	Virginia
+24077	37.372707	-79.900700	Cloverdale	Virginia
+22901	38.087663	-78.556765	Charlottesville	Virginia
+23433	36.902427	-76.487729	Suffolk	Virginia
+20112	38.665696	-77.432526	Manassas	Virginia
+23692	37.219310	-76.407668	Yorktown	Virginia
+23395	37.971838	-75.447341	Horntown	Virginia
+22903	38.006805	-78.596331	Charlottesville	Virginia
+23803	37.208040	-77.481394	Petersburg	Virginia
+20136	38.743495	-77.558451	Bristow	Virginia
+23603	37.191057	-76.564535	Newport News	Virginia
+23604	37.105026	-76.574793	Fort Eustis	Virginia
+23461	36.780851	-75.961419	Virginia Beach	Virginia
+24540	36.647454	-79.426539	Danville	Virginia
+24503	37.454300	-79.241500	Lynchburg	Virginia
+24463	38.063296	-79.110845	Mint Spring	Virginia
+23441	37.712264	-75.698925	Tasley	Virginia
+23459	36.923015	-76.017352	Virginia Beach	Virginia
+22405	38.318989	-77.402385	Fredericksburg	Virginia
+20148	39.003230	-77.516219	Ashburn	Virginia
+22548	37.825167	-76.704166	Sharps	Virginia
+24011	37.270198	-79.941523	Roanoke	Virginia
+22408	38.221624	-77.443278	Fredericksburg	Virginia
+23111	37.612178	-77.249414	Mechanicsville	Virginia
+24624	37.195239	-81.958909	Keen Mountain	Virginia
+23436	36.898643	-76.516594	Suffolk	Virginia
+23116	37.675824	-77.336603	Mechanicsville	Virginia
+22655	39.062468	-78.216182	Stephens City	Virginia
+24541	36.593721	-79.525111	Danville	Virginia
+24179	37.295038	-79.810524	Vinton	Virginia
+24457	37.793859	-79.878052	Low Moor	Virginia
+23435	36.831995	-76.471141	Suffolk	Virginia
+24060	37.256822	-80.415142	Blacksburg	Virginia
+23059	37.702234	-77.574006	Glen Allen	Virginia
+23322	36.638141	-76.228863	Chesapeake	Virginia
+20176	39.184706	-77.544111	Leesburg	Virginia
+23943	37.244067	-78.476032	Hampden Sydney	Virginia
+22980	38.099858	-78.880549	Waynesboro	Virginia
+23064	37.504384	-76.298242	Grimstead	Virginia
+23150	37.501136	-77.252612	Sandston	Virginia
+24641	37.125711	-81.818509	Richlands	Virginia
+24141	37.104610	-80.566393	Radford	Virginia
+24168	36.735901	-79.947659	Stanleytown	Virginia
+24153	37.294047	-80.114218	Salem	Virginia
+24504	37.370954	-79.070073	Lynchburg	Virginia
+24482	38.204066	-78.997916	Verona	Virginia
+23836	37.351896	-77.330680	Chester	Virginia
+22902	37.958308	-78.471872	Charlottesville	Virginia
+23072	37.297192	-76.495963	Hayes	Virginia
+24147	37.392370	-80.814926	Rich Creek	Virginia
+23231	37.440791	-77.314587	Richmond	Virginia
+23304	36.992325	-76.570378	Battery Park	Virginia
+23066	37.496282	-76.283804	Gwynn	Virginia
+23875	37.229943	-77.255727	Prince George	Virginia
+24612	37.100541	-81.848971	Doran	Virginia
+24290	36.617812	-82.598045	Weber City	Virginia
+23690	37.218753	-76.523707	Yorktown	Virginia
+24073	37.123193	-80.421067	Christiansburg	Virginia
+24401	38.131361	-79.093394	Staunton	Virginia
+20175	39.058155	-77.594911	Leesburg	Virginia
+23696	37.194373	-76.396153	Seaford	Virginia
+22656	39.219255	-78.089345	Stephenson	Virginia
+22911	38.097076	-78.410109	Charlottesville	Virginia
+22802	38.485925	-78.833834	Harrisonburg	Virginia
+20166	38.986510	-77.455909	Sterling	Virginia
+23323	36.696963	-76.379928	Chesapeake	Virginia
+20155	38.806716	-77.621486	Gainesville	Virginia
+23068	37.495369	-76.354836	Hallieford	Virginia
+23805	37.132177	-77.394240	Petersburg	Virginia
+24551	37.370511	-79.323832	Forest	Virginia
+23303	37.894755	-75.507305	Atlantic	Virginia
+22448	38.336332	-77.028442	Dahlgren	Virginia
+23188	37.339834	-76.752811	Williamsburg	Virginia
+23347	37.351027	-75.940778	Eastville	Virginia
+24112	36.721552	-79.849366	Martinsville	Virginia
+24089	36.710059	-79.967230	Fieldale	Virginia
+20152	38.919133	-77.502434	Chantilly	Virginia
+24083	37.390789	-79.931355	Daleville	Virginia
+20158	39.139775	-77.658182	Hamilton	Virginia
+22924	38.001103	-78.722539	Batesville	Virginia
+22939	38.111830	-78.979165	Fishersville	Virginia
+22630	38.921815	-78.177949	Front Royal	Virginia
+24572	37.475028	-79.080739	Madison Heights	Virginia
+23125	37.343229	-76.279828	New Point	Virginia
+23005	37.759696	-77.481870	Ashland	Virginia
+22968	38.244943	-78.392990	Ruckersville	Virginia
+24431	38.178723	-78.853348	Crimora	Virginia
+23434	36.703003	-76.592105	Suffolk	Virginia
+23043	37.555720	-76.352199	Deltaville	Virginia
+23336	37.920766	-75.356109	Chincoteague Island	Virginia
+24293	36.997239	-82.565961	Wise	Virginia
+23184	37.285793	-76.530620	Wicomico	Virginia
+24477	38.004877	-79.042239	Stuarts Draft	Virginia
+20187	38.734527	-77.749566	Warrenton	Virginia
+20186	38.698163	-77.851394	Warrenton	Virginia
+22602	39.144546	-78.274337	Winchester	Virginia
+22712	38.564008	-77.757247	Bealeton	Virginia
+24055	36.748629	-80.010886	Bassett	Virginia
+23001	37.292591	-76.408678	Achilles	Virginia
+22480	37.681893	-76.406863	Irvington	Virginia
+20169	38.879166	-77.645449	Haymarket	Virginia
+23076	37.477012	-76.313078	Hudgins	Virginia
+24301	37.071072	-80.792951	Pulaski	Virginia
+22812	38.378250	-79.027107	Bridgewater	Virginia
+24095	37.230604	-79.733888	Goodview	Virginia
+22840	38.360168	-78.742392	Mc Gaheysville	Virginia
+23440	37.838810	-75.995819	Tangier	Virginia
+23141	37.524270	-77.161035	Quinton	Virginia
+23314	36.947037	-76.527592	Carrollton	Virginia
+24273	36.976258	-82.661273	Norton	Virginia
+22406	38.399244	-77.544009	Fredericksburg	Virginia
+22576	37.699103	-76.439595	Weems	Virginia
+24064	37.360726	-79.780994	Blue Ridge	Virginia
+22660	38.944071	-78.431447	Toms Brook	Virginia
+23356	38.002330	-75.415584	Greenbackville	Virginia
+23050	37.497416	-76.424481	Dutton	Virginia
+24219	36.844839	-82.760669	Big Stone Gap	Virginia
+24517	37.149779	-79.220258	Altavista	Virginia
+22664	38.888919	-78.532453	Woodstock	Virginia
+22578	37.650645	-76.363954	White Stone	Virginia
+23163	37.356258	-76.294696	Susan	Virginia
+23168	37.395389	-76.824294	Toano	Virginia
+23421	37.778602	-75.624765	Parksley	Virginia
+23430	36.980512	-76.665959	Smithfield	Virginia
+20129	39.172018	-77.601254	Paeonian Springs	Virginia
+22849	38.516476	-78.616749	Shenandoah	Virginia
+24354	36.827302	-81.537602	Marion	Virginia
+22701	38.443128	-77.988967	Culpeper	Virginia
+20141	39.130871	-77.797448	Round Hill	Virginia
+23169	37.593745	-76.466037	Topping	Virginia
+24605	37.208187	-81.337614	Bluefield	Virginia
+22134	38.524122	-77.435101	Quantico	Virginia
+23175	37.654885	-76.625872	Urbanna	Virginia
+23070	37.546500	-76.392096	Hardyville	Virginia
+24635	37.311461	-81.363549	Pocahontas	Virginia
+22172	38.583900	-77.446807	Triangle	Virginia
+22731	38.335366	-78.256569	Pratts	Virginia
+24416	37.736344	-79.348919	Buena Vista	Virginia
+23178	37.398108	-76.457708	Ware Neck	Virginia
+23307	37.434560	-75.878134	Birdsnest	Virginia
+22539	37.866104	-76.290408	Reedville	Virginia
+24084	37.131949	-80.715531	Dublin	Virginia
+23939	37.309810	-78.762157	Evergreen	Virginia
+23418	37.677570	-75.677635	Onley	Virginia
+22936	38.159998	-78.499128	Earlysville	Virginia
+22846	38.374155	-78.798345	Penn Laird	Virginia
+24313	36.908694	-80.804402	Barren Springs	Virginia
+22657	39.012703	-78.372160	Strasburg	Virginia
+24333	36.640129	-80.934660	Galax	Virginia
+22579	37.808477	-76.312087	Wicomico Church	Virginia
+24440	37.994862	-79.161084	Greenville	Virginia
+24441	38.234731	-78.812341	Grottoes	Virginia
+23138	37.380185	-76.310277	Port Haywood	Virginia
+22989	38.294704	-78.111236	Woodberry Forest	Virginia
+24630	37.171334	-81.512840	North Tazewell	Virginia
+24588	37.270013	-79.093856	Rustburg	Virginia
+24148	36.579806	-79.877943	Ridgeway	Virginia
+22553	38.190602	-77.682385	Spotsylvania	Virginia
+23350	37.526164	-75.887587	Exmore	Virginia
+22443	38.182175	-76.992439	Colonial Beach	Virginia
+22603	39.277686	-78.206659	Winchester	Virginia
+23119	37.450564	-76.286154	Moon	Virginia
+23176	37.574803	-76.424615	Wake	Virginia
+23061	37.435969	-76.541752	Gloucester	Virginia
+23851	36.655604	-76.960094	Franklin	Virginia
+22853	38.650233	-78.758423	Timberville	Virginia
+24211	36.654088	-81.955070	Abingdon	Virginia
+22974	37.959807	-78.273547	Troy	Virginia
+22508	38.301783	-77.795455	Locust Grove	Virginia
+24277	36.744248	-83.071164	Pennington Gap	Virginia
+23021	37.393097	-76.368134	Bohannon	Virginia
+20181	38.692987	-77.576440	Nokesville	Virginia
+22624	39.269784	-78.091841	Clear Brook	Virginia
+24637	37.047209	-81.738613	Pounding Mill	Virginia
+23838	37.316765	-77.625352	Chesterfield	Virginia
+24550	37.238700	-79.271539	Evington	Virginia
+24151	36.954022	-79.865200	Rocky Mount	Virginia
+24210	36.768883	-82.027987	Abingdon	Virginia
+20132	39.182786	-77.737175	Purcellville	Virginia
+24592	36.678691	-78.970911	South Boston	Virginia
+23071	37.547941	-76.459367	Hartfield	Virginia
+24175	37.429251	-79.929215	Troutville	Virginia
+24412	38.059258	-79.846047	Bacova	Virginia
+24319	36.752600	-81.639397	Chilhowie	Virginia
+20180	39.269801	-77.640369	Lovettsville	Virginia
+20143	38.850002	-77.568941	Catharpin	Virginia
+24555	37.662852	-79.460316	Glasgow	Virginia
+23102	37.706554	-77.832239	Maidens	Virginia
+23899	37.225328	-76.972697	Claremont	Virginia
+24467	38.254985	-78.971321	Mount Sidney	Virginia
+22626	38.980965	-78.403497	Fishers Hill	Virginia
+24317	36.609402	-80.668669	Cana	Virginia
+20137	38.806731	-77.722463	Broad Run	Virginia
+23109	37.423736	-76.314041	Mathews	Virginia
+24330	36.725798	-81.020688	Fries	Virginia
+24606	37.291735	-81.382779	Boissevain	Virginia
+22611	39.168882	-77.984613	Berryville	Virginia
+23128	37.447496	-76.428532	North	Virginia
+23432	36.876314	-76.553889	Suffolk	Virginia
+24280	36.941617	-81.948928	Rosedale	Virginia
+24422	37.832754	-79.750347	Clifton Forge	Virginia
+23357	37.755646	-75.676028	Greenbush	Virginia
+22511	37.986242	-76.507601	Lottsburg	Virginia
+24121	37.193365	-79.648141	Moneta	Virginia
+24202	36.646702	-82.229515	Bristol	Virginia
+24486	38.296885	-78.924533	Weyers Cave	Virginia
+22821	38.475840	-79.129666	Dayton	Virginia
+22963	37.846660	-78.293974	Palmyra	Virginia
+24586	36.613876	-79.281910	Ringgold	Virginia
+23103	37.648549	-77.724003	Manakin Sabot	Virginia
+22841	38.341793	-78.892489	Mount Crawford	Virginia
+22835	38.674994	-78.470704	Luray	Virginia
+24101	37.172272	-79.798982	Hardy	Virginia
+24283	36.942502	-82.330886	Saint Paul	Virginia
+22485	38.277179	-77.162702	King George	Virginia
+23417	37.725102	-75.768650	Onancock	Virginia
+23139	37.545988	-77.936728	Powhatan	Virginia
+24523	37.330807	-79.523415	Bedford	Virginia
+23389	37.647133	-75.829642	Harborton	Virginia
+24361	36.766791	-81.855068	Meadowview	Virginia
+23146	37.731490	-77.704529	Rockville	Virginia
+24639	37.160247	-81.905248	Raven	Virginia
+20197	39.195454	-77.627818	Waterford	Virginia
+22734	38.535243	-77.807233	Remington	Virginia
+22815	38.718221	-78.864394	Broadway	Virginia
+24340	36.752923	-81.754324	Glade Spring	Virginia
+23130	37.401504	-76.282730	Onemo	Virginia
+24243	36.789558	-82.933804	Dryden	Virginia
+23035	37.491911	-76.388232	Cobbs Creek	Virginia
+22645	39.025673	-78.277148	Middletown	Virginia
+24604	37.211983	-81.538085	Bishop	Virginia
+22724	38.613528	-77.909935	Jeffersonton	Virginia
+23401	37.627415	-75.782955	Keller	Virginia
+24527	36.732729	-79.345561	Blairs	Virginia
+22960	38.219522	-78.063260	Orange	Virginia
+23420	37.584466	-75.815080	Painter	Virginia
+24563	37.062500	-79.279115	Hurt	Virginia
+24184	37.090300	-79.779648	Wirtz	Virginia
+23025	37.421540	-76.379745	Cardinal	Virginia
+22844	38.652555	-78.664060	New Market	Virginia
+23306	37.561215	-75.872258	Belle Haven	Virginia
+23410	37.637793	-75.736895	Melfa	Virginia
+22432	37.869524	-76.342347	Burgess	Virginia
+24549	36.713997	-79.505199	Dry Fork	Virginia
+23192	37.820363	-77.680814	Montpelier	Virginia
+22435	37.968287	-76.566781	Callao	Virginia
+22827	38.393233	-78.634076	Elkton	Virginia
+24228	37.167087	-82.456473	Clintwood	Virginia
+22943	38.038092	-78.766097	Greenwood	Virginia
+22715	38.415682	-78.152208	Brightwood	Virginia
+24251	36.656745	-82.605129	Gate City	Virginia
+22542	38.291788	-77.896125	Rhoadesville	Virginia
+24239	37.099027	-82.107623	Davenport	Virginia
+24613	37.266864	-81.341807	Falls Mills	Virginia
+23901	37.330430	-78.413088	Farmville	Virginia
+22923	38.188326	-78.318434	Barboursville	Virginia
+24381	36.722678	-80.832819	Woodlawn	Virginia
+24430	38.083691	-79.357302	Craigsville	Virginia
+24609	37.001060	-81.870102	Cedar Bluff	Virginia
+24649	37.090690	-81.942553	Swords Creek	Virginia
+22482	37.737903	-76.336244	Kilmarnock	Virginia
+24174	37.349416	-79.661749	Thaxton	Virginia
+24382	36.953413	-81.111380	Wytheville	Virginia
+24230	36.956554	-82.453973	Coeburn	Virginia
+23359	37.882658	-75.603966	Hallwood	Virginia
+22947	38.038799	-78.333175	Keswick	Virginia
+24266	36.849811	-82.133572	Lebanon	Virginia
+24558	36.783366	-78.949985	Halifax	Virginia
+23416	37.929165	-75.566594	Oak Hall	Virginia
+24167	37.245594	-80.727047	Staffordsville	Virginia
+22973	38.304423	-78.479962	Stanardsville	Virginia
+22642	38.947143	-78.011906	Linden	Virginia
+24614	37.298652	-82.071085	Grundy	Virginia
+24628	37.304551	-82.202976	Maxie	Virginia
+24450	37.791958	-79.521900	Lexington	Virginia
+22850	38.564705	-78.917823	Singers Glen	Virginia
+24162	37.140093	-80.279369	Shawsville	Virginia
+23301	37.688459	-75.639744	Accomac	Virginia
+23092	37.589102	-76.519503	Locust Hill	Virginia
+24136	37.325737	-80.608255	Pembroke	Virginia
+23056	37.439603	-76.377537	Foster	Virginia
+23885	37.190262	-77.572633	Sutherland	Virginia
+22742	38.459547	-77.722683	Sumerduck	Virginia
+24471	38.310235	-78.806270	Port Republic	Virginia
+20106	38.704778	-78.003301	Amissville	Virginia
+24556	37.361732	-79.400336	Goode	Virginia
+22709	38.328731	-78.213737	Aroda	Virginia
+23089	37.479492	-76.909824	Lanexa	Virginia
+23065	37.799995	-77.930342	Gum Spring	Virginia
+23308	37.823385	-75.609288	Bloxom	Virginia
+22746	38.636565	-78.031564	Viewtown	Virginia
+22728	38.616951	-77.733949	Midland	Virginia
+23181	37.609973	-76.889354	West Point	Virginia
+20130	39.007381	-77.947783	Paris	Virginia
+24343	36.770411	-80.690913	Hillsville	Virginia
+23919	36.594671	-78.132614	Bracey	Virginia
+24260	37.030725	-82.014818	Honaker	Virginia
+22663	39.054288	-78.122178	White Post	Virginia
+23426	37.933170	-75.675639	Sanford	Virginia
+24054	36.673945	-79.704095	Axton	Virginia
+24087	37.205808	-80.242600	Elliston	Virginia
+23970	36.744920	-78.177567	South Hill	Virginia
+22625	39.372811	-78.310739	Cross Junction	Virginia
+24224	36.866307	-82.284798	Castlewood	Virginia
+22546	37.944489	-77.446236	Ruther Glen	Virginia
+22534	38.083211	-77.656334	Partlow	Virginia
+23868	36.709281	-77.795078	Lawrenceville	Virginia
+24437	38.213735	-78.942622	Fort Defiance	Virginia
+24092	37.012031	-79.757851	Glade Hill	Virginia
+24631	37.232012	-81.996035	Oakwood	Virginia
+24435	37.874307	-79.304416	Fairfield	Virginia
+22851	38.540986	-78.504784	Stanley	Virginia
+23927	36.592130	-78.560307	Clarksville	Virginia
+22842	38.778048	-78.699661	Mount Jackson	Virginia
+24176	37.016150	-79.688938	Union Hall	Virginia
+24069	36.588269	-79.646745	Cascade	Virginia
+22824	38.836074	-78.631822	Edinburg	Virginia
+20117	38.998816	-77.733942	Middleburg	Virginia
+22737	38.589134	-77.996018	Rixeyville	Virginia
+23009	37.820938	-77.181166	Aylett	Virginia
+24065	37.117270	-79.997517	Boones Mill	Virginia
+20118	38.954596	-77.758535	Middleburg	Virginia
+24368	36.896758	-81.285867	Rural Retreat	Virginia
+24059	37.149777	-80.128036	Bent Mountain	Virginia
+20139	38.640297	-77.691481	Casanova	Virginia
+22942	38.101601	-78.202164	Gordonsville	Virginia
+24218	36.732213	-83.065203	Ben Hur	Virginia
+23487	36.847368	-76.725048	Windsor	Virginia
+24312	36.832976	-80.887055	Austinville	Virginia
+22834	38.549226	-78.869580	Linville	Virginia
+24279	37.077709	-82.627486	Pound	Virginia
+22920	37.986004	-78.807967	Afton	Virginia
+20138	38.622354	-77.663994	Calverton	Virginia
+24282	36.817714	-83.049727	Saint Charles	Virginia
+23039	37.652880	-77.801578	Crozier	Virginia
+24236	36.638406	-81.724651	Damascus	Virginia
+24122	37.425479	-79.708608	Montvale	Virginia
+23024	37.919852	-77.775863	Bumpass	Virginia
+24133	36.677469	-80.129567	Patrick Springs	Virginia
+24360	36.940644	-80.909084	Max Meadows	Virginia
+23847	36.671125	-77.548453	Emporia	Virginia
+23069	37.782735	-77.342980	Hanover	Virginia
+23153	37.781736	-77.976392	Sandy Hook	Virginia
+22560	37.916112	-76.961200	Tappahannock	Virginia
+24536	37.477503	-79.300105	Coleman Falls	Virginia
+22720	38.461009	-77.642898	Goldvein	Virginia
+23415	37.969553	-75.534703	New Church	Virginia
+23457	36.622443	-76.014031	Virginia Beach	Virginia
+20140	38.923943	-77.868824	Rectortown	Virginia
+24656	37.175055	-82.124994	Vansant	Virginia
+22735	38.480865	-78.184506	Reva	Virginia
+23480	37.600585	-75.664453	Wachapreague	Virginia
+20115	38.809947	-77.911841	Marshall	Virginia
+23427	37.914516	-75.702323	Saxis	Virginia
+23055	37.773675	-78.235639	Fork Union	Virginia
+23011	37.464909	-76.808409	Barhamsville	Virginia
+23129	37.697761	-77.778608	Oilville	Virginia
+22732	38.298344	-78.203381	Radiant	Virginia
+23930	37.181225	-78.095969	Crewe	Virginia
+22520	38.109191	-76.804170	Montross	Virginia
+24324	36.978377	-80.809759	Draper	Virginia
+22469	38.050424	-76.660947	Hague	Virginia
+22488	38.049195	-76.587936	Kinsale	Virginia
+20119	38.609802	-77.621532	Catlett	Virginia
+22958	37.924686	-78.893333	Nellysford	Virginia
+23974	36.969828	-78.242418	Victoria	Virginia
+23149	37.566222	-76.628830	Saluda	Virginia
+24256	37.209444	-82.293395	Haysi	Virginia
+23922	37.182658	-78.213447	Burkeville	Virginia
+24646	37.140144	-82.007604	Rowe	Virginia
+24134	37.247923	-80.777559	Pearisburg	Virginia
+23354	37.479173	-75.902453	Franktown	Virginia
+23117	37.977478	-77.874114	Mineral	Virginia
+24226	37.124895	-82.332055	Clinchco	Virginia
+24529	36.626619	-78.646754	Buffalo Junction	Virginia
+24311	36.879296	-81.388718	Atkins	Virginia
+22733	38.333588	-78.045724	Rapidan	Virginia
+22620	39.068189	-78.032277	Boyce	Virginia
+24086	37.277725	-80.663758	Eggleston	Virginia
+24124	37.339755	-80.802858	Narrows	Virginia
+22644	38.949772	-78.486478	Maurertown	Virginia
+23950	36.660894	-78.075394	La Crosse	Virginia
+22580	38.112205	-77.445077	Woodford	Virginia
+24263	36.668226	-83.147399	Jonesville	Virginia
+24557	36.969859	-79.306424	Gretna	Virginia
+24593	37.319226	-78.909548	Spout Spring	Virginia
+23407	37.841163	-75.539089	Mappsville	Virginia
+20135	39.068096	-77.887817	Bluemont	Virginia
+22503	37.740076	-76.495035	Lancaster	Virginia
+22932	38.147507	-78.696458	Crozet	Virginia
+24269	37.072765	-82.380683	Mc Clure	Virginia
+24603	37.351951	-82.172195	Big Rock	Virginia
+24328	36.656341	-80.722965	Fancy Gap	Virginia
+24579	37.585803	-79.502698	Natural Bridge Station	Virginia
+22847	38.730637	-78.717385	Quicksburg	Virginia
+22643	38.874767	-78.003510	Markham	Virginia
+24138	37.042837	-80.306411	Pilot	Virginia
+22832	38.459149	-78.743828	Keezletown	Virginia
+23310	37.254293	-75.932807	Cape Charles	Virginia
+23093	38.005893	-78.042113	Louisa	Virginia
+24058	37.193077	-80.563903	Belspring	Virginia
+24421	38.244791	-79.245166	Churchville	Virginia
+22722	38.452834	-78.236239	Haywood	Virginia
+24634	37.276808	-81.887992	Pilgrims Knob	Virginia
+24149	37.007886	-80.453383	Riner	Virginia
+22727	38.386442	-78.312456	Madison	Virginia
+22711	38.470070	-78.276728	Banco	Virginia
+23315	36.737390	-76.840511	Carrsville	Virginia
+24102	36.847418	-80.004015	Henry	Virginia
+24351	36.581430	-80.795410	Lambsburg	Virginia
+24248	36.629920	-83.507190	Ewing	Virginia
+22567	38.229702	-77.928353	Unionville	Virginia
+23045	37.427884	-76.269104	Diggs	Virginia
+24538	37.427959	-78.986876	Concord	Virginia
+24281	36.637323	-83.340226	Rose Hill	Virginia
+22473	37.880137	-76.421602	Heathsville	Virginia
+22535	38.161737	-77.214232	Port Royal	Virginia
+23015	37.925360	-77.625612	Beaverdam	Virginia
+24258	36.656036	-82.429676	Hiltons	Virginia
+22572	37.965301	-76.771068	Warsaw	Virginia
+24053	36.612191	-80.521621	Ararat	Virginia
+24370	36.908773	-81.721552	Saltville	Virginia
+23924	36.816412	-78.440642	Chase City	Virginia
+24521	37.632622	-79.100875	Amherst	Virginia
+24171	36.671941	-80.239037	Stuart	Virginia
+24531	36.842264	-79.453378	Chatham	Virginia
+23124	37.556089	-77.066161	New Kent	Virginia
+23063	37.713126	-77.993686	Goochland	Virginia
+24079	37.056632	-80.160939	Copper Hill	Virginia
+24323	36.874596	-81.200536	Crockett	Virginia
+22843	38.335560	-79.101658	Mount Solon	Virginia
+23413	37.478377	-75.838779	Nassawadox	Virginia
+24104	37.148882	-79.482032	Huddleston	Virginia
+24271	36.749080	-82.416443	Nickelsville	Virginia
+24082	36.621469	-80.112085	Critz	Virginia
+23140	37.435886	-77.046596	Providence Forge	Virginia
+24426	37.778048	-80.048553	Covington	Virginia
+24651	37.075529	-81.503095	Tazewell	Virginia
+23883	37.123705	-76.745098	Surry	Virginia
+22454	37.846699	-76.848087	Dunnsville	Virginia
+24590	37.782142	-78.476980	Scottsville	Virginia
+24220	37.128994	-82.241966	Birchleaf	Virginia
+23841	37.052579	-77.558280	Dinwiddie	Virginia
+23047	37.846423	-77.486021	Doswell	Virginia
+23120	37.406522	-77.788450	Moseley	Virginia
+24165	36.581996	-80.055050	Spencer	Virginia
+24132	37.206223	-80.652944	Parrott	Virginia
+24620	37.431325	-82.011712	Hurley	Virginia
+22641	39.086060	-78.404187	Strasburg	Virginia
+22730	38.373703	-78.173203	Oakpark	Virginia
+23960	37.321268	-78.551679	Prospect	Virginia
+24522	37.376805	-78.778792	Appomattox	Virginia
+23442	37.883027	-75.550141	Temperanceville	Virginia
+24090	37.528086	-79.878015	Fincastle	Virginia
+23857	36.584857	-77.877650	Gasburg	Virginia
+23123	37.651834	-78.301142	New Canton	Virginia
+23898	36.834376	-76.861405	Zuni	Virginia
+24571	37.132961	-79.372748	Lynch Station	Virginia
+22738	38.293931	-78.280931	Rochelle	Virginia
+24072	37.039727	-80.216827	Check	Virginia
+23824	37.085581	-77.972180	Blackstone	Virginia
+24088	36.887904	-80.077927	Ferrum	Virginia
+23842	37.131685	-77.221949	Disputanta	Virginia
+24607	37.293533	-82.262524	Breaks	Virginia
+24348	36.641573	-81.199049	Independence	Virginia
+23437	36.627284	-76.793009	Suffolk	Virginia
+24566	36.731828	-79.252639	Keeling	Virginia
+22935	38.253925	-78.562701	Dyke	Virginia
+23438	36.579049	-76.700095	Suffolk	Virginia
+23890	37.009186	-77.118321	Waverly	Virginia
+23156	37.532621	-76.709121	Shacklefords	Virginia
+20105	38.962563	-77.618623	Aldie	Virginia
+24091	36.912587	-80.334078	Floyd	Virginia
+23881	37.192821	-76.992620	Spring Grove	Virginia
+23110	37.579373	-76.785719	Mattaponi	Virginia
+24076	36.589812	-80.431765	Claudville	Virginia
+22726	38.401196	-77.803445	Lignum	Virginia
+24216	36.993939	-82.738943	Appalachia	Virginia
+24093	37.383800	-80.859621	Glen Lyn	Virginia
+22952	37.962544	-78.969056	Lyndhurst	Virginia
+22637	39.256651	-78.352993	Gore	Virginia
+22529	38.011392	-76.689236	Oldhams	Virginia
+23976	36.855404	-78.579712	Wylliesburg	Virginia
+23936	37.529993	-78.483994	Dillwyn	Virginia
+23915	36.693867	-78.287525	Baskerville	Virginia
+24594	36.637404	-79.185308	Sutherlin	Virginia
+22922	37.695992	-78.934766	Arrington	Virginia
+24528	37.082266	-78.880865	Brookneal	Virginia
+24067	37.039451	-80.097683	Callaway	Virginia
+22938	37.860682	-78.775387	Faber	Virginia
+23002	37.351060	-77.967875	Amelia Court House	Virginia
+23837	36.757091	-77.090020	Courtland	Virginia
+23337	37.920954	-75.460730	Wallops Island	Virginia
+23106	37.715627	-77.207170	Manquin	Virginia
+20198	38.890755	-77.758204	The Plains	Virginia
+23833	37.207737	-77.673402	Church Road	Virginia
+22948	38.361555	-78.119689	Locust Dale	Virginia
+24237	37.040736	-82.258593	Dante	Virginia
+24270	36.723422	-82.268107	Mendota	Virginia
+23966	37.293852	-78.270718	Rice	Virginia
+22959	37.937226	-78.656536	North Garden	Virginia
+23405	37.411565	-75.922216	Machipongo	Virginia
+24272	36.996011	-82.340788	Nora	Virginia
+22940	38.167796	-78.579657	Free Union	Virginia
+22460	37.875480	-76.603344	Farnham	Virginia
+23030	37.357153	-77.057413	Charles City	Virginia
+22946	37.858585	-78.571382	Keene	Virginia
+24472	37.941329	-79.208109	Raphine	Virginia
+23917	36.625554	-78.344856	Boydton	Virginia
+22646	39.072518	-78.050929	Millwood	Virginia
+22650	38.765084	-78.364632	Rileyville	Virginia
+23829	36.727245	-77.228350	Capron	Virginia
+22969	37.819239	-78.675642	Schuyler	Virginia
+22964	37.713343	-78.974510	Piney River	Virginia
+22937	37.811622	-78.610941	Esmont	Virginia
+24589	36.755833	-78.761680	Scottsburg	Virginia
+24554	37.132188	-79.052446	Gladys	Virginia
+22713	38.553276	-78.138425	Boston	Virginia
+23084	37.884975	-78.115176	Kents Store	Virginia
+24352	36.709011	-80.531193	Laurel Fork	Virginia
+22714	38.519671	-77.895419	Brandy Station	Virginia
+22507	37.759492	-76.499208	Lively	Virginia
+23944	36.900823	-78.130975	Kenbridge	Virginia
+23958	37.264893	-78.659633	Pamplin	Virginia
+23488	37.947497	-75.598466	Withams	Virginia
+23947	37.039185	-78.444935	Keysville	Virginia
+22610	38.824656	-78.279142	Bentonville	Virginia
+24120	36.691636	-80.413917	Meadows Of Dan	Virginia
+22931	37.898938	-78.727551	Covesville	Virginia
+24378	36.681437	-81.464152	Troutdale	Virginia
+24244	36.712970	-82.798843	Duffield	Virginia
+24374	36.792227	-81.210239	Speedwell	Virginia
+24137	36.927763	-79.653317	Penhook	Virginia
+22949	37.811750	-78.884572	Lovingston	Virginia
+23840	37.051048	-77.671109	Dewitt	Virginia
+22504	37.768927	-76.720678	Laneview	Virginia
+24066	37.542868	-79.674592	Buchanan	Virginia
+23827	36.623244	-77.212998	Boykins	Virginia
+24366	37.272485	-81.055079	Rocky Gap	Virginia
+22845	38.786329	-78.816413	Orkney Springs	Virginia
+22810	38.827091	-78.796534	Basye	Virginia
+22433	38.367057	-77.859386	Burr Hill	Virginia
+23083	37.306950	-78.106681	Jetersville	Virginia
+23022	37.731004	-78.263155	Bremo Bluff	Virginia
+24225	36.991910	-82.142704	Cleveland	Virginia
+23887	36.573362	-77.816917	Valentines	Virginia
+23177	37.723359	-77.017363	Walkerton	Virginia
+23086	37.651102	-77.007331	King William	Virginia
+24580	36.579054	-78.673121	Nelson	Virginia
+24577	36.937349	-78.982643	Nathalie	Virginia
+23954	37.110182	-78.383469	Meherrin	Virginia
+24534	36.878242	-78.761998	Clover	Virginia
+24380	36.859701	-80.508764	Willis	Virginia
+23148	37.846428	-77.054640	Saint Stephens Church	Virginia
+24569	37.042584	-79.125819	Long Island	Virginia
+24574	37.589938	-79.272927	Monroe	Virginia
+23888	36.956344	-76.974242	Wakefield	Virginia
+23968	36.717393	-78.509589	Skipwith	Virginia
+23040	37.516692	-78.251275	Cumberland	Virginia
+23920	36.724517	-77.975253	Brodnax	Virginia
+23180	37.709111	-76.644579	Water View	Virginia
+22971	37.746263	-78.803304	Shipman	Virginia
+24350	36.813309	-80.994235	Ivanhoe	Virginia
+24530	36.806773	-79.619231	Callands	Virginia
+22716	38.627710	-78.117116	Castleton	Virginia
+24657	37.216181	-81.858678	Whitewood	Virginia
+23964	36.785867	-78.625901	Red Oak	Virginia
+22747	38.712924	-78.187337	Washington	Virginia
+22967	37.871862	-78.974199	Roseland	Virginia
+22640	38.797524	-78.138805	Huntly	Virginia
+22719	38.501937	-78.261221	Etlan	Virginia
+23937	36.948548	-78.526856	Drakes Branch	Virginia
+24520	36.592461	-79.032394	Alton	Virginia
+23893	36.619645	-77.932272	White Plains	Virginia
+24598	36.604670	-78.788004	Virgilina	Virginia
+22830	38.618872	-78.970264	Fulks Run	Virginia
+24445	37.975700	-79.907082	Hot Springs	Virginia
+24578	37.659883	-79.562257	Natural Bridge	Virginia
+23843	36.850366	-77.811813	Dolphin	Virginia
+23839	37.085921	-76.918457	Dendron	Virginia
+24539	36.848575	-78.892944	Crystal Hill	Virginia
+23404	37.635134	-75.662236	Locustville	Virginia
+24250	36.756733	-82.596526	Fort Blackmore	Virginia
+24526	37.517463	-79.422528	Big Island	Virginia
+23867	36.817656	-77.475505	Jarratt	Virginia
+20144	38.922990	-77.946943	Delaplane	Virginia
+23845	36.566589	-77.993552	Ebony	Virginia
+23923	37.074457	-78.645377	Charlotte Court House	Virginia
+20184	38.992848	-77.875513	Upperville	Virginia
+22514	38.004500	-77.335982	Milford	Virginia
+24375	36.777280	-81.381272	Sugar Grove	Virginia
+22741	38.440240	-77.878311	Stevensburg	Virginia
+23967	36.914157	-78.652694	Saxe	Virginia
+23027	37.645338	-78.132234	Cartersville	Virginia
+24597	36.784450	-79.104615	Vernon Hill	Virginia
+24265	36.847445	-82.932396	Keokee	Virginia
+23866	36.923676	-76.862401	Ivor	Virginia
+22718	38.467276	-77.817155	Elkwood	Virginia
+23856	36.784009	-77.702347	Freeman	Virginia
+24347	36.958529	-80.630585	Hiwassee	Virginia
+23963	37.201059	-78.798347	Red House	Virginia
+23959	37.105192	-78.794749	Phenix	Virginia
+24533	37.578113	-78.928364	Clifford	Virginia
+23821	36.873591	-77.910797	Alberta	Virginia
+24565	36.848582	-79.200674	Java	Virginia
+24415	37.932493	-79.322085	Brownsburg	Virginia
+24128	37.339994	-80.482544	Newport	Virginia
+24185	36.805804	-80.277953	Woolwine	Virginia
+24622	37.196823	-81.808744	Jewell Ridge	Virginia
+23830	37.024374	-77.397206	Carson	Virginia
+24070	37.356219	-80.225842	Catawba	Virginia
+24292	36.634205	-81.554700	Whitetop	Virginia
+22627	38.753156	-78.078335	Flint Hill	Virginia
+22427	38.092883	-77.265557	Bowling Green	Virginia
+23126	37.911665	-77.147140	Newtown	Virginia
+23874	36.599958	-77.111692	Newsoms	Virginia
+23004	37.679415	-78.410273	Arvonia	Virginia
+23921	37.602013	-78.622118	Buckingham	Virginia
+22436	38.084227	-77.117264	Caret	Virginia
+23938	36.898645	-77.996167	Dundas	Virginia
+22476	38.051047	-77.072949	Hustle	Virginia
+24326	36.739390	-81.204014	Elk Creek	Virginia
+23038	37.771785	-78.140476	Columbia	Virginia
+23850	37.183865	-77.749603	Ford	Virginia
+24221	36.625334	-82.999148	Blackwater	Virginia
+24325	36.810403	-80.587568	Dugspur	Virginia
+24601	37.180689	-81.672941	Amonate	Virginia
+23889	36.900108	-77.745861	Warfield	Virginia
+23878	36.839607	-77.030254	Sedley	Virginia
+22723	38.334605	-78.380361	Hood	Virginia
+22538	38.204245	-77.258893	Rappahannock Academy	Virginia
+24602	37.196741	-81.753743	Bandy	Virginia
+24479	38.145526	-79.238232	Swoope	Virginia
+22972	38.214352	-78.216296	Somerset	Virginia
+24363	36.616640	-81.405157	Mouth Of Wilson	Virginia
+23115	37.803881	-76.955250	Millers Tavern	Virginia
+24105	36.911559	-80.603685	Indian Valley	Virginia
+23879	36.592362	-77.596924	Skippers	Virginia
+24315	37.130839	-81.074077	Bland	Virginia
+22743	38.504996	-78.342994	Syria	Virginia
+23844	36.676682	-77.357060	Drewryville	Virginia
+22729	38.374194	-78.017758	Mitchells	Virginia
+24459	38.039304	-79.279519	Middlebrook	Virginia
+23358	37.645672	-75.863884	Hacksneck	Virginia
+23872	37.000856	-77.760028	Mc Kenney	Virginia
+24245	36.838011	-82.512802	Dungannon	Virginia
+23846	37.062900	-76.826069	Elberon	Virginia
+24314	37.147842	-81.228407	Bastian	Virginia
+23894	37.133589	-77.808316	Wilsons	Virginia
+22811	38.790311	-78.962343	Bergton	Virginia
+22639	38.821250	-78.044292	Hume	Virginia
+22740	38.645690	-78.286953	Sperryville	Virginia
+24217	37.106698	-82.201855	Bee	Virginia
+23882	36.919888	-77.413548	Stony Creek	Virginia
+23934	37.177152	-78.626705	Cullen	Virginia
+24161	36.978085	-79.529113	Sandy Level	Virginia
+24127	37.446213	-80.292195	New Castle	Virginia
+24139	37.022270	-79.476183	Pittsville	Virginia
+24150	37.388150	-80.633118	Ripplemead	Virginia
+22652	38.839587	-78.429396	Fort Valley	Virginia
+23942	37.134366	-78.289196	Green Bay	Virginia
+23409	37.870906	-75.645993	Mears	Virginia
+23032	37.647790	-76.691146	Church View	Virginia
+24553	37.548430	-78.812796	Gladstone	Virginia
+22749	38.629225	-78.183631	Woodville	Virginia
+22437	37.778008	-76.812842	Center Cross	Virginia
+23952	36.953165	-78.278135	Lunenburg	Virginia
+23079	37.726749	-76.705830	Jamaica	Virginia
+24562	37.718310	-78.640859	Howardsville	Virginia
+24322	36.798845	-81.113703	Cripple Creek	Virginia
+24473	37.923945	-79.406241	Rockbridge Baths	Virginia
+23876	36.955753	-77.833610	Rawlings	Virginia
+24439	38.014357	-79.478768	Goshen	Virginia
+23161	37.715866	-76.935072	Stevensville	Virginia
+23828	36.584594	-77.289813	Branchville	Virginia
+23091	37.655786	-76.799654	Little Plymouth	Virginia
+22957	38.229674	-78.191677	Montpelier Station	Virginia
+24085	37.683930	-79.857319	Eagle Rock	Virginia
+24377	36.981921	-81.590238	Tannersville	Virginia
+23423	37.530821	-75.693724	Quinby	Virginia
+22438	38.012430	-77.074920	Champlain	Virginia
+23023	37.775765	-76.982364	Bruington	Virginia
+23691	37.250570	-76.584352	Yorktown	Virginia
+23085	37.691807	-76.844570	King And Queen Court House	Virginia
+23108	37.628897	-76.729810	Mascot	Virginia
+22831	38.615950	-79.039061	Hinton	Virginia
+24599	37.648086	-78.721366	Wingina	Virginia
+22736	38.396118	-77.682860	Richardsville	Virginia
+24432	38.152913	-79.439082	Deerfield	Virginia
+23897	36.837310	-77.284758	Yale	Virginia
+24483	37.822601	-79.195247	Vesuvius	Virginia
+22654	38.987808	-78.573434	Star Tannery	Virginia
+24465	38.370907	-79.657606	Monterey	Virginia
+24318	37.008081	-81.385014	Ceres	Virginia
+22976	37.814587	-79.056181	Tyro	Virginia
+24581	37.655293	-78.805801	Norwood	Virginia
+24433	38.440804	-79.463453	Doe Hill	Virginia
+23962	37.012746	-78.732935	Randolph	Virginia
+22820	38.703938	-79.020531	Criders	Virginia
+24460	38.016376	-79.663770	Millboro	Virginia
+24484	38.160557	-79.784108	Warm Springs	Virginia
+24458	38.335578	-79.541527	Mc Dowell	Virginia
+24413	38.543510	-79.598066	Blue Grass	Virginia
+24464	37.871193	-79.087693	Montebello	Virginia
+24131	37.570310	-80.232729	Paint Bank	Virginia
+24485	38.272718	-79.333345	West Augusta	Virginia
+22509	38.113966	-77.066490	Loretto	Virginia
+24487	38.173845	-79.608690	Williamsville	Virginia
+24316	36.950316	-81.687259	Broadford	Virginia
+24442	38.372539	-79.384583	Head Waters	Virginia
