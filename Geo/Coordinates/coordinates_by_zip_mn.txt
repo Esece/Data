@@ -1,0 +1,862 @@
+55404	44.962198	-93.262011	Minneapolis	Minnesota
+55454	44.969571	-93.244257	Minneapolis	Minnesota
+55403	44.970570	-93.284032	Minneapolis	Minnesota
+55407	44.935036	-93.253029	Minneapolis	Minnesota
+55408	44.943815	-93.293867	Minneapolis	Minnesota
+55409	44.923939	-93.283436	Minneapolis	Minnesota
+55105	44.934838	-93.165705	Saint Paul	Minnesota
+55411	44.999752	-93.297980	Minneapolis	Minnesota
+55104	44.954158	-93.159601	Saint Paul	Minnesota
+55101	44.966917	-93.084634	Saint Paul	Minnesota
+55412	45.025972	-93.300288	Minneapolis	Minnesota
+55414	44.978043	-93.223019	Minneapolis	Minnesota
+55805	46.799943	-92.098704	Duluth	Minnesota
+55103	44.964258	-93.122627	Saint Paul	Minnesota
+55406	44.938334	-93.221638	Minneapolis	Minnesota
+55106	44.959966	-93.047108	Saint Paul	Minnesota
+55812	46.811660	-92.073969	Duluth	Minnesota
+55419	44.902370	-93.287659	Minneapolis	Minnesota
+55102	44.933307	-93.121401	Saint Paul	Minnesota
+55405	44.971865	-93.302502	Minneapolis	Minnesota
+55410	44.913345	-93.316942	Minneapolis	Minnesota
+55090	45.054457	-92.956880	Willernie	Minnesota
+55418	45.021310	-93.244136	Minneapolis	Minnesota
+55423	44.877193	-93.281359	Minneapolis	Minnesota
+55455	44.971734	-93.235244	Minneapolis	Minnesota
+55415	44.974330	-93.258639	Minneapolis	Minnesota
+55417	44.902611	-93.231692	Minneapolis	Minnesota
+55108	44.980341	-93.174961	Saint Paul	Minnesota
+55116	44.910719	-93.169581	Saint Paul	Minnesota
+55117	45.003562	-93.091280	Saint Paul	Minnesota
+55429	45.063552	-93.341097	Minneapolis	Minnesota
+55401	44.984334	-93.268720	Minneapolis	Minnesota
+55384	44.934963	-93.636686	Spring Park	Minnesota
+55424	44.905026	-93.344834	Minneapolis	Minnesota
+55107	44.930730	-93.080271	Saint Paul	Minnesota
+55421	45.050555	-93.249955	Minneapolis	Minnesota
+55426	44.956560	-93.381608	Minneapolis	Minnesota
+55430	45.063112	-93.300411	Minneapolis	Minnesota
+55435	44.873981	-93.335255	Minneapolis	Minnesota
+55428	45.064039	-93.383509	Minneapolis	Minnesota
+55085	44.673833	-92.967957	Vermillion	Minnesota
+55075	44.887994	-93.043004	South Saint Paul	Minnesota
+55416	44.951183	-93.340989	Minneapolis	Minnesota
+55444	45.107694	-93.303067	Minneapolis	Minnesota
+55413	44.999734	-93.238000	Minneapolis	Minnesota
+55420	44.835969	-93.277176	Minneapolis	Minnesota
+55427	45.004595	-93.381351	Minneapolis	Minnesota
+55422	45.009275	-93.341105	Minneapolis	Minnesota
+55434	45.163716	-93.250487	Minneapolis	Minnesota
+55432	45.096587	-93.254518	Minneapolis	Minnesota
+55433	45.160411	-93.314839	Minneapolis	Minnesota
+55343	44.914356	-93.411657	Hopkins	Minnesota
+55443	45.117609	-93.338118	Minneapolis	Minnesota
+55436	44.907173	-93.375086	Minneapolis	Minnesota
+55806	46.771670	-92.128933	Duluth	Minnesota
+55119	44.942599	-93.005601	Saint Paul	Minnesota
+55124	44.745053	-93.205486	Saint Paul	Minnesota
+55437	44.822972	-93.344341	Minneapolis	Minnesota
+55346	44.880818	-93.482099	Eden Prairie	Minnesota
+55125	44.918031	-92.938277	Saint Paul	Minnesota
+55442	45.046291	-93.428928	Minneapolis	Minnesota
+55113	45.012196	-93.151186	Saint Paul	Minnesota
+55087	44.248540	-93.390257	Warsaw	Minnesota
+55118	44.894315	-93.100947	Saint Paul	Minnesota
+55109	45.016061	-93.026441	Saint Paul	Minnesota
+56356	45.628804	-94.753835	New Munich	Minnesota
+55447	45.001581	-93.490856	Minneapolis	Minnesota
+55316	45.165902	-93.414665	Champlin	Minnesota
+55128	44.987546	-92.963553	Saint Paul	Minnesota
+55431	44.825914	-93.310998	Minneapolis	Minnesota
+55337	44.778472	-93.272269	Burnsville	Minnesota
+55112	45.081866	-93.190493	Saint Paul	Minnesota
+55306	44.730974	-93.294940	Burnsville	Minnesota
+55122	44.811688	-93.194418	Saint Paul	Minnesota
+55448	45.193911	-93.299952	Minneapolis	Minnesota
+55076	44.840187	-93.037013	Inver Grove Heights	Minnesota
+55010	44.544641	-93.153623	Castle Rock	Minnesota
+55305	44.956379	-93.428013	Hopkins	Minnesota
+55753	47.398412	-93.075789	Keewatin	Minnesota
+55345	44.913313	-93.485581	Minnetonka	Minnesota
+55722	47.285274	-93.435998	Coleraine	Minnesota
+55764	47.319702	-93.302124	Marble	Minnesota
+55438	44.826731	-93.379393	Minneapolis	Minnesota
+55425	44.851564	-93.225631	Minneapolis	Minnesota
+55439	44.873551	-93.373048	Minneapolis	Minnesota
+56303	45.580031	-94.217226	Saint Cloud	Minnesota
+55123	44.797772	-93.132567	Saint Paul	Minnesota
+55807	46.736994	-92.173008	Duluth	Minnesota
+55126	45.085674	-93.134938	Saint Paul	Minnesota
+55441	45.007993	-93.425314	Minneapolis	Minnesota
+55003	45.014769	-92.783467	Bayport	Minnesota
+56325	45.562884	-94.947565	Elrosa	Minnesota
+55347	44.826059	-93.465330	Eden Prairie	Minnesota
+55014	45.161745	-93.127980	Circle Pines	Minnesota
+55901	44.071655	-92.507712	Rochester	Minnesota
+55344	44.863384	-93.428318	Eden Prairie	Minnesota
+55446	45.046438	-93.485395	Minneapolis	Minnesota
+55110	45.098195	-93.005239	Saint Paul	Minnesota
+56313	45.785999	-93.553512	Bock	Minnesota
+55317	44.858704	-93.550209	Chanhassen	Minnesota
+55445	45.122441	-93.379184	Minneapolis	Minnesota
+55311	45.106403	-93.497029	Osseo	Minnesota
+55016	44.826135	-92.926328	Cottage Grove	Minnesota
+55369	45.130113	-93.444661	Osseo	Minnesota
+55127	45.088675	-93.077568	Saint Paul	Minnesota
+55331	44.894464	-93.602068	Excelsior	Minnesota
+55708	47.530124	-92.340387	Biwabik	Minnesota
+55802	46.756024	-92.104967	Duluth	Minnesota
+55114	44.966690	-93.195072	Saint Paul	Minnesota
+55375	44.908752	-93.752716	Saint Bonifacius	Minnesota
+55055	44.882459	-92.993015	Newport	Minnesota
+55402	44.975968	-93.271425	Minneapolis	Minnesota
+55988	44.025550	-91.774965	Stockton	Minnesota
+55121	44.845104	-93.144259	Saint Paul	Minnesota
+55391	44.968226	-93.525645	Wayzata	Minnesota
+55115	45.068987	-92.946580	Saint Paul	Minnesota
+55378	44.769329	-93.397360	Savage	Minnesota
+56387	45.535948	-94.234446	Waite Park	Minnesota
+55120	44.874984	-93.152093	Saint Paul	Minnesota
+56075	43.735153	-94.432490	Northrop	Minnesota
+56369	45.468603	-94.335020	Rockville	Minnesota
+55071	44.811097	-92.994716	Saint Paul Park	Minnesota
+55043	44.938627	-92.777056	Lakeland	Minnesota
+55364	44.945432	-93.693523	Mound	Minnesota
+55303	45.288281	-93.431100	Anoka	Minnesota
+55304	45.258795	-93.269238	Andover	Minnesota
+55449	45.177288	-93.181914	Minneapolis	Minnesota
+56377	45.646154	-94.247791	Sartell	Minnesota
+56080	44.076127	-93.851419	Saint Clair	Minnesota
+55044	44.634455	-93.272760	Lakeville	Minnesota
+55150	44.885619	-93.169985	Mendota	Minnesota
+56529	46.884835	-96.686458	Dilworth	Minnesota
+56032	43.762947	-93.556522	Freeborn	Minnesota
+55373	45.089804	-93.732568	Rockford	Minnesota
+55068	44.720800	-93.082100	Rosemount	Minnesota
+55318	44.810762	-93.636185	Chaska	Minnesota
+55301	45.248102	-93.675550	Albertville	Minnesota
+55808	46.666411	-92.259600	Duluth	Minnesota
+55077	44.807660	-93.063149	Inver Grove Heights	Minnesota
+55902	43.973871	-92.535531	Rochester	Minnesota
+55379	44.743507	-93.526107	Shakopee	Minnesota
+55713	47.496321	-92.777266	Buhl	Minnesota
+55716	47.321452	-93.267196	Calumet	Minnesota
+55082	45.069391	-92.833860	Stillwater	Minnesota
+55904	43.962190	-92.399553	Rochester	Minnesota
+55372	44.682895	-93.403141	Prior Lake	Minnesota
+55386	44.865204	-93.678932	Victoria	Minnesota
+55955	44.069819	-92.746399	Mantorville	Minnesota
+56301	45.478378	-94.225600	Saint Cloud	Minnesota
+55356	44.995980	-93.600798	Long Lake	Minnesota
+55376	45.204322	-93.684752	Saint Michael	Minnesota
+56001	44.128697	-93.978814	Mankato	Minnesota
+55811	46.843194	-92.226430	Duluth	Minnesota
+55129	44.925033	-92.889253	Saint Paul	Minnesota
+56003	44.209337	-94.092010	Mankato	Minnesota
+55092	45.349572	-93.069716	Wyoming	Minnesota
+55042	44.987826	-92.909592	Lake Elmo	Minnesota
+56425	46.337391	-94.282845	Baxter	Minnesota
+55906	44.099889	-92.408210	Rochester	Minnesota
+55782	47.808371	-92.238694	Soudan	Minnesota
+55024	44.628546	-93.138429	Farmington	Minnesota
+55026	44.515936	-92.339584	Frontenac	Minnesota
+55330	45.327251	-93.572212	Elk River	Minnesota
+56304	45.520908	-94.053607	Saint Cloud	Minnesota
+55374	45.180046	-93.582644	Rogers	Minnesota
+56560	46.841159	-96.737393	Moorhead	Minnesota
+55601	47.259633	-91.298629	Beaver Bay	Minnesota
+55341	45.157671	-93.675200	Hanover	Minnesota
+55387	44.868884	-93.786996	Waconia	Minnesota
+55327	45.204294	-93.468840	Dayton	Minnesota
+56384	45.805558	-94.573675	Upsala	Minnesota
+55038	45.165641	-92.971909	Hugo	Minnesota
+55025	45.256176	-93.029098	Forest Lake	Minnesota
+55987	43.971432	-91.653488	Winona	Minnesota
+55011	45.345744	-93.261937	Cedar	Minnesota
+55362	45.292082	-93.838711	Monticello	Minnesota
+55005	45.393799	-93.201592	Bethel	Minnesota
+56375	45.703877	-94.282547	Saint Stephen	Minnesota
+55070	45.409935	-93.376536	Saint Francis	Minnesota
+55309	45.387520	-93.738091	Big Lake	Minnesota
+55033	44.711921	-92.863210	Hastings	Minnesota
+55810	46.756745	-92.269437	Duluth	Minnesota
+56201	45.101448	-95.040671	Willmar	Minnesota
+55313	45.173817	-93.849655	Buffalo	Minnesota
+55057	44.461428	-93.170878	Northfield	Minnesota
+55804	46.933068	-91.927159	Duluth	Minnesota
+55340	45.078263	-93.572118	Hamel	Minnesota
+55013	45.356996	-92.896587	Chisago City	Minnesota
+56153	43.826383	-96.024232	Leota	Minnesota
+55398	45.457476	-93.576397	Zimmerman	Minnesota
+56374	45.605126	-94.333471	Saint Joseph	Minnesota
+55066	44.511925	-92.539132	Red Wing	Minnesota
+55328	45.033414	-93.814206	Delano	Minnesota
+55357	45.105802	-93.673208	Loretto	Minnesota
+55021	44.299709	-93.278946	Faribault	Minnesota
+56007	43.660594	-93.356924	Albert Lea	Minnesota
+55359	45.009590	-93.698264	Maple Plain	Minnesota
+55796	47.944356	-91.786905	Winton	Minnesota
+55912	43.681093	-92.991927	Austin	Minnesota
+56379	45.639681	-94.082678	Sauk Rapids	Minnesota
+55786	47.313624	-93.383585	Taconite	Minnesota
+55609	46.962484	-91.787322	Knife River	Minnesota
+55395	44.951833	-94.067714	Winsted	Minnesota
+56371	45.437846	-94.629864	Roscoe	Minnesota
+55060	44.055769	-93.231453	Owatonna	Minnesota
+55045	45.463220	-92.857422	Lindstrom	Minnesota
+56308	45.867629	-95.394264	Alexandria	Minnesota
+55950	43.732509	-92.963421	Lansing	Minnesota
+56320	45.470319	-94.426810	Cold Spring	Minnesota
+55959	44.080236	-91.738376	Minnesota City	Minnesota
+55388	44.947419	-93.842598	Watertown	Minnesota
+55008	45.569486	-93.276659	Cambridge	Minnesota
+55733	46.707705	-92.361663	Esko	Minnesota
+56024	44.144861	-93.856989	Eagle Lake	Minnesota
+56294	44.319920	-95.219743	Wanda	Minnesota
+56035	43.805300	-93.255377	Geneva	Minnesota
+55352	44.651475	-93.592608	Jordan	Minnesota
+56071	44.540887	-93.583276	New Prague	Minnesota
+56328	45.955721	-94.514478	Flensburg	Minnesota
+55001	44.898776	-92.819108	Afton	Minnesota
+56020	43.607381	-93.538328	Conger	Minnesota
+56022	44.041711	-94.838968	Darfur	Minnesota
+55056	45.509408	-92.961454	North Branch	Minnesota
+55079	45.404336	-93.026729	Stacy	Minnesota
+55350	44.894313	-94.398785	Hutchinson	Minnesota
+55947	43.822952	-91.365543	La Crescent	Minnesota
+56376	45.493374	-94.655155	Saint Martin	Minnesota
+55720	46.751077	-92.533403	Cloquet	Minnesota
+55073	45.272533	-92.814871	Scandia	Minnesota
+56082	44.339326	-94.027736	Saint Peter	Minnesota
+55976	43.866532	-92.504383	Stewartville	Minnesota
+56335	45.600957	-94.857364	Greenwald	Minnesota
+55040	45.468531	-93.277925	Isanti	Minnesota
+55308	45.447918	-93.810692	Becker	Minnesota
+55036	45.870777	-93.109172	Henriette	Minnesota
+55363	45.037192	-93.918320	Montrose	Minnesota
+55315	44.705643	-93.662951	Carver	Minnesota
+55397	44.826625	-93.909063	Young America	Minnesota
+56073	44.304830	-94.464745	New Ulm	Minnesota
+55302	45.233287	-94.120791	Annandale	Minnesota
+55320	45.395403	-94.066970	Clearwater	Minnesota
+55792	47.587857	-92.451872	Virginia	Minnesota
+56455	46.477995	-94.017133	Ironton	Minnesota
+55920	44.013359	-92.623778	Byron	Minnesota
+55960	44.139506	-92.543519	Oronoco	Minnesota
+56187	43.617984	-95.591678	Worthington	Minnesota
+55020	44.580205	-93.389154	Elko	Minnesota
+55358	45.252357	-94.000866	Maple Lake	Minnesota
+55981	44.360774	-92.073934	Wabasha	Minnesota
+56031	43.622511	-94.468503	Fairmont	Minnesota
+55047	45.200429	-92.820729	Marine On Saint Croix	Minnesota
+55758	47.510787	-92.744438	Kinney	Minnesota
+56258	44.436649	-95.746449	Marshall	Minnesota
+56401	46.307929	-94.093558	Brainerd	Minnesota
+55944	44.028435	-92.744489	Kasson	Minnesota
+55744	47.217685	-93.510739	Grand Rapids	Minnesota
+56093	44.058570	-93.519385	Waseca	Minnesota
+56501	46.838507	-95.828650	Detroit Lakes	Minnesota
+55012	45.438085	-92.788113	Center City	Minnesota
+55354	44.887891	-94.081690	Lester Prairie	Minnesota
+56050	44.259144	-93.947347	Kasota	Minnesota
+55719	47.541039	-92.862190	Chisholm	Minnesota
+56468	46.493690	-94.314742	Nisswa	Minnesota
+55371	45.578592	-93.590776	Princeton	Minnesota
+56310	45.634286	-94.450242	Avon	Minnesota
+55931	43.520214	-91.454298	Eitzen	Minnesota
+55046	44.451844	-93.419222	Lonsdale	Minnesota
+55009	44.487292	-92.862697	Cannon Falls	Minnesota
+56288	45.238995	-94.949862	Spicer	Minnesota
+56601	47.503156	-94.881399	Bemidji	Minnesota
+56450	46.246125	-93.820572	Garrison	Minnesota
+56649	48.528814	-93.409564	International Falls	Minnesota
+56456	46.663517	-94.324435	Jenkins	Minnesota
+56345	45.988316	-94.379514	Little Falls	Minnesota
+55336	44.783927	-94.178456	Glencoe	Minnesota
+56537	46.276711	-96.091938	Fergus Falls	Minnesota
+56687	47.501024	-94.994123	Wilton	Minnesota
+55767	46.447351	-92.758647	Moose Lake	Minnesota
+55321	45.087589	-94.193155	Cokato	Minnesota
+55741	47.463124	-92.376242	Gilbert	Minnesota
+55069	45.690491	-92.967440	Rush City	Minnesota
+56028	44.226257	-93.717420	Elysian	Minnesota
+55734	47.364577	-92.463633	Eveleth	Minnesota
+55992	44.322284	-92.682716	Zumbrota	Minnesota
+56056	44.072797	-94.569663	La Salle	Minnesota
+55775	47.307666	-93.206496	Pengilly	Minnesota
+56368	45.449877	-94.550985	Richmond	Minnesota
+56069	44.412094	-93.542436	Montgomery	Minnesota
+55319	45.467449	-93.928342	Clear Lake	Minnesota
+55349	45.061182	-94.072970	Howard Lake	Minnesota
+55084	45.462591	-92.716225	Taylors Falls	Minnesota
+55368	44.738870	-93.899119	Norwood Young America	Minnesota
+56011	44.596318	-93.779250	Belle Plaine	Minnesota
+55963	44.190570	-92.656046	Pine Island	Minnesota
+55941	43.738241	-91.360790	Hokah	Minnesota
+55972	43.998854	-92.055706	Saint Charles	Minnesota
+55355	45.098957	-94.535400	Litchfield	Minnesota
+56482	46.464195	-95.147753	Wadena	Minnesota
+56096	44.237277	-93.600178	Waterville	Minnesota
+55964	44.164098	-92.165049	Plainview	Minnesota
+56063	44.206406	-93.816358	Madison Lake	Minnesota
+56273	45.319028	-95.025978	New London	Minnesota
+56367	45.763248	-94.161565	Rice	Minnesota
+55041	44.392491	-92.314893	Lake City	Minnesota
+55049	44.176279	-93.230762	Medford	Minnesota
+55019	44.411004	-93.250262	Dundas	Minnesota
+55325	45.092093	-94.319218	Dassel	Minnesota
+55322	44.766102	-93.781817	Cologne	Minnesota
+56017	44.294552	-93.796323	Cleveland	Minnesota
+55063	45.838574	-92.902898	Pine City	Minnesota
+56352	45.641800	-94.806359	Melrose	Minnesota
+55390	45.069262	-93.981513	Waverly	Minnesota
+56721	47.999965	-96.966503	East Grand Forks	Minnesota
+55925	43.907106	-91.449642	Dakota	Minnesota
+55927	44.018831	-92.889524	Dodge Center	Minnesota
+55088	44.523586	-93.383455	Webster	Minnesota
+55718	46.620931	-92.486403	Carlton	Minnesota
+55052	44.229471	-93.440815	Morristown	Minnesota
+56444	46.435465	-93.890633	Deerwood	Minnesota
+55983	44.291403	-92.806985	Wanamingo	Minnesota
+55360	44.915960	-93.919645	Mayer	Minnesota
+55031	44.604526	-92.978829	Hampton	Minnesota
+55381	44.930963	-94.199979	Silver Lake	Minnesota
+55032	45.586714	-92.998023	Harris	Minnesota
+55382	45.300420	-94.199092	South Haven	Minnesota
+56058	44.448969	-93.913545	Le Sueur	Minnesota
+55367	44.895072	-93.976344	New Germany	Minnesota
+55339	44.724481	-93.939557	Hamburg	Minnesota
+55918	43.745852	-92.855344	Brownsdale	Minnesota
+56465	46.530841	-94.108939	Merrifield	Minnesota
+55051	45.947760	-93.297788	Mora	Minnesota
+56281	44.955853	-95.177294	Prinsburg	Minnesota
+56340	45.759467	-94.429019	Holdingford	Minnesota
+56140	43.898613	-96.352976	Ihlen	Minnesota
+56057	44.402266	-93.715617	Le Center	Minnesota
+55803	47.082574	-92.096106	Duluth	Minnesota
+56484	47.074838	-94.519761	Walker	Minnesota
+56283	44.527995	-95.138830	Redwood Falls	Minnesota
+56441	46.577802	-93.981476	Crosby	Minnesota
+56016	43.769378	-93.350120	Clarks Grove	Minnesota
+55329	45.313140	-94.573891	Eden Valley	Minnesota
+55006	45.738160	-93.215044	Braham	Minnesota
+55746	47.375539	-92.970179	Hibbing	Minnesota
+56670	47.850640	-94.887473	Redby	Minnesota
+55307	44.605095	-94.122565	Arlington	Minnesota
+55614	47.322731	-91.292883	Silver Bay	Minnesota
+56353	45.803664	-93.629079	Milaca	Minnesota
+55932	44.140847	-92.313097	Elgin	Minnesota
+56362	45.401875	-94.712120	Paynesville	Minnesota
+56307	45.620660	-94.615537	Albany	Minnesota
+56177	43.874131	-96.252497	Trosky	Minnesota
+56573	46.618769	-95.548277	Perham	Minnesota
+55334	44.521530	-94.215248	Gaylord	Minnesota
+56472	46.583827	-94.360688	Pequot Lakes	Minnesota
+56378	45.725034	-94.987283	Sauk Centre	Minnesota
+56442	46.682188	-94.062610	Crosslake	Minnesota
+55934	44.007826	-92.266784	Eyota	Minnesota
+55952	43.940339	-91.852933	Lewiston	Minnesota
+56525	46.662700	-96.748351	Comstock	Minnesota
+55956	44.278666	-92.526324	Mazeppa	Minnesota
+56081	43.986711	-94.632944	Saint James	Minnesota
+56329	45.706134	-93.894542	Foley	Minnesota
+55080	45.666418	-93.222230	Stanchfield	Minnesota
+55370	44.777180	-94.036783	Plato	Minnesota
+56267	45.583774	-95.922393	Morris	Minnesota
+55353	45.329096	-94.324626	Kimball	Minnesota
+56347	45.975864	-94.862938	Long Prairie	Minnesota
+56251	45.143769	-94.920255	Kandiyohi	Minnesota
+55923	43.850577	-92.179087	Chatfield	Minnesota
+56089	43.563886	-93.438467	Twin Lakes	Minnesota
+55721	47.220628	-93.686796	Cohasset	Minnesota
+56156	43.666604	-96.240790	Luverne	Minnesota
+56055	44.128500	-94.235330	Lake Crystal	Minnesota
+56701	48.129737	-96.194443	Thief River Falls	Minnesota
+56048	44.094768	-93.713152	Janesville	Minnesota
+56571	46.433856	-95.542716	Ottertail	Minnesota
+55389	45.297919	-94.442626	Watkins	Minnesota
+56479	46.406875	-94.790551	Staples	Minnesota
+56666	48.029608	-94.857469	Ponemah	Minnesota
+56277	44.767428	-94.993086	Olivia	Minnesota
+55969	44.094080	-91.842854	Rollingstone	Minnesota
+56045	43.762432	-93.195530	Hollandale	Minnesota
+56101	43.885011	-95.144745	Windom	Minnesota
+56330	45.743310	-93.753465	Foreston	Minnesota
+56319	45.998449	-95.252789	Carlos	Minnesota
+56716	47.751878	-96.557274	Crookston	Minnesota
+55768	47.518899	-92.679712	Mountain Iron	Minnesota
+55971	43.798272	-91.760224	Rushford	Minnesota
+56520	46.275210	-96.502135	Breckenridge	Minnesota
+56138	43.534582	-96.389525	Hills	Minnesota
+55065	44.550758	-93.024955	Randolph	Minnesota
+55324	45.052822	-94.417646	Darwin	Minnesota
+56265	44.999823	-95.706482	Montevideo	Minnesota
+55030	45.839120	-93.089416	Grasston	Minnesota
+56013	43.620180	-94.103786	Blue Earth	Minnesota
+56241	44.794024	-95.581366	Granite Falls	Minnesota
+55991	44.261215	-92.418566	Zumbro Falls	Minnesota
+56318	45.853038	-94.674530	Burtrum	Minnesota
+55940	43.891639	-92.809208	Hayfield	Minnesota
+56287	44.462238	-95.318386	Seaforth	Minnesota
+56572	46.608073	-96.084515	Pelican Rapids	Minnesota
+55705	47.401480	-92.165396	Aurora	Minnesota
+56434	46.379653	-94.925494	Aldrich	Minnesota
+56085	44.294971	-94.738556	Sleepy Eye	Minnesota
+56044	44.564804	-93.956605	Henderson	Minnesota
+55921	43.614433	-91.456075	Caledonia	Minnesota
+56062	44.046146	-94.418133	Madelia	Minnesota
+55917	43.884820	-93.075481	Blooming Prairie	Minnesota
+56515	46.279173	-95.708325	Battle Lake	Minnesota
+55779	46.908849	-92.448827	Saginaw	Minnesota
+56354	46.071016	-95.255064	Miltona	Minnesota
+55939	43.545705	-92.081139	Harmony	Minnesota
+56021	44.278448	-94.312711	Courtland	Minnesota
+55974	43.577122	-91.647985	Spring Grove	Minnesota
+56172	44.003780	-95.774716	Slayton	Minnesota
+55953	43.524050	-92.951838	Lyle	Minnesota
+56314	45.817053	-94.442870	Bowlus	Minnesota
+56043	43.649401	-93.222394	Hayward	Minnesota
+55909	43.565930	-92.734963	Adams	Minnesota
+56051	43.535169	-93.708470	Kiester	Minnesota
+55074	45.389697	-92.734382	Shafer	Minnesota
+56143	43.624127	-95.010289	Jackson	Minnesota
+56164	44.039972	-96.331600	Pipestone	Minnesota
+56373	45.859740	-94.230562	Royalton	Minnesota
+56440	46.141951	-94.955084	Clarissa	Minnesota
+56360	45.895197	-95.116621	Osakis	Minnesota
+55946	44.262107	-92.950147	Kenyon	Minnesota
+55965	43.643567	-92.140710	Preston	Minnesota
+56159	43.946144	-94.934600	Mountain Lake	Minnesota
+56331	45.678998	-94.671722	Freeport	Minnesota
+56357	45.701947	-93.799926	Oak Park	Minnesota
+55975	43.677871	-92.364465	Spring Valley	Minnesota
+56470	47.027500	-95.098576	Park Rapids	Minnesota
+56065	43.931416	-93.928471	Mapleton	Minnesota
+55954	43.557061	-91.780106	Mabel	Minnesota
+56334	45.574381	-95.336780	Glenwood	Minnesota
+55089	44.593074	-92.718800	Welch	Minnesota
+55967	43.795434	-92.507025	Racine	Minnesota
+56175	44.260146	-95.638718	Tracy	Minnesota
+56336	45.832098	-94.782367	Grey Eagle	Minnesota
+55951	43.539152	-92.514269	Le Roy	Minnesota
+55338	44.666072	-93.974535	Green Isle	Minnesota
+56087	44.239487	-94.975232	Springfield	Minnesota
+55990	43.733366	-92.247970	Wykoff	Minnesota
+56763	48.778425	-95.275566	Warroad	Minnesota
+56215	45.317716	-95.571951	Benson	Minnesota
+56359	46.042948	-93.693351	Onamia	Minnesota
+56209	45.127230	-94.812115	Atwater	Minnesota
+56511	46.872963	-96.010090	Audubon	Minnesota
+56270	44.570375	-94.987380	Morton	Minnesota
+56097	43.721047	-93.723161	Wells	Minnesota
+56037	44.011133	-94.038473	Good Thunder	Minnesota
+56544	46.757782	-95.605415	Frazee	Minnesota
+56091	43.914434	-93.686188	Waldorf	Minnesota
+55396	44.548417	-94.371892	Winthrop	Minnesota
+56278	45.360593	-96.359819	Ortonville	Minnesota
+56332	45.967062	-95.508022	Garfield	Minnesota
+56216	44.942507	-95.059378	Blomkest	Minnesota
+55312	44.706340	-94.351290	Brownton	Minnesota
+56576	46.463112	-95.699414	Richville	Minnesota
+56473	46.415021	-94.498060	Pillager	Minnesota
+56178	44.284610	-96.133197	Tyler	Minnesota
+55027	44.409186	-92.623060	Goodhue	Minnesota
+55922	43.562471	-91.896581	Canton	Minnesota
+56074	44.321750	-94.183030	Nicollet	Minnesota
+56633	47.328909	-94.536311	Cass Lake	Minnesota
+56364	46.018657	-94.071939	Pierz	Minnesota
+56358	45.855393	-93.465499	Ogilvie	Minnesota
+56567	46.549825	-95.374417	New York Mills	Minnesota
+56382	45.907862	-94.598327	Swanville	Minnesota
+55919	43.631072	-91.282803	Brownsville	Minnesota
+56239	44.508064	-95.910221	Ghent	Minnesota
+56586	46.318269	-95.830900	Underwood	Minnesota
+55017	45.687859	-93.434603	Dalbo	Minnesota
+55751	47.378630	-92.668216	Iron	Minnesota
+56222	44.982849	-95.366961	Clara City	Minnesota
+56528	46.535179	-95.802457	Dent	Minnesota
+56438	46.138601	-94.819178	Browerville	Minnesota
+55985	44.154632	-92.906566	West Concord	Minnesota
+56549	46.847447	-96.312324	Hawley	Minnesota
+56475	46.086011	-94.562115	Randall	Minnesota
+55053	44.338345	-93.055440	Nerstrand	Minnesota
+56078	44.005583	-93.772122	Pemberton	Minnesota
+55936	43.717078	-92.577693	Grand Meadow	Minnesota
+55797	46.569282	-92.394987	Wrenshall	Minnesota
+55616	47.165792	-91.642073	Two Harbors	Minnesota
+55929	43.976413	-92.143978	Dover	Minnesota
+55007	45.972305	-93.097897	Brook Park	Minnesota
+56072	43.899229	-93.517081	New Richland	Minnesota
+56026	43.885775	-93.290995	Ellendale	Minnesota
+56587	46.653234	-95.887092	Vergas	Minnesota
+55018	44.414410	-92.995374	Dennison	Minnesota
+55957	44.253009	-92.296897	Millville	Minnesota
+56437	46.248060	-95.056765	Bertha	Minnesota
+56098	43.771451	-94.181676	Winnebago	Minnesota
+56315	45.980177	-95.594062	Brandon	Minnesota
+56554	46.885525	-96.116127	Lake Park	Minnesota
+56181	43.676988	-94.608976	Welcome	Minnesota
+56436	47.123381	-94.679564	Benedict	Minnesota
+56176	43.783287	-94.720493	Trimont	Minnesota
+56171	43.671285	-94.761789	Sherburn	Minnesota
+55979	43.921262	-91.956478	Utica	Minnesota
+55982	43.817856	-92.888682	Waltham	Minnesota
+55943	43.782867	-91.582769	Houston	Minnesota
+55924	44.029232	-93.027295	Claremont	Minnesota
+56279	45.213912	-95.179039	Pennock	Minnesota
+56264	44.586984	-95.981333	Minneota	Minnesota
+56129	43.523916	-96.029052	Ellsworth	Minnesota
+56229	44.594036	-95.716384	Cottonwood	Minnesota
+55781	47.682784	-93.032331	Side Lake	Minnesota
+56243	45.170240	-94.686488	Grove City	Minnesota
+56551	46.317619	-95.437061	Henning	Minnesota
+56580	46.734263	-96.636178	Sabin	Minnesota
+56208	45.246719	-96.004770	Appleton	Minnesota
+55310	44.757011	-94.878519	Bird Island	Minnesota
+56090	43.951314	-94.226965	Vernon Center	Minnesota
+55332	44.520437	-94.699538	Fairfax	Minnesota
+56252	45.178253	-95.310120	Kerkhoven	Minnesota
+55970	43.599585	-92.837811	Rose Creek	Minnesota
+56036	43.551882	-93.221023	Glenville	Minnesota
+56518	46.490070	-95.250369	Bluffton	Minnesota
+56088	43.825427	-94.458131	Truman	Minnesota
+56117	43.536430	-95.703811	Bigelow	Minnesota
+56150	43.642151	-95.195626	Lakefield	Minnesota
+56355	45.934008	-95.233387	Nelson	Minnesota
+56110	43.627226	-95.939844	Adrian	Minnesota
+56054	44.435016	-94.374481	Lafayette	Minnesota
+55314	44.779020	-94.589725	Buffalo Lake	Minnesota
+56534	46.471572	-96.011397	Erhard	Minnesota
+56228	44.951236	-94.685179	Cosmos	Minnesota
+56266	44.416443	-94.918833	Morgan	Minnesota
+56029	43.530047	-93.522279	Emmons	Minnesota
+56009	43.661834	-93.546424	Alden	Minnesota
+56381	45.563647	-95.549827	Starbuck	Minnesota
+56339	45.824849	-95.810949	Hoffman	Minnesota
+56068	43.865306	-93.806142	Minnesota Lake	Minnesota
+56121	43.539484	-94.622106	Ceylon	Minnesota
+56466	46.388684	-94.635389	Motley	Minnesota
+56232	44.931109	-96.045370	Dawson	Minnesota
+56157	44.403427	-95.970694	Lynd	Minnesota
+56527	46.383672	-95.315884	Deer Creek	Minnesota
+56131	43.855491	-95.598979	Fulda	Minnesota
+56386	46.018864	-93.514604	Wahkon	Minnesota
+56446	46.128838	-95.097490	Eagle Bend	Minnesota
+56034	44.025463	-94.193682	Garden City	Minnesota
+56128	43.883491	-96.118597	Edgerton	Minnesota
+56452	46.963298	-94.466583	Hackensack	Minnesota
+55707	46.554781	-92.631629	Barnum	Minnesota
+55935	43.741840	-92.126473	Fountain	Minnesota
+56453	46.320861	-95.165361	Hewitt	Minnesota
+56524	46.216786	-95.615481	Clitherall	Minnesota
+56282	45.040131	-95.228467	Raymond	Minnesota
+55335	44.531090	-94.553138	Gibbon	Minnesota
+56284	44.783641	-95.207938	Renville	Minnesota
+56349	45.718238	-95.520136	Lowry	Minnesota
+56449	46.184733	-94.249031	Fort Ripley	Minnesota
+56324	46.168954	-95.904069	Dalton	Minnesota
+55706	47.693090	-91.971699	Babbitt	Minnesota
+55795	46.297871	-92.882916	Willow River	Minnesota
+55704	46.219085	-92.751667	Askov	Minnesota
+55945	44.267724	-92.069877	Kellogg	Minnesota
+56533	46.408751	-96.155452	Elizabeth	Minnesota
+56464	46.783381	-95.105866	Menahga	Minnesota
+55949	43.713474	-91.956750	Lanesboro	Minnesota
+56309	46.061768	-95.809299	Ashby	Minnesota
+56230	44.796548	-95.087438	Danube	Minnesota
+56474	46.704216	-94.450505	Pine River	Minnesota
+56671	47.895133	-95.305386	Redlake	Minnesota
+56293	44.407004	-95.257292	Wabasso	Minnesota
+56033	43.578874	-93.939249	Frost	Minnesota
+56754	47.993966	-96.191308	Saint Hilaire	Minnesota
+56751	48.809822	-95.733307	Roseau	Minnesota
+56173	43.525151	-96.241181	Steen	Minnesota
+56327	45.763118	-95.606743	Farwell	Minnesota
+56060	43.940327	-94.439952	Lewisville	Minnesota
+56326	46.016648	-95.686095	Evansville	Minnesota
+56185	43.797312	-95.822519	Wilmont	Minnesota
+56547	46.888598	-96.541730	Glyndon	Minnesota
+55790	47.826489	-92.319184	Tower	Minnesota
+56514	46.647040	-96.426955	Barnesville	Minnesota
+55072	46.094837	-92.526656	Sandstone	Minnesota
+55910	44.128660	-91.971828	Altura	Minnesota
+56041	44.161305	-94.533087	Hanska	Minnesota
+56431	46.513115	-93.592183	Aitkin	Minnesota
+56162	43.833367	-94.668263	Ormsby	Minnesota
+56158	43.640672	-96.061481	Magnolia	Minnesota
+56621	47.427170	-95.450308	Bagley	Minnesota
+56219	45.607652	-96.818280	Browns Valley	Minnesota
+55385	44.736080	-94.486491	Stewart	Minnesota
+56342	46.184190	-93.369917	Isle	Minnesota
+56435	46.822929	-94.539543	Backus	Minnesota
+56361	46.157792	-95.353518	Parkers Prairie	Minnesota
+55710	47.649681	-92.697535	Britt	Minnesota
+56183	44.014374	-95.431120	Westbrook	Minnesota
+56042	43.804409	-93.480127	Hartland	Minnesota
+55037	45.988377	-92.829264	Hinckley	Minnesota
+55709	47.402584	-93.372855	Bovey	Minnesota
+56295	45.035813	-95.826677	Watson	Minnesota
+56542	47.563756	-95.739267	Fosston	Minnesota
+56312	45.456600	-94.969177	Belgrade	Minnesota
+56467	46.996609	-94.850365	Nevis	Minnesota
+56548	47.366590	-96.766388	Halstad	Minnesota
+55711	46.844265	-92.691219	Brookston	Minnesota
+56256	45.028691	-96.202421	Madison	Minnesota
+56010	43.908210	-94.197372	Amboy	Minnesota
+56531	45.994245	-95.988163	Elbow Lake	Minnesota
+56710	48.188661	-96.988179	Alvarado	Minnesota
+56052	44.327421	-93.557905	Kilkenny	Minnesota
+56535	47.677583	-96.041858	Erskine	Minnesota
+56678	47.508078	-95.113057	Solway	Minnesota
+55342	44.742925	-94.739028	Hector	Minnesota
+56027	43.523843	-94.092773	Elmore	Minnesota
+56323	45.629632	-95.723921	Cyrus	Minnesota
+56443	46.187806	-94.632066	Cushing	Minnesota
+56297	44.636634	-95.529370	Wood Lake	Minnesota
+56223	44.762144	-95.818773	Clarkfield	Minnesota
+56481	46.450315	-94.940297	Verndale	Minnesota
+55961	43.604110	-92.468363	Ostrander	Minnesota
+56557	47.330885	-95.861050	Mahnomen	Minnesota
+55962	43.762120	-91.845163	Peterson	Minnesota
+56448	46.766371	-94.119562	Fifty Lakes	Minnesota
+56244	45.481584	-95.798305	Hancock	Minnesota
+56136	44.508856	-96.399099	Hendricks	Minnesota
+56385	45.692962	-95.220069	Villard	Minnesota
+56161	43.703260	-95.325497	Okabena	Minnesota
+56169	44.338334	-96.006510	Russell	Minnesota
+56144	43.858897	-96.377139	Jasper	Minnesota
+56634	47.661187	-95.376722	Clearbrook	Minnesota
+55769	47.434858	-93.131307	Nashwauk	Minnesota
+55783	46.410144	-92.981361	Sturgeon Lake	Minnesota
+55926	43.739552	-92.705306	Dexter	Minnesota
+56447	46.747619	-93.910176	Emily	Minnesota
+56025	43.764325	-93.919728	Easton	Minnesota
+56122	43.898445	-95.956000	Chandler	Minnesota
+56641	47.222364	-94.252758	Federal Dam	Minnesota
+56578	46.926574	-95.661692	Rochert	Minnesota
+56039	43.663623	-94.338227	Granada	Minnesota
+56120	43.960008	-94.794802	Butterfield	Minnesota
+56581	47.459060	-96.777148	Shelly	Minnesota
+56145	44.057767	-95.177034	Jeffers	Minnesota
+55750	47.524154	-91.987540	Hoyt Lakes	Minnesota
+56750	47.898757	-96.301050	Red Lake Falls	Minnesota
+56510	47.331959	-96.506509	Ada	Minnesota
+56116	43.623206	-96.386855	Beaver Creek	Minnesota
+56285	44.787341	-95.349239	Sacred Heart	Minnesota
+55780	46.699277	-92.712796	Sawyer	Minnesota
+56152	44.227120	-95.281190	Lamberton	Minnesota
+56570	46.917909	-95.366840	Osage	Minnesota
+56744	48.274747	-97.097650	Oslo	Minnesota
+55333	44.562955	-94.860631	Franklin	Minnesota
+56220	44.737393	-96.291581	Canby	Minnesota
+56167	43.552196	-95.384891	Round Lake	Minnesota
+56174	44.016336	-95.305092	Storden	Minnesota
+56245	44.684043	-95.677203	Hanley Falls	Minnesota
+56214	44.603676	-95.322581	Belview	Minnesota
+56343	45.795815	-95.687962	Kensington	Minnesota
+56255	44.397066	-95.419313	Lucan	Minnesota
+56569	47.129088	-95.701945	Ogema	Minnesota
+56458	47.204662	-94.991786	Lake George	Minnesota
+56014	43.594319	-93.838124	Bricelyn	Minnesota
+56263	44.421474	-95.532657	Milroy	Minnesota
+56160	43.841157	-94.804734	Odin	Minnesota
+56119	43.706631	-95.483048	Brewster	Minnesota
+56584	47.223671	-96.237402	Twin Valley	Minnesota
+56556	47.662952	-95.879974	Mcintosh	Minnesota
+56292	44.502071	-95.456501	Vesta	Minnesota
+56142	44.480505	-96.227708	Ivanhoe	Minnesota
+56115	44.209457	-95.905771	Balaton	Minnesota
+55726	46.656010	-92.866745	Cromwell	Minnesota
+56566	47.294965	-95.663175	Naytahwaush	Minnesota
+56316	45.506184	-95.162632	Brooten	Minnesota
+56168	43.608751	-95.809269	Rushmore	Minnesota
+56588	46.209154	-95.516561	Vining	Minnesota
+56762	48.199088	-96.723624	Warren	Minnesota
+56756	48.868116	-95.500480	Salol	Minnesota
+56433	46.987441	-94.696524	Akeley	Minnesota
+56289	45.333188	-95.224451	Sunburg	Minnesota
+55977	43.550036	-92.650161	Taopi	Minnesota
+56139	44.104240	-96.170528	Holland	Minnesota
+56683	47.727399	-94.737235	Tenstrike	Minnesota
+56260	44.963275	-95.482997	Maynard	Minnesota
+56477	46.644616	-95.000175	Sebeka	Minnesota
+56023	43.785715	-93.997235	Delavan	Minnesota
+56083	44.208011	-95.134321	Sanborn	Minnesota
+56137	43.839616	-95.345120	Heron Lake	Minnesota
+56180	44.261989	-95.462544	Walnut Grove	Minnesota
+55756	46.357570	-92.608367	Kerrick	Minnesota
+56540	47.557710	-96.269583	Fertile	Minnesota
+56224	44.378083	-95.059749	Clements	Minnesota
+56170	44.160379	-96.073946	Ruthton	Minnesota
+56155	43.765868	-95.946055	Lismore	Minnesota
+56311	45.897472	-95.895603	Barrett	Minnesota
+56736	47.739696	-96.175696	Mentor	Minnesota
+56291	44.607855	-96.062636	Taunton	Minnesota
+56253	44.959963	-94.872528	Lake Lillian	Minnesota
+56149	44.276491	-96.332684	Lake Benton	Minnesota
+55933	43.643388	-92.682502	Elkton	Minnesota
+56461	47.258938	-94.894200	Laporte	Minnesota
+56165	43.725343	-95.703057	Reading	Minnesota
+55973	43.804299	-92.777916	Sargeant	Minnesota
+56262	45.115071	-95.869707	Milan	Minnesota
+56338	45.993131	-93.871916	Hillman	Minnesota
+55760	46.665848	-93.236995	Mcgregor	Minnesota
+56019	44.115896	-94.888926	Comfrey	Minnesota
+56237	44.616613	-95.433459	Echo	Minnesota
+56723	47.818648	-96.821776	Fisher	Minnesota
+56296	45.837487	-96.456894	Wheaton	Minnesota
+56552	46.984605	-96.204295	Hitterdal	Minnesota
+56521	47.011364	-95.871696	Callaway	Minnesota
+56636	47.390470	-93.848710	Deer River	Minnesota
+55732	47.640783	-92.219188	Embarrass	Minnesota
+56550	47.273933	-96.743060	Hendrum	Minnesota
+56151	44.029730	-95.914064	Lake Wilson	Minnesota
+55735	46.315510	-93.134297	Finlayson	Minnesota
+56655	46.971048	-94.178823	Longville	Minnesota
+56114	43.985864	-95.592498	Avoca	Minnesota
+56127	43.548714	-94.780895	Dunnell	Minnesota
+56141	43.877080	-95.804580	Iona	Minnesota
+56647	47.706965	-94.614333	Hines	Minnesota
+56728	48.784275	-96.977458	Hallock	Minnesota
+56118	43.936029	-95.029368	Bingham Lake	Minnesota
+56111	43.648955	-94.884729	Alpha	Minnesota
+55793	47.115899	-93.286131	Warba	Minnesota
+56637	47.608115	-93.829972	Talmoon	Minnesota
+56592	47.538201	-96.009471	Winger	Minnesota
+56757	48.462307	-96.795012	Stephen	Minnesota
+56271	45.244754	-95.404995	Murdock	Minnesota
+56240	45.571401	-96.469666	Graceville	Minnesota
+56132	44.203493	-95.764924	Garvin	Minnesota
+56280	44.635171	-96.164975	Porter	Minnesota
+56585	47.099805	-96.248684	Ulen	Minnesota
+56123	44.080570	-95.572396	Currie	Minnesota
+56732	48.565307	-96.475876	Karlstad	Minnesota
+56589	47.200624	-95.773015	Waubun	Minnesota
+56226	45.421616	-95.678120	Clontarf	Minnesota
+56686	48.784049	-94.911697	Williams	Minnesota
+56225	45.459406	-96.440095	Clinton	Minnesota
+56630	47.739144	-94.509273	Blackduck	Minnesota
+56742	47.930600	-95.827932	Oklee	Minnesota
+55757	46.512538	-92.950125	Kettle River	Minnesota
+56166	44.203001	-95.380986	Revere	Minnesota
+56738	48.347128	-96.336999	Newfolden	Minnesota
+55605	47.965288	-89.737130	Grand Portage	Minnesota
+55798	46.723256	-92.967783	Wright	Minnesota
+56212	45.149778	-96.323435	Bellingham	Minnesota
+56644	47.797005	-95.495088	Gonvick	Minnesota
+56218	44.826953	-95.940466	Boyd	Minnesota
+56652	47.708135	-95.227660	Leonard	Minnesota
+56676	47.521567	-95.199913	Shevlin	Minnesota
+56186	44.033228	-96.074258	Woodstock	Minnesota
+56726	48.698635	-96.227954	Greenbush	Minnesota
+56651	47.454073	-95.616397	Lengby	Minnesota
+56147	43.750000	-96.065972	Kenneth	Minnesota
+56711	49.354533	-95.088133	Angle Inlet	Minnesota
+56235	45.709703	-96.016509	Donnelly	Minnesota
+56667	47.746588	-94.904512	Puposky	Minnesota
+56207	45.505918	-96.066571	Alberta	Minnesota
+56134	43.790501	-96.228735	Hardwick	Minnesota
+56221	45.563606	-96.198145	Chokio	Minnesota
+56748	47.926025	-96.017913	Plummer	Minnesota
+56715	47.806540	-95.956157	Brooks	Minnesota
+56257	44.976444	-96.401979	Marietta	Minnesota
+56663	47.466429	-94.446625	Pennington	Minnesota
+56546	47.100433	-96.743078	Georgetown	Minnesota
+56623	48.602960	-94.466218	Baudette	Minnesota
+55731	47.973323	-91.985645	Ely	Minnesota
+55765	47.134137	-92.755729	Meadowlands	Minnesota
+56579	46.463530	-96.338999	Rothsay	Minnesota
+56590	46.028103	-96.152761	Wendell	Minnesota
+56713	48.347530	-96.772892	Argyle	Minnesota
+56672	47.054410	-94.051061	Remer	Minnesota
+55763	47.327944	-92.205981	Makinen	Minnesota
+55748	46.958153	-93.582371	Hill City	Minnesota
+56741	49.310491	-94.850100	Oak Island	Minnesota
+56248	45.786154	-96.135813	Herman	Minnesota
+56714	48.758349	-96.002405	Badger	Minnesota
+56523	47.649116	-96.802735	Climax	Minnesota
+56469	46.727361	-93.526133	Palisade	Minnesota
+56113	44.397443	-96.166999	Arco	Minnesota
+55742	47.162343	-93.127887	Goodland	Minnesota
+55738	47.264329	-92.660294	Forbes	Minnesota
+55703	47.743356	-92.800555	Angora	Minnesota
+55736	46.922288	-92.914915	Floodwood	Minnesota
+56249	45.318795	-95.904576	Holloway	Minnesota
+56628	47.679426	-93.550995	Bigfork	Minnesota
+56536	47.046794	-96.522969	Felton	Minnesota
+56211	45.573495	-96.677823	Beardsley	Minnesota
+56646	47.856501	-95.613016	Gully	Minnesota
+56653	48.366209	-93.563990	Littlefork	Minnesota
+56545	47.390630	-96.241952	Gary	Minnesota
+56662	46.862191	-93.852993	Outing	Minnesota
+56594	46.554184	-96.652297	Wolverton	Minnesota
+55787	46.695191	-93.099700	Tamarack	Minnesota
+56553	46.426755	-96.602682	Kent	Minnesota
+56574	47.202120	-96.714289	Perley	Minnesota
+55723	47.931103	-92.614537	Cook	Minnesota
+56276	45.246430	-96.324208	Odessa	Minnesota
+56231	45.279446	-95.763206	Danvers	Minnesota
+56522	46.131921	-96.379373	Campbell	Minnesota
+56761	48.595533	-95.675823	Wannaska	Minnesota
+56650	47.972380	-94.576734	Kelliher	Minnesota
+56543	46.291177	-96.332239	Foxhome	Minnesota
+56568	47.535231	-96.783178	Nielsville	Minnesota
+56758	48.470412	-96.541140	Strandquist	Minnesota
+56737	48.449219	-96.053731	Middle River	Minnesota
+56575	47.042407	-95.434841	Ponsford	Minnesota
+56760	48.239141	-96.438228	Viking	Minnesota
+56236	45.662448	-96.408601	Dumont	Minnesota
+56659	47.657721	-94.063841	Max	Minnesota
+55604	47.957281	-90.615999	Grand Marais	Minnesota
+56657	47.573005	-93.634311	Marcell	Minnesota
+56626	47.320538	-94.246106	Bena	Minnesota
+56516	47.434774	-95.988880	Bejou	Minnesota
+56519	47.157963	-96.514670	Borup	Minnesota
+55749	46.489114	-92.389296	Holyoke	Minnesota
+56725	48.128854	-95.798237	Goodridge	Minnesota
+56733	48.623020	-96.921686	Kennedy	Minnesota
+56731	48.897857	-97.095479	Humboldt	Minnesota
+55724	47.185897	-92.396274	Cotton	Minnesota
+55702	46.953167	-92.697989	Alborn	Minnesota
+56227	45.290841	-96.168828	Correll	Minnesota
+56350	46.305029	-93.230407	Mc Grath	Minnesota
+56680	47.659089	-93.957158	Spring Lake	Minnesota
+56722	47.985955	-96.640398	Euclid	Minnesota
+56583	46.011089	-96.412523	Tintah	Minnesota
+56565	46.042983	-96.304650	Nashua	Minnesota
+56661	47.819048	-94.136823	Northome	Minnesota
+55784	47.058391	-93.165281	Swan River	Minnesota
+55717	47.059050	-92.460469	Canyon	Minnesota
+56673	48.741785	-95.130494	Roosevelt	Minnesota
+56729	48.645080	-96.548732	Halma	Minnesota
+56681	47.614325	-94.238498	Squaw Lake	Minnesota
+55612	47.794989	-90.666598	Lutsen	Minnesota
+56734	48.770296	-96.602484	Lake Bronson	Minnesota
+55785	46.864991	-93.714226	Swatara	Minnesota
+56669	48.426275	-93.167915	Kabetogama	Minnesota
+56759	48.550917	-96.037479	Strathcona	Minnesota
+56684	47.807997	-95.719900	Trail	Minnesota
+56517	47.551206	-96.529310	Beltrami	Minnesota
+55615	47.705484	-90.793919	Tofte	Minnesota
+56755	48.954110	-97.176447	Saint Vincent	Minnesota
+56274	45.899505	-96.250267	Norcross	Minnesota
+55752	46.968400	-93.209340	Jacobson	Minnesota
+56735	48.931143	-96.554290	Lancaster	Minnesota
+55603	47.503017	-91.191074	Finland	Minnesota
+55606	47.920026	-89.987848	Hovland	Minnesota
+56720	48.574103	-96.886583	Donaldson	Minnesota
+55771	48.116822	-92.904103	Orr	Minnesota
+56724	48.454879	-95.721459	Gatzke	Minnesota
+55712	46.272648	-92.458257	Bruno	Minnesota
+56639	47.845406	-93.517932	Effie	Minnesota
+56627	48.150751	-93.808961	Big Falls	Minnesota
+56660	47.985413	-94.226559	Mizpah	Minnesota
+55613	47.650387	-90.947618	Schroeder	Minnesota
+56654	48.511415	-93.947764	Loman	Minnesota
+56688	47.805467	-93.839563	Wirt	Minnesota
+55607	47.627970	-91.457307	Isabella	Minnesota
+56727	48.331617	-95.303599	Grygla	Minnesota
+55602	47.317521	-91.928856	Brimson	Minnesota
+56685	48.238688	-94.531271	Waskish	Minnesota
+55725	48.320711	-92.660559	Crane Lake	Minnesota
+56629	48.540188	-94.186705	Birchdale	Minnesota
