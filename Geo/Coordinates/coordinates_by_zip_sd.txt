@@ -1,0 +1,363 @@
+57799	44.492703	-103.869922	Spearfish	South Dakota
+57103	43.537544	-96.692021	Sioux Falls	South Dakota
+57105	43.519421	-96.733117	Sioux Falls	South Dakota
+57106	43.507343	-96.839962	Sioux Falls	South Dakota
+57104	43.605113	-96.709356	Sioux Falls	South Dakota
+57706	44.151058	-103.092512	Ellsworth Afb	South Dakota
+57701	44.144646	-103.196457	Rapid City	South Dakota
+57110	43.545488	-96.642616	Sioux Falls	South Dakota
+57049	42.528455	-96.525279	North Sioux City	South Dakota
+57108	43.476066	-96.710176	Sioux Falls	South Dakota
+57061	44.247589	-97.040685	Sinai	South Dakota
+57078	42.915648	-97.446689	Yankton	South Dakota
+57361	43.001611	-98.426494	Marty	South Dakota
+57245	44.883607	-96.917056	Kranzburg	South Dakota
+57718	44.167566	-103.366745	Black Hawk	South Dakota
+57005	43.592486	-96.590078	Brandon	South Dakota
+57006	44.308488	-96.796083	Brookings	South Dakota
+57107	43.597620	-96.820415	Sioux Falls	South Dakota
+57064	43.456944	-96.878265	Tea	South Dakota
+57702	44.032012	-103.415359	Rapid City	South Dakota
+57703	44.031095	-103.079751	Rapid City	South Dakota
+57041	43.724886	-96.861186	Lyons	South Dakota
+57401	45.482335	-98.532540	Aberdeen	South Dakota
+57069	42.829342	-96.947478	Vermillion	South Dakota
+57201	44.936722	-97.092757	Watertown	South Dakota
+57301	43.714888	-98.045074	Mitchell	South Dakota
+57055	43.666850	-96.743898	Renner	South Dakota
+57020	43.675327	-96.827906	Crooks	South Dakota
+57364	43.434336	-98.617566	New Holland	South Dakota
+57783	44.465616	-103.893081	Spearfish	South Dakota
+57032	43.424192	-96.678132	Harrisburg	South Dakota
+57719	44.174679	-102.998152	Box Elder	South Dakota
+57350	44.404316	-98.199291	Huron	South Dakota
+57042	43.986587	-97.156681	Madison	South Dakota
+57039	43.337838	-96.874855	Lennox	South Dakota
+57068	43.572833	-96.499455	Valley Springs	South Dakota
+57013	43.278376	-96.617496	Canton	South Dakota
+57033	43.617972	-96.960938	Hartford	South Dakota
+57252	45.200406	-96.612559	Milbank	South Dakota
+57214	44.480747	-97.207006	Badger	South Dakota
+57022	43.841527	-96.695677	Dell Rapids	South Dakota
+57003	43.746313	-96.755327	Baltic	South Dakota
+57769	44.270091	-103.377549	Piedmont	South Dakota
+57770	43.067443	-102.579397	Pine Ridge	South Dakota
+57501	44.527597	-100.309041	Pierre	South Dakota
+57038	42.585156	-96.576625	Jefferson	South Dakota
+57030	43.735725	-96.543710	Garretson	South Dakota
+57622	44.631558	-101.567094	Cherry Creek	South Dakota
+57077	43.321853	-96.756407	Worthing	South Dakota
+57548	44.067800	-99.568578	Lower Brule	South Dakota
+57732	44.304195	-103.703237	Deadwood	South Dakota
+57367	43.050350	-98.510570	Pickstown	South Dakota
+57751	43.889639	-103.416102	Keystone	South Dakota
+57016	43.899015	-96.958995	Chester	South Dakota
+57071	44.272319	-96.962925	Volga	South Dakota
+57062	42.846456	-97.971838	Springfield	South Dakota
+57025	42.738351	-96.682054	Elk Point	South Dakota
+57216	45.293622	-96.522000	Big Stone City	South Dakota
+57004	43.079433	-96.787659	Beresford	South Dakota
+57070	43.186205	-97.166660	Viborg	South Dakota
+57028	44.052322	-96.590184	Flandreau	South Dakota
+57018	43.797893	-96.981006	Colton	South Dakota
+57015	43.418395	-96.980724	Chancellor	South Dakota
+57065	43.923069	-96.652687	Trent	South Dakota
+57047	43.514367	-97.220760	Monroe	South Dakota
+57066	42.990718	-97.864765	Tyndall	South Dakota
+57358	44.078478	-98.427441	Lane	South Dakota
+57570	43.221274	-100.936709	Rosebud	South Dakota
+57002	44.298575	-96.680382	Aurora	South Dakota
+57785	44.394533	-103.176049	Sturgis	South Dakota
+57754	44.255588	-103.887435	Lead	South Dakota
+57046	42.963725	-97.306152	Mission Hill	South Dakota
+57031	42.879112	-97.187735	Gayville	South Dakota
+57024	43.991175	-96.681272	Egan	South Dakota
+57058	43.753215	-97.378834	Salem	South Dakota
+57043	43.408232	-97.309855	Marion	South Dakota
+57053	43.417435	-97.135498	Parker	South Dakota
+57773	43.623262	-103.615571	Pringle	South Dakota
+57035	43.648147	-97.072051	Humboldt	South Dakota
+57262	45.672231	-97.056273	Sisseton	South Dakota
+57325	43.751933	-99.282627	Chamberlain	South Dakota
+57380	43.029839	-98.277198	Wagner	South Dakota
+57012	43.603419	-97.243002	Canistota	South Dakota
+57001	42.974254	-96.617731	Alcester	South Dakota
+57366	43.391569	-97.946598	Parkston	South Dakota
+57339	44.102176	-99.417293	Fort Thompson	South Dakota
+57034	43.120164	-96.538284	Hudson	South Dakota
+57469	44.872541	-98.594758	Redfield	South Dakota
+57479	45.308316	-98.443747	Warner	South Dakota
+57059	43.119205	-97.764306	Scotland	South Dakota
+57234	44.610285	-96.894291	Estelline	South Dakota
+57029	43.334745	-97.470784	Freeman	South Dakota
+57793	44.510564	-103.586908	Whitewood	South Dakota
+57075	44.004375	-96.959014	Wentworth	South Dakota
+57248	44.583539	-97.187953	Lake Norden	South Dakota
+57226	44.780963	-96.712685	Clear Lake	South Dakota
+57356	43.145225	-98.513188	Lake Andes	South Dakota
+57745	44.000330	-103.656761	Hill City	South Dakota
+57365	43.859304	-99.400002	Oacoma	South Dakota
+57026	44.258921	-96.540366	Elkton	South Dakota
+57014	43.099908	-96.950879	Centerville	South Dakota
+57027	43.192125	-96.519558	Fairview	South Dakota
+57073	43.005958	-97.055057	Wakonda	South Dakota
+57772	43.362788	-102.409902	Porcupine	South Dakota
+57063	42.930268	-97.684565	Tabor	South Dakota
+57017	44.015255	-96.819123	Colman	South Dakota
+57227	45.362649	-96.667824	Corona	South Dakota
+57563	43.377574	-100.394381	Okreek	South Dakota
+57601	45.394655	-100.523738	Mobridge	South Dakota
+57223	44.728778	-97.014630	Castlewood	South Dakota
+57241	44.676190	-97.230361	Hayti	South Dakota
+57212	44.378729	-97.139135	Arlington	South Dakota
+57045	43.205008	-97.528384	Menno	South Dakota
+57048	43.753896	-97.193198	Montrose	South Dakota
+57036	43.279505	-97.149572	Hurley	South Dakota
+57037	43.104561	-97.249244	Irene	South Dakota
+57279	45.404033	-96.836346	Wilmot	South Dakota
+57072	42.988671	-97.188559	Volin	South Dakota
+57021	43.271392	-96.982572	Davis	South Dakota
+57730	43.772306	-103.735316	Custer	South Dakota
+57067	43.063033	-97.479540	Utica	South Dakota
+57747	43.312831	-103.512001	Hot Springs	South Dakota
+57315	43.004942	-98.042492	Avon	South Dakota
+57276	44.430861	-96.613455	White	South Dakota
+57427	45.480547	-98.318576	Bath	South Dakota
+57273	45.330322	-97.265844	Waubay	South Dakota
+57533	43.255736	-99.405693	Gregory	South Dakota
+57328	43.437622	-98.439006	Corsica	South Dakota
+57334	43.549822	-97.997122	Ethan	South Dakota
+57756	43.245005	-102.488568	Manderson	South Dakota
+57311	43.650512	-97.764648	Alexandria	South Dakota
+57445	45.458915	-98.130467	Groton	South Dakota
+57010	42.830023	-96.816087	Burbank	South Dakota
+57274	45.309383	-97.549546	Webster	South Dakota
+57220	44.467055	-96.917466	Bruce	South Dakota
+57794	43.113063	-102.346476	Wounded Knee	South Dakota
+57332	43.550572	-97.636937	Emery	South Dakota
+57319	43.546290	-97.473492	Bridgewater	South Dakota
+57349	44.030097	-97.580800	Howard	South Dakota
+57376	43.219852	-97.944894	Tripp	South Dakota
+57221	44.591017	-97.460423	Bryant	South Dakota
+57231	44.375865	-97.582357	De Smet	South Dakota
+57225	44.870202	-97.765225	Clark	South Dakota
+57249	44.305877	-97.433427	Lake Preston	South Dakota
+57213	44.553491	-96.529494	Astoria	South Dakota
+57268	44.567787	-96.694974	Toronto	South Dakota
+57759	44.211441	-103.577004	Nemo	South Dakota
+57313	43.305031	-98.374320	Armour	South Dakota
+57238	44.866616	-96.858066	Goodwin	South Dakota
+57572	43.082113	-100.974338	Saint Francis	South Dakota
+57040	43.061032	-97.587350	Lesterville	South Dakota
+57260	45.841794	-96.698794	Rosholt	South Dakota
+57717	44.971862	-103.812550	Belle Fourche	South Dakota
+57331	43.474415	-98.044848	Dimock	South Dakota
+57257	45.449068	-97.042891	Peever	South Dakota
+57430	45.812693	-97.719580	Britton	South Dakota
+57555	43.197949	-100.578024	Mission	South Dakota
+57779	44.573061	-103.776177	Saint Onge	South Dakota
+57762	44.700513	-103.595363	Nisland	South Dakota
+57426	45.725442	-98.504771	Barnard	South Dakota
+57359	43.902598	-98.163388	Letcher	South Dakota
+57344	43.463307	-98.634725	Harrison	South Dakota
+57369	43.434866	-98.933703	Platte	South Dakota
+57385	44.046746	-98.301070	Woonsocket	South Dakota
+57330	43.257308	-98.157816	Delmont	South Dakota
+57580	43.248908	-100.057672	Winner	South Dakota
+57752	43.450337	-102.218091	Kyle	South Dakota
+57363	43.691415	-98.255432	Mount Vernon	South Dakota
+57375	43.563945	-98.489710	Stickney	South Dakota
+57237	44.796462	-96.530951	Gary	South Dakota
+57266	45.272500	-97.093563	Summit	South Dakota
+57764	43.257871	-102.771129	Oglala	South Dakota
+57218	44.652379	-96.592103	Brandt	South Dakota
+57566	43.310208	-101.094783	Parmelee	South Dakota
+57235	45.071967	-97.320432	Florence	South Dakota
+57242	44.776621	-97.352097	Hazel	South Dakota
+57246	45.042535	-96.671637	Labolt	South Dakota
+57051	44.221016	-97.345821	Oldham	South Dakota
+57239	45.509211	-97.299294	Grenville	South Dakota
+57451	45.436169	-99.010108	Ipswich	South Dakota
+57057	44.102232	-96.959250	Rutland	South Dakota
+57255	45.868787	-96.936649	New Effington	South Dakota
+57432	45.682867	-98.031046	Claremont	South Dakota
+57050	44.157204	-97.012788	Nunda	South Dakota
+57312	44.204013	-98.365928	Alpena	South Dakota
+57472	45.456577	-100.069124	Selby	South Dakota
+57368	43.756286	-98.475708	Plankinton	South Dakota
+57632	45.836850	-100.075589	Herreid	South Dakota
+57374	43.753348	-97.599126	Spencer	South Dakota
+57324	44.295575	-98.054477	Cavour	South Dakota
+57714	43.315865	-101.932574	Allen	South Dakota
+57362	44.494036	-99.054248	Miller	South Dakota
+57076	43.980770	-97.357530	Winfred	South Dakota
+57263	45.143950	-97.016600	South Shore	South Dakota
+57054	44.131488	-97.259790	Ramona	South Dakota
+57474	45.292014	-98.278733	Stratford	South Dakota
+57243	44.906371	-97.425876	Henry	South Dakota
+57329	42.988775	-98.143820	Dante	South Dakota
+57052	43.292356	-97.707966	Olivet	South Dakota
+57642	45.794523	-100.746721	Mc Laughlin	South Dakota
+57269	45.229711	-96.794173	Twin Brooks	South Dakota
+57259	44.998770	-96.547609	Revillo	South Dakota
+57384	44.416769	-98.485405	Wolsey	South Dakota
+57522	44.477019	-99.970301	Blunt	South Dakota
+57648	45.882814	-100.281026	Pollock	South Dakota
+57232	45.632116	-97.361782	Eden	South Dakota
+57454	45.611569	-97.761494	Langford	South Dakota
+57321	43.870131	-97.560020	Canova	South Dakota
+57272	45.083412	-97.481118	Wallace	South Dakota
+57271	44.739380	-97.522039	Vienna	South Dakota
+57236	44.970814	-97.636916	Garden City	South Dakota
+57523	43.246624	-99.258138	Burke	South Dakota
+57468	45.497986	-97.763412	Pierpont	South Dakota
+57278	44.645321	-97.684936	Willow Lake	South Dakota
+57340	43.795764	-97.837547	Fulton	South Dakota
+57577	43.580378	-101.671025	Wanblee	South Dakota
+57264	45.116757	-96.823791	Stockholm	South Dakota
+57261	45.536336	-97.519963	Roslyn	South Dakota
+57428	45.441277	-99.677926	Bowdle	South Dakota
+57386	44.521142	-97.996957	Yale	South Dakota
+57370	43.901478	-99.179629	Pukwana	South Dakota
+57788	44.572683	-103.341238	Vale	South Dakota
+57440	44.842200	-98.253395	Frankfort	South Dakota
+57436	44.842006	-98.078703	Doland	South Dakota
+57446	45.870828	-98.152670	Hecla	South Dakota
+57270	45.841246	-97.356750	Veblen	South Dakota
+57461	45.149624	-98.422325	Mellette	South Dakota
+57382	44.059026	-98.659699	Wessington Springs	South Dakota
+57342	43.256321	-98.700451	Geddes	South Dakota
+57317	43.109013	-98.991325	Bonesteel	South Dakota
+57450	45.239215	-99.866956	Hoven	South Dakota
+57233	44.505260	-97.403632	Erwin	South Dakota
+57224	45.870227	-97.150044	Claire City	South Dakota
+57438	45.065476	-99.153564	Faulkton	South Dakota
+57528	43.176347	-99.781019	Colome	South Dakota
+57421	45.755098	-97.927439	Amherst	South Dakota
+57251	45.283314	-96.915377	Marvin	South Dakota
+57383	43.708571	-98.704103	White Lake	South Dakota
+57481	45.641682	-98.660744	Westport	South Dakota
+57433	45.638241	-98.320765	Columbia	South Dakota
+57442	45.038844	-100.098257	Gettysburg	South Dakota
+57625	44.918388	-101.040373	Eagle Butte	South Dakota
+57219	45.279086	-97.812717	Bristol	South Dakota
+57346	44.222157	-99.410525	Stephan	South Dakota
+57638	45.952554	-102.174932	Lemmon	South Dakota
+57355	43.771295	-98.969640	Kimball	South Dakota
+57217	45.072481	-97.677502	Bradley	South Dakota
+57476	44.699046	-98.635640	Tulare	South Dakota
+57538	43.104030	-99.168712	Herrick	South Dakota
+57247	45.724003	-97.459472	Lake City	South Dakota
+57551	43.184826	-101.676426	Martin	South Dakota
+57744	43.782636	-103.045941	Hermosa	South Dakota
+57353	44.376815	-97.839664	Iroquois	South Dakota
+57265	44.992209	-96.781557	Strandburg	South Dakota
+57460	45.265116	-98.670849	Mansfield	South Dakota
+57323	44.157769	-97.715184	Carthage	South Dakota
+57448	45.600071	-99.417448	Hosmer	South Dakota
+57631	45.585360	-100.277920	Glenham	South Dakota
+57465	45.150856	-98.688664	Northville	South Dakota
+57437	45.789053	-99.624988	Eureka	South Dakota
+57335	43.065138	-98.743973	Fairfax	South Dakota
+57790	44.102983	-102.238149	Wall	South Dakota
+57716	43.124273	-102.189729	Batesland	South Dakota
+57258	44.898261	-97.933694	Raymond	South Dakota
+57761	44.205159	-102.750000	New Underwood	South Dakota
+57560	43.496372	-101.165596	Norris	South Dakota
+57636	45.057331	-101.416441	Lantry	South Dakota
+57658	45.696435	-100.514078	Wakpala	South Dakota
+57422	45.435799	-97.929626	Andover	South Dakota
+57314	44.046091	-97.981288	Artesian	South Dakota
+57373	44.538356	-98.872431	Saint Lawrence	South Dakota
+57424	45.020492	-98.523182	Ashton	South Dakota
+57337	44.002080	-97.781101	Fedora	South Dakota
+57345	44.578381	-99.444401	Highmore	South Dakota
+57564	44.729609	-99.989662	Onida	South Dakota
+57256	45.236003	-97.202744	Ortley	South Dakota
+57441	45.829281	-98.527902	Frederick	South Dakota
+57348	44.625569	-98.372220	Hitchcock	South Dakota
+57621	45.768972	-101.046479	Bullhead	South Dakota
+57543	43.749335	-101.453738	Kadoka	South Dakota
+57456	45.758128	-99.020789	Leola	South Dakota
+57322	44.639402	-97.971704	Carpenter	South Dakota
+57571	43.114752	-99.094968	Saint Charles	South Dakota
+57381	44.406906	-98.711461	Wessington	South Dakota
+57434	45.175546	-98.073835	Conde	South Dakota
+57568	43.823717	-100.099266	Presho	South Dakota
+57656	45.330507	-101.047369	Timber Lake	South Dakota
+57532	44.332271	-100.555163	Fort Pierre	South Dakota
+57471	45.404536	-99.318265	Roscoe	South Dakota
+57449	45.737408	-98.176157	Houghton	South Dakota
+57435	45.165156	-98.909112	Cresbard	South Dakota
+57452	45.558212	-99.883922	Java	South Dakota
+57529	43.265023	-99.581021	Dallas	South Dakota
+57620	45.405116	-102.520069	Bison	South Dakota
+57579	43.597198	-100.786176	White River	South Dakota
+57559	43.890072	-100.742956	Murdo	South Dakota
+57661	45.200336	-100.853917	Whitehorse	South Dakota
+57646	45.700393	-100.081293	Mound City	South Dakota
+57379	44.254665	-98.557176	Virgil	South Dakota
+57735	43.417609	-103.898888	Edgemont	South Dakota
+57541	43.594002	-99.932051	Ideal	South Dakota
+57467	44.829333	-99.186772	Orient	South Dakota
+57652	45.105512	-100.542407	Ridgeview	South Dakota
+57475	45.223553	-99.624634	Tolstoy	South Dakota
+57567	44.131146	-101.740430	Philip	South Dakota
+57766	43.368907	-103.158827	Oral	South Dakota
+57544	43.959236	-99.796283	Kennebec	South Dakota
+57536	44.417429	-99.774218	Harrold	South Dakota
+57569	43.835937	-99.535299	Reliance	South Dakota
+57576	43.944029	-100.269373	Vivian	South Dakota
+57641	45.834758	-101.292578	Mc Intosh	South Dakota
+57477	45.033820	-98.144343	Turton	South Dakota
+57470	44.883901	-98.894286	Rockham	South Dakota
+57725	43.932032	-102.791900	Caputa	South Dakota
+57623	45.077422	-101.658820	Dupree	South Dakota
+57791	43.961368	-102.615892	Wasta	South Dakota
+57738	43.666387	-103.236939	Fairburn	South Dakota
+57584	43.548227	-100.105404	Witten	South Dakota
+57520	44.845528	-100.111996	Agar	South Dakota
+57371	44.437149	-99.221494	Ree Heights	South Dakota
+57473	44.977039	-99.470999	Seneca	South Dakota
+57767	44.126914	-102.591012	Owanka	South Dakota
+57466	45.223623	-99.481416	Onaka	South Dakota
+57534	43.613357	-99.705648	Hamill	South Dakota
+57457	45.877277	-99.154299	Longlake	South Dakota
+57760	44.945983	-103.267050	Newell	South Dakota
+57792	44.580625	-102.375981	White Owl	South Dakota
+57455	45.018819	-99.681470	Lebanon	South Dakota
+57420	45.313510	-100.171670	Akaska	South Dakota
+57645	45.801609	-101.658599	Morristown	South Dakota
+57633	45.440315	-101.514796	Isabel	South Dakota
+57626	45.004952	-102.121223	Faith	South Dakota
+57750	43.593407	-101.992111	Interior	South Dakota
+57763	43.160921	-103.187114	Oelrichs	South Dakota
+57574	43.106893	-101.364053	Tuthill	South Dakota
+57748	44.602999	-101.997703	Howes	South Dakota
+57775	44.101964	-102.028950	Quinn	South Dakota
+57585	43.557965	-100.384935	Wood	South Dakota
+57521	43.896629	-101.273675	Belvidere	South Dakota
+57657	45.528927	-100.870136	Trail City	South Dakota
+57341	44.100320	-99.076514	Gann Valley	South Dakota
+57562	43.955797	-100.983737	Okaton	South Dakota
+57547	43.483939	-101.458224	Long Valley	South Dakota
+57531	44.034291	-100.533009	Draper	South Dakota
+57650	45.820761	-103.003917	Ralph	South Dakota
+57737	44.476477	-102.538899	Enning	South Dakota
+57552	44.233515	-101.202033	Midland	South Dakota
+57540	44.461425	-99.607861	Holabird	South Dakota
+57553	44.472682	-101.647601	Milesville	South Dakota
+57634	45.767769	-101.863399	Keldron	South Dakota
+57720	45.543325	-103.583841	Buffalo	South Dakota
+57722	43.464549	-102.972031	Buffalo Gap	South Dakota
+57660	45.825204	-101.506137	Watauga	South Dakota
+57649	45.526333	-102.900156	Prairie City	South Dakota
+57787	44.604685	-102.813829	Union Center	South Dakota
+57724	45.616191	-103.925413	Camp Crook	South Dakota
+57640	45.771142	-102.675696	Lodgepole	South Dakota
+57755	45.846200	-103.331974	Ludlow	South Dakota
+57644	45.430009	-102.120481	Meadow	South Dakota
+57651	45.475472	-103.148843	Reva	South Dakota
+57537	44.544939	-101.076340	Hayes	South Dakota
+57780	43.780909	-102.408282	Scenic	South Dakota
+57758	44.980444	-102.784344	Mud Butte	South Dakota
