@@ -1,0 +1,782 @@
+27109	36.132547	-80.277512	Winston Salem	North Carolina
+28223	35.301946	-80.734737	Charlotte	North Carolina
+27601	35.773377	-78.634330	Raleigh	North Carolina
+27701	35.999482	-78.899263	Durham	North Carolina
+28205	35.218791	-80.789601	Charlotte	North Carolina
+27605	35.789776	-78.655239	Raleigh	North Carolina
+28212	35.187703	-80.744556	Charlotte	North Carolina
+27403	36.065973	-79.824383	Greensboro	North Carolina
+28209	35.178714	-80.853985	Charlotte	North Carolina
+27510	35.905374	-79.081257	Carrboro	North Carolina
+28207	35.194148	-80.824585	Charlotte	North Carolina
+28210	35.129916	-80.856206	Charlotte	North Carolina
+28543	34.735136	-77.378478	Tarawa Terrace	North Carolina
+28203	35.208082	-80.859250	Charlotte	North Carolina
+27609	35.843765	-78.633643	Raleigh	North Carolina
+28204	35.214799	-80.827018	Charlotte	North Carolina
+27608	35.810300	-78.648658	Raleigh	North Carolina
+28202	35.227271	-80.844194	Charlotte	North Carolina
+27401	36.071484	-79.759449	Greensboro	North Carolina
+28211	35.166342	-80.797285	Charlotte	North Carolina
+28305	35.052609	-78.907244	Fayetteville	North Carolina
+28801	35.592911	-82.556730	Asheville	North Carolina
+28226	35.102650	-80.822144	Charlotte	North Carolina
+27014	35.810044	-80.555743	Cooleemee	North Carolina
+27813	35.634599	-77.932425	Black Creek	North Carolina
+28270	35.114865	-80.761718	Charlotte	North Carolina
+27511	35.752273	-78.777680	Cary	North Carolina
+27408	36.103667	-79.813712	Greensboro	North Carolina
+28304	35.028031	-78.987640	Fayetteville	North Carolina
+27104	36.095923	-80.321038	Winston Salem	North Carolina
+28403	34.221684	-77.880633	Wilmington	North Carolina
+27513	35.805678	-78.797088	Cary	North Carolina
+28314	35.053108	-79.029617	Fayetteville	North Carolina
+27615	35.898502	-78.635490	Raleigh	North Carolina
+27260	35.954936	-79.989888	High Point	North Carolina
+28303	35.085957	-78.959520	Fayetteville	North Carolina
+27707	35.954525	-78.953317	Durham	North Carolina
+28213	35.286034	-80.734355	Charlotte	North Carolina
+28206	35.256127	-80.820999	Charlotte	North Carolina
+27262	35.962642	-80.041637	High Point	North Carolina
+28208	35.230430	-80.907493	Charlotte	North Carolina
+27506	35.407248	-78.739048	Buies Creek	North Carolina
+27606	35.742323	-78.715478	Raleigh	North Carolina
+27101	36.111102	-80.200493	Winston Salem	North Carolina
+28159	35.693824	-80.435280	Spencer	North Carolina
+28054	35.265188	-81.147916	Gastonia	North Carolina
+27607	35.807507	-78.718084	Raleigh	North Carolina
+27103	36.058401	-80.319961	Winston Salem	North Carolina
+27604	35.818501	-78.557712	Raleigh	North Carolina
+27106	36.143910	-80.323157	Winston Salem	North Carolina
+28109	35.489033	-80.294068	Misenheimer	North Carolina
+28269	35.334508	-80.803461	Charlotte	North Carolina
+28575	34.689314	-76.888048	Salter Path	North Carolina
+27407	36.008599	-79.878160	Greensboro	North Carolina
+27405	36.114409	-79.735752	Greensboro	North Carolina
+27410	36.120542	-79.893717	Greensboro	North Carolina
+28215	35.243457	-80.701067	Charlotte	North Carolina
+28277	35.053275	-80.816601	Charlotte	North Carolina
+28519	35.122077	-77.021482	Bridgeton	North Carolina
+27202	36.185580	-79.506028	Altamahaw	North Carolina
+28017	35.254868	-81.652345	Boiling Springs	North Carolina
+27613	35.920303	-78.715151	Raleigh	North Carolina
+28330	34.909611	-79.821985	Cordova	North Carolina
+28217	35.168896	-80.908285	Charlotte	North Carolina
+28105	35.119668	-80.713333	Matthews	North Carolina
+28726	35.281157	-82.417476	East Flat Rock	North Carolina
+28031	35.471740	-80.887637	Cornelius	North Carolina
+28032	35.236709	-81.082613	Cramerton	North Carolina
+27105	36.161884	-80.239622	Winston Salem	North Carolina
+28619	35.760600	-81.600189	Drexel	North Carolina
+28409	34.152893	-77.865715	Wilmington	North Carolina
+28601	35.769702	-81.322587	Hickory	North Carolina
+28412	34.138269	-77.915944	Wilmington	North Carolina
+27616	35.866967	-78.539038	Raleigh	North Carolina
+27612	35.859509	-78.734321	Raleigh	North Carolina
+28227	35.189404	-80.645488	Charlotte	North Carolina
+28216	35.309994	-80.887121	Charlotte	North Carolina
+27705	36.025937	-78.978858	Durham	North Carolina
+28405	34.263182	-77.866380	Wilmington	North Carolina
+28428	34.038168	-77.903523	Carolina Beach	North Carolina
+27342	36.075555	-79.629701	Sedalia	North Carolina
+27610	35.744400	-78.546278	Raleigh	North Carolina
+28544	34.736310	-77.309097	Midway Park	North Carolina
+27282	35.991898	-79.928684	Jamestown	North Carolina
+28806	35.576017	-82.612754	Asheville	North Carolina
+28083	35.488337	-80.578541	Kannapolis	North Carolina
+27948	36.012053	-75.681359	Kill Devil Hills	North Carolina
+28557	34.737281	-76.762079	Morehead City	North Carolina
+27713	35.897540	-78.926184	Durham	North Carolina
+28088	35.542685	-80.618829	Landis	North Carolina
+28262	35.322061	-80.739981	Charlotte	North Carolina
+28077	35.404549	-81.203093	High Shoals	North Carolina
+28134	35.083127	-80.892441	Pineville	North Carolina
+28144	35.706749	-80.464802	Salisbury	North Carolina
+28666	35.725742	-81.472044	Icard	North Carolina
+28707	35.419332	-83.079839	Balsam	North Carolina
+28072	35.616364	-80.443266	Granite Quarry	North Carolina
+27127	36.017948	-80.277266	Winston Salem	North Carolina
+28791	35.356404	-82.516094	Hendersonville	North Carolina
+28273	35.127365	-80.946828	Charlotte	North Carolina
+27265	36.015599	-80.035747	High Point	North Carolina
+28101	35.256604	-81.082145	Mc Adenville	North Carolina
+28052	35.214656	-81.233227	Gastonia	North Carolina
+27455	36.184321	-79.810830	Greensboro	North Carolina
+28098	35.271041	-81.098623	Lowell	North Carolina
+28758	35.373906	-82.495061	Mountain Home	North Carolina
+28081	35.501990	-80.673353	Kannapolis	North Carolina
+27858	35.531730	-77.284172	Greenville	North Carolina
+27514	35.875358	-79.034543	Chapel Hill	North Carolina
+28311	35.167782	-78.887753	Fayetteville	North Carolina
+27406	36.000530	-79.764104	Greensboro	North Carolina
+28745	35.520786	-82.962850	Lake Junaluska	North Carolina
+27878	35.868929	-77.827117	Sharpsburg	North Carolina
+28803	35.534534	-82.512773	Asheville	North Carolina
+28804	35.647888	-82.564321	Asheville	North Carolina
+27509	36.138514	-78.778014	Butner	North Carolina
+28671	35.753393	-81.532221	Rutherford College	North Carolina
+28325	35.152235	-78.103306	Calypso	North Carolina
+28805	35.625128	-82.484579	Asheville	North Carolina
+28307	35.126386	-79.041011	Fort Bragg	North Carolina
+28480	34.214915	-77.800872	Wrightsville Beach	North Carolina
+28012	35.218415	-81.039763	Belmont	North Carolina
+28401	34.292310	-77.961714	Wilmington	North Carolina
+27409	36.082867	-79.951086	Greensboro	North Carolina
+27703	35.961263	-78.811875	Durham	North Carolina
+28637	35.716872	-81.419286	Hildebran	North Carolina
+28056	35.210248	-81.126920	Gastonia	North Carolina
+28465	33.912696	-78.107474	Oak Island	North Carolina
+27603	35.664003	-78.664585	Raleigh	North Carolina
+27706	35.995817	-78.942483	Durham	North Carolina
+28214	35.272414	-80.967036	Charlotte	North Carolina
+27804	35.996946	-77.851497	Rocky Mount	North Carolina
+27107	36.013158	-80.175491	Winston Salem	North Carolina
+28594	34.666421	-77.030798	Emerald Isle	North Carolina
+27704	36.042446	-78.828771	Durham	North Carolina
+27873	35.653485	-77.775669	Saratoga	North Carolina
+28027	35.418638	-80.672995	Concord	North Carolina
+28512	34.700349	-76.772549	Atlantic Beach	North Carolina
+28160	35.361053	-81.921920	Spindale	North Carolina
+28348	34.927413	-78.910283	Hope Mills	North Carolina
+28120	35.328651	-81.026393	Mount Holly	North Carolina
+28546	34.798974	-77.356169	Jacksonville	North Carolina
+27545	35.783679	-78.478141	Knightdale	North Carolina
+28019	35.281910	-81.791064	Caroleen	North Carolina
+27954	35.906773	-75.679726	Manteo	North Carolina
+27012	36.007270	-80.377147	Clemmons	North Carolina
+28104	35.064500	-80.684658	Matthews	North Carolina
+27529	35.641675	-78.584673	Garner	North Carolina
+27555	35.564179	-78.200018	Micro	North Carolina
+27284	36.118220	-80.076287	Kernersville	North Carolina
+27215	36.032628	-79.484810	Burlington	North Carolina
+28638	35.848076	-81.474623	Hudson	North Carolina
+27712	36.095588	-78.905968	Durham	North Carolina
+28387	35.186729	-79.380690	Southern Pines	North Carolina
+28690	35.737117	-81.574971	Valdese	North Carolina
+27360	35.860582	-80.099285	Thomasville	North Carolina
+28411	34.298304	-77.803040	Wilmington	North Carolina
+28613	35.740244	-81.211617	Conover	North Carolina
+27803	35.903051	-77.856172	Rocky Mount	North Carolina
+28540	34.763460	-77.503297	Jacksonville	North Carolina
+28374	35.197261	-79.457888	Pinehurst	North Carolina
+28117	35.572849	-80.890514	Mooresville	North Carolina
+28306	34.964502	-78.898480	Fayetteville	North Carolina
+27263	35.904520	-79.942570	High Point	North Carolina
+27841	35.909798	-77.277674	Hassell	North Carolina
+27614	35.948310	-78.621619	Raleigh	North Carolina
+28009	35.407797	-80.105207	Badin	North Carolina
+27896	35.790773	-77.976801	Wilson	North Carolina
+28704	35.470295	-82.565970	Arden	North Carolina
+27943	35.218373	-75.687462	Hatteras	North Carolina
+28078	35.405290	-80.858891	Huntersville	North Carolina
+27534	35.373342	-77.896598	Goldsboro	North Carolina
+27502	35.733469	-78.892960	Apex	North Carolina
+28075	35.326909	-80.657686	Harrisburg	North Carolina
+28602	35.680470	-81.393036	Hickory	North Carolina
+28036	35.480547	-80.792539	Davidson	North Carolina
+27949	36.109270	-75.730689	Kitty Hawk	North Carolina
+27870	36.419006	-77.715856	Roanoke Rapids	North Carolina
+28528	34.732058	-76.538662	Gloucester	North Carolina
+28677	35.736732	-80.922989	Statesville	North Carolina
+28553	34.734417	-76.513426	Marshallberg	North Carolina
+28757	35.654862	-82.291634	Montreat	North Carolina
+28025	35.378984	-80.520849	Concord	North Carolina
+27040	36.168580	-80.381328	Pfafftown	North Carolina
+28729	35.306797	-82.593506	Etowah	North Carolina
+28169	35.358071	-81.430501	Waco	North Carolina
+27288	36.497559	-79.749460	Eden	North Carolina
+28590	35.519043	-77.408790	Winterville	North Carolina
+28449	33.981170	-77.918620	Kure Beach	North Carolina
+27893	35.686693	-77.895425	Wilson	North Carolina
+27023	36.089764	-80.456727	Lewisville	North Carolina
+27936	35.242441	-75.618528	Frisco	North Carolina
+27051	36.183698	-80.161960	Walkertown	North Carolina
+27568	35.512027	-78.239250	Pine Level	North Carolina
+28390	35.229779	-78.971284	Spring Lake	North Carolina
+27530	35.380668	-78.081405	Goldsboro	North Carolina
+28115	35.584580	-80.778871	Mooresville	North Carolina
+27801	35.913276	-77.730779	Rocky Mount	North Carolina
+28725	35.371622	-83.254699	Dillsboro	North Carolina
+28089	35.317496	-81.665397	Lattimore	North Carolina
+27929	36.432236	-76.001589	Currituck	North Carolina
+28043	35.312834	-81.869720	Forest City	North Carolina
+28097	35.260861	-80.427941	Locust	North Carolina
+28034	35.353664	-81.178943	Dallas	North Carolina
+28658	35.628499	-81.239081	Newton	North Carolina
+27540	35.624762	-78.859674	Holly Springs	North Carolina
+27045	36.234951	-80.296729	Rural Hall	North Carolina
+27253	35.966209	-79.347414	Graham	North Carolina
+28467	33.921875	-78.596865	Calabash	North Carolina
+27021	36.318059	-80.339273	King	North Carolina
+28079	35.124810	-80.592908	Indian Trail	North Carolina
+28086	35.243945	-81.378942	Kings Mountain	North Carolina
+28739	35.272669	-82.526412	Hendersonville	North Carolina
+28367	35.174402	-79.728648	Norman	North Carolina
+28616	36.028867	-81.923065	Crossnore	North Carolina
+28016	35.316985	-81.300582	Bessemer City	North Carolina
+27516	35.906252	-79.154758	Chapel Hill	North Carolina
+28554	35.485305	-77.604911	Maury	North Carolina
+27939	36.234342	-75.869397	Grandy	North Carolina
+27587	35.980909	-78.551098	Wake Forest	North Carolina
+28092	35.480432	-81.250330	Lincolnton	North Carolina
+28630	35.827169	-81.421657	Granite Falls	North Carolina
+28023	35.571383	-80.608208	China Grove	North Carolina
+28792	35.383322	-82.369202	Hendersonville	North Carolina
+28342	35.191183	-78.651262	Falcon	North Carolina
+27890	36.414180	-77.587745	Weldon	North Carolina
+27258	36.025243	-79.324627	Haw River	North Carolina
+28147	35.681117	-80.562942	Salisbury	North Carolina
+28110	35.065318	-80.524866	Monroe	North Carolina
+28372	34.695605	-79.180446	Pembroke	North Carolina
+28150	35.342703	-81.576248	Shelby	North Carolina
+27520	35.631139	-78.441431	Clayton	North Carolina
+28152	35.242720	-81.599412	Shelby	North Carolina
+27292	35.738325	-80.207547	Lexington	North Carolina
+28037	35.507092	-81.027942	Denver	North Carolina
+28778	35.629122	-82.405195	Swannanoa	North Carolina
+27295	35.867634	-80.317077	Lexington	North Carolina
+27217	36.190945	-79.380186	Burlington	North Carolina
+28146	35.620645	-80.414468	Salisbury	North Carolina
+28006	35.410439	-81.092440	Alexis	North Carolina
+28076	35.255987	-81.782755	Henrietta	North Carolina
+27244	36.192849	-79.493855	Elon	North Carolina
+28164	35.392880	-81.044037	Stanley	North Carolina
+28539	34.703534	-77.199887	Hubert	North Carolina
+28732	35.443231	-82.472185	Fletcher	North Carolina
+28607	36.205846	-81.656022	Boone	North Carolina
+27964	36.091816	-75.805540	Point Harbor	North Carolina
+27317	35.836199	-79.800849	Randleman	North Carolina
+27560	35.853529	-78.849689	Morrisville	North Carolina
+28333	35.284311	-78.012655	Dudley	North Carolina
+27370	35.809280	-79.978025	Trinity	North Carolina
+28715	35.528276	-82.706634	Candler	North Carolina
+27582	36.452076	-78.571802	Stovall	North Carolina
+27526	35.541473	-78.831392	Fuquay Varina	North Carolina
+27310	36.181950	-79.985744	Oak Ridge	North Carolina
+27941	36.097932	-75.819046	Harbinger	North Carolina
+27592	35.560141	-78.673940	Willow Spring	North Carolina
+28584	34.727977	-77.102282	Swansboro	North Carolina
+28650	35.582446	-81.163438	Maiden	North Carolina
+28610	35.734775	-81.138430	Claremont	North Carolina
+28278	35.130547	-81.002682	Charlotte	North Carolina
+27915	35.348771	-75.504710	Avon	North Carolina
+27834	35.657563	-77.380045	Greenville	North Carolina
+28301	34.971977	-78.756357	Fayetteville	North Carolina
+27313	35.930899	-79.758242	Pleasant Garden	North Carolina
+28166	35.682675	-80.867373	Troutman	North Carolina
+27591	35.786352	-78.383414	Wendell	North Carolina
+27501	35.484941	-78.684570	Angier	North Carolina
+28731	35.280184	-82.383092	Flat Rock	North Carolina
+28501	35.243260	-77.526554	Kinston	North Carolina
+28038	35.199222	-81.544276	Earl	North Carolina
+28138	35.515381	-80.438760	Rockwell	North Carolina
+27027	36.441759	-79.988878	Mayodan	North Carolina
+28021	35.400774	-81.403346	Cherryville	North Carolina
+27203	35.653974	-79.846235	Asheboro	North Carolina
+27030	36.487278	-80.637446	Mount Airy	North Carolina
+28697	36.134008	-81.165721	Wilkesboro	North Carolina
+28001	35.338579	-80.208179	Albemarle	North Carolina
+28352	34.768361	-79.453668	Laurinburg	North Carolina
+27521	35.412991	-78.662288	Coats	North Carolina
+28429	34.341848	-77.904013	Castle Hayne	North Carolina
+28673	35.602401	-81.008641	Sherrills Ford	North Carolina
+27536	36.350924	-78.387589	Henderson	North Carolina
+27278	36.088220	-79.091623	Hillsborough	North Carolina
+28787	35.741288	-82.515490	Weaverville	North Carolina
+28073	35.198574	-81.483781	Grover	North Carolina
+28460	34.528294	-77.420498	Sneads Ferry	North Carolina
+27571	35.922490	-78.453601	Rolesville	North Carolina
+27576	35.588381	-78.253716	Selma	North Carolina
+28339	35.310540	-78.732747	Erwin	North Carolina
+28659	36.222815	-81.148013	North Wilkesboro	North Carolina
+28007	35.105487	-80.102776	Ansonville	North Carolina
+28755	35.919217	-82.212697	Micaville	North Carolina
+27358	36.222309	-79.892132	Summerfield	North Carolina
+27508	35.951828	-78.250851	Bunn	North Carolina
+27959	35.885082	-75.595910	Nags Head	North Carolina
+28360	34.670334	-79.074938	Lumberton	North Carolina
+28174	34.973831	-80.435334	Wingate	North Carolina
+28373	35.091323	-79.488461	Pinebluff	North Carolina
+28504	35.222186	-77.639499	Kinston	North Carolina
+27909	36.292914	-76.277362	Elizabeth City	North Carolina
+28358	34.608106	-78.934474	Lumberton	North Carolina
+27596	36.004817	-78.440532	Youngsville	North Carolina
+28376	34.992407	-79.242642	Raeford	North Carolina
+27302	36.142031	-79.266154	Mebane	North Carolina
+28547	34.645890	-77.325040	Camp Lejeune	North Carolina
+27330	35.470469	-79.172871	Sanford	North Carolina
+28345	34.874117	-79.662902	Hamlet	North Carolina
+28560	35.164212	-76.951457	New Bern	North Carolina
+27249	36.154141	-79.582389	Gibsonville	North Carolina
+27577	35.489722	-78.332954	Smithfield	North Carolina
+27235	36.101234	-80.008461	Colfax	North Carolina
+28577	34.883769	-76.383290	Sealevel	North Carolina
+28350	35.239542	-79.318807	Lakeview	North Carolina
+28701	35.705254	-82.640099	Alexander	North Carolina
+28786	35.540688	-83.011871	Waynesville	North Carolina
+27301	36.108026	-79.665392	Mc Leansville	North Carolina
+28379	34.928194	-79.780254	Rockingham	North Carolina
+27981	35.852855	-75.637424	Wanchese	North Carolina
+27006	35.939004	-80.440264	Advance	North Carolina
+28562	35.072604	-77.123304	New Bern	North Carolina
+28655	35.765655	-81.753744	Morganton	North Carolina
+28112	34.889925	-80.549548	Monroe	North Carolina
+28173	34.916155	-80.731415	Waxhaw	North Carolina
+28371	34.914878	-78.991226	Parkton	North Carolina
+27299	35.754214	-80.391091	Linwood	North Carolina
+28033	35.425216	-81.315626	Crouse	North Carolina
+28470	33.975328	-78.389600	Shallotte	North Carolina
+28532	34.886624	-76.913776	Havelock	North Carolina
+28766	35.248938	-82.618151	Penrose	North Carolina
+27350	35.808253	-79.888213	Sophia	North Carolina
+28621	36.359933	-80.780321	Elkin	North Carolina
+28730	35.528125	-82.349133	Fairview	North Carolina
+27357	36.273807	-79.991057	Stokesdale	North Carolina
+28391	35.034168	-78.698563	Stedman	North Carolina
+28080	35.453165	-81.109643	Iron Station	North Carolina
+27377	36.042693	-79.608683	Whitsett	North Carolina
+27597	35.848846	-78.300977	Zebulon	North Carolina
+28625	35.868681	-80.890284	Statesville	North Carolina
+28642	36.218398	-80.820312	Jonesville	North Carolina
+27050	36.229963	-80.406485	Tobaccoville	North Carolina
+27889	35.588401	-77.021065	Washington	North Carolina
+27877	36.511198	-77.176544	Severn	North Carolina
+28334	35.263401	-78.552737	Dunn	North Carolina
+28315	35.108619	-79.453166	Aberdeen	North Carolina
+27320	36.344070	-79.644365	Reidsville	North Carolina
+28711	35.610217	-82.305969	Black Mountain	North Carolina
+28368	35.356900	-79.101771	Olivia	North Carolina
+27504	35.400309	-78.518278	Benson	North Carolina
+28645	35.979359	-81.547133	Lenoir	North Carolina
+28682	35.600280	-80.960357	Terrell	North Carolina
+28468	33.932426	-78.522494	Sunset Beach	North Carolina
+28612	35.728384	-81.487414	Connellys Springs	North Carolina
+27009	36.230734	-80.077571	Belews Creek	North Carolina
+28681	35.922350	-81.224112	Taylorsville	North Carolina
+28777	35.923136	-82.077753	Spruce Pine	North Carolina
+27248	35.783846	-79.711678	Franklinville	North Carolina
+27214	36.212600	-79.681544	Browns Summit	North Carolina
+28469	33.945838	-78.467002	Ocean Isle Beach	North Carolina
+28784	35.211824	-82.434486	Tuxedo	North Carolina
+27966	36.128513	-75.839182	Powells Point	North Carolina
+28605	36.129968	-81.705278	Blowing Rock	North Carolina
+27842	36.528448	-77.850022	Henrico	North Carolina
+28749	35.849068	-82.077736	Little Switzerland	North Carolina
+27863	35.488168	-77.971767	Pikeville	North Carolina
+28782	35.212324	-82.280741	Tryon	North Carolina
+27055	36.113864	-80.631592	Yadkinville	North Carolina
+28570	34.783094	-76.886709	Newport	North Carolina
+28712	35.159229	-82.779903	Brevard	North Carolina
+28040	35.372996	-81.755686	Ellenboro	North Carolina
+28386	34.858922	-79.122294	Shannon	North Carolina
+28461	33.967209	-78.059122	Southport	North Carolina
+28748	35.658138	-82.757662	Leicester	North Carolina
+28362	34.372230	-79.127337	Marietta	North Carolina
+27376	35.261099	-79.521811	West End	North Carolina
+28779	35.365519	-83.210357	Sylva	North Carolina
+28722	35.239258	-82.114733	Columbus	North Carolina
+27233	35.884488	-79.690554	Climax	North Carolina
+28609	35.680629	-81.059051	Catawba	North Carolina
+27028	35.924116	-80.581450	Mocksville	North Carolina
+27283	35.951474	-79.635418	Julian	North Carolina
+28676	36.331894	-80.854910	State Road	North Carolina
+27920	35.243438	-75.563930	Buxton	North Carolina
+28163	35.209645	-80.459491	Stanfield	North Carolina
+28640	36.403077	-81.402662	Jefferson	North Carolina
+28129	35.231586	-80.326733	Oakboro	North Carolina
+28516	34.820159	-76.600244	Beaufort	North Carolina
+27546	35.384792	-78.880927	Lillington	North Carolina
+27855	36.415640	-77.069346	Murfreesboro	North Carolina
+28451	34.230477	-78.089664	Leland	North Carolina
+27985	36.218634	-76.476331	Winfall	North Carolina
+27573	36.432440	-78.948510	Roxboro	North Carolina
+27025	36.380838	-79.973232	Madison	North Carolina
+27522	36.117158	-78.677494	Creedmoor	North Carolina
+28332	34.655385	-78.710710	Dublin	North Carolina
+28377	34.826888	-79.213236	Red Springs	North Carolina
+27864	35.806760	-77.640027	Pinetops	North Carolina
+28384	34.797090	-78.960927	Saint Pauls	North Carolina
+28128	35.210696	-80.154523	Norwood	North Carolina
+28524	34.785221	-76.475447	Davis	North Carolina
+27982	35.562630	-75.470911	Waves	North Carolina
+28124	35.409254	-80.401677	Mount Pleasant	North Carolina
+27851	35.640053	-78.030662	Lucama	North Carolina
+27525	36.110802	-78.465516	Franklinton	North Carolina
+28579	34.760705	-76.520080	Smyrna	North Carolina
+27052	36.318830	-80.150635	Walnut Cove	North Carolina
+27807	35.804496	-78.095516	Bailey	North Carolina
+27041	36.410960	-80.488991	Pilot Mountain	North Carolina
+28698	36.307444	-81.730169	Zionville	North Carolina
+28678	35.842876	-81.070888	Stony Point	North Carolina
+27856	36.026518	-77.987864	Nashville	North Carolina
+28107	35.252860	-80.518680	Midland	North Carolina
+27932	36.107824	-76.607876	Edenton	North Carolina
+28343	34.769641	-79.594622	Gibson	North Carolina
+28168	35.552360	-81.425071	Vale	North Carolina
+28752	35.713081	-82.058259	Marion	North Carolina
+28114	35.232772	-81.751903	Mooresboro	North Carolina
+28364	34.707179	-79.323457	Maxton	North Carolina
+28139	35.348363	-81.994737	Rutherfordton	North Carolina
+27583	36.309721	-78.930893	Timberlake	North Carolina
+27886	35.912368	-77.526864	Tarboro	North Carolina
+27557	35.775745	-78.202441	Middlesex	North Carolina
+27017	36.359685	-80.719898	Dobson	North Carolina
+28513	35.443137	-77.397908	Ayden	North Carolina
+28694	36.357952	-81.462271	West Jefferson	North Carolina
+27048	36.482512	-79.917678	Stoneville	North Carolina
+27298	35.885112	-79.567545	Liberty	North Carolina
+28328	35.006350	-78.338230	Clinton	North Carolina
+27011	36.216451	-80.698472	Boonville	North Carolina
+27007	36.379818	-80.591143	Ararat	North Carolina
+27542	35.623192	-78.141177	Kenly	North Carolina
+27828	35.591919	-77.589195	Farmville	North Carolina
+27316	35.688212	-79.616635	Ramseur	North Carolina
+28742	35.382690	-82.651028	Horse Shoe	North Carolina
+28472	34.298944	-78.690146	Whiteville	North Carolina
+28127	35.468227	-80.182719	New London	North Carolina
+28394	35.214456	-79.251617	Vass	North Carolina
+28772	35.133363	-82.850941	Rosman	North Carolina
+27344	35.730926	-79.428721	Siler City	North Carolina
+27054	35.792540	-80.597888	Woodleaf	North Carolina
+28551	35.316749	-77.770874	La Grange	North Carolina
+27910	36.300160	-76.993414	Ahoskie	North Carolina
+28716	35.460265	-82.867106	Canton	North Carolina
+27042	36.350453	-80.062564	Pine Hall	North Carolina
+28090	35.454659	-81.559555	Lawndale	North Carolina
+27243	36.066916	-79.198148	Efland	North Carolina
+28789	35.430017	-83.286079	Whittier	North Carolina
+28326	35.273827	-79.159382	Cameron	North Carolina
+28431	34.324500	-78.846908	Chadbourn	North Carolina
+27822	35.804779	-77.839022	Elm City	North Carolina
+28580	35.442874	-77.706926	Snow Hill	North Carolina
+27584	36.528896	-78.444524	Townsville	North Carolina
+28462	34.038603	-78.296236	Supply	North Carolina
+28340	34.462292	-79.138468	Fairmont	North Carolina
+27986	36.379434	-76.921221	Winton	North Carolina
+27019	36.313120	-80.245976	Germanton	North Carolina
+27315	36.502996	-79.380914	Providence	North Carolina
+27503	36.152584	-78.884277	Bahama	North Carolina
+27018	36.197141	-80.518248	East Bend	North Carolina
+27043	36.334484	-80.447105	Pinnacle	North Carolina
+28636	35.947410	-81.062971	Hiddenite	North Carolina
+28768	35.297872	-82.692321	Pisgah Forest	North Carolina
+27209	35.343102	-79.753442	Biscoe	North Carolina
+28692	36.291456	-81.806434	Vilas	North Carolina
+27020	36.105531	-80.808767	Hamptonville	North Carolina
+28721	35.667537	-82.962359	Clyde	North Carolina
+27832	36.516240	-77.709502	Gaston	North Carolina
+28443	34.445036	-77.675712	Hampstead	North Carolina
+28439	34.303398	-79.005429	Fair Bluff	North Carolina
+27958	36.501073	-76.173307	Moyock	North Carolina
+28651	36.311646	-81.312196	Millers Creek	North Carolina
+28905	35.172133	-83.931273	Marble	North Carolina
+28452	33.999128	-78.556074	Longwood	North Carolina
+28351	34.848270	-79.563854	Laurel Hill	North Carolina
+28530	35.363409	-77.415214	Grifton	North Carolina
+28357	34.901888	-79.082766	Lumber Bridge	North Carolina
+27880	35.730736	-78.080589	Sims	North Carolina
+28531	34.700209	-76.556553	Harkers Island	North Carolina
+27563	36.421259	-78.220845	Norlina	North Carolina
+27549	36.089631	-78.234318	Louisburg	North Carolina
+28751	35.516879	-83.105540	Maggie Valley	North Carolina
+28734	35.198983	-83.421438	Franklin	North Carolina
+27892	35.815970	-77.063194	Williamston	North Carolina
+28634	35.972899	-80.756960	Harmony	North Carolina
+28761	35.652345	-81.904570	Nebo	North Carolina
+27569	35.429475	-78.172122	Princeton	North Carolina
+28344	35.169594	-78.640414	Godwin	North Carolina
+27809	36.016777	-77.741619	Battleboro	North Carolina
+28511	34.901116	-76.345763	Atlantic	North Carolina
+27325	35.464346	-79.578926	Robbins	North Carolina
+28754	35.872733	-82.512465	Mars Hill	North Carolina
+27837	35.516677	-77.211067	Grimesland	North Carolina
+27960	35.073231	-75.998527	Ocracoke	North Carolina
+27819	35.825638	-77.440922	Conetoe	North Carolina
+27349	35.901313	-79.416062	Snow Camp	North Carolina
+27312	35.760308	-79.198780	Pittsboro	North Carolina
+28901	35.202394	-83.803956	Andrews	North Carolina
+27524	35.394563	-78.387595	Four Oaks	North Carolina
+28347	35.041020	-79.564599	Hoffman	North Carolina
+28464	34.776640	-78.017320	Teachey	North Carolina
+28365	35.172624	-78.052397	Mount Olive	North Carolina
+28762	35.626790	-82.231583	Old Fort	North Carolina
+27505	35.423373	-79.000039	Broadway	North Carolina
+28398	34.995035	-78.071712	Warsaw	North Carolina
+28574	34.860075	-77.588612	Richlands	North Carolina
+27311	36.484143	-79.468272	Pelham	North Carolina
+28622	36.196882	-81.945538	Elk Park	North Carolina
+27830	35.564168	-77.950309	Fremont	North Carolina
+27013	35.750492	-80.700079	Cleveland	North Carolina
+27565	36.361663	-78.649294	Oxford	North Carolina
+27947	36.182059	-75.856411	Jarvisburg	North Carolina
+27831	36.464394	-77.562862	Garysburg	North Carolina
+28670	36.194017	-80.914766	Ronda	North Carolina
+28383	34.576974	-79.262696	Rowland	North Carolina
+28356	35.235916	-78.791040	Linden	North Carolina
+28385	35.073309	-78.503596	Salemburg	North Carolina
+27882	35.930727	-78.102864	Spring Hope	North Carolina
+28538	35.422484	-77.571299	Hookerton	North Carolina
+28909	34.999507	-83.939638	Warne	North Carolina
+28463	34.104765	-78.782385	Tabor City	North Carolina
+28327	35.360618	-79.421812	Carthage	North Carolina
+28578	35.196952	-77.856972	Seven Springs	North Carolina
+27355	35.794966	-79.574007	Staley	North Carolina
+28604	36.158156	-81.844493	Banner Elk	North Carolina
+28320	34.558099	-78.772787	Bladenboro	North Carolina
+27844	36.242712	-77.946424	Hollister	North Carolina
+28582	34.751401	-77.154378	Stella	North Carolina
+28679	36.261207	-81.828295	Sugar Grove	North Carolina
+28518	34.894823	-77.747493	Beulaville	North Carolina
+27916	36.302497	-75.909193	Aydlett	North Carolina
+27305	36.515770	-79.216717	Milton	North Carolina
+27581	36.203253	-78.736070	Stem	North Carolina
+28902	35.029617	-83.948917	Brasstown	North Carolina
+28669	36.238082	-80.992982	Roaring River	North Carolina
+27812	35.806476	-77.380511	Bethel	North Carolina
+28170	34.994680	-80.108670	Wadesboro	North Carolina
+27962	35.797588	-76.716459	Plymouth	North Carolina
+28425	34.565212	-77.898522	Burgaw	North Carolina
+27379	36.382747	-79.349089	Yanceyville	North Carolina
+28323	35.321281	-78.824176	Bunnlevel	North Carolina
+28337	34.657313	-78.574655	Elizabethtown	North Carolina
+28456	34.374405	-78.287099	Riegelwood	North Carolina
+28525	35.115250	-77.685126	Deep Run	North Carolina
+27572	36.255158	-78.877507	Rougemont	North Carolina
+28137	35.497797	-80.262685	Richfield	North Carolina
+28103	35.010589	-80.354282	Marshville	North Carolina
+27950	36.529091	-76.061679	Knotts Island	North Carolina
+28378	34.859710	-79.051783	Rex	North Carolina
+28657	36.021961	-81.942482	Newland	North Carolina
+28623	36.535317	-80.977696	Ennice	North Carolina
+27972	35.426600	-75.485316	Salvo	North Carolina
+27544	36.199787	-78.446559	Kittrell	North Carolina
+28508	35.108669	-77.827029	Albertson	North Carolina
+28714	35.878528	-82.304617	Burnsville	North Carolina
+28071	35.517631	-80.316323	Gold Hill	North Carolina
+28723	35.290811	-83.116830	Cullowhee	North Carolina
+28626	36.291416	-81.497423	Fleetwood	North Carolina
+27840	35.978297	-77.212950	Hamilton	North Carolina
+27047	36.316943	-80.572430	Siloam	North Carolina
+27326	36.461690	-79.556410	Ruffin	North Carolina
+28617	36.480702	-81.361979	Crumpler	North Carolina
+27371	35.424637	-79.955375	Troy	North Carolina
+28510	35.010783	-76.809230	Arapahoe	North Carolina
+27239	35.600845	-80.090334	Denton	North Carolina
+27820	36.417717	-77.235794	Conway	North Carolina
+28318	35.026077	-78.619985	Autryville	North Carolina
+27231	36.207715	-79.169419	Cedar Grove	North Carolina
+28790	35.198197	-82.495159	Zirconia	North Carolina
+27852	35.750459	-77.636931	Macclesfield	North Carolina
+27967	36.228655	-76.975129	Powellsville	North Carolina
+28713	35.369463	-83.499854	Bryson City	North Carolina
+28635	36.342974	-81.124387	Hays	North Carolina
+28382	34.925966	-78.533268	Roseboro	North Carolina
+28773	35.277424	-82.323540	Saluda	North Carolina
+28675	36.504083	-81.154502	Sparta	North Carolina
+27888	35.589277	-77.715950	Walstonburg	North Carolina
+28396	34.931594	-79.402627	Wagram	North Carolina
+28366	35.230268	-78.361985	Newton Grove	North Carolina
+28660	35.968548	-80.854418	Olin	North Carolina
+27817	35.441222	-77.076905	Chocowinity	North Carolina
+27897	36.326705	-77.193928	Woodland	North Carolina
+27944	36.195837	-76.386645	Hertford	North Carolina
+28654	36.058164	-81.159284	Moravian Falls	North Carolina
+28572	35.015093	-77.730504	Pink Hill	North Carolina
+28020	35.525678	-81.636594	Casar	North Carolina
+27341	35.524152	-79.699421	Seagrove	North Carolina
+28705	36.045318	-82.186725	Bakersville	North Carolina
+28125	35.659025	-80.698613	Mount Ulla	North Carolina
+28422	34.023041	-78.172870	Bolivia	North Carolina
+28693	36.473863	-81.564661	Warrensville	North Carolina
+28586	35.326430	-77.159484	Vanceboro	North Carolina
+28349	34.979997	-77.896192	Kenansville	North Carolina
+27024	36.516571	-80.848966	Lowgap	North Carolina
+28646	36.062451	-81.876515	Linville	North Carolina
+28571	35.063131	-76.707283	Oriental	North Carolina
+28458	34.816808	-78.077852	Rose Hill	North Carolina
+27921	36.361312	-76.156367	Camden	North Carolina
+27589	36.333057	-78.122275	Warrenton	North Carolina
+27046	36.502219	-80.078264	Sandy Ridge	North Carolina
+28756	35.332683	-82.166743	Mill Spring	North Carolina
+27256	35.565606	-79.288688	Gulf	North Carolina
+28710	35.465871	-82.288901	Bat Cave	North Carolina
+28466	34.726634	-77.907832	Wallace	North Carolina
+28445	34.516269	-77.560112	Holly Ridge	North Carolina
+27570	36.453750	-78.235926	Ridgeway	North Carolina
+27356	35.443292	-79.802649	Star	North Carolina
+28606	36.057151	-81.315930	Boomer	North Carolina
+27823	36.213482	-77.705710	Enfield	North Carolina
+27541	36.265928	-79.100571	Hurdle Mills	North Carolina
+28457	34.459905	-77.862331	Rocky Point	North Carolina
+28685	36.340516	-81.031620	Traphill	North Carolina
+27022	36.512166	-80.215604	Lawsonville	North Carolina
+27016	36.446821	-80.219850	Danbury	North Carolina
+28135	35.044443	-80.213110	Polkton	North Carolina
+28433	34.488505	-78.616673	Clarkton	North Carolina
+28450	34.324662	-78.515289	Lake Waccamaw	North Carolina
+27553	36.478190	-78.292740	Manson	North Carolina
+27871	35.802069	-77.260565	Robersonville	North Carolina
+28906	35.121209	-84.125460	Murphy	North Carolina
+27808	35.467424	-76.759213	Bath	North Carolina
+28018	35.490775	-81.802678	Bostic	North Carolina
+27252	35.550935	-79.358865	Goldston	North Carolina
+27883	35.591314	-77.797084	Stantonsburg	North Carolina
+28395	35.139367	-78.740661	Wade	North Carolina
+28521	34.817902	-77.736618	Chinquapin	North Carolina
+27917	36.358418	-75.993420	Barco	North Carolina
+27816	36.098182	-78.073602	Castalia	North Carolina
+28393	34.980876	-78.189681	Turkey	North Carolina
+28735	35.474962	-82.347445	Gerton	North Carolina
+28341	35.120111	-78.174052	Faison	North Carolina
+27229	35.261205	-79.807741	Candor	North Carolina
+28432	34.168118	-78.758679	Clarendon	North Carolina
+28643	36.523609	-81.534236	Lansing	North Carolina
+28618	36.193871	-81.518640	Deep Gap	North Carolina
+27053	36.472259	-80.340718	Westfield	North Carolina
+27343	36.505896	-79.108145	Semora	North Carolina
+28430	34.284007	-78.932772	Cerro Gordo	North Carolina
+27829	35.690463	-77.617078	Fountain	North Carolina
+28119	34.854612	-80.014303	Morven	North Carolina
+27923	36.345079	-75.937637	Coinjock	North Carolina
+27937	36.508724	-76.788898	Gates	North Carolina
+27207	35.603315	-79.385501	Bear Creek	North Carolina
+28438	34.420398	-78.913721	Evergreen	North Carolina
+28709	35.770199	-82.394984	Barnardsville	North Carolina
+28392	34.740867	-78.804488	Tar Heel	North Carolina
+27874	36.134317	-77.418057	Scotland Neck	North Carolina
+27208	35.580182	-79.524806	Bennett	North Carolina
+27242	35.335237	-79.632182	Eagle Springs	North Carolina
+27926	36.505115	-76.604925	Corapeake	North Carolina
+27980	36.247837	-76.627988	Tyner	North Carolina
+28453	34.866403	-78.076452	Magnolia	North Carolina
+28689	36.038288	-80.909785	Union Grove	North Carolina
+28753	35.864080	-82.712731	Marshall	North Carolina
+27821	35.337908	-76.852491	Edward	North Carolina
+27850	36.412391	-77.880191	Littleton	North Carolina
+28436	34.275492	-78.281679	Delco	North Carolina
+28369	34.423373	-79.029416	Orrum	North Carolina
+28442	34.301813	-78.608365	Hallsboro	North Carolina
+27891	36.096496	-77.734109	Whitakers	North Carolina
+27965	36.230776	-75.899079	Poplar Branch	North Carolina
+28683	36.398897	-80.918268	Thurmond	North Carolina
+28627	36.441867	-81.010019	Glade Valley	North Carolina
+28479	34.127157	-78.044842	Winnabow	North Carolina
+27559	35.631510	-79.088882	Moncure	North Carolina
+28529	35.078712	-76.868270	Grantsboro	North Carolina
+27314	36.286348	-79.198150	Prospect Hill	North Carolina
+28765	35.934408	-82.109938	Penland	North Carolina
+28904	35.068396	-83.733464	Hayesville	North Carolina
+28684	36.336086	-81.607828	Todd	North Carolina
+28478	34.671118	-78.050895	Willard	North Carolina
+28747	35.146361	-82.914277	Lake Toxaway	North Carolina
+27924	36.175371	-76.851932	Colerain	North Carolina
+27884	35.702849	-77.270314	Stokes	North Carolina
+28741	35.059616	-83.244149	Highlands	North Carolina
+27281	35.185285	-79.620176	Jackson Springs	North Carolina
+27970	35.897777	-76.544552	Roper	North Carolina
+27973	36.374385	-76.082183	Shawboro	North Carolina
+28133	34.887312	-80.288114	Peachland	North Carolina
+27306	35.225229	-79.980186	Mount Gilead	North Carolina
+28746	35.460799	-82.183248	Lake Lure	North Carolina
+28589	34.808441	-76.510879	Williston	North Carolina
+28423	34.320925	-78.386667	Bolton	North Carolina
+28523	35.208786	-77.299531	Cove City	North Carolina
+27212	36.480076	-79.279650	Blanch	North Carolina
+27866	36.518176	-77.530573	Pleasant Hill	North Carolina
+28771	35.348972	-83.800580	Robbinsville	North Carolina
+28615	36.451777	-81.668178	Creston	North Carolina
+27291	36.367740	-79.161627	Leasburg	North Carolina
+28763	35.028618	-83.466858	Otto	North Carolina
+27805	36.207567	-77.092722	Aulander	North Carolina
+28717	35.049339	-83.093366	Cashiers	North Carolina
+27872	36.187771	-77.268944	Roxobel	North Carolina
+27507	36.513546	-78.569507	Bullock	North Carolina
+28167	35.508133	-81.961946	Union Mills	North Carolina
+27956	36.415722	-76.033527	Maple	North Carolina
+27876	36.474414	-77.405107	Seaboard	North Carolina
+27839	36.280743	-77.555932	Halifax	North Carolina
+27846	35.758568	-76.897527	Jamesville	North Carolina
+28515	35.185887	-76.637517	Bayboro	North Carolina
+28455	34.104890	-78.638356	Nakina	North Carolina
+28719	35.626752	-83.290096	Cherokee	North Carolina
+28740	36.052443	-82.307100	Green Mountain	North Carolina
+27938	36.394005	-76.723103	Gatesville	North Carolina
+27857	35.970921	-77.260509	Oak City	North Carolina
+27562	35.640917	-78.977672	New Hill	North Carolina
+27869	36.279560	-77.311689	Rich Square	North Carolina
+27979	36.453612	-76.566904	Sunbury	North Carolina
+27827	35.703864	-77.503994	Falkland	North Carolina
+28665	36.216020	-81.383476	Purlear	North Carolina
+28526	35.224535	-77.409152	Dover	North Carolina
+27942	36.272503	-76.783869	Harrellsville	North Carolina
+27847	36.182276	-77.195875	Kelford	North Carolina
+28338	35.096399	-79.748205	Ellerbe	North Carolina
+28663	36.532030	-81.309408	Piney Creek	North Carolina
+28668	36.387244	-81.017098	Roaring Gap	North Carolina
+28555	34.872870	-77.304337	Maysville	North Carolina
+28527	35.252239	-77.024255	Ernul	North Carolina
+27983	35.992327	-76.949197	Windsor	North Carolina
+28102	34.827766	-79.965986	Mc Farlan	North Carolina
+28420	34.073706	-78.481116	Ash	North Carolina
+28624	36.116554	-81.421999	Ferguson	North Carolina
+28581	34.844375	-76.435463	Stacy	North Carolina
+28718	35.164439	-82.619490	Cedar Mountain	North Carolina
+27865	35.551743	-76.853012	Pinetown	North Carolina
+28435	34.405910	-78.109108	Currie	North Carolina
+28091	34.993210	-79.937375	Lilesville	North Carolina
+28556	35.124611	-76.663596	Merritt	North Carolina
+28441	34.792072	-78.449272	Garland	North Carolina
+27935	36.431079	-76.868092	Eure	North Carolina
+27928	35.848232	-76.405801	Creswell	North Carolina
+28631	36.557044	-81.425992	Grassy Creek	North Carolina
+28454	34.666254	-77.621657	Maple Hill	North Carolina
+27957	36.066297	-76.759059	Merry Hill	North Carolina
+28649	36.342900	-81.219062	Mc Grady	North Carolina
+27927	36.470280	-75.875397	Corolla	North Carolina
+27814	35.380117	-76.932428	Blounts Creek	North Carolina
+27818	36.499725	-77.018505	Como	North Carolina
+27845	36.371267	-77.439990	Jackson	North Carolina
+28644	36.439936	-81.277431	Laurel Springs	North Carolina
+28743	35.814546	-82.873204	Hot Springs	North Carolina
+28736	35.175631	-83.086520	Glenville	North Carolina
+27849	36.077306	-77.215025	Lewiston Woodville	North Carolina
+28363	34.938559	-79.545700	Marston	North Carolina
+27551	36.431195	-78.065868	Macon	North Carolina
+28573	34.972895	-77.205645	Pollocksville	North Carolina
+28421	34.526701	-78.177065	Atkinson	North Carolina
+28783	35.232214	-83.029705	Tuckasegee	North Carolina
+27922	36.326204	-76.864748	Cofield	North Carolina
+28585	35.049763	-77.417580	Trenton	North Carolina
+28629	36.349385	-81.362851	Glendale Springs	North Carolina
+27925	35.869365	-76.188039	Columbia	North Carolina
+27968	35.708660	-75.494906	Rodanthe	North Carolina
+27974	36.272128	-76.004980	Shiloh	North Carolina
+27946	36.377813	-76.591631	Hobbsville	North Carolina
+27843	35.990286	-77.389369	Hobgood	North Carolina
+28552	35.300932	-76.546476	Lowland	North Carolina
+27976	36.483797	-76.344783	South Mills	North Carolina
+27810	35.594699	-76.495168	Belhaven	North Carolina
+28399	34.784523	-78.709012	White Oak	North Carolina
+28434	34.459823	-78.462151	Council	North Carolina
+28774	35.093531	-82.995061	Sapphire	North Carolina
+27862	36.490195	-77.188266	Pendleton	North Carolina
+27919	36.320087	-76.504787	Belvidere	North Carolina
+27853	36.513730	-77.304210	Margarettsville	North Carolina
+28444	34.670985	-78.315282	Harrells	North Carolina
+27860	35.660071	-76.676727	Pantego	North Carolina
+27806	35.304999	-76.756067	Aurora	North Carolina
+28447	34.597821	-78.252419	Ivanhoe	North Carolina
+28781	35.224818	-83.635607	Topton	North Carolina
+28520	34.955717	-76.296577	Cedar Island	North Carolina
+27824	35.516975	-76.009959	Engelhard	North Carolina
+28733	35.443836	-83.833423	Fontana Dam	North Carolina
+28708	35.289089	-82.848550	Balsam Grove	North Carolina
+28537	35.260700	-76.541911	Hobucken	North Carolina
+28448	34.522635	-78.365874	Kelly	North Carolina
+27885	35.428229	-76.275726	Swanquarter	North Carolina
+28702	35.396082	-83.580634	Almond	North Carolina
+28611	36.006907	-81.743309	Collettsville	North Carolina
+27826	35.598385	-76.174035	Fairfield	North Carolina
+28662	36.026283	-81.842419	Pineola	North Carolina
+27875	35.461484	-76.470873	Scranton	North Carolina
+27953	35.771035	-75.849852	Manns Harbor	North Carolina
