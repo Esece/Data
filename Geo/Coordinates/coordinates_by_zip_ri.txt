@@ -1,0 +1,70 @@
+02863	41.890064	-71.393481	Central Falls	Rhode Island
+02909	41.820021	-71.454971	Providence	Rhode Island
+02908	41.839825	-71.436794	Providence	Rhode Island
+02907	41.798593	-71.424630	Providence	Rhode Island
+02906	41.838640	-71.393191	Providence	Rhode Island
+02860	41.870378	-71.388673	Pawtucket	Rhode Island
+02861	41.878603	-71.353131	Pawtucket	Rhode Island
+02905	41.787572	-71.400602	Providence	Rhode Island
+02911	41.854200	-71.475084	North Providence	Rhode Island
+02903	41.821245	-71.413216	Providence	Rhode Island
+02910	41.776620	-71.435948	Cranston	Rhode Island
+02895	42.001706	-71.499949	Woonsocket	Rhode Island
+02904	41.858331	-71.436309	Providence	Rhode Island
+02914	41.812460	-71.362549	East Providence	Rhode Island
+02920	41.766947	-71.465077	Cranston	Rhode Island
+02893	41.679006	-71.518688	West Warwick	Rhode Island
+02838	41.968706	-71.475191	Manville	Rhode Island
+02888	41.747582	-71.411541	Warwick	Rhode Island
+02889	41.705734	-71.391045	Warwick	Rhode Island
+02840	41.505223	-71.304543	Newport	Rhode Island
+02915	41.776454	-71.350197	Riverside	Rhode Island
+02916	41.842653	-71.352424	Rumford	Rhode Island
+02809	41.682990	-71.265465	Bristol	Rhode Island
+02886	41.705270	-71.458829	Warwick	Rhode Island
+02806	41.742940	-71.316303	Barrington	Rhode Island
+02885	41.727874	-71.259813	Warren	Rhode Island
+02881	41.468936	-71.520896	Kingston	Rhode Island
+02828	41.880083	-71.564311	Greenville	Rhode Island
+02842	41.514841	-71.273784	Middletown	Rhode Island
+02919	41.827440	-71.519879	Johnston	Rhode Island
+02864	41.967599	-71.420477	Cumberland	Rhode Island
+02882	41.426994	-71.466525	Narragansett	Rhode Island
+02865	41.913145	-71.448340	Lincoln	Rhode Island
+02818	41.641211	-71.492351	East Greenwich	Rhode Island
+02891	41.361831	-71.789666	Westerly	Rhode Island
+02816	41.692046	-71.619116	Coventry	Rhode Island
+02858	41.966369	-71.653087	Oakland	Rhode Island
+02921	41.759494	-71.520215	Cranston	Rhode Island
+02871	41.590389	-71.274397	Portsmouth	Rhode Island
+02852	41.585487	-71.461399	North Kingstown	Rhode Island
+02917	41.904238	-71.520660	Smithfield	Rhode Island
+02835	41.516647	-71.376852	Jamestown	Rhode Island
+02878	41.610137	-71.180471	Tiverton	Rhode Island
+02879	41.424013	-71.534272	Wakefield	Rhode Island
+02896	41.975186	-71.544069	North Smithfield	Rhode Island
+02839	41.941855	-71.626111	Mapleville	Rhode Island
+02831	41.746417	-71.584922	Hope	Rhode Island
+02874	41.508672	-71.481729	Saunderstown	Rhode Island
+02808	41.410654	-71.738509	Bradford	Rhode Island
+02836	41.455436	-71.621710	Kenyon	Rhode Island
+02830	41.974980	-71.654226	Harrisville	Rhode Island
+02875	41.456486	-71.638865	Shannock	Rhode Island
+02859	41.959069	-71.757323	Pascoag	Rhode Island
+02804	41.433934	-71.770314	Ashaway	Rhode Island
+02813	41.404495	-71.672899	Charlestown	Rhode Island
+02857	41.834514	-71.632919	North Scituate	Rhode Island
+02812	41.481845	-71.653206	Carolina	Rhode Island
+02832	41.514646	-71.746195	Hope Valley	Rhode Island
+02837	41.518769	-71.167247	Little Compton	Rhode Island
+02814	41.895932	-71.700554	Chepachet	Rhode Island
+02898	41.516047	-71.672436	Wyoming	Rhode Island
+02892	41.499440	-71.601587	West Kingston	Rhode Island
+02894	41.444470	-71.703237	Wood River Junction	Rhode Island
+02833	41.486343	-71.769518	Hopkinton	Rhode Island
+02807	41.177039	-71.579939	Block Island	Rhode Island
+02827	41.704727	-71.728067	Greene	Rhode Island
+02822	41.566000	-71.636754	Exeter	Rhode Island
+02817	41.637182	-71.678412	West Greenwich	Rhode Island
+02825	41.770597	-71.726895	Foster	Rhode Island
+02815	41.779047	-71.662400	Clayville	Rhode Island
