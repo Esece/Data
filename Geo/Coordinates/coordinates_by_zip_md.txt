@@ -1,0 +1,452 @@
+21231	39.288436	-76.591792	Baltimore	Maryland
+21217	39.307055	-76.638878	Baltimore	Maryland
+21202	39.296526	-76.607016	Baltimore	Maryland
+20712	38.943068	-76.965240	Mount Rainier	Maryland
+21218	39.330107	-76.601451	Baltimore	Maryland
+21223	39.283947	-76.652871	Baltimore	Maryland
+21213	39.314358	-76.576802	Baltimore	Maryland
+21201	39.294369	-76.622140	Baltimore	Maryland
+21216	39.310217	-76.672375	Baltimore	Maryland
+21205	39.300195	-76.583538	Baltimore	Maryland
+20912	38.981596	-77.001130	Takoma Park	Maryland
+21215	39.345241	-76.683566	Baltimore	Maryland
+21229	39.285295	-76.691096	Baltimore	Maryland
+21239	39.365159	-76.587101	Baltimore	Maryland
+20910	39.002883	-77.036607	Silver Spring	Maryland
+21214	39.352227	-76.564314	Baltimore	Maryland
+21212	39.367306	-76.614586	Baltimore	Maryland
+20782	38.963568	-76.966952	Hyattsville	Maryland
+20783	38.996594	-76.966095	Hyattsville	Maryland
+20710	38.941997	-76.926456	Bladensburg	Maryland
+21206	39.338428	-76.538877	Baltimore	Maryland
+20784	38.964888	-76.882348	Hyattsville	Maryland
+20886	39.181808	-77.196349	Montgomery Village	Maryland
+20901	39.023322	-77.010210	Silver Spring	Maryland
+20902	39.045249	-77.039264	Silver Spring	Maryland
+21234	39.393417	-76.534228	Parkville	Maryland
+20851	39.079082	-77.121858	Rockville	Maryland
+20903	39.022179	-76.984677	Silver Spring	Maryland
+21211	39.328746	-76.639281	Baltimore	Maryland
+21230	39.266826	-76.628862	Baltimore	Maryland
+20737	38.964259	-76.912689	Riverdale	Maryland
+20877	39.139174	-77.189032	Gaithersburg	Maryland
+21224	39.282744	-76.544988	Baltimore	Maryland
+20747	38.853259	-76.882759	District Heights	Maryland
+20815	38.983386	-77.079288	Chevy Chase	Maryland
+21734	39.609772	-77.707882	Funkstown	Maryland
+20781	38.953660	-76.945932	Hyattsville	Maryland
+20814	39.006513	-77.102182	Bethesda	Maryland
+21222	39.264142	-76.499211	Dundalk	Maryland
+21052	39.206410	-76.445397	Fort Howard	Maryland
+21207	39.324167	-76.719484	Gwynn Oak	Maryland
+21225	39.226056	-76.614557	Brooklyn	Maryland
+20906	39.092024	-77.058574	Silver Spring	Maryland
+20852	39.052131	-77.125074	Rockville	Maryland
+20748	38.814902	-76.933436	Temple Hills	Maryland
+21236	39.388421	-76.483550	Nottingham	Maryland
+20895	39.027030	-77.077539	Kensington	Maryland
+20816	38.957212	-77.118059	Bethesda	Maryland
+20743	38.884230	-76.893317	Capitol Heights	Maryland
+20745	38.804307	-76.997001	Oxon Hill	Maryland
+20896	39.034788	-77.093002	Garrett Park	Maryland
+20746	38.837628	-76.919078	Suitland	Maryland
+20785	38.918291	-76.881948	Hyattsville	Maryland
+21210	39.359156	-76.632685	Baltimore	Maryland
+20706	38.964886	-76.851768	Lanham	Maryland
+21114	39.013871	-76.680107	Crofton	Maryland
+20904	39.067000	-76.979306	Silver Spring	Maryland
+21045	39.209396	-76.830321	Columbia	Maryland
+20722	38.934558	-76.950600	Brentwood	Maryland
+21209	39.374122	-76.666693	Baltimore	Maryland
+21044	39.205869	-76.879110	Columbia	Maryland
+20770	39.005724	-76.877464	Greenbelt	Maryland
+21204	39.403109	-76.632475	Towson	Maryland
+20740	38.997738	-76.928277	College Park	Maryland
+21403	38.945343	-76.488700	Annapolis	Maryland
+21061	39.164831	-76.639344	Glen Burnie	Maryland
+20853	39.101713	-77.094562	Rockville	Maryland
+21228	39.272857	-76.747741	Catonsville	Maryland
+21227	39.239907	-76.678354	Halethorpe	Maryland
+20879	39.168979	-77.173970	Gaithersburg	Maryland
+21221	39.292940	-76.436558	Essex	Maryland
+21133	39.379670	-76.812499	Randallstown	Maryland
+20878	39.114480	-77.247961	Gaithersburg	Maryland
+21762	39.484676	-77.245710	Libertytown	Maryland
+21040	39.436501	-76.289966	Edgewood	Maryland
+21140	38.950842	-76.586726	Riva	Maryland
+21402	38.988821	-76.470747	Annapolis	Maryland
+21542	39.589476	-78.948204	Midland	Maryland
+20832	39.154722	-77.075537	Olney	Maryland
+20874	39.137483	-77.292164	Germantown	Maryland
+21146	39.079136	-76.558698	Severna Park	Maryland
+21208	39.383959	-76.724261	Pikesville	Maryland
+20817	38.997229	-77.151871	Bethesda	Maryland
+21014	39.535847	-76.351581	Bel Air	Maryland
+21130	39.465161	-76.201154	Perryman	Maryland
+20707	39.098505	-76.878676	Laurel	Maryland
+21009	39.466888	-76.295200	Abingdon	Maryland
+20850	39.089568	-77.187365	Rockville	Maryland
+21244	39.334941	-76.776703	Windsor Mill	Maryland
+21012	39.046835	-76.496133	Arnold	Maryland
+21017	39.475822	-76.236811	Belcamp	Maryland
+21237	39.341874	-76.495402	Rosedale	Maryland
+21286	39.411836	-76.573235	Towson	Maryland
+20818	38.976812	-77.163057	Cabin John	Maryland
+20880	39.139633	-77.174213	Washington Grove	Maryland
+21060	39.169376	-76.577334	Glen Burnie	Maryland
+21767	39.702812	-77.746029	Maugansville	Maryland
+21664	38.608463	-75.947348	Secretary	Maryland
+21043	39.260580	-76.800106	Ellicott City	Maryland
+21046	39.173497	-76.836296	Columbia	Maryland
+20763	39.137183	-76.827605	Savage	Maryland
+20744	38.758348	-76.983786	Fort Washington	Maryland
+20876	39.208384	-77.237152	Germantown	Maryland
+20715	38.986806	-76.736266	Bowie	Maryland
+21122	39.125561	-76.503973	Pasadena	Maryland
+21071	39.474936	-76.815252	Glyndon	Maryland
+20625	38.261363	-76.847395	Cobb Island	Maryland
+21144	39.120374	-76.677611	Severn	Maryland
+20723	39.137115	-76.874537	Laurel	Maryland
+20812	38.968315	-77.143152	Glen Echo	Maryland
+20716	38.926428	-76.715028	Bowie	Maryland
+21716	39.315037	-77.614098	Brunswick	Maryland
+20602	38.583394	-76.894551	Waldorf	Maryland
+20708	39.042796	-76.826866	Laurel	Maryland
+21861	38.538454	-75.718885	Sharptown	Maryland
+21220	39.344009	-76.396329	Middle River	Maryland
+20755	39.113257	-76.744044	Fort George G Meade	Maryland
+21051	39.470986	-76.448728	Fork	Maryland
+21093	39.433098	-76.649824	Lutherville Timonium	Maryland
+21401	38.977053	-76.565533	Annapolis	Maryland
+20866	39.109331	-76.933852	Burtonsville	Maryland
+20714	38.716679	-76.549984	North Beach	Maryland
+20721	38.915222	-76.785129	Bowie	Maryland
+21075	39.208272	-76.751461	Elkridge	Maryland
+21117	39.427563	-76.777976	Owings Mills	Maryland
+21090	39.208481	-76.672517	Linthicum Heights	Maryland
+21113	39.055531	-76.723673	Odenton	Maryland
+20623	38.741337	-76.842233	Cheltenham	Maryland
+20854	39.036421	-77.220891	Potomac	Maryland
+20705	39.048284	-76.902973	Beltsville	Maryland
+21108	39.091266	-76.621098	Millersville	Maryland
+20735	38.741936	-76.909279	Clinton	Maryland
+20905	39.109645	-76.988478	Silver Spring	Maryland
+20720	38.982729	-76.781541	Bowie	Maryland
+20794	39.149178	-76.782390	Jessup	Maryland
+21528	39.651955	-78.904875	Eckhart Mines	Maryland
+20603	38.625299	-76.979293	Waldorf	Maryland
+20855	39.137633	-77.132021	Derwood	Maryland
+20762	38.809803	-76.869158	Andrews Air Force Base	Maryland
+21842	38.355333	-75.126626	Ocean City	Maryland
+21914	39.575138	-75.984471	Charlestown	Maryland
+21826	38.320998	-75.627854	Fruitland	Maryland
+21913	39.404605	-75.867970	Cecilton	Maryland
+20774	38.887757	-76.770709	Upper Marlboro	Maryland
+21128	39.408778	-76.443404	Perry Hall	Maryland
+20629	38.336077	-76.455095	Dowell	Maryland
+21037	38.919135	-76.543507	Edgewater	Maryland
+21030	39.515820	-76.698751	Cockeysville	Maryland
+21777	39.272759	-77.532132	Point Of Rocks	Maryland
+21653	38.751965	-76.179874	Newcomb	Maryland
+20612	38.515916	-76.677454	Benedict	Maryland
+20764	38.834356	-76.506136	Shady Side	Maryland
+20688	38.337163	-76.465895	Solomons	Maryland
+20765	38.844357	-76.547737	Galesville	Maryland
+21042	39.277181	-76.894602	Ellicott City	Maryland
+21920	39.661112	-75.827151	Elk Mills	Maryland
+21701	39.443550	-77.332940	Frederick	Maryland
+21702	39.476148	-77.454643	Frederick	Maryland
+20733	38.805653	-76.532229	Churchton	Maryland
+20615	38.416220	-76.548354	Broomes Island	Maryland
+21740	39.631991	-77.733969	Hagerstown	Maryland
+21085	39.445889	-76.357010	Joppa	Maryland
+21703	39.363819	-77.477781	Frederick	Maryland
+21015	39.544175	-76.292469	Bel Air	Maryland
+21219	39.230897	-76.444547	Sparrows Point	Maryland
+21529	39.716984	-78.779254	Ellerslie	Maryland
+21226	39.203298	-76.555119	Curtis Bay	Maryland
+21866	37.967128	-76.021365	Tylerton	Maryland
+20732	38.655142	-76.542568	Chesapeake Beach	Maryland
+21076	39.168512	-76.716355	Hanover	Maryland
+20751	38.793020	-76.562171	Deale	Maryland
+21077	39.162274	-76.698600	Harmans	Maryland
+20769	38.973359	-76.807062	Glenn Dale	Maryland
+21810	38.293004	-75.687476	Allen	Maryland
+20724	39.080126	-76.785215	Laurel	Maryland
+21001	39.503048	-76.202092	Aberdeen	Maryland
+21784	39.398359	-76.972602	Sykesville	Maryland
+20634	38.260102	-76.498344	Great Mills	Maryland
+20657	38.388290	-76.441149	Lusby	Maryland
+21619	38.953146	-76.280191	Chester	Maryland
+20872	39.294465	-77.216125	Damascus	Maryland
+21801	38.363362	-75.634812	Salisbury	Maryland
+21804	38.329400	-75.537747	Salisbury	Maryland
+21405	39.027586	-76.557681	Annapolis	Maryland
+21078	39.567640	-76.150826	Havre De Grace	Maryland
+20616	38.640200	-77.083391	Bryans Road	Maryland
+21774	39.407766	-77.268422	New Market	Maryland
+21543	39.636687	-78.950780	Midlothian	Maryland
+20653	38.225799	-76.429797	Lexington Park	Maryland
+21666	38.939333	-76.337531	Stevensville	Maryland
+21742	39.678217	-77.652688	Hagerstown	Maryland
+21050	39.585343	-76.392164	Forest Hill	Maryland
+21136	39.492399	-76.802962	Reisterstown	Maryland
+20601	38.609238	-76.848103	Waldorf	Maryland
+21628	39.235113	-75.921542	Crumpton	Maryland
+20674	38.150657	-76.519940	Piney Point	Maryland
+21029	39.216893	-76.970294	Clarksville	Maryland
+21047	39.521387	-76.438784	Fallston	Maryland
+21770	39.350268	-77.259679	Monrovia	Maryland
+20772	38.789424	-76.765087	Upper Marlboro	Maryland
+21032	39.032971	-76.607012	Crownsville	Maryland
+21719	39.707956	-77.494228	Cascade	Maryland
+21054	39.050573	-76.692909	Gambrills	Maryland
+21793	39.488149	-77.341413	Walkersville	Maryland
+21502	39.647509	-78.753268	Cumberland	Maryland
+21157	39.548569	-76.983558	Westminster	Maryland
+21105	39.711539	-76.649817	Maryland Line	Maryland
+21638	38.946352	-76.190435	Grasonville	Maryland
+21921	39.634795	-75.851229	Elkton	Maryland
+21867	38.109905	-75.793137	Upper Fairmount	Maryland
+21903	39.572141	-76.037442	Perryville	Maryland
+20861	39.149747	-76.999591	Ashton	Maryland
+20777	39.182198	-76.969604	Highland	Maryland
+21048	39.500442	-76.924470	Finksburg	Maryland
+20607	38.674113	-77.036027	Accokeek	Maryland
+20658	38.566927	-77.166356	Marbury	Maryland
+20860	39.156718	-77.028011	Sandy Spring	Maryland
+20754	38.730710	-76.646639	Dunkirk	Maryland
+21087	39.449314	-76.413240	Kingsville	Maryland
+20619	38.285674	-76.532867	California	Maryland
+21156	39.440356	-76.393461	Upper Falls	Maryland
+21162	39.390117	-76.405582	White Marsh	Maryland
+20833	39.204749	-77.056892	Brookeville	Maryland
+21074	39.621612	-76.839847	Hampstead	Maryland
+21641	38.921469	-75.941319	Hillsboro	Maryland
+20695	38.582893	-76.966782	White Plains	Maryland
+21131	39.504045	-76.565793	Phoenix	Maryland
+21671	38.689300	-76.337265	Tilghman	Maryland
+20882	39.239122	-77.151071	Gaithersburg	Maryland
+21771	39.394486	-77.155697	Mount Airy	Maryland
+20759	39.163183	-76.932973	Fulton	Maryland
+21713	39.529573	-77.675498	Boonsboro	Maryland
+21663	38.783256	-76.226513	Saint Michaels	Maryland
+21084	39.613561	-76.466441	Jarrettsville	Maryland
+20606	38.244586	-76.738587	Abell	Maryland
+21013	39.511502	-76.490788	Baldwin	Maryland
+20626	38.231644	-76.762078	Coltons Point	Maryland
+21904	39.615424	-76.068036	Port Deposit	Maryland
+20868	39.127847	-76.966026	Spencerville	Maryland
+21738	39.279844	-77.026706	Glenwood	Maryland
+20862	39.181230	-77.018806	Brinklow	Maryland
+21036	39.235864	-77.012483	Dayton	Maryland
+20670	38.277877	-76.419979	Patuxent River	Maryland
+21754	39.336310	-77.307560	Ijamsville	Maryland
+20639	38.610758	-76.605388	Huntingtown	Maryland
+21737	39.250059	-77.039289	Glenelg	Maryland
+21917	39.671632	-76.097397	Colora	Maryland
+20620	38.233919	-76.528928	Callaway	Maryland
+20689	38.662952	-76.579405	Sunderland	Maryland
+21795	39.580496	-77.821050	Williamsport	Maryland
+21540	39.478161	-79.062465	Luke	Maryland
+21057	39.448749	-76.512474	Glen Arm	Maryland
+20736	38.689590	-76.628964	Owings	Maryland
+21901	39.635712	-75.981588	North East	Maryland
+21163	39.342201	-76.867284	Woodstock	Maryland
+20685	38.434862	-76.526706	Saint Leonard	Maryland
+21104	39.350301	-76.910264	Marriottsville	Maryland
+21158	39.653737	-77.035092	Westminster	Maryland
+21524	39.707232	-78.802748	Corriganville	Maryland
+21035	38.938300	-76.626588	Davidsonville	Maryland
+21102	39.692165	-76.847645	Manchester	Maryland
+21911	39.694668	-76.035968	Rising Sun	Maryland
+21718	39.392830	-77.624514	Burkittsville	Maryland
+21794	39.298422	-76.966129	West Friendship	Maryland
+21152	39.555195	-76.685978	Sparks Glencoe	Maryland
+21918	39.684755	-76.155226	Conowingo	Maryland
+21028	39.565977	-76.249469	Churchville	Maryland
+20690	38.165700	-76.522288	Tall Timbers	Maryland
+21717	39.336956	-77.435683	Buckeystown	Maryland
+21902	39.552400	-76.063472	Perry Point	Maryland
+21769	39.453458	-77.575804	Middletown	Maryland
+21056	39.078949	-76.436407	Gibson Island	Maryland
+20678	38.525076	-76.595371	Prince Frederick	Maryland
+21875	38.439999	-75.544695	Delmar	Maryland
+20675	38.578090	-77.030886	Pomfret	Maryland
+20636	38.352988	-76.574190	Hollywood	Maryland
+21865	38.320922	-75.877630	Tyaskin	Maryland
+20778	38.828771	-76.564228	West River	Maryland
+20659	38.421397	-76.730764	Mechanicsville	Maryland
+20640	38.525435	-77.213700	Indian Head	Maryland
+21532	39.656452	-78.960651	Frostburg	Maryland
+20676	38.471822	-76.580749	Port Republic	Maryland
+21811	38.324518	-75.228399	Berlin	Maryland
+21755	39.364176	-77.563480	Jefferson	Maryland
+20645	38.297304	-76.907319	Issue	Maryland
+20650	38.273230	-76.621236	Leonardtown	Maryland
+21817	37.983815	-75.856224	Crisfield	Maryland
+20758	38.730188	-76.589863	Friendship	Maryland
+20646	38.517217	-76.998232	La Plata	Maryland
+20711	38.801058	-76.645108	Lothian	Maryland
+21601	38.795886	-76.072247	Easton	Maryland
+21797	39.328183	-77.071411	Woodbine	Maryland
+21783	39.651829	-77.553549	Smithsburg	Maryland
+21082	39.474396	-76.457770	Hydes	Maryland
+20667	38.216973	-76.439877	Park Hall	Maryland
+21727	39.686613	-77.332454	Emmitsburg	Maryland
+20611	38.463797	-76.988818	Bel Alton	Maryland
+21814	38.292938	-75.889295	Bivalve	Maryland
+21788	39.589979	-77.413861	Thurmont	Maryland
+20779	38.764781	-76.572586	Tracys Landing	Maryland
+21723	39.320093	-77.005729	Cooksville	Maryland
+21787	39.677630	-77.172591	Taneytown	Maryland
+21154	39.657449	-76.360475	Street	Maryland
+21120	39.646204	-76.674854	Parkton	Maryland
+21776	39.517975	-77.099688	New Windsor	Maryland
+21704	39.354763	-77.375659	Frederick	Maryland
+20637	38.529822	-76.777248	Hughesville	Maryland
+21562	39.498141	-79.019688	Westernport	Maryland
+21160	39.706610	-76.319793	Whiteford	Maryland
+20837	39.097973	-77.409833	Poolesville	Maryland
+21545	39.709950	-78.885376	Mount Savage	Maryland
+21773	39.542575	-77.551713	Myersville	Maryland
+20776	38.868306	-76.608244	Harwood	Maryland
+21930	39.370132	-75.887333	Georgetown	Maryland
+21111	39.575537	-76.589692	Monkton	Maryland
+21654	38.688853	-76.125295	Oxford	Maryland
+21733	39.545372	-77.761721	Fairplay	Maryland
+21782	39.456752	-77.758969	Sharpsburg	Maryland
+21034	39.640805	-76.220334	Darlington	Maryland
+20871	39.260566	-77.290679	Clarksburg	Maryland
+21053	39.695532	-76.715068	Freeland	Maryland
+20684	38.137578	-76.401649	Saint Inigoes	Maryland
+21798	39.540261	-77.306295	Woodsboro	Maryland
+21915	39.496143	-75.848164	Chesapeake City	Maryland
+20838	39.223899	-77.384889	Barnesville	Maryland
+21523	39.478815	-79.087193	Bloomington	Maryland
+21639	38.958616	-75.782373	Greensboro	Maryland
+21610	39.361284	-76.076846	Betterton	Maryland
+21756	39.458968	-77.693256	Keedysville	Maryland
+21758	39.351927	-77.656505	Knoxville	Maryland
+21710	39.301052	-77.457459	Adamstown	Maryland
+20677	38.494996	-77.035879	Port Tobacco	Maryland
+20622	38.416952	-76.881074	Charlotte Hall	Maryland
+21132	39.694705	-76.440369	Pylesville	Maryland
+21791	39.533255	-77.188143	Union Bridge	Maryland
+21161	39.659903	-76.565060	White Hall	Maryland
+21647	38.812385	-76.283080	Mcdaniel	Maryland
+20617	38.548459	-76.858802	Bryantown	Maryland
+20692	38.181015	-76.502084	Valley Lee	Maryland
+21620	39.206957	-76.081670	Chestertown	Maryland
+20613	38.667578	-76.818201	Brandywine	Maryland
+21643	38.645582	-75.869896	Hurlock	Maryland
+21155	39.572388	-76.811240	Upperco	Maryland
+21862	38.395352	-75.213320	Showell	Maryland
+21660	38.956135	-75.889093	Ridgely	Maryland
+21631	38.582391	-75.938981	East New Market	Maryland
+21853	38.204509	-75.704241	Princess Anne	Maryland
+21613	38.486691	-76.064608	Cambridge	Maryland
+21649	39.134090	-75.769331	Marydel	Maryland
+21779	39.435672	-77.650066	Rohrersville	Maryland
+21658	38.951815	-76.135156	Queenstown	Maryland
+20609	38.276121	-76.754230	Avenue	Maryland
+21624	38.838522	-76.262319	Claiborne	Maryland
+21629	38.862396	-75.826479	Denton	Maryland
+21634	38.274557	-76.183589	Fishing Creek	Maryland
+21722	39.666760	-77.914115	Clear Spring	Maryland
+21850	38.365994	-75.400132	Pittsville	Maryland
+21539	39.650534	-79.053257	Lonaconing	Maryland
+20618	38.285216	-76.786972	Bushwood	Maryland
+21849	38.368124	-75.456043	Parsonsburg	Maryland
+21655	38.744968	-75.912768	Preston	Maryland
+21830	38.400178	-75.725935	Hebron	Maryland
+21813	38.428983	-75.185530	Bishopville	Maryland
+21632	38.731398	-75.772428	Federalsburg	Maryland
+21557	39.536233	-78.922790	Rawlings	Maryland
+21780	39.692144	-77.466927	Sabillasville	Maryland
+21661	39.137979	-76.222285	Rock Hall	Maryland
+21757	39.591574	-77.268169	Keymar	Maryland
+21874	38.393820	-75.352039	Willards	Maryland
+20624	38.338026	-76.733442	Clements	Maryland
+21662	38.712910	-76.202283	Royal Oak	Maryland
+20841	39.181992	-77.322415	Boyds	Maryland
+21665	38.751800	-76.332597	Sherwood	Maryland
+21550	39.387183	-79.391522	Oakland	Maryland
+21005	39.417033	-76.163045	Aberdeen Proving Ground	Maryland
+20621	38.325880	-76.800524	Chaptico	Maryland
+21750	39.685043	-78.212939	Hancock	Maryland
+21840	38.259106	-75.889411	Nanticoke	Maryland
+20664	38.355457	-76.909181	Newburg	Maryland
+21851	38.077662	-75.543481	Pocomoke City	Maryland
+21822	38.278230	-75.654720	Eden	Maryland
+21031	39.488697	-76.657346	Hunt Valley	Maryland
+21640	39.070183	-75.807322	Henderson	Maryland
+21778	39.615895	-77.334303	Rocky Ridge	Maryland
+21625	38.873205	-75.996027	Cordova	Maryland
+20839	39.167301	-77.412326	Beallsville	Maryland
+21673	38.655615	-76.039785	Trappe	Maryland
+20632	38.436785	-76.965491	Faulkner	Maryland
+21676	38.784847	-76.302614	Wittman	Maryland
+21635	39.334792	-75.846612	Galena	Maryland
+21617	39.047098	-76.028668	Centreville	Maryland
+21919	39.416839	-75.933631	Earleville	Maryland
+21651	39.262945	-75.864712	Millington	Maryland
+20628	38.146235	-76.344877	Dameron	Maryland
+21521	39.562522	-79.034319	Barton	Maryland
+20608	38.586865	-76.698927	Aquasco	Maryland
+21678	39.299045	-76.093541	Worton	Maryland
+21837	38.463443	-75.762428	Mardela Springs	Maryland
+21010	39.344866	-76.279484	Gunpowder	Maryland
+21821	38.153411	-75.929362	Deal Island	Maryland
+21636	39.025524	-75.812896	Goldsboro	Maryland
+20687	38.064296	-76.340757	Scotland	Maryland
+21541	39.558967	-79.370208	Mc Henry	Maryland
+21675	38.297367	-76.092050	Wingate	Maryland
+20662	38.436092	-77.188294	Nanjemoy	Maryland
+21560	39.563590	-78.707560	Spring Gap	Maryland
+20630	38.173075	-76.472849	Drayden	Maryland
+21835	38.534209	-75.936035	Linkwood	Maryland
+21623	39.124035	-75.966748	Church Hill	Maryland
+21536	39.667144	-79.167642	Grantsville	Maryland
+21522	39.610099	-79.241125	Bittinger	Maryland
+21679	38.913777	-76.091617	Wye Mills	Maryland
+21863	38.197743	-75.419429	Snow Hill	Maryland
+21531	39.643087	-79.428015	Friendsville	Maryland
+21872	38.415162	-75.299133	Whaleyville	Maryland
+21711	39.668396	-78.019569	Big Pool	Maryland
+21668	39.195732	-75.842633	Sudlersville	Maryland
+21864	38.031539	-75.405558	Stockton	Maryland
+21912	39.419399	-75.818633	Warwick	Maryland
+21838	38.016227	-75.726390	Marion Station	Maryland
+21871	38.106800	-75.741522	Westover	Maryland
+21677	38.471560	-76.171416	Woolford	Maryland
+21538	39.409819	-79.224443	Kitzmiller	Maryland
+21607	39.131349	-75.855911	Barclay	Maryland
+21645	39.315859	-75.956142	Kennedyville	Maryland
+21612	38.722568	-76.279477	Bozman	Maryland
+21520	39.627953	-79.293517	Accident	Maryland
+20842	39.216929	-77.418634	Dickerson	Maryland
+21672	38.277969	-76.060879	Toddville	Maryland
+21659	38.578568	-75.785386	Rhodesdale	Maryland
+21667	39.340457	-76.030130	Still Pond	Maryland
+21530	39.679640	-78.546123	Flintstone	Maryland
+21644	39.107921	-75.874252	Ingleside	Maryland
+21657	38.941381	-76.031021	Queen Anne	Maryland
+21824	37.977220	-76.028791	Ewell	Maryland
+21841	38.246944	-75.295806	Newark	Maryland
+21561	39.503632	-79.174912	Swanton	Maryland
+20701	39.128093	-76.792239	Annapolis Junction	Maryland
+21650	39.313264	-75.791668	Massey	Maryland
+21829	38.099042	-75.394083	Girdletree	Maryland
+21856	38.320477	-75.810533	Quantico	Maryland
+21790	39.262737	-77.502746	Tuscarora	Maryland
+21555	39.575827	-78.562474	Oldtown	Maryland
+20693	38.436742	-77.090863	Welcome	Maryland
+21648	38.485969	-76.238895	Madison	Maryland
+21669	38.442418	-76.277778	Taylors Island	Maryland
+21766	39.656659	-78.398969	Little Orleans	Maryland
+21869	38.434775	-75.876009	Vienna	Maryland
+21622	38.414465	-76.159253	Church Creek	Maryland
+21626	38.341359	-76.098361	Crapo	Maryland
+20680	38.010090	-76.325950	Ridge	Maryland
+21627	38.175538	-76.047801	Crocheron	Maryland
