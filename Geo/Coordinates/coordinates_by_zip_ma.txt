@@ -1,0 +1,500 @@
+02113	42.365170	-71.055363	Boston	Massachusetts
+02115	42.337545	-71.106173	Boston	Massachusetts
+02116	42.349991	-71.076080	Boston	Massachusetts
+02215	42.347053	-71.101985	Boston	Massachusetts
+02144	42.399655	-71.122550	Somerville	Massachusetts
+02446	42.343503	-71.122248	Brookline	Massachusetts
+02139	42.362288	-71.103791	Cambridge	Massachusetts
+02118	42.337863	-71.070816	Boston	Massachusetts
+02109	42.362653	-71.053804	Boston	Massachusetts
+02114	42.363175	-71.068646	Boston	Massachusetts
+02121	42.307434	-71.083022	Boston	Massachusetts
+02141	42.370300	-71.082560	Cambridge	Massachusetts
+02120	42.332424	-71.095750	Boston	Massachusetts
+02145	42.391577	-71.089910	Somerville	Massachusetts
+01902	42.470180	-70.940915	Lynn	Massachusetts
+02199	42.347465	-71.082058	Boston	Massachusetts
+02143	42.381572	-71.096995	Somerville	Massachusetts
+02124	42.285922	-71.075046	Boston	Massachusetts
+02111	42.348784	-71.058988	Boston	Massachusetts
+02150	42.396690	-71.032723	Chelsea	Massachusetts
+02134	42.358786	-71.129581	Allston	Massachusetts
+02140	42.392157	-71.133996	Cambridge	Massachusetts
+02119	42.323881	-71.085332	Boston	Massachusetts
+02135	42.348417	-71.154339	Brighton	Massachusetts
+02122	42.295088	-71.052533	Boston	Massachusetts
+01841	42.712015	-71.164873	Lawrence	Massachusetts
+02126	42.274856	-71.092908	Mattapan	Massachusetts
+02127	42.336004	-71.038695	Boston	Massachusetts
+01718	42.520314	-71.427867	Village Of Nagog Woods	Massachusetts
+02108	42.357554	-71.063913	Boston	Massachusetts
+02138	42.379637	-71.135152	Cambridge	Massachusetts
+02129	42.378843	-71.063821	Charlestown	Massachusetts
+02125	42.320300	-71.045904	Boston	Massachusetts
+02148	42.430140	-71.057694	Malden	Massachusetts
+01850	42.656045	-71.303309	Lowell	Massachusetts
+02131	42.283021	-71.125027	Roslindale	Massachusetts
+02149	42.405938	-71.054649	Everett	Massachusetts
+02170	42.265480	-71.017144	Quincy	Massachusetts
+01610	42.244675	-71.809543	Worcester	Massachusetts
+02723	41.692208	-71.132132	Fall River	Massachusetts
+01105	42.101795	-72.577560	Springfield	Massachusetts
+01840	42.707232	-71.160459	Lawrence	Massachusetts
+02724	41.683936	-71.177500	Fall River	Massachusetts
+01107	42.120751	-72.606808	Springfield	Massachusetts
+02163	42.366168	-71.122850	Boston	Massachusetts
+02110	42.357371	-71.053180	Boston	Massachusetts
+01851	42.627958	-71.336033	Lowell	Massachusetts
+02744	41.609068	-70.914984	New Bedford	Massachusetts
+02152	42.354065	-70.962391	Winthrop	Massachusetts
+02222	42.366470	-71.062494	Boston	Massachusetts
+02130	42.307277	-71.114055	Jamaica Plain	Massachusetts
+02472	42.369451	-71.177925	Watertown	Massachusetts
+02151	42.418278	-71.005085	Revere	Massachusetts
+02474	42.420949	-71.156370	Arlington	Massachusetts
+02740	41.638582	-70.942865	New Bedford	Massachusetts
+02453	42.369542	-71.240513	Waltham	Massachusetts
+02128	42.361129	-71.006976	Boston	Massachusetts
+01108	42.082117	-72.556608	Springfield	Massachusetts
+02476	42.415637	-71.175670	Arlington	Massachusetts
+01103	42.104011	-72.591538	Springfield	Massachusetts
+01608	42.262294	-71.801144	Worcester	Massachusetts
+01843	42.689364	-71.159947	Lawrence	Massachusetts
+02721	41.680516	-71.154390	Fall River	Massachusetts
+02458	42.354115	-71.189130	Newton	Massachusetts
+02171	42.286150	-71.025943	Quincy	Massachusetts
+02155	42.423844	-71.109231	Medford	Massachusetts
+02460	42.352006	-71.209242	Newtonville	Massachusetts
+02746	41.662054	-70.942962	New Bedford	Massachusetts
+01852	42.631849	-71.295785	Lowell	Massachusetts
+01854	42.649540	-71.344927	Lowell	Massachusetts
+02136	42.255083	-71.129220	Hyde Park	Massachusetts
+01905	42.469172	-70.979224	Lynn	Massachusetts
+02176	42.455723	-71.059019	Melrose	Massachusetts
+01109	42.117824	-72.550129	Springfield	Massachusetts
+02465	42.349533	-71.227339	West Newton	Massachusetts
+02132	42.280905	-71.163965	West Roxbury	Massachusetts
+01603	42.240937	-71.836682	Worcester	Massachusetts
+02478	42.395667	-71.183078	Belmont	Massachusetts
+02464	42.312975	-71.218882	Newton Upper Falls	Massachusetts
+02461	42.319031	-71.208169	Newton Highlands	Massachusetts
+01970	42.511503	-70.904299	Salem	Massachusetts
+02445	42.314586	-71.153039	Brookline	Massachusetts
+01609	42.284374	-71.830726	Worcester	Massachusetts
+02467	42.322089	-71.172760	Chestnut Hill	Massachusetts
+02301	42.078371	-71.042304	Brockton	Massachusetts
+01907	42.475894	-70.908532	Swampscott	Massachusetts
+01604	42.249594	-71.768910	Worcester	Massachusetts
+02169	42.242211	-71.016335	Quincy	Massachusetts
+01945	42.499806	-70.863580	Marblehead	Massachusetts
+01605	42.287873	-71.786874	Worcester	Massachusetts
+01702	42.282104	-71.433224	Framingham	Massachusetts
+01013	42.161913	-72.602141	Chicopee	Massachusetts
+01118	42.094084	-72.523531	Springfield	Massachusetts
+01104	42.133595	-72.568253	Springfield	Massachusetts
+02045	42.286478	-70.880226	Hull	Massachusetts
+02466	42.344457	-71.248617	Auburndale	Massachusetts
+01904	42.490743	-70.970914	Lynn	Massachusetts
+02459	42.314292	-71.194611	Newton Center	Massachusetts
+01119	42.124978	-72.511210	Springfield	Massachusetts
+02188	42.204578	-70.957749	Weymouth	Massachusetts
+02302	42.088123	-70.998293	Brockton	Massachusetts
+02191	42.241974	-70.935556	North Weymouth	Massachusetts
+02142	42.361280	-71.083753	Cambridge	Massachusetts
+02468	42.329175	-71.231583	Waban	Massachusetts
+02189	42.207403	-70.932728	East Weymouth	Massachusetts
+01908	42.427383	-70.924375	Nahant	Massachusetts
+01151	42.154810	-72.510255	Indian Orchard	Massachusetts
+02452	42.392073	-71.218443	Waltham	Massachusetts
+01602	42.271396	-71.851229	Worcester	Massachusetts
+02180	42.474208	-71.097665	Stoneham	Massachusetts
+01890	42.451818	-71.146557	Winchester	Massachusetts
+01607	42.225158	-71.790820	Worcester	Massachusetts
+01606	42.315886	-71.792982	Worcester	Massachusetts
+01731	42.457959	-71.279168	Hanscom Afb	Massachusetts
+01880	42.504360	-71.064061	Wakefield	Massachusetts
+02368	42.176446	-71.051567	Randolph	Massachusetts
+01801	42.488659	-71.154425	Woburn	Massachusetts
+01960	42.534202	-70.969734	Peabody	Massachusetts
+02462	42.330509	-71.259187	Newton Lower Falls	Massachusetts
+02451	42.401527	-71.253004	Waltham	Massachusetts
+01128	42.092296	-72.489135	Springfield	Massachusetts
+02726	41.759700	-71.144592	Somerset	Massachusetts
+02062	42.187389	-71.192477	Norwood	Massachusetts
+02720	41.727408	-71.114973	Fall River	Massachusetts
+02494	42.296994	-71.225700	Needham Heights	Massachusetts
+02482	42.292668	-71.298727	Wellesley	Massachusetts
+02481	42.308960	-71.266894	Wellesley Hills	Massachusetts
+01020	42.172698	-72.561835	Chicopee	Massachusetts
+01867	42.535183	-71.105423	Reading	Massachusetts
+01915	42.566024	-70.857662	Beverly	Massachusetts
+02184	42.205416	-71.002168	Braintree	Massachusetts
+01906	42.470985	-71.018689	Saugus	Massachusetts
+01510	42.414983	-71.684869	Clinton	Massachusetts
+02026	42.246872	-71.179462	Dedham	Massachusetts
+02745	41.700737	-70.950546	New Bedford	Massachusetts
+02492	42.275776	-71.247350	Needham	Massachusetts
+02190	42.165968	-70.952545	South Weymouth	Massachusetts
+02420	42.455587	-71.218545	Lexington	Massachusetts
+01129	42.119062	-72.487401	Springfield	Massachusetts
+01760	42.284013	-71.348866	Natick	Massachusetts
+02382	42.078974	-70.939390	Whitman	Massachusetts
+01754	42.425955	-71.456256	Maynard	Massachusetts
+01844	42.742751	-71.178588	Methuen	Massachusetts
+01803	42.503227	-71.201713	Burlington	Massachusetts
+02763	41.966866	-71.308574	Attleboro Falls	Massachusetts
+01832	42.791114	-71.132859	Haverhill	Massachusetts
+02186	42.241589	-71.082651	Milton	Massachusetts
+01863	42.632718	-71.393511	North Chelmsford	Massachusetts
+01923	42.574174	-70.950516	Danvers	Massachusetts
+01757	42.155792	-71.518417	Milford	Massachusetts
+01701	42.321522	-71.437663	Framingham	Massachusetts
+01040	42.211656	-72.642448	Holyoke	Massachusetts
+01089	42.125451	-72.649734	West Springfield	Massachusetts
+02370	42.130399	-70.910615	Rockland	Massachusetts
+01835	42.751157	-71.094242	Haverhill	Massachusetts
+02421	42.438547	-71.239573	Lexington	Massachusetts
+01950	42.803940	-70.877480	Newburyport	Massachusetts
+01821	42.551128	-71.252331	Billerica	Massachusetts
+01830	42.796313	-71.053436	Haverhill	Massachusetts
+02072	42.119006	-71.103650	Stoughton	Massachusetts
+01752	42.349617	-71.547214	Marlborough	Massachusetts
+01106	42.045695	-72.563323	Longmeadow	Massachusetts
+01749	42.389071	-71.545864	Hudson	Massachusetts
+02703	41.931557	-71.295859	Attleboro	Massachusetts
+01545	42.284767	-71.714228	Shrewsbury	Massachusetts
+02601	41.662007	-70.294734	Hyannis	Massachusetts
+02032	42.156882	-71.216187	East Walpole	Massachusetts
+02343	42.148913	-71.003737	Holbrook	Massachusetts
+01242	42.336153	-73.245919	Lenox Dale	Massachusetts
+02780	41.909112	-71.118346	Taunton	Massachusetts
+02351	42.121392	-70.957757	Abington	Massachusetts
+01438	42.563966	-72.034438	East Templeton	Massachusetts
+01420	42.601979	-71.815876	Fitchburg	Massachusetts
+01060	42.324994	-72.634359	Northampton	Massachusetts
+02760	41.972493	-71.335208	North Attleboro	Massachusetts
+01876	42.611801	-71.227571	Tewksbury	Massachusetts
+01824	42.590790	-71.355182	Chelmsford	Massachusetts
+02558	41.749278	-70.657079	Onset	Massachusetts
+01826	42.679723	-71.300680	Dracut	Massachusetts
+01001	42.064520	-72.630030	Agawam	Massachusetts
+02632	41.661469	-70.347567	Centerville	Massachusetts
+02664	41.674727	-70.195648	South Yarmouth	Massachusetts
+02719	41.641397	-70.872963	Fairhaven	Massachusetts
+01453	42.520815	-71.768535	Leominster	Massachusetts
+02090	42.219645	-71.216769	Westwood	Massachusetts
+01887	42.559724	-71.166391	Wilmington	Massachusetts
+01913	42.851133	-70.954835	Amesbury	Massachusetts
+02639	41.663638	-70.136153	Dennis Port	Massachusetts
+01721	42.257755	-71.473526	Ashland	Massachusetts
+01930	42.631143	-70.687210	Gloucester	Massachusetts
+02725	41.722263	-71.178380	Somerset	Massachusetts
+01862	42.578543	-71.295592	North Billerica	Massachusetts
+02038	42.084858	-71.410571	Franklin	Massachusetts
+01940	42.534118	-71.038574	Lynnfield	Massachusetts
+02048	42.017300	-71.217300	Mansfield	Massachusetts
+01570	42.047075	-71.845805	Webster	Massachusetts
+01747	42.124080	-71.533416	Hopedale	Massachusetts
+01028	42.059614	-72.501234	East Longmeadow	Massachusetts
+01966	42.653892	-70.621432	Rockport	Massachusetts
+02053	42.155816	-71.432781	Medway	Massachusetts
+02644	41.683488	-70.510786	Forestdale	Massachusetts
+01030	42.072925	-72.686972	Feeding Hills	Massachusetts
+02081	42.148344	-71.258667	Walpole	Massachusetts
+02021	42.175737	-71.125385	Canton	Massachusetts
+02066	42.199718	-70.762260	Scituate	Massachusetts
+01845	42.673909	-71.091334	North Andover	Massachusetts
+01864	42.581808	-71.092178	North Reading	Massachusetts
+01080	42.172472	-72.377153	Three Rivers	Massachusetts
+01720	42.483953	-71.438495	Acton	Massachusetts
+01810	42.648044	-71.161751	Andover	Massachusetts
+02673	41.658773	-70.242097	West Yarmouth	Massachusetts
+01501	42.198708	-71.846006	Auburn	Massachusetts
+02322	42.132400	-71.053930	Avon	Massachusetts
+02356	42.060485	-71.124970	North Easton	Massachusetts
+01075	42.256354	-72.580751	South Hadley	Massachusetts
+01730	42.499334	-71.281906	Bedford	Massachusetts
+01588	42.116073	-71.666533	Whitinsville	Massachusetts
+02324	41.972387	-70.978778	Bridgewater	Massachusetts
+02043	42.215977	-70.885763	Hingham	Massachusetts
+02339	42.122956	-70.856310	Hanover	Massachusetts
+02556	41.639445	-70.624515	North Falmouth	Massachusetts
+02052	42.184599	-71.305307	Medfield	Massachusetts
+02050	42.113471	-70.714072	Marshfield	Massachusetts
+01550	42.059669	-72.034040	Southbridge	Massachusetts
+01440	42.586516	-71.988062	Gardner	Massachusetts
+01778	42.360223	-71.360578	Wayland	Massachusetts
+02019	42.076682	-71.474490	Bellingham	Massachusetts
+01581	42.269822	-71.613863	Westborough	Massachusetts
+02661	41.676348	-70.039690	South Harwich	Massachusetts
+01527	42.192246	-71.777649	Millbury	Massachusetts
+01504	42.039991	-71.532406	Blackstone	Massachusetts
+01532	42.324534	-71.648889	Northborough	Massachusetts
+02540	41.569449	-70.627173	Falmouth	Massachusetts
+02660	41.714009	-70.152214	South Dennis	Massachusetts
+02532	41.764135	-70.581863	Buzzards Bay	Massachusetts
+02035	42.063347	-71.246364	Foxboro	Massachusetts
+01056	42.188865	-72.459078	Ludlow	Massachusetts
+01560	42.175395	-71.674223	South Grafton	Massachusetts
+02670	41.660113	-70.170678	West Dennis	Massachusetts
+02563	41.728137	-70.476549	Sandwich	Massachusetts
+02210	42.347682	-71.041731	Boston	Massachusetts
+02359	42.067608	-70.800053	Pembroke	Massachusetts
+01745	42.288947	-71.506538	Fayville	Massachusetts
+02333	42.037287	-70.940459	East Bridgewater	Massachusetts
+02559	41.690243	-70.616283	Pocasset	Massachusetts
+02067	42.108463	-71.185182	Sharon	Massachusetts
+01536	42.229917	-71.696798	North Grafton	Massachusetts
+02771	41.837751	-71.320428	Seekonk	Massachusetts
+01746	42.195951	-71.453430	Holliston	Massachusetts
+02675	41.703990	-70.234638	Yarmouth Port	Massachusetts
+02025	42.236423	-70.814436	Cohasset	Massachusetts
+02671	41.668250	-70.112822	West Harwich	Massachusetts
+01860	42.838603	-71.011997	Merrimac	Massachusetts
+02648	41.667728	-70.416738	Marstons Mills	Massachusetts
+02056	42.113656	-71.334162	Norfolk	Massachusetts
+01776	42.382673	-71.424123	Sudbury	Massachusetts
+02777	41.758175	-71.214202	Swansea	Massachusetts
+02536	41.596976	-70.567877	East Falmouth	Massachusetts
+02571	41.757831	-70.706114	Wareham	Massachusetts
+01520	42.334261	-71.854238	Holden	Massachusetts
+01834	42.757786	-71.015117	Groveland	Massachusetts
+02538	41.776360	-70.648923	East Wareham	Massachusetts
+02762	42.012209	-71.338091	Plainville	Massachusetts
+01301	42.626761	-72.601530	Greenfield	Massachusetts
+02493	42.360502	-71.303433	Weston	Massachusetts
+01886	42.585295	-71.439826	Westford	Massachusetts
+02071	42.106285	-71.269335	South Walpole	Massachusetts
+02646	41.670596	-70.071449	Harwich Port	Massachusetts
+01742	42.462911	-71.364496	Concord	Massachusetts
+01432	42.554678	-71.582654	Ayer	Massachusetts
+01201	42.458240	-73.283144	Pittsfield	Massachusetts
+02054	42.172551	-71.362811	Millis	Massachusetts
+01085	42.155792	-72.772912	Westfield	Massachusetts
+01002	42.376821	-72.467874	Amherst	Massachusetts
+02364	41.987302	-70.749212	Kingston	Massachusetts
+02635	41.625684	-70.441087	Cotuit	Massachusetts
+02766	41.957441	-71.179067	Norton	Massachusetts
+02718	41.862486	-71.011690	East Taunton	Massachusetts
+02341	42.050330	-70.867152	Hanson	Massachusetts
+02650	41.701807	-69.963804	North Chatham	Massachusetts
+01062	42.328314	-72.703923	Florence	Massachusetts
+01879	42.667762	-71.428820	Tyngsboro	Massachusetts
+02375	42.003041	-71.076928	South Easton	Massachusetts
+02332	42.044373	-70.706115	Duxbury	Massachusetts
+02360	41.885289	-70.616158	Plymouth	Massachusetts
+01611	42.237604	-71.875838	Cherry Valley	Massachusetts
+01095	42.127327	-72.427404	Wilbraham	Massachusetts
+02655	41.632846	-70.390711	Osterville	Massachusetts
+02638	41.733305	-70.190740	Dennis	Massachusetts
+01944	42.578746	-70.769598	Manchester	Massachusetts
+01833	42.726772	-70.974422	Georgetown	Massachusetts
+01982	42.626223	-70.857230	South Hamilton	Massachusetts
+01772	42.302877	-71.530828	Southborough	Massachusetts
+01529	42.036642	-71.578779	Millville	Massachusetts
+01540	42.119514	-71.858817	Oxford	Massachusetts
+01984	42.600595	-70.883406	Wenham	Massachusetts
+02743	41.718217	-70.901151	Acushnet	Massachusetts
+01949	42.609661	-71.006100	Middleton	Massachusetts
+01519	42.199428	-71.671955	Grafton	Massachusetts
+02645	41.701553	-70.061207	Harwich	Massachusetts
+01534	42.151614	-71.666920	Northbridge	Massachusetts
+01952	42.849908	-70.860836	Salisbury	Massachusetts
+02649	41.621476	-70.490935	Mashpee	Massachusetts
+01571	42.053778	-71.935075	Dudley	Massachusetts
+02748	41.553574	-70.971135	South Dartmouth	Massachusetts
+02672	41.635751	-70.318777	West Hyannisport	Massachusetts
+02630	41.701140	-70.303238	Barnstable	Massachusetts
+02659	41.685513	-70.022024	South Chatham	Massachusetts
+02767	41.937929	-71.054394	Raynham	Massachusetts
+01463	42.670643	-71.602858	Pepperell	Massachusetts
+01983	42.641379	-70.943440	Topsfield	Massachusetts
+01748	42.224086	-71.540494	Hopkinton	Massachusetts
+01022	42.197741	-72.542713	Chicopee	Massachusetts
+02537	41.728423	-70.435818	East Sandwich	Massachusetts
+01719	42.485985	-71.520985	Boxborough	Massachusetts
+01460	42.535931	-71.490569	Littleton	Massachusetts
+01542	42.204251	-71.908907	Rochdale	Massachusetts
+02543	41.531991	-70.658599	Woods Hole	Massachusetts
+02061	42.164569	-70.818844	Norwell	Massachusetts
+01583	42.374650	-71.786281	West Boylston	Massachusetts
+02093	42.052671	-71.356858	Wrentham	Massachusetts
+02747	41.658000	-71.013460	North Dartmouth	Massachusetts
+02338	42.003513	-70.863334	Halifax	Massachusetts
+02379	42.021617	-71.026717	West Bridgewater	Massachusetts
+02631	41.747016	-70.068779	Brewster	Massachusetts
+01027	42.295007	-72.751864	Easthampton	Massachusetts
+01376	42.620976	-72.525899	Turners Falls	Massachusetts
+01938	42.685660	-70.845521	Ipswich	Massachusetts
+02633	41.677948	-69.959781	Chatham	Massachusetts
+02642	41.841331	-69.977436	Eastham	Massachusetts
+02739	41.668423	-70.818141	Mattapoisett	Massachusetts
+01569	42.055892	-71.631294	Uxbridge	Massachusetts
+01464	42.573654	-71.640986	Shirley	Massachusetts
+01524	42.248129	-71.917860	Leicester	Massachusetts
+02738	41.709470	-70.767483	Marion	Massachusetts
+01773	42.425506	-71.310812	Lincoln	Massachusetts
+02030	42.234129	-71.283463	Dover	Massachusetts
+01562	42.248575	-71.993130	Spencer	Massachusetts
+02657	42.062300	-70.199307	Provincetown	Massachusetts
+02653	41.762333	-69.972054	Orleans	Massachusetts
+02779	41.838061	-71.077615	Berkley	Massachusetts
+02330	41.873995	-70.769883	Carver	Massachusetts
+01462	42.582607	-71.720464	Lunenburg	Massachusetts
+01069	42.187794	-72.308469	Palmer	Massachusetts
+01775	42.429688	-71.512514	Stow	Massachusetts
+01922	42.757313	-70.914241	Byfield	Massachusetts
+01921	42.683108	-71.018330	Boxford	Massachusetts
+01537	42.158966	-71.897051	North Oxford	Massachusetts
+02764	41.850357	-71.161699	North Dighton	Massachusetts
+01053	42.349147	-72.718516	Leeds	Massachusetts
+02576	41.772221	-70.762948	West Wareham	Massachusetts
+01969	42.720211	-70.898969	Rowley	Massachusetts
+02534	41.669004	-70.615280	Cataumet	Massachusetts
+01469	42.662907	-71.679430	Townsend	Massachusetts
+01741	42.536620	-71.361832	Carlisle	Massachusetts
+01436	42.606863	-72.086138	Baldwinville	Massachusetts
+01220	42.617552	-73.119966	Adams	Massachusetts
+01985	42.799516	-70.964411	West Newbury	Massachusetts
+01523	42.476325	-71.681245	Lancaster	Massachusetts
+02347	41.834474	-70.957040	Lakeville	Massachusetts
+01247	42.685825	-73.071342	North Adams	Massachusetts
+01756	42.094470	-71.544902	Mendon	Massachusetts
+02346	41.878004	-70.869267	Middleboro	Massachusetts
+01450	42.611760	-71.565269	Groton	Massachusetts
+01077	42.052570	-72.777353	Southwick	Massachusetts
+01612	42.296627	-71.929598	Paxton	Massachusetts
+02647	41.631396	-70.308397	Hyannis Port	Massachusetts
+01375	42.466753	-72.546835	Sunderland	Massachusetts
+01505	42.355049	-71.716157	Boylston	Massachusetts
+01036	42.071188	-72.417718	Hampden	Massachusetts
+01568	42.176526	-71.603588	Upton	Massachusetts
+01770	42.233570	-71.374690	Sherborn	Massachusetts
+01038	42.385496	-72.606930	Hatfield	Massachusetts
+01507	42.133935	-71.968025	Charlton	Massachusetts
+01590	42.132051	-71.750318	Sutton	Massachusetts
+01007	42.277659	-72.405468	Belchertown	Massachusetts
+01518	42.127842	-72.119198	Fiskdale	Massachusetts
+02790	41.592475	-71.085498	Westport	Massachusetts
+01475	42.667189	-72.046009	Winchendon	Massachusetts
+01474	42.669197	-71.745843	West Townsend	Massachusetts
+01564	42.447924	-71.776045	Sterling	Massachusetts
+01929	42.631892	-70.779478	Essex	Massachusetts
+01082	42.293533	-72.278599	Ware	Massachusetts
+01331	42.570269	-72.182965	Athol	Massachusetts
+02715	41.815051	-71.157549	Dighton	Massachusetts
+02568	41.433705	-70.655483	Vineyard Haven	Massachusetts
+01535	42.267564	-72.066876	North Brookfield	Massachusetts
+02702	41.780396	-71.049390	Assonet	Massachusetts
+01451	42.503872	-71.578126	Harvard	Massachusetts
+02358	41.805376	-70.627840	North Pembroke	Massachusetts
+02668	41.710853	-70.362696	West Barnstable	Massachusetts
+02366	41.856419	-70.652397	South Carver	Massachusetts
+01033	42.244958	-72.500034	Granby	Massachusetts
+02769	41.846963	-71.244503	Rehoboth	Massachusetts
+01035	42.356482	-72.568576	Hadley	Massachusetts
+01515	42.209682	-72.040178	East Brookfield	Massachusetts
+01951	42.779378	-70.859637	Newbury	Massachusetts
+01740	42.439937	-71.601876	Bolton	Massachusetts
+01364	42.601134	-72.295516	Orange	Massachusetts
+02717	41.748162	-70.984925	East Freetown	Massachusetts
+01073	42.226949	-72.741588	Southampton	Massachusetts
+02669	41.666646	-69.989702	West Chatham	Massachusetts
+01236	42.274122	-73.363467	Housatonic	Massachusetts
+01566	42.103214	-72.079545	Sturbridge	Massachusetts
+02554	41.278764	-70.075644	Nantucket	Massachusetts
+01240	42.367862	-73.269768	Lenox	Massachusetts
+01506	42.181793	-72.107473	Brookfield	Massachusetts
+01521	42.046798	-72.180149	Holland	Massachusetts
+01516	42.053072	-71.752242	Douglas	Massachusetts
+01473	42.554600	-71.905440	Westminster	Massachusetts
+01222	42.062743	-73.317498	Ashley Falls	Massachusetts
+01585	42.239641	-72.166925	West Brookfield	Massachusetts
+01057	42.093596	-72.321494	Monson	Massachusetts
+01503	42.384929	-71.633889	Berlin	Massachusetts
+01522	42.375634	-71.867382	Jefferson	Massachusetts
+01092	42.205423	-72.238171	West Warren	Massachusetts
+01349	42.571518	-72.493983	Millers Falls	Massachusetts
+02367	41.959100	-70.802753	Plympton	Massachusetts
+01083	42.221739	-72.218842	Warren	Massachusetts
+01827	42.676078	-71.500517	Dunstable	Massachusetts
+01543	42.388977	-71.970514	Rutland	Massachusetts
+02652	42.041208	-70.089735	North Truro	Massachusetts
+01262	42.280297	-73.307639	Stockbridge	Massachusetts
+01468	42.542767	-72.068345	Templeton	Massachusetts
+01267	42.671616	-73.246981	Williamstown	Massachusetts
+01373	42.460058	-72.630922	South Deerfield	Massachusetts
+01430	42.673109	-71.920260	Ashburnham	Massachusetts
+02539	41.376928	-70.539683	Edgartown	Massachusetts
+01226	42.500999	-73.089021	Dalton	Massachusetts
+02667	41.927730	-70.016625	Wellfleet	Massachusetts
+01039	42.387158	-72.700088	Haydenville	Massachusetts
+01467	42.484923	-71.625537	Still River	Massachusetts
+02770	41.759846	-70.838449	Rochester	Massachusetts
+01225	42.559641	-73.162407	Cheshire	Massachusetts
+01005	42.418885	-72.112954	Barre	Massachusetts
+01431	42.676293	-71.832523	Ashby	Massachusetts
+01351	42.539880	-72.521689	Montague	Massachusetts
+01081	42.061313	-72.234411	Wales	Massachusetts
+01031	42.339700	-72.200510	Gilbertville	Massachusetts
+01238	42.293624	-73.214900	Lee	Massachusetts
+01088	42.393142	-72.645548	West Hatfield	Massachusetts
+02575	41.381496	-70.659642	West Tisbury	Massachusetts
+02542	41.693495	-70.537843	Buzzards Bay	Massachusetts
+01541	42.454125	-71.877540	Princeton	Massachusetts
+01010	42.129477	-72.205302	Brimfield	Massachusetts
+01071	42.160060	-72.873853	Russell	Massachusetts
+01452	42.489598	-72.002878	Hubbardston	Massachusetts
+01360	42.677091	-72.453876	Northfield	Massachusetts
+01370	42.593338	-72.726941	Shelburne Falls	Massachusetts
+01230	42.172941	-73.324463	Great Barrington	Massachusetts
+01068	42.353887	-72.060685	Oakham	Massachusetts
+01254	42.375021	-73.363093	Richmond	Massachusetts
+01338	42.575888	-72.806648	Buckland	Massachusetts
+01337	42.689307	-72.582249	Bernardston	Massachusetts
+01072	42.456968	-72.417244	Shutesbury	Massachusetts
+01096	42.409885	-72.774099	Williamsburg	Massachusetts
+01266	42.309224	-73.376752	West Stockbridge	Massachusetts
+01054	42.469588	-72.484502	Leverett	Massachusetts
+01342	42.546117	-72.607204	Deerfield	Massachusetts
+01344	42.613418	-72.426427	Erving	Massachusetts
+01257	42.098415	-73.378426	Sheffield	Massachusetts
+01235	42.430620	-73.064073	Hinsdale	Massachusetts
+01237	42.555658	-73.243027	Lanesboro	Massachusetts
+01050	42.294669	-72.890125	Huntington	Massachusetts
+02666	41.990779	-70.045721	Truro	Massachusetts
+01341	42.504432	-72.701760	Conway	Massachusetts
+01531	42.324499	-72.113909	New Braintree	Massachusetts
+01330	42.513947	-72.821517	Ashfield	Massachusetts
+01026	42.465495	-72.918267	Cummington	Massachusetts
+01029	42.193435	-73.041961	East Otis	Massachusetts
+01340	42.685953	-72.721000	Colrain	Massachusetts
+01253	42.197448	-73.096312	Otis	Massachusetts
+01098	42.397559	-72.943392	Worthington	Massachusetts
+01011	42.293933	-72.993099	Chester	Massachusetts
+01037	42.372728	-72.195412	Hardwick	Massachusetts
+01379	42.534508	-72.415384	Wendell	Massachusetts
+01259	42.070679	-73.247301	Southfield	Massachusetts
+01245	42.187320	-73.210154	Monterey	Massachusetts
+01346	42.660040	-72.819982	Heath	Massachusetts
+01012	42.375425	-72.858192	Chesterfield	Massachusetts
+01032	42.457613	-72.814780	Goshen	Massachusetts
+01070	42.520343	-72.926670	Plainfield	Massachusetts
+01339	42.626342	-72.878315	Charlemont	Massachusetts
+01223	42.340966	-73.120673	Becket	Massachusetts
+01368	42.679456	-72.176935	Royalston	Massachusetts
+01034	42.098207	-72.961272	Granville	Massachusetts
+01008	42.192222	-72.964379	Blandford	Massachusetts
+01366	42.475426	-72.211701	Petersham	Massachusetts
+01378	42.666871	-72.345995	Warwick	Massachusetts
+01264	42.228069	-73.194248	Tyringham	Massachusetts
+02535	41.341585	-70.796008	Chilmark	Massachusetts
+01256	42.594166	-73.022320	Savoy	Massachusetts
+01355	42.458522	-72.327219	New Salem	Massachusetts
+01084	42.361743	-72.874988	West Chesterfield	Massachusetts
+01255	42.102899	-73.125990	Sandisfield	Massachusetts
+01380	42.586998	-72.392870	Wendell Depot	Massachusetts
+01367	42.695532	-72.909148	Rowe	Massachusetts
+02713	41.432882	-70.873822	Cuttyhunk	Massachusetts
+01350	42.727772	-72.985346	Monroe Bridge	Massachusetts
+01258	42.090924	-73.470197	South Egremont	Massachusetts
