@@ -1,0 +1,421 @@
+38677	34.367037	-89.535128	University	Mississippi
+39210	32.324446	-90.179264	Jackson	Mississippi
+39203	32.308588	-90.201022	Jackson	Mississippi
+39762	33.453406	-88.791762	Mississippi State	Mississippi
+39206	32.372643	-90.172620	Jackson	Mississippi
+39531	30.403986	-88.966183	Biloxi	Mississippi
+39567	30.362742	-88.545228	Pascagoula	Mississippi
+39507	30.396917	-89.040083	Gulfport	Mississippi
+39530	30.394504	-88.880732	Biloxi	Mississippi
+39202	32.311045	-90.169809	Jackson	Mississippi
+39211	32.372134	-90.122605	Jackson	Mississippi
+38637	34.951186	-90.030390	Horn Lake	Mississippi
+39204	32.276256	-90.233584	Jackson	Mississippi
+39501	30.387575	-89.100959	Gulfport	Mississippi
+39216	32.334825	-90.159878	Jackson	Mississippi
+39174	32.402536	-90.160858	Tougaloo	Mississippi
+39060	32.351891	-90.269559	Clinton	Mississippi
+38671	34.955240	-89.986277	Southaven	Mississippi
+39560	30.374912	-89.176048	Long Beach	Mississippi
+39576	30.287451	-89.387000	Waveland	Mississippi
+39581	30.375481	-88.596005	Pascagoula	Mississippi
+39213	32.444692	-90.251587	Jackson	Mississippi
+39157	32.422835	-90.165305	Ridgeland	Mississippi
+39212	32.213858	-90.265276	Jackson	Mississippi
+39563	30.425002	-88.529373	Moss Point	Mississippi
+39564	30.388940	-88.737773	Ocean Springs	Mississippi
+39209	32.395522	-90.293193	Jackson	Mississippi
+39525	30.382672	-89.369122	Diamondhead	Mississippi
+39440	31.712010	-89.128774	Laurel	Mississippi
+39201	32.289656	-90.184201	Jackson	Mississippi
+39704	33.691787	-88.328769	Columbus	Mississippi
+39553	30.424180	-88.657115	Gautier	Mississippi
+39736	33.416530	-88.649664	Artesia	Mississippi
+39208	32.286523	-90.094517	Pearl	Mississippi
+38631	34.361000	-90.625543	Friars Point	Mississippi
+39771	33.606811	-89.275596	Walthall	Mississippi
+38622	34.171468	-90.144268	Crowder	Mississippi
+39056	32.377538	-90.351758	Clinton	Mississippi
+38760	33.455776	-90.991450	Metcalfe	Mississippi
+39218	32.234792	-90.165485	Richland	Mississippi
+38801	34.229320	-88.782273	Tupelo	Mississippi
+38738	33.922888	-90.540753	Parchman	Mississippi
+39532	30.498181	-88.957552	Biloxi	Mississippi
+38680	34.954464	-90.127538	Walls	Mississippi
+38879	34.201698	-88.696894	Verona	Mississippi
+39110	32.504210	-90.147164	Madison	Mississippi
+38654	34.930145	-89.826653	Olive Branch	Mississippi
+39503	30.470777	-89.142902	Gulfport	Mississippi
+38701	33.309039	-91.014362	Greenville	Mississippi
+39401	31.224100	-89.257324	Hattiesburg	Mississippi
+39402	31.340458	-89.412184	Hattiesburg	Mississippi
+39047	32.431529	-89.940698	Brandon	Mississippi
+39151	32.078893	-89.775420	Puckett	Mississippi
+38869	34.357895	-88.839049	Sherman	Mississippi
+39305	32.458037	-88.727389	Meridian	Mississippi
+38804	34.281378	-88.672873	Tupelo	Mississippi
+38639	34.300816	-90.424613	Jonestown	Mississippi
+39702	33.439736	-88.344713	Columbus	Mississippi
+38672	34.945487	-89.924342	Southaven	Mississippi
+39705	33.589451	-88.429641	Columbus	Mississippi
+39062	31.982797	-89.903370	D Lo	Mississippi
+39630	31.463041	-90.841400	Bude	Mississippi
+39632	31.055681	-90.466091	Chatawa	Mississippi
+39520	30.270006	-89.479892	Bay Saint Louis	Mississippi
+38880	34.575783	-88.608412	Wheeler	Mississippi
+39648	31.189344	-90.384302	Mccomb	Mississippi
+38651	34.895098	-90.002154	Nesbit	Mississippi
+38732	33.744725	-90.704581	Cleveland	Mississippi
+39466	30.593760	-89.738536	Picayune	Mississippi
+39572	30.251454	-89.600754	Pearlington	Mississippi
+39307	32.349100	-88.812708	Meridian	Mississippi
+38826	34.316167	-88.832365	Belden	Mississippi
+39465	31.356657	-89.192279	Petal	Mississippi
+38649	34.962267	-89.539617	Mount Pleasant	Mississippi
+38930	33.537851	-90.147886	Greenwood	Mississippi
+39571	30.431997	-89.303246	Pass Christian	Mississippi
+39042	32.198170	-89.895601	Brandon	Mississippi
+38857	34.281098	-88.577902	Mooreville	Mississippi
+38947	33.526892	-89.919325	North Carrollton	Mississippi
+39148	32.055635	-89.990157	Piney Woods	Mississippi
+38834	34.917111	-88.571777	Corinth	Mississippi
+39180	32.238660	-90.893728	Vicksburg	Mississippi
+38703	33.475662	-91.052834	Greenville	Mississippi
+38866	34.367082	-88.682549	Saltillo	Mississippi
+38614	34.171254	-90.617045	Clarksdale	Mississippi
+39759	33.440741	-88.841147	Starkville	Mississippi
+39359	32.563642	-89.335661	Sebastopol	Mississippi
+38957	33.978641	-90.349998	Sumner	Mississippi
+39073	32.109034	-90.125198	Florence	Mississippi
+39301	32.273648	-88.580363	Meridian	Mississippi
+39477	31.795734	-89.038321	Sandersville	Mississippi
+38652	34.483075	-88.996667	New Albany	Mississippi
+38862	34.183004	-88.618764	Plantersville	Mississippi
+39098	32.565166	-89.715938	Ludlow	Mississippi
+38827	34.526073	-88.197554	Belmont	Mississippi
+39601	31.557587	-90.459078	Brookhaven	Mississippi
+38764	33.806256	-90.852686	Pace	Mississippi
+38632	34.800936	-90.005823	Hernando	Mississippi
+39363	32.126654	-88.765212	Stonewall	Mississippi
+38821	33.977612	-88.429878	Amory	Mississippi
+39443	31.701997	-89.068094	Laurel	Mississippi
+38901	33.760376	-89.805243	Grenada	Mississippi
+38771	33.736801	-90.508380	Ruleville	Mississippi
+39154	32.225111	-90.444671	Raymond	Mississippi
+38761	33.429514	-90.497103	Moorhead	Mississippi
+39635	31.193020	-90.465110	Fernwood	Mississippi
+39701	33.459169	-88.479115	Columbus	Mississippi
+39773	33.631430	-88.678901	West Point	Mississippi
+38751	33.454116	-90.670354	Indianola	Mississippi
+39170	32.111889	-90.330006	Terry	Mississippi
+38668	34.607242	-89.925730	Senatobia	Mississippi
+38941	33.463267	-90.332272	Itta Bena	Mississippi
+38841	34.346403	-89.026250	Ecru	Mississippi
+38611	34.851254	-89.675940	Byhalia	Mississippi
+39426	30.653840	-89.671740	Carriere	Mississippi
+39059	31.982611	-90.350491	Crystal Springs	Mississippi
+38868	34.125686	-88.743823	Shannon	Mississippi
+38855	34.331163	-88.494795	Mantachie	Mississippi
+39120	31.536838	-91.343225	Natchez	Mississippi
+39111	31.891601	-89.725425	Magee	Mississippi
+39562	30.526670	-88.493992	Moss Point	Mississippi
+38762	33.893219	-90.758140	Mound Bayou	Mississippi
+38620	34.230138	-89.902510	Courtland	Mississippi
+39437	31.575693	-89.224227	Ellisville	Mississippi
+39475	31.175860	-89.436550	Purvis	Mississippi
+38655	34.320920	-89.451650	Oxford	Mississippi
+38829	34.654752	-88.526788	Booneville	Mississippi
+39046	32.631677	-89.988785	Canton	Mississippi
+38661	34.899359	-89.545092	Red Banks	Mississippi
+38769	33.851053	-90.948908	Rosedale	Mississippi
+39766	33.587707	-88.312071	Steens	Mississippi
+39038	33.145024	-90.621952	Belzoni	Mississippi
+39161	32.502231	-89.868785	Sandhill	Mississippi
+38846	34.853310	-88.398145	Glen	Mississippi
+38849	34.460966	-88.696060	Guntown	Mississippi
+39350	32.796469	-89.125241	Philadelphia	Mississippi
+38863	34.216415	-89.010827	Pontotoc	Mississippi
+38723	33.219391	-91.058391	Avon	Mississippi
+39183	32.460646	-90.824273	Vicksburg	Mississippi
+38606	34.300327	-89.966393	Batesville	Mississippi
+38824	34.519295	-88.640992	Baldwyn	Mississippi
+39429	31.242372	-89.766039	Columbia	Mississippi
+39565	30.571820	-88.748676	Vancleave	Mississippi
+39666	31.294762	-90.459174	Summit	Mississippi
+38858	34.095374	-88.556280	Nettleton	Mississippi
+38663	34.752271	-88.901819	Ripley	Mississippi
+38843	34.261943	-88.376373	Fulton	Mississippi
+39556	30.441506	-89.439893	Kiln	Mississippi
+38618	34.686337	-89.915065	Coldwater	Mississippi
+39114	31.947165	-89.820339	Mendenhall	Mississippi
+38774	33.949884	-90.771427	Shelby	Mississippi
+38666	34.419905	-89.920660	Sardis	Mississippi
+39428	31.652259	-89.573103	Collins	Mississippi
+39345	32.301726	-89.144380	Newton	Mississippi
+39107	33.022832	-89.680952	Mc Adams	Mississippi
+38860	33.978072	-88.779318	Okolona	Mississippi
+39574	30.608496	-89.106093	Saucier	Mississippi
+39459	31.489786	-89.304575	Moselle	Mississippi
+39730	33.843668	-88.565300	Aberdeen	Mississippi
+39090	33.012936	-89.543606	Kosciusko	Mississippi
+38756	33.412567	-90.853589	Leland	Mississippi
+39652	31.110875	-90.477799	Magnolia	Mississippi
+38833	34.837982	-88.340502	Burnsville	Mississippi
+38870	34.072364	-88.312968	Smithville	Mississippi
+39740	33.767993	-88.297585	Caledonia	Mississippi
+39074	32.363093	-89.467239	Forest	Mississippi
+38658	34.181346	-89.904468	Pope	Mississippi
+39474	31.613449	-89.855254	Prentiss	Mississippi
+39189	32.608003	-89.400149	Walnut Grove	Mississippi
+38630	34.230126	-90.628180	Farrell	Mississippi
+39421	31.485873	-89.718831	Bassfield	Mississippi
+38676	34.688494	-90.348839	Tunica	Mississippi
+39194	32.828894	-90.512983	Yazoo City	Mississippi
+39480	31.704964	-89.316216	Soso	Mississippi
+38650	34.527710	-89.145012	Myrtle	Mississippi
+39561	30.707590	-89.157733	Mc Henry	Mississippi
+38852	34.834495	-88.218978	Iuka	Mississippi
+39325	32.570887	-88.880240	Collinsville	Mississippi
+39168	31.823103	-89.409044	Taylorsville	Mississippi
+39481	31.852186	-89.241850	Stringer	Mississippi
+39109	32.670926	-89.332090	Madden	Mississippi
+38967	33.476200	-89.726476	Winona	Mississippi
+39364	32.424037	-88.521626	Toomsuba	Mississippi
+39452	30.859171	-88.590648	Lucedale	Mississippi
+38635	34.753378	-89.481410	Holly Springs	Mississippi
+38921	33.979414	-90.128196	Charleston	Mississippi
+39479	31.532202	-89.466510	Seminary	Mississippi
+39482	31.364436	-89.580666	Sumrall	Mississippi
+38851	33.906351	-88.954185	Houston	Mississippi
+39339	33.101905	-89.011663	Louisville	Mississippi
+38828	34.439211	-88.870708	Blue Springs	Mississippi
+39071	32.545546	-90.323093	Flora	Mississippi
+39063	33.113796	-89.906910	Durant	Mississippi
+39422	31.963334	-89.262052	Bay Springs	Mississippi
+38683	34.931390	-88.837184	Walnut	Mississippi
+39117	32.307681	-89.665862	Morton	Mississippi
+39365	32.603605	-89.130094	Union	Mississippi
+39327	32.446464	-89.119043	Decatur	Mississippi
+38847	34.412540	-88.232960	Golden	Mississippi
+39667	31.127435	-90.118039	Tylertown	Mississippi
+39745	33.317787	-89.420652	French Camp	Mississippi
+39119	31.751549	-89.670777	Mount Olive	Mississippi
+38966	33.922987	-90.358283	Webb	Mississippi
+38865	34.788031	-88.595406	Rienzi	Mississippi
+39643	31.286524	-90.038498	Kokomo	Mississippi
+38915	34.038114	-89.388799	Bruce	Mississippi
+38646	34.266352	-90.290510	Marks	Mississippi
+39069	31.693616	-91.044517	Fayette	Mississippi
+39654	31.541921	-90.131531	Monticello	Mississippi
+38965	34.135544	-89.601750	Water Valley	Mississippi
+39752	33.530527	-89.149184	Mathiston	Mississippi
+39746	33.752234	-88.415414	Hamilton	Mississippi
+39629	31.436637	-90.456850	Bogue Chitto	Mississippi
+39320	32.561717	-88.741624	Bailey	Mississippi
+39483	31.242774	-89.932348	Foxworth	Mississippi
+39439	31.845177	-89.008050	Heidelberg	Mississippi
+39051	32.784623	-89.485184	Carthage	Mississippi
+39145	32.329258	-89.799290	Pelahatchie	Mississippi
+39335	32.526800	-88.500511	Lauderdale	Mississippi
+38874	34.227725	-89.248856	Toccopola	Mississippi
+38619	34.513880	-89.855760	Como	Mississippi
+39083	31.829009	-90.475109	Hazlehurst	Mississippi
+39092	32.319548	-89.362401	Lake	Mississippi
+38730	33.690713	-90.778088	Boyle	Mississippi
+38665	34.607988	-90.149559	Sarah	Mississippi
+38778	33.546214	-90.516952	Sunflower	Mississippi
+38610	34.655576	-89.032691	Blue Mountain	Mississippi
+39743	33.323587	-88.593254	Crawford	Mississippi
+39367	31.684422	-88.668028	Waynesboro	Mississippi
+39066	32.298256	-90.605851	Edwards	Mississippi
+39191	31.711309	-90.424334	Wesson	Mississippi
+38739	34.062028	-90.499326	Dublin	Mississippi
+38878	33.904506	-89.187459	Vardaman	Mississippi
+38765	33.069432	-90.887217	Panther Burn	Mississippi
+38838	34.549010	-88.254079	Dennis	Mississippi
+38621	34.447192	-90.170459	Crenshaw	Mississippi
+38773	33.611154	-90.776698	Shaw	Mississippi
+39337	32.507248	-88.979980	Little Rock	Mississippi
+39423	31.198146	-88.907923	Beaumont	Mississippi
+38916	33.829912	-89.351138	Calhoun City	Mississippi
+38720	34.135545	-90.724464	Alligator	Mississippi
+39641	31.369824	-90.155256	Jayess	Mississippi
+38873	34.659698	-88.242903	Tishomingo	Mississippi
+38856	34.445241	-88.435532	Marietta	Mississippi
+39116	31.888465	-89.555213	Mize	Mississippi
+39113	32.892237	-91.017751	Mayersville	Mississippi
+38627	34.417830	-89.207944	Etta	Mississippi
+39150	31.994866	-90.994223	Port Gibson	Mississippi
+39750	33.607875	-89.086793	Maben	Mississippi
+39057	32.490854	-89.284427	Conehatta	Mississippi
+38850	34.044334	-89.025118	Houlka	Mississippi
+39346	32.952424	-89.087559	Noxapater	Mississippi
+38871	34.334565	-89.206775	Thaxton	Mississippi
+38673	34.293442	-89.635398	Taylor	Mississippi
+39169	33.121606	-90.282164	Tchula	Mississippi
+39079	32.935310	-89.890210	Goodman	Mississippi
+39663	31.594843	-90.038350	Silver Creek	Mississippi
+38754	33.231324	-90.604933	Isola	Mississippi
+38642	34.911341	-89.341401	Lamar	Mississippi
+39735	33.366053	-89.187342	Ackerman	Mississippi
+38736	33.640362	-90.508387	Doddsville	Mississippi
+39577	30.945344	-89.116936	Wiggins	Mississippi
+39355	32.055625	-88.633072	Quitman	Mississippi
+38737	33.875316	-90.533719	Drew	Mississippi
+39657	31.025618	-90.490017	Osyka	Mississippi
+39470	30.822969	-89.569464	Poplarville	Mississippi
+38629	34.862808	-89.009788	Falkner	Mississippi
+38954	33.429945	-90.179067	Sidon	Mississippi
+39751	33.697372	-89.037592	Mantee	Mississippi
+39041	32.416897	-90.479757	Bolton	Mississippi
+38949	34.172545	-89.425235	Paris	Mississippi
+38674	34.879034	-88.893466	Tiplersville	Mississippi
+39153	32.039865	-89.508407	Raleigh	Mississippi
+39044	32.028838	-89.974013	Braxton	Mississippi
+38644	34.432927	-90.442248	Lula	Mississippi
+39322	31.580110	-88.539512	Buckatunna	Mississippi
+38645	34.236966	-90.465893	Lyon	Mississippi
+39332	32.293663	-89.006113	Hickory	Mississippi
+38601	34.492325	-89.443056	Abbeville	Mississippi
+39478	31.054177	-89.856810	Sandy Hook	Mississippi
+39462	31.226521	-89.055431	New Augusta	Mississippi
+39464	31.491993	-89.083987	Ovett	Mississippi
+38625	34.615195	-88.820615	Dumas	Mississippi
+38623	34.346517	-90.278796	Darling	Mississippi
+38951	33.975324	-89.277712	Pittsboro	Mississippi
+39756	33.756717	-88.741085	Prairie	Mississippi
+39776	33.781864	-89.054628	Woodland	Mississippi
+39146	32.876001	-89.994907	Pickens	Mississippi
+39427	31.479428	-89.831119	Carson	Mississippi
+39451	31.147120	-88.631401	Leakesville	Mississippi
+39631	31.067164	-91.134282	Centreville	Mississippi
+38722	33.256470	-90.833821	Arcola	Mississippi
+39140	31.750881	-90.008555	Newhebron	Mississippi
+39330	32.177375	-88.856556	Enterprise	Mississippi
+38643	34.151992	-90.256483	Lambert	Mississippi
+38641	34.914692	-90.188582	Lake Cormorant	Mississippi
+39455	31.027852	-89.484410	Lumberton	Mississippi
+39095	33.125942	-90.091197	Lexington	Mississippi
+39772	33.340367	-89.330725	Weir	Mississippi
+39326	32.616954	-88.693171	Daleville	Mississippi
+39662	31.397423	-90.297940	Ruth	Mississippi
+38948	34.067677	-89.892794	Oakland	Mississippi
+39149	31.842227	-90.013025	Pinola	Mississippi
+39094	32.586250	-89.663156	Lena	Mississippi
+39744	33.596357	-89.318467	Eupora	Mississippi
+39665	31.641133	-90.228024	Sontag	Mississippi
+38659	34.613927	-89.357859	Potts Camp	Mississippi
+39054	32.808737	-90.899209	Cary	Mississippi
+39741	33.677358	-88.863740	Cedarbluff	Mississippi
+38759	33.824759	-90.719092	Merigold	Mississippi
+38633	34.647337	-89.194971	Hickory Flat	Mississippi
+39341	33.106270	-88.565787	Macon	Mississippi
+39082	31.946222	-90.131704	Harrisville	Mississippi
+38603	34.853015	-89.146950	Ashland	Mississippi
+39366	31.943818	-88.918193	Vossburg	Mississippi
+39638	31.242177	-90.978430	Gloster	Mississippi
+39175	32.089012	-90.622599	Utica	Mississippi
+39096	31.835691	-91.089813	Lorman	Mississippi
+38748	33.135512	-90.880558	Hollandale	Mississippi
+39476	31.395406	-88.876342	Richton	Mississippi
+38721	32.982751	-90.764265	Anguilla	Mississippi
+38961	33.961533	-89.887802	Tillatoba	Mississippi
+39078	31.881753	-90.213889	Georgetown	Mississippi
+39160	33.002395	-89.753390	Sallis	Mississippi
+39360	31.864814	-88.754017	Shubuta	Mississippi
+38917	33.542622	-89.967900	Carrollton	Mississippi
+39336	32.300601	-89.262200	Lawrence	Mississippi
+39664	31.325970	-90.674153	Smithdale	Mississippi
+39040	32.629054	-90.417166	Bentonia	Mississippi
+38767	34.135758	-90.785898	Rena Lara	Mississippi
+38753	33.340204	-90.575612	Inverness	Mississippi
+38925	33.645100	-89.655284	Duck Hill	Mississippi
+39456	31.059790	-88.823384	Mc Lain	Mississippi
+38923	33.378132	-89.992194	Coila	Mississippi
+38927	34.123550	-90.012876	Enid	Mississippi
+39755	33.609399	-88.957514	Pheba	Mississippi
+38962	33.913802	-90.165391	Tippo	Mississippi
+38864	34.143303	-89.213081	Randolph	Mississippi
+39347	32.060443	-88.942004	Pachuta	Mississippi
+38617	34.364906	-90.489617	Coahoma	Mississippi
+39656	31.453376	-89.931589	Oak Vale	Mississippi
+39097	32.995363	-90.601081	Louise	Mississippi
+38664	34.812743	-90.298175	Robinsonville	Mississippi
+39323	32.317804	-88.920752	Chunky	Mississippi
+39152	32.207475	-89.585474	Pulaski	Mississippi
+39747	33.400028	-89.562313	Kilmichael	Mississippi
+38963	34.008446	-90.377295	Tutwiler	Mississippi
+39176	33.302451	-89.740066	Vaiden	Mississippi
+39166	33.054043	-90.482614	Silver City	Mississippi
+39338	32.111391	-89.224626	Louin	Mississippi
+39645	31.154106	-90.787510	Liberty	Mississippi
+39739	33.244564	-88.581268	Brooksville	Mississippi
+38953	33.905855	-89.940975	Scobey	Mississippi
+39669	31.150673	-91.362519	Woodville	Mississippi
+38943	33.539901	-89.845569	Mc Carley	Mississippi
+38859	34.515197	-88.368607	New Site	Mississippi
+38922	33.943937	-89.634279	Coffeeville	Mississippi
+39354	32.877895	-88.812330	Preston	Mississippi
+38844	33.853766	-88.257935	Gattman	Mississippi
+39328	32.743509	-88.698611	De Kalb	Mississippi
+39362	31.397278	-88.542745	State Line	Mississippi
+38929	33.739681	-89.545966	Gore Springs	Mississippi
+38876	34.213590	-88.230292	Tremont	Mississippi
+39348	32.017952	-89.066034	Paulding	Mississippi
+39573	30.732207	-89.090206	Perkinston	Mississippi
+39769	33.309360	-89.001957	Sturgis	Mississippi
+38928	33.857928	-90.301786	Glendora	Mississippi
+39067	33.132900	-89.457089	Ethel	Mississippi
+38940	33.753542	-90.009689	Holcomb	Mississippi
+38726	33.766630	-90.976862	Beulah	Mississippi
+38685	34.550154	-89.614629	Waterford	Mississippi
+39767	33.463572	-89.466967	Stewart	Mississippi
+39039	32.817262	-90.234225	Benton	Mississippi
+38647	34.967772	-89.270212	Michigan City	Mississippi
+39179	32.802438	-90.096939	Vaughan	Mississippi
+38920	33.931217	-90.023250	Cascilla	Mississippi
+39436	31.452372	-89.315040	Eastabuchie	Mississippi
+39356	32.151738	-89.042983	Rose Hill	Mississippi
+38744	33.060335	-91.069264	Glen Allan	Mississippi
+39192	33.193514	-89.760618	West	Mississippi
+38609	34.279673	-90.378617	Belen	Mississippi
+38670	34.399213	-90.295181	Sledge	Mississippi
+39653	31.442069	-90.878426	Meadville	Mississippi
+39661	31.475171	-91.076728	Roxie	Mississippi
+38745	32.975603	-90.953412	Grace	Mississippi
+39647	31.526242	-90.711528	Mc Call Creek	Mississippi
+39358	32.847091	-88.476202	Scooba	Mississippi
+38746	33.985109	-90.864485	Gunnison	Mississippi
+39461	31.191232	-88.727136	Neely	Mississippi
+38740	34.021964	-90.768091	Duncan	Mississippi
+39061	33.077066	-90.839113	Delta City	Mississippi
+39086	31.980896	-90.768379	Hermanville	Mississippi
+38768	33.965814	-90.526327	Rome	Mississippi
+39045	32.819567	-89.784507	Camden	Mississippi
+39361	32.995488	-88.596416	Shuqualak	Mississippi
+38848	33.936684	-88.282673	Greenwood Springs	Mississippi
+38924	33.299919	-90.207373	Cruger	Mississippi
+39352	32.667807	-88.486015	Porterville	Mississippi
+38913	34.126745	-89.392912	Banner	Mississippi
+39144	31.822623	-90.792933	Pattison	Mississippi
+39633	31.293115	-91.158001	Crosby	Mississippi
+39108	33.149349	-89.338532	Mc Cool	Mississippi
+38950	33.733165	-90.201369	Philipp	Mississippi
+38772	33.564879	-91.085818	Scott	Mississippi
+39159	32.754977	-90.988552	Rolling Fork	Mississippi
+38946	33.361612	-90.363448	Morgan City	Mississippi
+38944	33.762133	-90.345818	Minter City	Mississippi
+39115	33.075985	-90.601003	Midnight	Mississippi
+38914	33.847974	-89.477471	Big Creek	Mississippi
+38626	34.517362	-90.414527	Dundee	Mississippi
+39425	31.062414	-89.067839	Brooklyn	Mississippi
+38952	33.628338	-90.346974	Schlater	Mississippi
+38725	33.634837	-91.060393	Benoit	Mississippi
+38959	33.307348	-90.417478	Swiftown	Mississippi
+39668	31.710523	-90.809347	Union Church	Mississippi
+38669	34.175932	-90.716390	Sherard	Mississippi
+38964	34.099060	-90.398491	Vance	Mississippi
+39156	32.548314	-90.778416	Redwood	Mississippi
+39162	32.622735	-90.630068	Satartia	Mississippi
+39088	32.782690	-90.740711	Holly Bluff	Mississippi
+39177	32.607207	-90.826083	Valley Park	Mississippi
