@@ -1,0 +1,406 @@
+29688	35.069047	-82.371520	Tigerville	South Carolina
+29202	34.023588	-81.028462	Columbia	South Carolina
+29423	32.980483	-80.070695	Charleston	South Carolina
+29401	32.779307	-79.935455	Charleston	South Carolina
+29683	35.031247	-82.494023	Slater	South Carolina
+29403	32.803395	-79.946147	Charleston	South Carolina
+29205	33.990004	-80.996847	Columbia	South Carolina
+29204	34.029806	-80.998625	Columbia	South Carolina
+29407	32.799818	-79.999386	Charleston	South Carolina
+29601	34.847311	-82.402121	Greenville	South Carolina
+29207	34.020380	-80.939833	Columbia	South Carolina
+29177	34.141302	-81.269273	White Rock	South Carolina
+29210	34.045439	-81.110411	Columbia	South Carolina
+29405	32.856252	-79.981994	North Charleston	South Carolina
+29320	34.959115	-81.988820	Arcadia	South Carolina
+29169	33.994355	-81.096222	West Columbia	South Carolina
+29935	32.384679	-80.689281	Port Royal	South Carolina
+29338	35.136413	-82.002784	Fingerville	South Carolina
+29662	34.773846	-82.306938	Mauldin	South Carolina
+29406	32.929359	-80.023341	Charleston	South Carolina
+29631	34.680493	-82.818099	Clemson	South Carolina
+29418	32.916799	-80.093338	North Charleston	South Carolina
+29828	33.522356	-81.827282	Gloverville	South Carolina
+29615	34.855956	-82.298428	Greenville	South Carolina
+29223	34.089070	-80.919764	Columbia	South Carolina
+29375	34.862576	-82.110212	Reidville	South Carolina
+29822	33.500956	-81.893488	Clearwater	South Carolina
+29816	33.500627	-81.870785	Bath	South Carolina
+29464	32.817341	-79.855100	Mount Pleasant	South Carolina
+29212	34.080585	-81.177389	Columbia	South Carolina
+29650	34.895253	-82.255931	Greer	South Carolina
+29201	33.982403	-81.025892	Columbia	South Carolina
+29033	33.956533	-81.058662	Cayce	South Carolina
+29611	34.830934	-82.458497	Greenville	South Carolina
+29605	34.777688	-82.383363	Greenville	South Carolina
+29152	33.972299	-80.465806	Shaw A F B	South Carolina
+29589	34.095506	-79.317313	Rains	South Carolina
+29609	34.918444	-82.388601	Greenville	South Carolina
+29229	34.136906	-80.895761	Columbia	South Carolina
+29420	32.938441	-80.107338	North Charleston	South Carolina
+29485	32.967075	-80.190802	Summerville	South Carolina
+29607	34.814585	-82.331857	Greenville	South Carolina
+29577	33.694200	-78.912856	Myrtle Beach	South Carolina
+29301	34.932853	-82.012847	Spartanburg	South Carolina
+29617	34.914439	-82.466074	Greenville	South Carolina
+29456	32.985877	-80.115440	Ladson	South Carolina
+29306	34.896692	-81.921854	Spartanburg	South Carolina
+29572	33.768942	-78.790804	Myrtle Beach	South Carolina
+29841	33.522824	-81.938874	North Augusta	South Carolina
+29412	32.724658	-79.952923	Charleston	South Carolina
+29150	33.878023	-80.354456	Sumter	South Carolina
+29928	32.162482	-80.755367	Hilton Head Island	South Carolina
+29364	34.788020	-81.463553	Lockhart	South Carolina
+29445	32.999295	-79.967298	Goose Creek	South Carolina
+29209	33.942110	-80.939190	Columbia	South Carolina
+29404	32.899822	-80.050607	Charleston Afb	South Carolina
+29170	33.939566	-81.144271	West Columbia	South Carolina
+29303	34.996276	-81.960980	Spartanburg	South Carolina
+29482	32.767606	-79.834935	Sullivans Island	South Carolina
+29732	34.966957	-81.082870	Rock Hill	South Carolina
+29687	34.986636	-82.327451	Taylors	South Carolina
+29681	34.772389	-82.224231	Simpsonville	South Carolina
+29575	33.635219	-79.022816	Myrtle Beach	South Carolina
+29501	34.207840	-79.825014	Florence	South Carolina
+29582	33.837217	-78.640627	North Myrtle Beach	South Carolina
+29203	34.101588	-81.041857	Columbia	South Carolina
+29834	33.513448	-81.861833	Langley	South Carolina
+29926	32.229138	-80.747990	Hilton Head Island	South Carolina
+29680	34.685122	-82.288811	Simpsonville	South Carolina
+29667	34.767508	-82.759605	Norris	South Carolina
+29316	35.048965	-81.974735	Boiling Springs	South Carolina
+29063	34.142131	-81.206184	Irmo	South Carolina
+29576	33.562257	-79.050726	Murrells Inlet	South Carolina
+29414	32.845735	-80.099212	Charleston	South Carolina
+29625	34.533129	-82.695962	Anderson	South Carolina
+29373	34.926888	-81.746631	Pacolet Mills	South Carolina
+29624	34.435943	-82.624115	Anderson	South Carolina
+29708	35.043075	-80.979649	Fort Mill	South Carolina
+29677	34.586178	-82.749808	Sandy Springs	South Carolina
+29902	32.418767	-80.659703	Beaufort	South Carolina
+29642	34.775247	-82.564925	Easley	South Carolina
+29724	34.773009	-81.011714	Lando	South Carolina
+29072	33.990573	-81.263953	Lexington	South Carolina
+29483	33.062945	-80.195278	Summerville	South Carolina
+29906	32.450255	-80.749684	Beaufort	South Carolina
+29656	34.620478	-82.765279	La France	South Carolina
+29649	34.240912	-82.141199	Greenwood	South Carolina
+29307	34.982819	-81.830237	Spartanburg	South Carolina
+29466	32.877758	-79.792013	Mount Pleasant	South Carolina
+29451	32.828009	-79.750481	Isle Of Palms	South Carolina
+29377	34.934856	-82.092008	Startex	South Carolina
+29365	34.976954	-82.164564	Lyman	South Carolina
+29730	34.889870	-81.017838	Rock Hill	South Carolina
+29073	33.897918	-81.239843	Lexington	South Carolina
+29385	34.972963	-82.101417	Wellford	South Carolina
+29651	35.008704	-82.288043	Greer	South Carolina
+29172	33.912417	-81.076978	West Columbia	South Carolina
+29621	34.513271	-82.605421	Anderson	South Carolina
+29334	34.905551	-82.124414	Duncan	South Carolina
+29851	33.508815	-81.816838	Warrenville	South Carolina
+29505	34.118204	-79.696560	Florence	South Carolina
+29640	34.883574	-82.579857	Easley	South Carolina
+29809	33.414290	-81.694718	New Ellenton	South Carolina
+29369	34.865620	-82.019463	Moore	South Carolina
+29302	34.884446	-81.843603	Spartanburg	South Carolina
+29566	33.874493	-78.657401	Little River	South Carolina
+29715	34.997473	-80.900773	Fort Mill	South Carolina
+29579	33.742511	-78.966832	Myrtle Beach	South Carolina
+29349	35.069320	-82.071005	Inman	South Carolina
+29154	33.872344	-80.422911	Sumter	South Carolina
+29673	34.713864	-82.455898	Piedmont	South Carolina
+29801	33.600158	-81.695377	Aiken	South Carolina
+29697	34.632158	-82.552060	Williamston	South Carolina
+29826	33.382032	-81.373959	Elko	South Carolina
+29115	33.479236	-80.842642	Orangeburg	South Carolina
+29646	34.136053	-82.148470	Greenwood	South Carolina
+29206	34.039432	-80.825097	Columbia	South Carolina
+29132	34.307380	-81.128416	Rion	South Carolina
+29803	33.468339	-81.707029	Aiken	South Carolina
+29678	34.627590	-82.949944	Seneca	South Carolina
+29657	34.767088	-82.686571	Liberty	South Carolina
+29330	35.051964	-81.808161	Cowpens	South Carolina
+29036	34.148476	-81.338106	Chapin	South Carolina
+29626	34.455744	-82.747348	Anderson	South Carolina
+29439	32.669076	-79.942466	Folly Beach	South Carolina
+29829	33.574631	-81.857826	Graniteville	South Carolina
+29045	34.185012	-80.806315	Elgin	South Carolina
+29532	34.280331	-79.869336	Darlington	South Carolina
+29323	35.126341	-81.907463	Chesnee	South Carolina
+29644	34.668477	-82.190059	Fountain Inn	South Carolina
+29669	34.639372	-82.413576	Pelzer	South Carolina
+29630	34.738673	-82.799161	Central	South Carolina
+29710	35.103523	-81.227446	Clover	South Carolina
+29118	33.567550	-80.885684	Orangeburg	South Carolina
+29672	34.723550	-82.933759	Seneca	South Carolina
+29585	33.527614	-79.146713	Pawleys Island	South Carolina
+29053	33.827530	-81.090874	Gaston	South Carolina
+29341	35.113676	-81.714522	Gaffney	South Carolina
+29690	35.048922	-82.424918	Travelers Rest	South Carolina
+29526	33.868778	-78.971785	Conway	South Carolina
+29506	34.210664	-79.650085	Florence	South Carolina
+29860	33.614580	-81.984595	North Augusta	South Carolina
+29842	33.442195	-81.857968	Beech Island	South Carolina
+29061	33.909929	-80.842479	Hopkins	South Carolina
+29745	34.995639	-81.223540	York	South Carolina
+29351	34.411477	-81.788833	Joanna	South Carolina
+29720	34.745312	-80.743312	Lancaster	South Carolina
+29376	34.811382	-81.944219	Roebuck	South Carolina
+29627	34.522712	-82.479609	Belton	South Carolina
+29691	34.782583	-83.083166	Walhalla	South Carolina
+29360	34.493498	-82.042529	Laurens	South Carolina
+29550	34.402394	-80.081665	Hartsville	South Carolina
+29055	34.583455	-80.928465	Great Falls	South Carolina
+29536	34.426571	-79.378150	Dillon	South Carolina
+29696	34.780094	-83.008848	West Union	South Carolina
+29461	33.159834	-80.006461	Moncks Corner	South Carolina
+29054	33.938029	-81.379275	Gilbert	South Carolina
+29388	34.767029	-82.036676	Woodruff	South Carolina
+29322	35.121041	-82.132234	Campobello	South Carolina
+29340	34.972033	-81.585721	Gaffney	South Carolina
+29039	33.410037	-80.899979	Cordova	South Carolina
+29574	34.165504	-79.260681	Mullins	South Carolina
+29040	34.068639	-80.422408	Dalzell	South Carolina
+29455	32.620878	-80.036502	Johns Island	South Carolina
+29671	34.943715	-82.721156	Pickens	South Carolina
+29704	34.831891	-80.909786	Catawba	South Carolina
+29670	34.638893	-82.739931	Pendleton	South Carolina
+29910	32.257136	-80.877762	Bluffton	South Carolina
+29079	34.300587	-80.106143	Lydia	South Carolina
+29682	34.847712	-82.822363	Six Mile	South Carolina
+29527	33.784249	-79.145878	Conway	South Carolina
+29469	33.259569	-80.125047	Pinopolis	South Carolina
+29519	34.027368	-79.367262	Centenary	South Carolina
+29372	34.901747	-81.711273	Pacolet	South Carolina
+29692	34.412630	-82.219492	Ware Shoals	South Carolina
+29689	34.531028	-82.882374	Townville	South Carolina
+29541	34.064949	-79.740750	Effingham	South Carolina
+29016	34.209337	-80.995704	Blythewood	South Carolina
+29153	33.970597	-80.305765	Sumter	South Carolina
+29078	34.190885	-80.701591	Lugoff	South Carolina
+29020	34.304991	-80.589392	Camden	South Carolina
+29520	34.685973	-79.931696	Cheraw	South Carolina
+29560	33.844923	-79.749433	Lake City	South Carolina
+29639	34.303618	-82.428815	Due West	South Carolina
+29325	34.470967	-81.837088	Clinton	South Carolina
+29108	34.305524	-81.627342	Newberry	South Carolina
+29048	33.380628	-80.297040	Eutawville	South Carolina
+29645	34.592282	-82.124610	Gray Court	South Carolina
+29702	35.116068	-81.473073	Blacksburg	South Carolina
+29728	34.764953	-80.400558	Pageland	South Carolina
+29384	34.343657	-82.094269	Waterloo	South Carolina
+29512	34.636020	-79.712153	Bennettsville	South Carolina
+29479	33.357088	-79.874962	Saint Stephen	South Carolina
+29571	34.143565	-79.409001	Marion	South Carolina
+29488	32.897620	-80.678002	Walterboro	South Carolina
+29046	34.107995	-80.154911	Elliott	South Carolina
+29122	34.244192	-81.328042	Peak	South Carolina
+29920	32.363029	-80.556724	Saint Helena Island	South Carolina
+29449	32.698412	-80.293884	Hollywood	South Carolina
+29356	35.142074	-82.280831	Landrum	South Carolina
+29123	33.763675	-81.259133	Pelion	South Carolina
+29142	33.453479	-80.528205	Santee	South Carolina
+29042	33.315571	-81.150776	Denmark	South Carolina
+29374	34.784549	-81.853472	Pauline	South Carolina
+29661	35.051193	-82.534248	Marietta	South Carolina
+29161	34.104703	-79.943496	Timmonsville	South Carolina
+29714	34.711510	-80.916785	Fort Lawn	South Carolina
+29568	33.898789	-78.780371	Longs	South Carolina
+29379	34.687684	-81.601581	Union	South Carolina
+29654	34.482039	-82.364999	Honea Path	South Carolina
+29924	32.872380	-81.108009	Hampton	South Carolina
+29643	34.516190	-82.996445	Fair Play	South Carolina
+29570	34.667376	-79.564322	Mc Coll	South Carolina
+29569	34.033844	-78.908900	Loris	South Carolina
+29556	33.664532	-79.726460	Kingstree	South Carolina
+29684	34.379410	-82.718488	Starr	South Carolina
+29943	32.455784	-81.098533	Tillman	South Carolina
+29693	34.646708	-83.146844	Westminster	South Carolina
+29070	33.910258	-81.449393	Leesville	South Carolina
+29511	33.975732	-79.122716	Aynor	South Carolina
+29706	34.715492	-81.234538	Chester	South Carolina
+29591	33.937999	-79.762290	Scranton	South Carolina
+29712	34.791568	-80.980229	Edgemoor	South Carolina
+29163	33.417582	-80.446452	Vance	South Carolina
+29594	34.643467	-79.586592	Tatum	South Carolina
+29321	34.714662	-81.741065	Buffalo	South Carolina
+29127	34.173300	-81.526692	Prosperity	South Carolina
+29102	33.654194	-80.202339	Manning	South Carolina
+29010	34.223328	-80.272722	Bishopville	South Carolina
+29563	34.353366	-79.208673	Lake View	South Carolina
+29006	33.869101	-81.551078	Batesburg	South Carolina
+29160	33.736454	-81.048889	Swansea	South Carolina
+29555	33.833031	-79.450589	Johnsonville	South Carolina
+29431	33.274588	-79.869310	Bonneau	South Carolina
+29162	33.883269	-79.997280	Turbeville	South Carolina
+29653	34.306003	-82.232469	Hodges	South Carolina
+29530	33.996055	-79.740075	Coward	South Carolina
+29069	34.188171	-80.092079	Lamar	South Carolina
+29487	32.657682	-80.183948	Wadmalaw Island	South Carolina
+29547	34.484253	-79.331298	Hamer	South Carolina
+29940	32.553854	-80.726306	Seabrook	South Carolina
+29075	34.200603	-81.375113	Little Mountain	South Carolina
+29709	34.720167	-80.098457	Chesterfield	South Carolina
+29477	33.163135	-80.564934	Saint George	South Carolina
+29148	33.569581	-80.346258	Summerton	South Carolina
+29540	34.378392	-79.869054	Darlington	South Carolina
+29436	33.312200	-80.213513	Cross	South Carolina
+29114	33.956036	-79.932670	Olanta	South Carolina
+29831	33.340957	-81.836573	Jackson	South Carolina
+29853	33.404332	-81.424785	Williston	South Carolina
+29676	34.949596	-82.982448	Salem	South Carolina
+29810	33.000687	-81.357244	Allendale	South Carolina
+29440	33.389554	-79.329763	Georgetown	South Carolina
+29047	33.533207	-80.590949	Elloree	South Carolina
+29847	33.694096	-81.852760	Trenton	South Carolina
+29470	32.803455	-80.214654	Ravenel	South Carolina
+29620	34.172670	-82.420208	Abbeville	South Carolina
+29044	33.907885	-80.697500	Eastover	South Carolina
+29067	34.562172	-80.528420	Kershaw	South Carolina
+29059	33.326503	-80.417595	Holly Hill	South Carolina
+29435	32.972972	-80.466445	Cottageville	South Carolina
+29332	34.297902	-81.989236	Cross Hill	South Carolina
+29817	33.367875	-81.283601	Blackville	South Carolina
+29003	33.244331	-81.011501	Bamberg	South Carolina
+29832	33.834804	-81.793984	Johnston	South Carolina
+29472	33.044311	-80.326823	Ridgeville	South Carolina
+29856	33.483300	-81.518986	Windsor	South Carolina
+29666	34.113326	-81.979552	Ninety Six	South Carolina
+29105	33.807397	-81.593640	Monetta	South Carolina
+29128	34.093642	-80.535734	Rembert	South Carolina
+29805	33.653632	-81.609368	Aiken	South Carolina
+29655	34.265624	-82.642346	Iva	South Carolina
+29583	33.966553	-79.567490	Pamplico	South Carolina
+29565	34.369625	-79.512475	Latta	South Carolina
+29135	33.692181	-80.787131	Saint Matthews	South Carolina
+29111	33.797948	-80.025941	New Zion	South Carolina
+29138	34.035012	-81.789505	Saluda	South Carolina
+29638	34.363867	-82.338204	Donalds	South Carolina
+29554	33.702640	-79.392499	Hemingway	South Carolina
+29032	34.345114	-80.445025	Cassatt	South Carolina
+29168	33.828558	-80.549483	Wedgefield	South Carolina
+29936	32.492381	-80.973498	Ridgeland	South Carolina
+29835	33.920096	-82.299635	Mc Cormick	South Carolina
+29335	34.659271	-81.906657	Enoree	South Carolina
+29353	34.830743	-81.648605	Jonesville	South Carolina
+29827	32.962296	-81.249810	Fairfax	South Carolina
+29180	34.373778	-81.098459	Winnsboro	South Carolina
+29741	34.718884	-80.199069	Ruby	South Carolina
+29918	32.709857	-81.282535	Estill	South Carolina
+29052	33.798397	-80.741126	Gadsden	South Carolina
+29112	33.626435	-81.079954	North	South Carolina
+29448	33.241901	-80.435476	Harleyville	South Carolina
+29659	34.236540	-82.618674	Lowndesville	South Carolina
+29726	34.860843	-81.236135	Mc Connells	South Carolina
+29923	32.865143	-81.244590	Gifford	South Carolina
+29492	32.921187	-79.874132	Charleston	South Carolina
+29164	33.658486	-81.430835	Wagener	South Carolina
+29471	33.178815	-80.665306	Reevesville	South Carolina
+29130	34.331608	-80.880412	Ridgeway	South Carolina
+29545	34.163629	-78.966714	Green Sea	South Carolina
+29107	33.530942	-81.109222	Neeses	South Carolina
+29812	33.222771	-81.464384	Barnwell	South Carolina
+29596	34.744162	-79.830739	Wallace	South Carolina
+29544	34.001472	-79.215968	Galivants Ferry	South Carolina
+29510	33.447000	-79.605021	Andrews	South Carolina
+29129	33.790197	-81.667154	Ridge Spring	South Carolina
+29592	34.275072	-79.485044	Sellers	South Carolina
+29718	34.620685	-80.361859	Jefferson	South Carolina
+29593	34.493232	-79.867703	Society Hill	South Carolina
+29062	34.008449	-80.559483	Horatio	South Carolina
+29944	32.785177	-81.011499	Varnville	South Carolina
+29018	33.342563	-80.664358	Bowman	South Carolina
+29113	33.433502	-81.124101	Norway	South Carolina
+29628	34.083111	-82.527705	Calhoun Falls	South Carolina
+29743	35.014305	-81.417081	Smyrna	South Carolina
+29543	34.286881	-79.263479	Fork	South Carolina
+29525	34.552581	-79.540687	Clio	South Carolina
+29438	32.559147	-80.315460	Edisto Island	South Carolina
+29824	33.809371	-82.009009	Edgefield	South Carolina
+29166	33.902683	-81.711337	Ward	South Carolina
+29175	34.444802	-80.607884	Westville	South Carolina
+29493	33.038673	-80.838841	Williams	South Carolina
+29133	33.376536	-80.796392	Rowesville	South Carolina
+29104	33.997710	-80.211622	Mayesville	South Carolina
+29567	34.558925	-79.429607	Little Rock	South Carolina
+29717	34.950733	-81.448844	Hickory Grove	South Carolina
+29590	33.568920	-79.848696	Salters	South Carolina
+29686	34.925690	-83.047548	Tamassee	South Carolina
+29125	33.706841	-80.448995	Pinewood	South Carolina
+29468	33.445256	-80.068613	Pineville	South Carolina
+29665	34.740696	-82.901212	Newry	South Carolina
+29080	34.012164	-80.085577	Lynchburg	South Carolina
+29001	33.773315	-80.161379	Alcolu	South Carolina
+29850	33.624279	-81.818480	Vaucluse	South Carolina
+29058	34.555045	-80.742436	Heath Springs	South Carolina
+29729	34.689134	-81.006760	Richburg	South Carolina
+29038	33.368055	-80.964224	Cope	South Carolina
+29137	33.596841	-81.337241	Salley	South Carolina
+29146	33.509225	-81.300342	Springfield	South Carolina
+29927	32.211663	-81.043550	Hardeeville	South Carolina
+29581	34.199270	-79.113020	Nichols	South Carolina
+29065	34.287229	-81.273842	Jenkinsville	South Carolina
+29727	34.707149	-80.266819	Mount Croghan	South Carolina
+29580	33.653101	-79.551975	Nesmith	South Carolina
+29518	33.783498	-79.873431	Cades	South Carolina
+29846	33.043444	-81.229831	Sycamore	South Carolina
+29742	34.869975	-81.392257	Sharon	South Carolina
+29126	34.328933	-81.419482	Pomaria	South Carolina
+29450	33.058219	-79.795718	Huger	South Carolina
+29426	32.772145	-80.374083	Adams Run	South Carolina
+29370	34.351446	-81.934208	Mountville	South Carolina
+29178	34.491336	-81.597014	Whitmire	South Carolina
+29429	32.972699	-79.660957	Awendaw	South Carolina
+29437	33.135176	-80.417764	Dorchester	South Carolina
+29101	34.463862	-80.252249	Mc Bee	South Carolina
+29546	33.913941	-79.363917	Gresham	South Carolina
+29845	33.845788	-82.200800	Plum Branch	South Carolina
+29051	33.851928	-80.134189	Gable	South Carolina
+29432	33.231450	-80.808833	Branchville	South Carolina
+29838	33.724838	-82.153537	Modoc	South Carolina
+29475	32.957452	-80.806686	Ruffin	South Carolina
+29939	32.666986	-81.232341	Scotia	South Carolina
+29945	32.678694	-80.800929	Yemassee	South Carolina
+29056	33.608671	-80.005756	Greeleyville	South Carolina
+29481	33.108529	-80.800481	Smoaks	South Carolina
+29921	32.671391	-81.172539	Furman	South Carolina
+29819	34.044227	-82.227378	Bradley	South Carolina
+29911	32.941160	-81.141681	Brunson	South Carolina
+29474	32.920578	-80.547627	Round O	South Carolina
+29916	32.727971	-80.950061	Early Branch	South Carolina
+29030	33.498908	-80.694859	Cameron	South Carolina
+29009	34.455300	-80.376154	Bethune	South Carolina
+29584	34.579193	-80.067794	Patrick	South Carolina
+29821	33.641354	-82.123474	Clarks Hill	South Carolina
+29145	34.221367	-81.752529	Silverstreet	South Carolina
+29081	33.089080	-81.047373	Ehrhardt	South Carolina
+29458	33.105107	-79.460157	Mc Clellanville	South Carolina
+29843	33.183273	-81.169266	Olar	South Carolina
+29635	35.099487	-82.622939	Cleveland	South Carolina
+29564	33.475120	-79.846710	Lane	South Carolina
+29082	33.036261	-80.947119	Lodge	South Carolina
+29934	32.589593	-81.117149	Pineland	South Carolina
+29929	32.955198	-80.923822	Islandton	South Carolina
+29664	34.856105	-83.162399	Mountain Rest	South Carolina
+29430	33.175319	-79.784276	Bethera	South Carolina
+29015	34.461278	-81.336222	Blair	South Carolina
+29074	34.457073	-80.809950	Liberty Hill	South Carolina
+29452	32.737009	-80.487591	Jacksonboro	South Carolina
+29434	33.131361	-79.863211	Cordesville	South Carolina
+29849	33.081073	-81.231891	Ulmer	South Carolina
+29840	33.996619	-82.521310	Mount Carmel	South Carolina
+29355	34.365361	-81.778013	Kinards	South Carolina
+29453	33.222884	-79.607350	Jamestown	South Carolina
+29658	34.771574	-83.303284	Long Creek	South Carolina
+29685	34.983435	-82.844869	Sunset	South Carolina
+29037	34.189937	-81.867693	Chappells	South Carolina
+29031	34.561197	-81.509019	Carlisle	South Carolina
+29014	34.541121	-81.138179	Blackstock	South Carolina
+29922	32.589791	-81.235134	Garnett	South Carolina
+29848	33.983306	-82.185605	Troy	South Carolina
+29516	34.452383	-79.651423	Blenheim	South Carolina
+29844	33.779308	-82.204803	Parksville	South Carolina
+29446	32.635417	-80.540820	Green Pond	South Carolina
+29932	32.818220	-81.320993	Luray	South Carolina
+29941	32.599012	-80.823862	Sheldon	South Carolina
+29836	33.108987	-81.544901	Martin	South Carolina
