@@ -1,0 +1,1716 @@
+19103	39.952795	-75.173949	Philadelphia	Pennsylvania
+19139	39.961529	-75.230259	Philadelphia	Pennsylvania
+19107	39.951623	-75.158637	Philadelphia	Pennsylvania
+19102	39.953423	-75.165384	Philadelphia	Pennsylvania
+19146	39.939069	-75.182585	Philadelphia	Pennsylvania
+19143	39.942892	-75.225460	Philadelphia	Pennsylvania
+19147	39.936633	-75.153153	Philadelphia	Pennsylvania
+19120	40.034147	-75.119198	Philadelphia	Pennsylvania
+19133	39.993092	-75.141671	Philadelphia	Pennsylvania
+19132	39.996457	-75.170586	Philadelphia	Pennsylvania
+19141	40.037904	-75.145392	Philadelphia	Pennsylvania
+19149	40.037448	-75.065561	Philadelphia	Pennsylvania
+19138	40.056028	-75.159179	Philadelphia	Pennsylvania
+19140	40.011789	-75.145282	Philadelphia	Pennsylvania
+19130	39.967905	-75.174735	Philadelphia	Pennsylvania
+19134	39.992219	-75.107863	Philadelphia	Pennsylvania
+19142	39.921746	-75.233277	Philadelphia	Pennsylvania
+19150	40.072482	-75.171735	Philadelphia	Pennsylvania
+19104	39.960323	-75.197883	Philadelphia	Pennsylvania
+19125	39.977245	-75.125222	Philadelphia	Pennsylvania
+19122	39.977688	-75.145885	Philadelphia	Pennsylvania
+19082	39.960387	-75.270374	Upper Darby	Pennsylvania
+15232	40.452565	-79.932673	Pittsburgh	Pennsylvania
+18102	40.607625	-75.477220	Allentown	Pennsylvania
+19121	39.981980	-75.179120	Philadelphia	Pennsylvania
+19135	40.022732	-75.049612	Philadelphia	Pennsylvania
+19126	40.056119	-75.136564	Philadelphia	Pennsylvania
+19151	39.979740	-75.256726	Philadelphia	Pennsylvania
+18101	40.603231	-75.469505	Allentown	Pennsylvania
+15224	40.463898	-79.945097	Pittsburgh	Pennsylvania
+19106	39.950472	-75.147231	Philadelphia	Pennsylvania
+15213	40.443175	-79.955405	Pittsburgh	Pennsylvania
+19144	40.031929	-75.176099	Philadelphia	Pennsylvania
+19124	40.017119	-75.092814	Philadelphia	Pennsylvania
+19148	39.913130	-75.155421	Philadelphia	Pennsylvania
+19023	39.917147	-75.267204	Darby	Pennsylvania
+19127	40.027929	-75.224083	Philadelphia	Pennsylvania
+19111	40.063318	-75.077631	Philadelphia	Pennsylvania
+17102	40.272305	-76.889578	Harrisburg	Pennsylvania
+19152	40.061595	-75.046385	Philadelphia	Pennsylvania
+19145	39.913431	-75.191556	Philadelphia	Pennsylvania
+19131	39.986772	-75.219521	Philadelphia	Pennsylvania
+19026	39.950380	-75.304036	Drexel Hill	Pennsylvania
+19036	39.903632	-75.293227	Glenolden	Pennsylvania
+19018	39.923388	-75.298332	Clifton Heights	Pennsylvania
+19604	40.356747	-75.908085	Reading	Pennsylvania
+19076	39.886097	-75.307370	Prospect Park	Pennsylvania
+15219	40.443268	-79.979819	Pittsburgh	Pennsylvania
+15350	40.293767	-80.200601	Muse	Pennsylvania
+19119	40.052013	-75.192553	Philadelphia	Pennsylvania
+19136	40.040272	-75.020603	Philadelphia	Pennsylvania
+19602	40.326815	-75.915849	Reading	Pennsylvania
+19601	40.356826	-75.938371	Reading	Pennsylvania
+19050	39.937411	-75.263547	Lansdowne	Pennsylvania
+19123	39.964212	-75.147103	Philadelphia	Pennsylvania
+15216	40.402538	-80.034133	Pittsburgh	Pennsylvania
+17104	40.256813	-76.858972	Harrisburg	Pennsylvania
+15211	40.430276	-80.015278	Pittsburgh	Pennsylvania
+16503	42.126936	-80.061565	Erie	Pennsylvania
+19074	39.885990	-75.295756	Norwood	Pennsylvania
+16682	40.271712	-78.459199	Sproul	Pennsylvania
+15208	40.451838	-79.900079	Pittsburgh	Pennsylvania
+15217	40.432096	-79.922563	Pittsburgh	Pennsylvania
+15014	40.608471	-79.741466	Brackenridge	Pennsylvania
+15210	40.407046	-79.986256	Pittsburgh	Pennsylvania
+18510	41.407471	-75.638555	Scranton	Pennsylvania
+19115	40.092757	-75.042597	Philadelphia	Pennsylvania
+17954	40.690491	-76.259734	Minersville	Pennsylvania
+19405	40.103721	-75.341056	Bridgeport	Pennsylvania
+15206	40.471425	-79.914182	Pittsburgh	Pennsylvania
+19070	39.906253	-75.324554	Morton	Pennsylvania
+16502	42.110667	-80.101490	Erie	Pennsylvania
+18701	41.243470	-75.884794	Wilkes Barre	Pennsylvania
+19013	39.848198	-75.378094	Chester	Pennsylvania
+17401	39.962127	-76.729531	York	Pennsylvania
+19033	39.890773	-75.329065	Folsom	Pennsylvania
+19043	39.900907	-75.308494	Holmes	Pennsylvania
+15140	40.404969	-79.775769	Pitcairn	Pennsylvania
+19083	39.977044	-75.312306	Havertown	Pennsylvania
+15038	40.251706	-79.925085	Elrama	Pennsylvania
+19003	40.001727	-75.298380	Ardmore	Pennsylvania
+15203	40.425326	-79.976226	Pittsburgh	Pennsylvania
+19116	40.115569	-75.013276	Philadelphia	Pennsylvania
+16504	42.108402	-80.051204	Erie	Pennsylvania
+15226	40.395753	-80.013734	Pittsburgh	Pennsylvania
+15218	40.424171	-79.889648	Pittsburgh	Pennsylvania
+17103	40.275426	-76.866368	Harrisburg	Pennsylvania
+16228	40.760873	-79.535483	Ford Cliff	Pennsylvania
+16802	40.810014	-77.865970	University Park	Pennsylvania
+15629	40.597592	-79.562949	East Vandergrift	Pennsylvania
+19401	40.130180	-75.331629	Norristown	Pennsylvania
+19032	39.891296	-75.278777	Folcroft	Pennsylvania
+18018	40.627594	-75.395584	Bethlehem	Pennsylvania
+15447	39.946136	-79.939325	Isabella	Pennsylvania
+15201	40.474607	-79.952113	Pittsburgh	Pennsylvania
+19129	40.015462	-75.182928	Philadelphia	Pennsylvania
+19078	39.874378	-75.322125	Ridley Park	Pennsylvania
+16508	42.096003	-80.093492	Erie	Pennsylvania
+15035	40.384983	-79.807115	East Mc Keesport	Pennsylvania
+15221	40.434406	-79.863660	Pittsburgh	Pennsylvania
+15228	40.371065	-80.043363	Pittsburgh	Pennsylvania
+19154	40.095521	-74.981818	Philadelphia	Pennsylvania
+19001	40.124078	-75.126127	Abington	Pennsylvania
+15634	40.325132	-79.606185	Grapeville	Pennsylvania
+19114	40.069361	-75.000264	Philadelphia	Pennsylvania
+19094	39.874388	-75.346644	Woodlyn	Pennsylvania
+19055	40.149272	-74.836327	Levittown	Pennsylvania
+17570	40.129527	-76.570418	Rheems	Pennsylvania
+19079	39.901707	-75.266955	Sharon Hill	Pennsylvania
+19128	40.049525	-75.230253	Philadelphia	Pennsylvania
+15212	40.459375	-79.993899	Pittsburgh	Pennsylvania
+15112	40.402884	-79.837797	East Pittsburgh	Pennsylvania
+19611	40.324650	-75.942952	Reading	Pennsylvania
+18509	41.430280	-75.643907	Scranton	Pennsylvania
+19015	39.868633	-75.392945	Brookhaven	Pennsylvania
+15204	40.456102	-80.063805	Pittsburgh	Pennsylvania
+19027	40.073118	-75.124431	Elkins Park	Pennsylvania
+19081	39.898183	-75.347819	Swarthmore	Pennsylvania
+16253	40.954962	-79.343390	Seminole	Pennsylvania
+18032	40.656434	-75.467873	Catasauqua	Pennsylvania
+15132	40.339767	-79.842782	Mckeesport	Pennsylvania
+16501	42.122166	-80.086541	Erie	Pennsylvania
+15234	40.368552	-80.017575	Pittsburgh	Pennsylvania
+15104	40.403986	-79.861407	Braddock	Pennsylvania
+15120	40.395756	-79.906109	Homestead	Pennsylvania
+15202	40.506932	-80.069067	Pittsburgh	Pennsylvania
+15243	40.375511	-80.072372	Pittsburgh	Pennsylvania
+17974	40.695682	-76.236181	Seltzer	Pennsylvania
+19054	40.173024	-74.818822	Levittown	Pennsylvania
+19090	40.148537	-75.122250	Willow Grove	Pennsylvania
+19066	40.002694	-75.249023	Merion Station	Pennsylvania
+19056	40.152519	-74.885422	Levittown	Pennsylvania
+17957	40.593029	-76.519309	Muir	Pennsylvania
+19012	40.059581	-75.105590	Cheltenham	Pennsylvania
+16146	41.234514	-80.499296	Sharon	Pennsylvania
+15110	40.373400	-79.851076	Duquesne	Pennsylvania
+15233	40.459618	-80.032164	Pittsburgh	Pennsylvania
+19057	40.140395	-74.860893	Levittown	Pennsylvania
+17951	40.679434	-76.244542	Mar Lin	Pennsylvania
+19038	40.102228	-75.169694	Glenside	Pennsylvania
+19096	39.997758	-75.274112	Wynnewood	Pennsylvania
+17101	40.261061	-76.881985	Harrisburg	Pennsylvania
+18917	40.376919	-75.205949	Dublin	Pennsylvania
+19609	40.328313	-75.997285	Reading	Pennsylvania
+15214	40.486209	-80.012771	Pittsburgh	Pennsylvania
+18709	41.285473	-75.896401	Luzerne	Pennsylvania
+15229	40.520152	-80.037449	Pittsburgh	Pennsylvania
+15696	40.279395	-79.365737	Youngstown	Pennsylvania
+16633	40.160209	-78.233618	Defiance	Pennsylvania
+19474	40.223528	-75.404036	Skippack	Pennsylvania
+19544	40.418677	-76.295838	Mount Aetna	Pennsylvania
+15223	40.506235	-79.952521	Pittsburgh	Pennsylvania
+15220	40.418327	-80.050036	Pittsburgh	Pennsylvania
+15139	40.521796	-79.833637	Oakmont	Pennsylvania
+19040	40.177303	-75.105782	Hatboro	Pennsylvania
+15731	40.501043	-79.173577	Coral	Pennsylvania
+19137	39.995604	-75.074623	Philadelphia	Pennsylvania
+19478	40.276527	-75.458996	Spring Mount	Pennsylvania
+19004	40.009753	-75.231508	Bala Cynwyd	Pennsylvania
+15631	40.090245	-79.587608	Everson	Pennsylvania
+18081	40.556408	-75.288402	Springtown	Pennsylvania
+15053	40.380435	-80.360677	Joffre	Pennsylvania
+17749	41.072581	-76.818428	Mc Ewensville	Pennsylvania
+17944	40.672616	-76.280142	Llewellyn	Pennsylvania
+15088	40.271831	-79.896770	West Elizabeth	Pennsylvania
+18012	40.812250	-75.592194	Aquashicola	Pennsylvania
+19008	39.974052	-75.361458	Broomall	Pennsylvania
+17034	40.208610	-76.785532	Highspire	Pennsylvania
+19021	40.091097	-74.893602	Croydon	Pennsylvania
+19020	40.106114	-74.936288	Bensalem	Pennsylvania
+19095	40.085937	-75.151622	Wyncote	Pennsylvania
+15236	40.341330	-79.979290	Pittsburgh	Pennsylvania
+19072	40.024156	-75.257859	Narberth	Pennsylvania
+17501	40.156599	-76.203959	Akron	Pennsylvania
+19075	40.113880	-75.185031	Oreland	Pennsylvania
+18704	41.276276	-75.899312	Kingston	Pennsylvania
+15045	40.325922	-79.884972	Glassport	Pennsylvania
+15102	40.321530	-80.036615	Bethel Park	Pennsylvania
+19064	39.933156	-75.340813	Springfield	Pennsylvania
+19022	39.861367	-75.336670	Crum Lynne	Pennsylvania
+18705	41.272427	-75.841557	Wilkes Barre	Pennsylvania
+17010	40.278963	-76.580661	Campbelltown	Pennsylvania
+19086	39.890649	-75.370195	Wallingford	Pennsylvania
+19118	40.072443	-75.212415	Philadelphia	Pennsylvania
+19345	40.029459	-75.565301	Immaculata	Pennsylvania
+19046	40.101496	-75.106043	Jenkintown	Pennsylvania
+15033	40.179207	-79.863981	Donora	Pennsylvania
+15368	40.014591	-79.989508	Vestaburg	Pennsylvania
+16507	42.135636	-80.083200	Erie	Pennsylvania
+15227	40.375468	-79.970347	Pittsburgh	Pennsylvania
+15477	40.079019	-79.863679	Roscoe	Pennsylvania
+15692	40.330782	-79.678056	Westmoreland City	Pennsylvania
+15145	40.415569	-79.823078	Turtle Creek	Pennsylvania
+15209	40.499354	-79.971612	Pittsburgh	Pennsylvania
+16238	40.788100	-79.520182	Manorville	Pennsylvania
+16236	40.783561	-79.521218	Mc Grann	Pennsylvania
+17093	40.310310	-76.929710	Summerdale	Pennsylvania
+18225	40.980582	-75.972170	Harleigh	Pennsylvania
+15937	40.209521	-78.988089	Jerome	Pennsylvania
+17721	41.185829	-77.316161	Avis	Pennsylvania
+19562	40.503371	-75.702538	Topton	Pennsylvania
+17109	40.289717	-76.828220	Harrisburg	Pennsylvania
+18452	41.483854	-75.589519	Peckville	Pennsylvania
+17083	40.277691	-76.437610	Quentin	Pennsylvania
+17767	41.083938	-77.463367	Salona	Pennsylvania
+17344	39.807322	-77.020578	Mc Sherrystown	Pennsylvania
+17970	40.721024	-76.190536	Saint Clair	Pennsylvania
+15054	40.362317	-80.406264	Langeloth	Pennsylvania
+15363	40.252446	-80.198643	Strabane	Pennsylvania
+18503	41.411475	-75.667131	Scranton	Pennsylvania
+19007	40.107841	-74.861321	Bristol	Pennsylvania
+15062	40.150426	-79.881010	Monessen	Pennsylvania
+19545	40.342685	-75.630467	New Berlinville	Pennsylvania
+17043	40.247578	-76.900145	Lemoyne	Pennsylvania
+19053	40.150329	-74.984930	Feasterville Trevose	Pennsylvania
+15678	40.288353	-79.728640	Rillton	Pennsylvania
+15901	40.332522	-78.914397	Johnstown	Pennsylvania
+17581	40.160264	-76.048702	Terre Hill	Pennsylvania
+19030	40.179743	-74.837351	Fairless Hills	Pennsylvania
+17508	40.125116	-76.218381	Brownstown	Pennsylvania
+15673	40.593677	-79.555613	North Apollo	Pennsylvania
+18962	40.347323	-75.270966	Silverdale	Pennsylvania
+15148	40.393330	-79.794679	Wilmerding	Pennsylvania
+15235	40.461050	-79.823149	Pittsburgh	Pennsylvania
+15635	40.352633	-79.496185	Hannastown	Pennsylvania
+18504	41.425215	-75.696155	Scranton	Pennsylvania
+19010	40.023762	-75.330442	Bryn Mawr	Pennsylvania
+17011	40.234376	-76.930321	Camp Hill	Pennsylvania
+19428	40.081273	-75.306568	Conshohocken	Pennsylvania
+15378	40.277842	-80.274293	Westland	Pennsylvania
+15205	40.437901	-80.097688	Pittsburgh	Pennsylvania
+19446	40.231137	-75.301886	Lansdale	Pennsylvania
+15215	40.500514	-79.912204	Pittsburgh	Pennsylvania
+18103	40.591196	-75.468159	Allentown	Pennsylvania
+15207	40.398458	-79.936958	Pittsburgh	Pennsylvania
+15075	40.586907	-79.827061	Rural Ridge	Pennsylvania
+15222	40.449245	-79.990645	Pittsburgh	Pennsylvania
+18518	41.373756	-75.740050	Old Forge	Pennsylvania
+19014	39.866044	-75.437148	Aston	Pennsylvania
+18505	41.386202	-75.651527	Scranton	Pennsylvania
+15483	40.083454	-79.851168	Stockdale	Pennsylvania
+18017	40.659379	-75.386263	Bethlehem	Pennsylvania
+18966	40.184740	-74.998432	Southampton	Pennsylvania
+17933	40.602473	-76.241825	Friedensburg	Pennsylvania
+17113	40.231875	-76.825214	Harrisburg	Pennsylvania
+15348	39.989722	-79.994465	Millsboro	Pennsylvania
+17576	40.037195	-76.196760	Smoketown	Pennsylvania
+19372	39.997637	-75.758631	Thorndale	Pennsylvania
+19319	39.928651	-75.525364	Cheyney	Pennsylvania
+16619	40.684214	-78.414680	Blandburg	Pennsylvania
+18232	40.834820	-75.881438	Lansford	Pennsylvania
+19369	39.984077	-75.882103	Sadsburyville	Pennsylvania
+17520	40.100177	-76.347375	East Petersburg	Pennsylvania
+18076	40.374401	-75.481708	Red Hill	Pennsylvania
+18087	40.549195	-75.600484	Trexlertown	Pennsylvania
+15136	40.466295	-80.107230	Mc Kees Rocks	Pennsylvania
+19610	40.341402	-75.974839	Reading	Pennsylvania
+15241	40.332859	-80.081851	Pittsburgh	Pennsylvania
+19041	40.004484	-75.320002	Haverford	Pennsylvania
+19444	40.085639	-75.255440	Lafayette Hill	Pennsylvania
+15147	40.498826	-79.825534	Verona	Pennsylvania
+18519	41.463071	-75.630851	Dickson City	Pennsylvania
+15034	40.351343	-79.890543	Dravosburg	Pennsylvania
+19333	40.041872	-75.423597	Devon	Pennsylvania
+18052	40.657428	-75.504255	Whitehall	Pennsylvania
+19087	40.062099	-75.400394	Wayne	Pennsylvania
+18974	40.216986	-75.072665	Warminster	Pennsylvania
+15003	40.603580	-80.216255	Ambridge	Pennsylvania
+15116	40.528103	-79.934944	Glenshaw	Pennsylvania
+19559	40.491754	-76.184179	Strausstown	Pennsylvania
+18508	41.454771	-75.657827	Scranton	Pennsylvania
+19454	40.223394	-75.243120	North Wales	Pennsylvania
+15358	40.054649	-79.997405	Richeyville	Pennsylvania
+19061	39.839726	-75.465812	Marcus Hook	Pennsylvania
+17069	40.454216	-76.970517	New Buffalo	Pennsylvania
+16851	40.810719	-77.814663	Lemont	Pennsylvania
+16853	40.942311	-77.791731	Milesburg	Pennsylvania
+16422	41.661442	-80.316690	Harmonsburg	Pennsylvania
+15078	40.358783	-80.389460	Slovan	Pennsylvania
+15716	40.472437	-79.194345	Black Lick	Pennsylvania
+16665	40.393153	-78.435484	Newry	Pennsylvania
+17016	40.273914	-76.407758	Cornwall	Pennsylvania
+16843	41.002072	-78.463804	Hyde	Pennsylvania
+16121	41.209953	-80.498702	Farrell	Pennsylvania
+15049	40.556084	-79.805361	Harwick	Pennsylvania
+15060	40.368693	-80.291197	Midway	Pennsylvania
+16602	40.512542	-78.374528	Altoona	Pennsylvania
+17064	40.246860	-76.469208	Mount Gretna	Pennsylvania
+15419	40.054659	-79.895613	California	Pennsylvania
+15739	40.678894	-79.165775	Ernest	Pennsylvania
+15641	40.631571	-79.588930	Hyde Park	Pennsylvania
+19503	40.400696	-75.587589	Bally	Pennsylvania
+15665	40.336369	-79.660663	Manor	Pennsylvania
+17317	39.970708	-76.521383	East Prospect	Pennsylvania
+15455	39.997130	-79.642543	Leisenring	Pennsylvania
+15324	40.100067	-80.065447	Cokeburg	Pennsylvania
+17603	40.031120	-76.331507	Lancaster	Pennsylvania
+15484	39.895523	-79.793894	Uledi	Pennsylvania
+18079	40.742985	-75.657980	Slatedale	Pennsylvania
+15055	40.306418	-80.122746	Lawrence	Pennsylvania
+17318	40.016383	-76.727407	Emigsville	Pennsylvania
+19044	40.188283	-75.152871	Horsham	Pennsylvania
+18042	40.643490	-75.225507	Easton	Pennsylvania
+19047	40.183189	-74.910958	Langhorne	Pennsylvania
+15754	40.559015	-79.151094	Lucernemines	Pennsylvania
+17403	39.921785	-76.728827	York	Pennsylvania
+18234	40.992540	-75.964634	Lattimer Mines	Pennsylvania
+15133	40.323303	-79.861973	Mckeesport	Pennsylvania
+15930	40.294039	-78.717721	Dunlo	Pennsylvania
+15027	40.667431	-80.240089	Conway	Pennsylvania
+15925	40.408545	-78.640719	Cassandra	Pennsylvania
+19607	40.291483	-75.944791	Reading	Pennsylvania
+17554	40.040303	-76.424173	Mountville	Pennsylvania
+18641	41.333286	-75.736544	Pittston	Pennsylvania
+19453	40.138580	-75.500158	Mont Clare	Pennsylvania
+18085	40.740990	-75.256242	Tatamy	Pennsylvania
+19301	40.042394	-75.480119	Paoli	Pennsylvania
+19358	39.965269	-75.805500	Modena	Pennsylvania
+17602	40.014623	-76.246351	Lancaster	Pennsylvania
+15106	40.409784	-80.113822	Carnegie	Pennsylvania
+19025	40.144657	-75.162776	Dresher	Pennsylvania
+19403	40.146258	-75.383786	Norristown	Pennsylvania
+15237	40.549177	-80.047857	Pittsburgh	Pennsylvania
+18219	40.990983	-76.057666	Conyngham	Pennsylvania
+17110	40.317100	-76.876022	Harrisburg	Pennsylvania
+19516	40.485868	-76.004297	Centerport	Pennsylvania
+15144	40.549712	-79.783771	Springdale	Pennsylvania
+18104	40.611658	-75.546853	Allentown	Pennsylvania
+19464	40.258928	-75.615861	Pottstown	Pennsylvania
+18970	40.411872	-75.383606	Trumbauersville	Pennsylvania
+16511	42.165294	-79.995176	Erie	Pennsylvania
+18434	41.471909	-75.560736	Jessup	Pennsylvania
+15949	40.402577	-79.135066	Robinson	Pennsylvania
+19406	40.094175	-75.384860	King Of Prussia	Pennsylvania
+17538	40.091281	-76.413566	Landisville	Pennsylvania
+19153	39.894414	-75.232375	Philadelphia	Pennsylvania
+16506	42.064541	-80.153081	Erie	Pennsylvania
+16045	40.853505	-79.916576	Lyndora	Pennsylvania
+17075	40.392471	-77.836287	Newton Hamilton	Pennsylvania
+15028	40.297026	-79.802127	Coulters	Pennsylvania
+15081	40.574030	-80.237286	South Heights	Pennsylvania
+19067	40.200517	-74.814682	Morrisville	Pennsylvania
+19462	40.115266	-75.284221	Plymouth Meeting	Pennsylvania
+18954	40.225413	-74.992957	Richboro	Pennsylvania
+15122	40.357911	-79.907233	West Mifflin	Pennsylvania
+19085	40.038117	-75.350258	Villanova	Pennsylvania
+19031	40.108362	-75.217603	Flourtown	Pennsylvania
+17361	39.765444	-76.677085	Shrewsbury	Pennsylvania
+15902	40.319237	-78.882455	Johnstown	Pennsylvania
+16505	42.109860	-80.153518	Erie	Pennsylvania
+15064	40.351785	-80.147781	Morgan	Pennsylvania
+19440	40.284266	-75.291132	Hatfield	Pennsylvania
+15434	40.081285	-79.881397	Elco	Pennsylvania
+19063	39.920784	-75.421317	Media	Pennsylvania
+19523	40.203761	-75.837424	Geigertown	Pennsylvania
+18517	41.394282	-75.715830	Taylor	Pennsylvania
+15072	40.139109	-79.856499	Pricedale	Pennsylvania
+17111	40.270290	-76.781990	Harrisburg	Pennsylvania
+15129	40.293153	-79.995885	South Park	Pennsylvania
+19380	39.989503	-75.604383	West Chester	Pennsylvania
+18976	40.248905	-75.143441	Warrington	Pennsylvania
+18086	40.739162	-75.548368	Treichlers	Pennsylvania
+15146	40.428496	-79.761061	Monroeville	Pennsylvania
+19002	40.186587	-75.206777	Ambler	Pennsylvania
+19006	40.133033	-75.062021	Huntingdon Valley	Pennsylvania
+15331	40.105350	-80.022571	Ellsworth	Pennsylvania
+17099	40.639428	-77.579067	Yeagertown	Pennsylvania
+15137	40.377638	-79.808044	North Versailles	Pennsylvania
+15472	39.919038	-79.716914	Oliver	Pennsylvania
+19436	40.201504	-75.246987	Gwynedd	Pennsylvania
+15560	40.017096	-78.906871	Shanksville	Pennsylvania
+18020	40.671439	-75.320202	Bethlehem	Pennsylvania
+15067	40.209631	-79.960648	New Eagle	Pennsylvania
+19501	40.241790	-76.055048	Adamstown	Pennsylvania
+19422	40.156653	-75.275477	Blue Bell	Pennsylvania
+15135	40.302093	-79.814950	Mckeesport	Pennsylvania
+16617	40.609767	-78.327230	Bellwood	Pennsylvania
+17601	40.074241	-76.314914	Lancaster	Pennsylvania
+16672	40.156096	-78.256008	Riddlesburg	Pennsylvania
+17009	40.637747	-77.564400	Burnham	Pennsylvania
+18964	40.293506	-75.334136	Souderton	Pennsylvania
+18035	40.748795	-75.540167	Cherryville	Pennsylvania
+19468	40.206450	-75.531266	Royersford	Pennsylvania
+17931	40.790295	-76.200964	Frackville	Pennsylvania
+15017	40.340283	-80.131697	Bridgeville	Pennsylvania
+16801	40.791903	-77.843786	State College	Pennsylvania
+15006	40.629420	-79.882643	Bairdford	Pennsylvania
+17081	40.204008	-77.288889	Plainfield	Pennsylvania
+15697	40.241129	-79.579932	Youngwood	Pennsylvania
+18827	41.961300	-75.583587	Lanesboro	Pennsylvania
+16136	40.835373	-80.321955	Koppel	Pennsylvania
+16213	41.125669	-79.557671	Callensburg	Pennsylvania
+15429	40.007564	-79.933257	Denbo	Pennsylvania
+17929	40.631095	-76.193514	Cressona	Pennsylvania
+15476	39.869459	-79.920371	Ronco	Pennsylvania
+15475	39.962739	-79.880259	Republic	Pennsylvania
+15342	40.245582	-80.219348	Houston	Pennsylvania
+17249	40.241066	-77.899881	Rockhill Furnace	Pennsylvania
+15736	40.695199	-79.342660	Elderton	Pennsylvania
+17306	39.981375	-77.249260	Bendersville	Pennsylvania
+15007	40.650126	-79.932457	Bakerstown	Pennsylvania
+17404	39.965645	-76.789340	York	Pennsylvania
+15640	40.229926	-79.727380	Hutchinson	Pennsylvania
+15015	40.636494	-80.081313	Bradfordwoods	Pennsylvania
+18015	40.588685	-75.364881	Bethlehem	Pennsylvania
+19536	40.479041	-75.762078	Lyon Station	Pennsylvania
+17027	40.154385	-77.002866	Grantham	Pennsylvania
+15420	39.957128	-79.868052	Cardale	Pennsylvania
+18030	40.801540	-75.660463	Bowmanstown	Pennsylvania
+17936	40.750344	-76.339826	Gordon	Pennsylvania
+18512	41.426320	-75.601898	Scranton	Pennsylvania
+15239	40.485261	-79.742933	Pittsburgh	Pennsylvania
+15056	40.565801	-80.213285	Leetsdale	Pennsylvania
+15101	40.580328	-79.955241	Allison Park	Pennsylvania
+19367	39.962459	-75.883923	Pomeroy	Pennsylvania
+18230	40.924477	-75.942605	Junedale	Pennsylvania
+17868	40.956988	-76.636748	Riverside	Pennsylvania
+18049	40.515726	-75.489262	Emmaus	Pennsylvania
+19029	39.874008	-75.289349	Essington	Pennsylvania
+15131	40.336310	-79.799322	Mckeesport	Pennsylvania
+19312	40.032159	-75.451354	Berwyn	Pennsylvania
+15626	40.406828	-79.574293	Delmont	Pennsylvania
+18254	40.919043	-75.959541	Tresckow	Pennsylvania
+15087	40.189294	-79.851864	Webster	Pennsylvania
+15321	40.318778	-80.188728	Cecil	Pennsylvania
+18351	40.920074	-75.100933	Portland	Pennsylvania
+18045	40.693450	-75.272796	Easton	Pennsylvania
+15636	40.367063	-79.655983	Harrison City	Pennsylvania
+15046	40.555782	-80.229148	Crescent	Pennsylvania
+19341	40.039941	-75.640626	Exton	Pennsylvania
+17253	40.211056	-78.007030	Saltillo	Pennsylvania
+17070	40.204390	-76.868550	New Cumberland	Pennsylvania
+15359	39.878113	-80.274935	Rogersville	Pennsylvania
+19382	39.929236	-75.614310	West Chester	Pennsylvania
+17512	40.046537	-76.471852	Columbia	Pennsylvania
+19606	40.338717	-75.857689	Reading	Pennsylvania
+17832	40.804821	-76.455124	Marion Heights	Pennsylvania
+17953	40.727863	-76.086980	Middleport	Pennsylvania
+15444	40.012145	-79.908474	Hiller	Pennsylvania
+16066	40.709967	-80.105642	Cranberry Twp	Pennsylvania
+16151	41.444113	-80.207308	Sheakleyville	Pennsylvania
+17730	41.108821	-76.878156	Dewart	Pennsylvania
+18929	40.254293	-75.078492	Jamison	Pennsylvania
+18063	40.781833	-75.184889	Martins Creek	Pennsylvania
+17311	39.816059	-76.841084	Codorus	Pennsylvania
+17235	39.856961	-77.697808	Marion	Pennsylvania
+17072	40.234368	-77.079635	New Kingstown	Pennsylvania
+18218	40.819404	-75.916804	Coaldale	Pennsylvania
+15082	40.378086	-80.212506	Sturgeon	Pennsylvania
+17834	40.787577	-76.468560	Kulpmont	Pennsylvania
+18914	40.288864	-75.207462	Chalfont	Pennsylvania
+19034	40.134649	-75.205508	Fort Washington	Pennsylvania
+15065	40.642014	-79.727560	Natrona Heights	Pennsylvania
+15698	40.215592	-79.686144	Yukon	Pennsylvania
+19437	40.184224	-75.261350	Gwynedd Valley	Pennsylvania
+15025	40.291928	-79.926518	Clairton	Pennsylvania
+15430	40.039987	-79.655924	Dickerson Run	Pennsylvania
+15948	40.490446	-78.766531	Revloc	Pennsylvania
+19460	40.127327	-75.534454	Phoenixville	Pennsylvania
+16848	41.009965	-77.534379	Lamar	Pennsylvania
+19438	40.268928	-75.390968	Harleysville	Pennsylvania
+17313	39.883491	-76.656366	Dallastown	Pennsylvania
+15644	40.344123	-79.612978	Jeannette	Pennsylvania
+15325	39.948336	-79.968725	Crucible	Pennsylvania
+15642	40.316565	-79.721133	Irwin	Pennsylvania
+19335	40.022618	-75.721218	Downingtown	Pennsylvania
+16427	41.874399	-79.970611	Mill Village	Pennsylvania
+15108	40.500472	-80.201802	Coraopolis	Pennsylvania
+18651	41.254109	-75.959745	Plymouth	Pennsylvania
+17551	39.982202	-76.371419	Millersville	Pennsylvania
+17402	39.988840	-76.676423	York	Pennsylvania
+17407	39.882804	-76.712937	York	Pennsylvania
+15068	40.563304	-79.706460	New Kensington	Pennsylvania
+15663	40.244407	-79.674066	Madison	Pennsylvania
+18901	40.332155	-75.122300	Doylestown	Pennsylvania
+16856	40.930134	-77.646315	Mingoville	Pennsylvania
+15076	40.607100	-79.837088	Russellton	Pennsylvania
+19510	40.451366	-75.885625	Blandon	Pennsylvania
+18037	40.681715	-75.545958	Coplay	Pennsylvania
+19373	39.901816	-75.532483	Thornton	Pennsylvania
+15466	40.074832	-79.889473	Newell	Pennsylvania
+18631	41.029382	-76.300294	Mifflinville	Pennsylvania
+19426	40.191299	-75.437052	Collegeville	Pennsylvania
+15620	40.322956	-79.341876	Bradenville	Pennsylvania
+19550	40.454018	-76.241270	Rehrersburg	Pennsylvania
+15675	40.329885	-79.641578	Penn	Pennsylvania
+15674	40.207313	-79.494949	Norvelt	Pennsylvania
+18915	40.272577	-75.256788	Colmar	Pennsylvania
+16630	40.464527	-78.589758	Cresson	Pennsylvania
+19605	40.405036	-75.945585	Reading	Pennsylvania
+18969	40.326304	-75.368422	Telford	Pennsylvania
+16024	40.739820	-80.037995	Callery	Pennsylvania
+18955	40.482856	-75.315255	Richlandtown	Pennsylvania
+15083	40.239480	-79.790135	Sutersville	Pennsylvania
+15617	40.268713	-79.658028	Arona	Pennsylvania
+16161	41.196622	-80.496555	Wheatland	Pennsylvania
+18634	41.185012	-76.023088	Nanticoke	Pennsylvania
+15090	40.625887	-80.067535	Wexford	Pennsylvania
+19035	40.049199	-75.281760	Gladwyne	Pennsylvania
+19554	40.514704	-76.107817	Shartlesville	Pennsylvania
+17055	40.209704	-77.011780	Mechanicsburg	Pennsylvania
+15625	40.266702	-79.675270	Darragh	Pennsylvania
+15695	40.196077	-79.690690	Wyano	Pennsylvania
+15661	40.318636	-79.351767	Loyalhanna	Pennsylvania
+17025	40.301492	-76.991496	Enola	Pennsylvania
+15225	40.505430	-80.109201	Pittsburgh	Pennsylvania
+19073	39.979412	-75.435416	Newtown Square	Pennsylvania
+18059	40.720327	-75.548438	Laurys Station	Pennsylvania
+18940	40.264207	-74.950926	Newtown	Pennsylvania
+18640	41.303650	-75.740535	Pittston	Pennsylvania
+16803	40.796526	-77.914691	State College	Pennsylvania
+15680	40.523693	-79.497750	Salina	Pennsylvania
+17887	41.075891	-76.872932	White Deer	Pennsylvania
+17965	40.709273	-76.164621	Port Carbon	Pennsylvania
+15085	40.384669	-79.722158	Trafford	Pennsylvania
+15238	40.531849	-79.887906	Pittsburgh	Pennsylvania
+18642	41.356348	-75.773181	Duryea	Pennsylvania
+15051	40.568277	-79.864362	Indianola	Pennsylvania
+16140	41.096375	-80.509133	New Bedford	Pennsylvania
+18977	40.287044	-74.879589	Washington Crossing	Pennsylvania
+15432	40.112414	-79.859122	Dunlevy	Pennsylvania
+15662	40.330325	-79.479551	Luxor	Pennsylvania
+16920	41.989849	-77.313855	Elkland	Pennsylvania
+16510	42.108738	-79.954574	Erie	Pennsylvania
+15061	40.657976	-80.308616	Monaca	Pennsylvania
+17762	41.277661	-76.706065	Picture Rocks	Pennsylvania
+18643	41.365734	-75.835564	Pittston	Pennsylvania
+17046	40.381939	-76.429558	Lebanon	Pennsylvania
+15611	40.307829	-79.657289	Adamsburg	Pennsylvania
+17976	40.822230	-76.204485	Shenandoah	Pennsylvania
+18083	40.754261	-75.265380	Stockertown	Pennsylvania
+18062	40.506951	-75.580321	Macungie	Pennsylvania
+18201	40.948878	-75.996583	Hazleton	Pennsylvania
+18056	40.446305	-75.541375	Hereford	Pennsylvania
+15547	40.158335	-79.057539	Jennerstown	Pennsylvania
+19560	40.403599	-75.889124	Temple	Pennsylvania
+15715	40.970670	-78.877341	Big Run	Pennsylvania
+18106	40.568254	-75.560322	Allentown	Pennsylvania
+15601	40.319358	-79.534443	Greensburg	Pennsylvania
+17522	40.172750	-76.171773	Ephrata	Pennsylvania
+17057	40.199228	-76.720380	Middletown	Pennsylvania
+18321	41.016751	-75.285859	Bartonsville	Pennsylvania
+19342	39.907617	-75.500023	Glen Mills	Pennsylvania
+17036	40.267672	-76.710295	Hummelstown	Pennsylvania
+16113	41.280434	-80.424519	Clark	Pennsylvania
+18702	41.226653	-75.801751	Wilkes Barre	Pennsylvania
+15009	40.697918	-80.365122	Beaver	Pennsylvania
+15317	40.282158	-80.181116	Canonsburg	Pennsylvania
+17345	40.078086	-76.735318	Manchester	Pennsylvania
+15367	40.266054	-80.057915	Venetia	Pennsylvania
+15734	40.719731	-79.009041	Dixonville	Pennsylvania
+18231	40.903262	-76.010121	Kelayres	Pennsylvania
+15022	40.133205	-79.937475	Charleroi	Pennsylvania
+15693	40.251688	-79.407042	Whitney	Pennsylvania
+15074	40.725053	-80.217331	Rochester	Pennsylvania
+15660	40.243584	-79.774659	Lowber	Pennsylvania
+18067	40.718768	-75.483052	Northampton	Pennsylvania
+19374	39.834787	-75.749522	Toughkenamon	Pennsylvania
+15905	40.290673	-78.969902	Johnstown	Pennsylvania
+16509	42.054745	-80.033102	Erie	Pennsylvania
+17080	40.640653	-76.802793	Pillow	Pennsylvania
+15030	40.586169	-79.781858	Creighton	Pennsylvania
+15401	39.901320	-79.750588	Uniontown	Pennsylvania
+17078	40.294608	-76.582618	Palmyra	Pennsylvania
+18706	41.193156	-75.935911	Wilkes Barre	Pennsylvania
+17077	40.404280	-76.542178	Ono	Pennsylvania
+17343	39.872805	-77.330057	Mc Knightstown	Pennsylvania
+17949	40.792405	-76.236439	Mahanoy Plane	Pennsylvania
+18237	40.884884	-75.978594	Mcadoo	Pennsylvania
+15066	40.752044	-80.250818	New Brighton	Pennsylvania
+17934	40.799168	-76.213444	Gilberton	Pennsylvania
+19355	40.045496	-75.527899	Malvern	Pennsylvania
+15647	40.341754	-79.721253	Larimer	Pennsylvania
+16671	40.802500	-78.400563	Ramey	Pennsylvania
+15010	40.767018	-80.362813	Beaver Falls	Pennsylvania
+17851	40.806116	-76.432804	Mount Carmel	Pennsylvania
+18960	40.366185	-75.325769	Sellersville	Pennsylvania
+15315	39.759328	-79.983000	Bobtown	Pennsylvania
+17862	40.861474	-77.060258	Penns Creek	Pennsylvania
+15005	40.644764	-80.175060	Baden	Pennsylvania
+15904	40.311595	-78.840989	Johnstown	Pennsylvania
+15624	40.364679	-79.467964	Crabtree	Pennsylvania
+15001	40.595524	-80.323705	Aliquippa	Pennsylvania
+16105	41.057439	-80.340359	New Castle	Pennsylvania
+19549	40.581739	-76.027158	Port Clinton	Pennsylvania
+19608	40.319194	-76.039407	Reading	Pennsylvania
+15934	40.278329	-78.805200	Elton	Pennsylvania
+17983	40.644664	-76.545660	Valley View	Pennsylvania
+17584	39.955413	-76.263581	Willow Street	Pennsylvania
+15351	39.878608	-79.929950	Nemacolin	Pennsylvania
+16246	40.792147	-79.180243	Plumville	Pennsylvania
+17884	41.055962	-76.669481	Washingtonville	Pennsylvania
+15489	39.953759	-79.695852	West Leisenring	Pennsylvania
+16620	40.840687	-78.351837	Brisbin	Pennsylvania
+16029	40.878836	-79.847495	East Butler	Pennsylvania
+16148	41.229629	-80.435295	Hermitage	Pennsylvania
+16160	40.927354	-80.361337	West Pittsburg	Pennsylvania
+17543	40.180608	-76.295118	Lititz	Pennsylvania
+18221	40.997068	-75.904798	Drifton	Pennsylvania
+19475	40.188571	-75.569622	Spring City	Pennsylvania
+17270	39.852539	-77.798372	Williamson	Pennsylvania
+17033	40.269161	-76.628804	Hershey	Pennsylvania
+17701	41.274966	-77.032325	Williamsport	Pennsylvania
+17331	39.791082	-76.976487	Hanover	Pennsylvania
+15689	40.223583	-79.492152	United	Pennsylvania
+15044	40.637857	-79.948130	Gibsonia	Pennsylvania
+19525	40.305649	-75.585013	Gilbertsville	Pennsylvania
+18034	40.546353	-75.415278	Center Valley	Pennsylvania
+19565	40.331981	-76.097204	Wernersville	Pennsylvania
+18239	40.990372	-75.988706	Milnesville	Pennsylvania
+18064	40.757008	-75.315968	Nazareth	Pennsylvania
+18040	40.746007	-75.225665	Easton	Pennsylvania
+17356	39.897317	-76.582583	Red Lion	Pennsylvania
+18708	41.295730	-75.963196	Shavertown	Pennsylvania
+15775	40.636828	-78.778030	Spangler	Pennsylvania
+15668	40.468717	-79.672271	Murrysville	Pennsylvania
+17935	40.801316	-76.290273	Girardville	Pennsylvania
+16001	40.910025	-79.945191	Butler	Pennsylvania
+15544	40.137587	-79.093593	Gray	Pennsylvania
+17850	40.953869	-76.863971	Montandon	Pennsylvania
+19473	40.256574	-75.481495	Schwenksville	Pennsylvania
+16825	40.981629	-78.305087	Bigler	Pennsylvania
+15553	39.983601	-78.771800	New Baltimore	Pennsylvania
+17319	40.160522	-76.793940	Etters	Pennsylvania
+19348	39.866024	-75.720243	Kennett Square	Pennsylvania
+16230	41.020288	-79.283222	Hawthorn	Pennsylvania
+17005	40.603092	-76.809399	Berrysburg	Pennsylvania
+18507	41.359038	-75.681823	Moosic	Pennsylvania
+15450	40.010574	-79.979229	La Belle	Pennsylvania
+17943	40.760126	-76.386232	Lavelle	Pennsylvania
+18447	41.499449	-75.609612	Olyphant	Pennsylvania
+16634	40.203882	-78.176329	Dudley	Pennsylvania
+16876	40.965857	-78.287738	Wallaceton	Pennsylvania
+16101	40.983989	-80.290037	New Castle	Pennsylvania
+15347	40.214274	-80.228805	Meadow Lands	Pennsylvania
+18473	41.508331	-75.202465	White Mills	Pennsylvania
+19457	40.206881	-75.585751	Parker Ford	Pennsylvania
+15615	40.360192	-79.731179	Ardara	Pennsylvania
+18069	40.625162	-75.614934	Orefield	Pennsylvania
+19533	40.422773	-75.994151	Leesport	Pennsylvania
+18617	41.176580	-76.079834	Glen Lyon	Pennsylvania
+17022	40.172405	-76.601592	Elizabethtown	Pennsylvania
+15024	40.580673	-79.846793	Cheswick	Pennsylvania
+17042	40.293148	-76.422576	Lebanon	Pennsylvania
+15042	40.687011	-80.202849	Freedom	Pennsylvania
+19519	40.321182	-75.733322	Earlville	Pennsylvania
+17855	40.890348	-76.966827	New Berlin	Pennsylvania
+18644	41.327907	-75.882396	Wyoming	Pennsylvania
+16624	40.578334	-78.609690	Chest Springs	Pennsylvania
+17547	40.073632	-76.590072	Marietta	Pennsylvania
+15906	40.358255	-78.951970	Johnstown	Pennsylvania
+17833	40.796875	-76.957622	Kreamer	Pennsylvania
+17355	39.759544	-76.696029	Railroad	Pennsylvania
+15413	39.988881	-79.860078	Allison	Pennsylvania
+16046	40.701782	-80.031184	Mars	Pennsylvania
+16694	40.168656	-78.139873	Wood	Pennsylvania
+18951	40.452287	-75.348871	Quakertown	Pennsylvania
+18944	40.396234	-75.231167	Perkasie	Pennsylvania
+18980	40.274496	-75.008661	Wycombe	Pennsylvania
+17366	39.933308	-76.556585	Windsor	Pennsylvania
+15865	41.052555	-78.841117	Sykesville	Pennsylvania
+19505	40.379210	-75.622689	Bechtelsville	Pennsylvania
+15012	40.155425	-79.812964	Belle Vernon	Pennsylvania
+15143	40.568133	-80.146809	Sewickley	Pennsylvania
+18344	41.117064	-75.348791	Mount Pocono	Pennsylvania
+17112	40.367549	-76.787788	Harrisburg	Pennsylvania
+17370	40.121440	-76.778402	York Haven	Pennsylvania
+17540	40.097586	-76.189809	Leola	Pennsylvania
+15546	40.138535	-79.048277	Jenners	Pennsylvania
+18330	40.958419	-75.450428	Effort	Pennsylvania
+15422	39.979175	-79.818927	Chestnut Ridge	Pennsylvania
+17552	40.107241	-76.510775	Mount Joy	Pennsylvania
+15417	40.008601	-79.918268	Brownsville	Pennsylvania
+15063	40.191164	-79.922475	Monongahela	Pennsylvania
+17266	40.088600	-77.412929	Walnut Bottom	Pennsylvania
+15071	40.414575	-80.190871	Oakdale	Pennsylvania
+15777	40.693717	-78.959968	Starford	Pennsylvania
+19311	39.845875	-75.785249	Avondale	Pennsylvania
+16063	40.768941	-80.119027	Zelienople	Pennsylvania
+17517	40.236800	-76.121475	Denver	Pennsylvania
+15018	40.283737	-79.783632	Buena Vista	Pennsylvania
+18055	40.585099	-75.297208	Hellertown	Pennsylvania
+15683	40.107219	-79.608350	Scottdale	Pennsylvania
+17886	41.015641	-76.876057	West Milton	Pennsylvania
+16840	40.930249	-78.215669	Hawk Run	Pennsylvania
+16054	41.157941	-79.650639	Saint Petersburg	Pennsylvania
+16344	41.470286	-79.684492	Rouseville	Pennsylvania
+17866	40.806472	-76.532396	Coal Township	Pennsylvania
+19320	39.957754	-75.837421	Coatesville	Pennsylvania
+16117	40.870772	-80.255809	Ellwood City	Pennsylvania
+16343	41.417814	-79.743383	Reno	Pennsylvania
+17742	41.231112	-76.609691	Lairdsville	Pennsylvania
+16372	41.201015	-79.874513	Clintonville	Pennsylvania
+15461	39.846630	-79.895947	Masontown	Pennsylvania
+15784	41.024459	-79.141088	Worthville	Pennsylvania
+18072	40.844140	-75.259135	Pen Argyl	Pennsylvania
+19511	40.485630	-75.739104	Bowers	Pennsylvania
+16423	42.020642	-80.339512	Lake City	Pennsylvania
+15037	40.257714	-79.852770	Elizabeth	Pennsylvania
+18413	41.649697	-75.597080	Clifford	Pennsylvania
+15952	40.301794	-78.777849	Salix	Pennsylvania
+15456	39.926407	-79.652007	Lemont Furnace	Pennsylvania
+17861	40.774286	-77.077739	Paxtonville	Pennsylvania
+15956	40.350558	-78.795939	South Fork	Pennsylvania
+15928	40.241294	-78.923112	Davidsville	Pennsylvania
+15745	40.625257	-78.920006	Heilwood	Pennsylvania
+15301	40.153496	-80.253462	Washington	Pennsylvania
+18041	40.420460	-75.509926	East Greenville	Pennsylvania
+17557	40.102865	-76.075182	New Holland	Pennsylvania
+15539	40.128413	-78.594079	Fishertown	Pennsylvania
+17579	39.960426	-76.180695	Strasburg	Pennsylvania
+18036	40.507761	-75.387031	Coopersburg	Pennsylvania
+16027	40.817304	-80.014738	Connoquenessing	Pennsylvania
+18088	40.765692	-75.557509	Walnutport	Pennsylvania
+19508	40.262122	-75.834022	Birdsboro	Pennsylvania
+18078	40.673304	-75.620717	Schnecksville	Pennsylvania
+17237	39.830906	-77.529363	Mont Alto	Pennsylvania
+15676	40.241728	-79.461895	Pleasant Unity	Pennsylvania
+19317	39.857514	-75.605224	Chadds Ford	Pennsylvania
+19465	40.190538	-75.684427	Pottstown	Pennsylvania
+18250	40.824064	-75.848410	Summit Hill	Pennsylvania
+19352	39.777149	-75.887618	Lincoln University	Pennsylvania
+15623	40.368254	-79.617807	Claridge	Pennsylvania
+15313	40.062742	-80.021375	Beallsville	Pennsylvania
+19512	40.350632	-75.679126	Boyertown	Pennsylvania
+18327	40.967830	-75.133760	Delaware Water Gap	Pennsylvania
+19390	39.828351	-75.842091	West Grove	Pennsylvania
+18601	41.067902	-76.178203	Beach Haven	Pennsylvania
+16601	40.568214	-78.366912	Altoona	Pennsylvania
+18080	40.731578	-75.637665	Slatington	Pennsylvania
+18224	41.026275	-75.873263	Freeland	Pennsylvania
+15482	40.072328	-79.768150	Star Junction	Pennsylvania
+17368	39.985512	-76.520453	Wrightsville	Pennsylvania
+19472	40.339020	-75.567495	Sassamansville	Pennsylvania
+18051	40.595638	-75.667032	Fogelsville	Pennsylvania
+15711	41.018425	-78.955620	Anita	Pennsylvania
+15004	40.347681	-80.383115	Atlasburg	Pennsylvania
+15690	40.643905	-79.549253	Vandergrift	Pennsylvania
+18091	40.824846	-75.325651	Wind Gap	Pennsylvania
+18411	41.459114	-75.740373	Clarks Summit	Pennsylvania
+18341	41.000776	-75.132222	Minisink Hills	Pennsylvania
+18073	40.385157	-75.473010	Pennsburg	Pennsylvania
+15412	40.098654	-79.849921	Allenport	Pennsylvania
+17578	40.235039	-76.184034	Stevens	Pennsylvania
+15733	40.988862	-78.959295	De Lancey	Pennsylvania
+16212	40.755157	-79.583624	Cadogan	Pennsylvania
+15379	40.243195	-80.425235	West Middletown	Pennsylvania
+18471	41.529044	-75.703875	Waverly	Pennsylvania
+18322	40.918868	-75.403194	Brodheadsville	Pennsylvania
+19350	39.760017	-75.796677	Landenberg	Pennsylvania
+19365	39.963562	-75.922845	Parkesburg	Pennsylvania
+15142	40.385940	-80.117149	Presto	Pennsylvania
+17901	40.687609	-76.241570	Pottsville	Pennsylvania
+18466	41.196550	-75.394179	Tobyhanna	Pennsylvania
+16641	40.521380	-78.577951	Gallitzin	Pennsylvania
+18301	41.082917	-75.156497	East Stroudsburg	Pennsylvania
+17315	40.019582	-76.868217	Dover	Pennsylvania
+17268	39.775051	-77.575580	Waynesboro	Pennsylvania
+15532	39.768356	-79.062171	Boynton	Pennsylvania
+18603	41.089003	-76.239957	Berwick	Pennsylvania
+19518	40.272602	-75.744884	Douglassville	Pennsylvania
+16415	42.037550	-80.230302	Fairview	Pennsylvania
+15059	40.700478	-80.499438	Midland	Pennsylvania
+15126	40.460445	-80.287482	Imperial	Pennsylvania
+15460	39.807134	-79.907610	Martin	Pennsylvania
+18407	41.593310	-75.528097	Carbondale	Pennsylvania
+17013	40.194748	-77.224568	Carlisle	Pennsylvania
+18014	40.753529	-75.408120	Bath	Pennsylvania
+17837	40.974977	-76.945150	Lewisburg	Pennsylvania
+15756	40.565789	-79.294319	Mc Intyre	Pennsylvania
+15637	40.261461	-79.711807	Herminie	Pennsylvania
+15632	40.435719	-79.605521	Export	Pennsylvania
+17349	39.753805	-76.682331	New Freedom	Pennsylvania
+15666	40.163021	-79.511159	Mount Pleasant	Pennsylvania
+19540	40.236271	-75.966664	Mohnton	Pennsylvania
+17870	40.817323	-76.888636	Selinsgrove	Pennsylvania
+17347	40.057486	-76.688238	Mount Wolf	Pennsylvania
+17560	39.912675	-76.227681	New Providence	Pennsylvania
+15752	40.546040	-79.279823	Kent	Pennsylvania
+15927	40.536640	-78.781417	Colver	Pennsylvania
+15454	39.866963	-79.863526	Leckrone	Pennsylvania
+15801	41.130125	-78.728361	Du Bois	Pennsylvania
+18360	40.973768	-75.290008	Stroudsburg	Pennsylvania
+18938	40.351048	-74.998049	New Hope	Pennsylvania
+15468	39.948850	-79.837248	New Salem	Pennsylvania
+19344	40.083628	-75.881848	Honey Brook	Pennsylvania
+16022	41.054598	-79.727087	Bruin	Pennsylvania
+18625	41.505653	-75.853878	Lake Winola	Pennsylvania
+17088	40.302877	-76.297227	Schaefferstown	Pennsylvania
+15089	40.219436	-79.727770	West Newton	Pennsylvania
+17829	40.903122	-77.155565	Hartleton	Pennsylvania
+17827	40.756574	-76.958839	Freeburg	Pennsylvania
+16035	41.102261	-80.001540	Forestville	Pennsylvania
+15084	40.636543	-79.803800	Tarentum	Pennsylvania
+17925	40.755815	-76.074983	Brockton	Pennsylvania
+17881	40.782319	-76.661507	Trevorton	Pennsylvania
+15650	40.277177	-79.392907	Latrobe	Pennsylvania
+15425	40.029511	-79.547910	Connellsville	Pennsylvania
+16150	41.280583	-80.443388	Sharpsville	Pennsylvania
+19522	40.437948	-75.804960	Fleetwood	Pennsylvania
+15485	39.814047	-79.332139	Ursina	Pennsylvania
+16839	41.011095	-78.111658	Grassflat	Pennsylvania
+18814	41.784063	-76.607272	Burlington	Pennsylvania
+18244	40.823983	-75.669601	Parryville	Pennsylvania
+18245	40.852240	-76.028676	Quakake	Pennsylvania
+15031	40.368384	-80.177081	Cuddy	Pennsylvania
+18074	40.316737	-75.515686	Perkiomenville	Pennsylvania
+18932	40.298465	-75.257097	Line Lexington	Pennsylvania
+15656	40.639614	-79.635861	Leechburg	Pennsylvania
+15332	40.240455	-79.996016	Finleyville	Pennsylvania
+15520	40.119577	-79.064340	Acosta	Pennsylvania
+18612	41.349715	-75.980488	Dallas	Pennsylvania
+19425	40.098282	-75.633239	Chester Springs	Pennsylvania
+15346	39.945490	-80.077080	Mather	Pennsylvania
+15866	41.029505	-78.787637	Troutville	Pennsylvania
+17972	40.592057	-76.205601	Schuylkill Haven	Pennsylvania
+18071	40.827900	-75.571809	Palmerton	Pennsylvania
+17847	41.002797	-76.805733	Milton	Pennsylvania
+17301	39.892353	-76.983985	Abbottstown	Pennsylvania
+18336	41.374719	-74.742786	Matamoras	Pennsylvania
+15701	40.628804	-79.152716	Indiana	Pennsylvania
+15685	40.187918	-79.520966	Southwest	Pennsylvania
+18331	40.908412	-75.440228	Gilbert	Pennsylvania
+17857	40.932136	-76.772972	Northumberland	Pennsylvania
+17254	39.971093	-77.587759	Scotland	Pennsylvania
+15448	40.135897	-79.732986	Jacobs Creek	Pennsylvania
+15688	40.177696	-79.585938	Tarrs	Pennsylvania
+17201	39.940106	-77.681569	Chambersburg	Pennsylvania
+18927	40.317163	-75.251962	Hilltown	Pennsylvania
+17067	40.390370	-76.315043	Myerstown	Pennsylvania
+15474	39.752949	-79.899233	Point Marion	Pennsylvania
+19555	40.494382	-75.953919	Shoemakersville	Pennsylvania
+17527	40.016114	-75.998133	Gap	Pennsylvania
+17406	40.008616	-76.591146	York	Pennsylvania
+17961	40.649698	-76.060946	Orwigsburg	Pennsylvania
+17750	41.043246	-77.466463	Mackeyville	Pennsylvania
+19343	40.100822	-75.754835	Glenmoore	Pennsylvania
+17065	40.098012	-77.194204	Mount Holly Springs	Pennsylvania
+18451	41.408434	-75.231109	Paupack	Pennsylvania
+17569	40.279606	-76.106431	Reinholds	Pennsylvania
+16059	40.707082	-79.927088	Valencia	Pennsylvania
+18372	41.040080	-75.324492	Tannersville	Pennsylvania
+18925	40.283376	-75.061593	Furlong	Pennsylvania
+17350	39.890088	-77.079399	New Oxford	Pennsylvania
+18840	41.975720	-76.535827	Sayre	Pennsylvania
+16659	40.167239	-78.389898	Loysburg	Pennsylvania
+15943	40.474522	-78.843642	Nanty Glo	Pennsylvania
+18011	40.475767	-75.633251	Alburtis	Pennsylvania
+15710	40.636212	-78.861580	Alverda	Pennsylvania
+17545	40.178669	-76.434370	Manheim	Pennsylvania
+17801	40.836447	-76.749378	Sunbury	Pennsylvania
+18403	41.514055	-75.524676	Archbald	Pennsylvania
+19492	40.282704	-75.492203	Zieglerville	Pennsylvania
+18353	40.895293	-75.358074	Saylorsburg	Pennsylvania
+18947	40.429239	-75.109227	Pipersville	Pennsylvania
+17003	40.349356	-76.555385	Annville	Pennsylvania
+19530	40.539151	-75.781620	Kutztown	Pennsylvania
+16335	41.629726	-80.158790	Meadville	Pennsylvania
+18013	40.853486	-75.165330	Bangor	Pennsylvania
+15436	39.812842	-79.726505	Fairchance	Pennsylvania
+19316	40.059096	-75.836133	Brandamore	Pennsylvania
+17019	40.091973	-77.011063	Dillsburg	Pennsylvania
+18707	41.135202	-75.931665	Mountain Top	Pennsylvania
+18031	40.555890	-75.660887	Breinigsville	Pennsylvania
+16102	40.963360	-80.413931	New Castle	Pennsylvania
+15672	40.243688	-79.629665	New Stanton	Pennsylvania
+18054	40.352369	-75.438736	Green Lane	Pennsylvania
+18070	40.431421	-75.540365	Palm	Pennsylvania
+17362	39.858355	-76.863894	Spring Grove	Pennsylvania
+16648	40.441715	-78.332410	Hollidaysburg	Pennsylvania
+18370	41.089750	-75.330658	Swiftwater	Pennsylvania
+17097	40.578046	-76.675846	Wiconisco	Pennsylvania
+17340	39.753994	-77.116681	Littlestown	Pennsylvania
+15671	40.356560	-79.320276	New Derry	Pennsylvania
+17519	40.141438	-76.023423	East Earl	Pennsylvania
+16854	40.896759	-77.485786	Millheim	Pennsylvania
+16056	40.724934	-79.841706	Saxonburg	Pennsylvania
+17835	40.884300	-77.208809	Laurelton	Pennsylvania
+17562	39.974825	-76.089026	Paradise	Pennsylvania
+18433	41.573573	-75.603861	Jermyn	Pennsylvania
+15612	40.135139	-79.597598	Alverton	Pennsylvania
+15057	40.358762	-80.243777	Mc Donald	Pennsylvania
+17364	39.926484	-76.900256	Thomasville	Pennsylvania
+16421	42.169486	-79.939858	Harborcreek	Pennsylvania
+15613	40.544257	-79.537806	Apollo	Pennsylvania
+17087	40.404009	-76.268426	Richland	Pennsylvania
+17339	40.134824	-76.880136	Lewisberry	Pennsylvania
+17363	39.768476	-76.585449	Stewartstown	Pennsylvania
+15684	40.458974	-79.517748	Slickville	Pennsylvania
+16002	40.812213	-79.861302	Butler	Pennsylvania
+16837	40.945440	-78.474451	Glen Richey	Pennsylvania
+15086	40.659541	-80.093338	Warrendale	Pennsylvania
+15909	40.407055	-78.887398	Johnstown	Pennsylvania
+17529	40.041933	-76.097142	Gordonville	Pennsylvania
+19363	39.790137	-75.969405	Oxford	Pennsylvania
+18354	40.922603	-75.322095	Sciota	Pennsylvania
+17502	40.106643	-76.666428	Bainbridge	Pennsylvania
+16030	41.137353	-79.798355	Eau Claire	Pennsylvania
+18821	41.989910	-75.722798	Great Bend	Pennsylvania
+17007	40.125076	-77.093266	Boiling Springs	Pennsylvania
+18333	40.896858	-75.493306	Kresgeville	Pennsylvania
+15314	40.146306	-80.016809	Bentleyville	Pennsylvania
+17516	39.936992	-76.358146	Conestoga	Pennsylvania
+19504	40.416206	-75.588614	Barto	Pennsylvania
+17872	40.765522	-76.619878	Shamokin	Pennsylvania
+15438	40.073232	-79.857831	Fayette City	Pennsylvania
+17948	40.845385	-76.117468	Mahanoy City	Pennsylvania
+17582	39.990105	-76.434015	Washington Boro	Pennsylvania
+19567	40.399140	-76.209429	Womelsdorf	Pennsylvania
+15639	40.198655	-79.569219	Hunker	Pennsylvania
+19310	39.935060	-75.972836	Atglen	Pennsylvania
+15052	40.665803	-80.427023	Industry	Pennsylvania
+18618	41.365038	-76.041386	Harveys Lake	Pennsylvania
+17505	40.063501	-76.192436	Bird In Hand	Pennsylvania
+19009	40.137867	-75.066544	Bryn Athyn	Pennsylvania
+17572	39.978967	-76.133027	Ronks	Pennsylvania
+17044	40.569036	-77.598267	Lewistown	Pennsylvania
+15713	40.567932	-79.262971	Aultman	Pennsylvania
+18235	40.837003	-75.694157	Lehighton	Pennsylvania
+18923	40.353137	-75.162461	Fountainville	Pennsylvania
+17555	40.116466	-75.970062	Narvon	Pennsylvania
+17882	40.807632	-77.216922	Troxelville	Pennsylvania
+16725	41.899312	-78.661955	Custer City	Pennsylvania
+15863	41.010623	-78.842929	Stump Creek	Pennsylvania
+17257	40.053388	-77.493060	Shippensburg	Pennsylvania
+16159	41.150503	-80.461046	West Middlesex	Pennsylvania
+18220	40.844495	-76.062390	Delano	Pennsylvania
+17225	39.783560	-77.762866	Greencastle	Pennsylvania
+18092	40.469815	-75.513170	Zionsville	Pennsylvania
+18038	40.794881	-75.486087	Danielsville	Pennsylvania
+17815	41.022851	-76.434142	Bloomsburg	Pennsylvania
+16055	40.715281	-79.748955	Sarver	Pennsylvania
+16229	40.726333	-79.640681	Freeport	Pennsylvania
+17702	41.182128	-77.059547	Williamsport	Pennsylvania
+17325	39.828521	-77.226867	Gettysburg	Pennsylvania
+15627	40.360584	-79.295895	Derry	Pennsylvania
+16127	41.180196	-80.062898	Grove City	Pennsylvania
+19421	40.142437	-75.625715	Birchrunville	Pennsylvania
+17745	41.193045	-77.427045	Lock Haven	Pennsylvania
+16033	40.783861	-80.051089	Evans City	Pennsylvania
+16155	41.068219	-80.510814	Villa Maria	Pennsylvania
+15473	40.055368	-79.793752	Perryopolis	Pennsylvania
+17946	40.808966	-76.256026	Lost Creek	Pennsylvania
+16214	41.212460	-79.348515	Clarion	Pennsylvania
+16635	40.408533	-78.476783	Duncansville	Pennsylvania
+17754	41.314516	-76.885314	Montoursville	Pennsylvania
+18653	41.400080	-75.824732	Ransom	Pennsylvania
+16428	42.171464	-79.831488	North East	Pennsylvania
+19551	40.360987	-76.137399	Robesonia	Pennsylvania
+15946	40.381340	-78.653993	Portage	Pennsylvania
+15618	40.532743	-79.494404	Avonmore	Pennsylvania
+15020	40.231741	-79.945857	Bunola	Pennsylvania
+17535	40.040870	-76.020656	Kinzers	Pennsylvania
+16823	40.931220	-77.758921	Bellefonte	Pennsylvania
+18357	41.230605	-75.238504	Skytop	Pennsylvania
+17214	39.758919	-77.470782	Blue Ridge Summit	Pennsylvania
+16830	41.033400	-78.438945	Clearfield	Pennsylvania
+15628	40.103314	-79.379620	Donegal	Pennsylvania
+19539	40.480995	-75.687435	Mertztown	Pennsylvania
+17979	40.561808	-76.199139	Summit Station	Pennsylvania
+16112	40.960484	-80.498395	Bessemer	Pennsylvania
+17565	39.898081	-76.319520	Pequea	Pennsylvania
+15361	40.333668	-80.268306	Southview	Pennsylvania
+19526	40.547240	-75.996509	Hamburg	Pennsylvania
+16245	41.001574	-79.293085	Oak Ridge	Pennsylvania
+17360	39.852012	-76.754107	Seven Valleys	Pennsylvania
+18241	40.939507	-76.187957	Nuremberg	Pennsylvania
+17566	39.867186	-76.147513	Quarryville	Pennsylvania
+16053	40.813242	-79.985382	Renfrew	Pennsylvania
+18222	41.042512	-75.985767	Drums	Pennsylvania
+18602	41.185095	-75.754320	Bear Creek	Pennsylvania
+17316	39.970055	-77.010448	East Berlin	Pennsylvania
+17777	41.106517	-76.821696	Watsontown	Pennsylvania
+16417	41.971411	-80.313819	Girard	Pennsylvania
+16346	41.377075	-79.671348	Seneca	Pennsylvania
+18252	40.766755	-75.973775	Tamaqua	Pennsylvania
+17061	40.563786	-76.916295	Millersburg	Pennsylvania
+18816	41.752921	-75.902289	Dimock	Pennsylvania
+18077	40.565806	-75.248490	Riegelsville	Pennsylvania
+15458	39.890174	-79.855758	Mc Clellandtown	Pennsylvania
+15778	40.969034	-79.198370	Timblin	Pennsylvania
+16301	41.450704	-79.649225	Oil City	Pennsylvania
+15723	40.710998	-79.150276	Chambersville	Pennsylvania
+17952	40.764451	-76.060895	Mary D	Pennsylvania
+18343	40.889663	-75.109346	Mount Bethel	Pennsylvania
+15780	40.916128	-79.050217	Valier	Pennsylvania
+19362	39.750743	-76.070383	Nottingham	Pennsylvania
+18459	41.515264	-75.407977	South Canaan	Pennsylvania
+16125	41.408111	-80.372956	Greenville	Pennsylvania
+15357	39.934931	-79.987271	Rices Landing	Pennsylvania
+15633	40.362109	-79.516853	Forbes Road	Pennsylvania
+17509	39.911996	-76.036574	Christiana	Pennsylvania
+15443	39.913717	-79.898885	Hibbs	Pennsylvania
+15847	41.081091	-79.024672	Knox Dale	Pennsylvania
+16323	41.408785	-79.837423	Franklin	Pennsylvania
+15333	40.026411	-80.013312	Fredericktown	Pennsylvania
+19543	40.177058	-75.901018	Morgantown	Pennsylvania
+15462	40.064986	-79.383572	Melcroft	Pennsylvania
+17098	40.578197	-76.633762	Williamstown	Pennsylvania
+17053	40.325040	-77.026474	Marysville	Pennsylvania
+15714	40.643946	-78.833370	Northern Cambria	Pennsylvania
+16637	40.339300	-78.461445	East Freedom	Pennsylvania
+15721	40.812319	-78.798097	Burnside	Pennsylvania
+18058	40.894986	-75.484979	Kunkletown	Pennsylvania
+16142	41.135233	-80.332802	New Wilmington	Pennsylvania
+18972	40.544815	-75.111181	Upper Black Eddy	Pennsylvania
+16023	40.784992	-79.748805	Cabot	Pennsylvania
+17921	40.741273	-76.358691	Ashland	Pennsylvania
+16201	40.808616	-79.465104	Kittanning	Pennsylvania
+17327	39.780738	-76.751798	Glen Rock	Pennsylvania
+15783	40.596777	-79.346664	West Lebanon	Pennsylvania
+18324	41.157267	-75.000438	Bushkill	Pennsylvania
+16734	41.610558	-78.854119	James City	Pennsylvania
+16412	41.884937	-80.170365	Edinboro	Pennsylvania
+17252	39.904803	-77.813639	Saint Thomas	Pennsylvania
+18942	40.471159	-75.160467	Ottsville	Pennsylvania
+18355	41.076528	-75.344668	Scotrun	Pennsylvania
+17084	40.675439	-77.626460	Reedsville	Pennsylvania
+16673	40.308197	-78.391015	Roaring Spring	Pennsylvania
+17066	40.352241	-77.848731	Mount Union	Pennsylvania
+18256	40.942669	-76.130442	Weston	Pennsylvania
+15446	40.038120	-79.389122	Indian Head	Pennsylvania
+18242	40.912367	-76.124905	Oneida	Pennsylvania
+17029	40.555708	-77.624669	Granville	Pennsylvania
+19541	40.474348	-76.035295	Mohrsville	Pennsylvania
+15442	40.020301	-79.839819	Grindstone	Pennsylvania
+17314	39.755506	-76.326301	Delta	Pennsylvania
+17026	40.458202	-76.424980	Fredericksburg	Pennsylvania
+17073	40.298489	-76.255490	Newmanstown	Pennsylvania
+15781	40.966643	-78.990789	Walston	Pennsylvania
+15958	40.387524	-78.730422	Summerhill	Pennsylvania
+17322	39.854886	-76.535407	Felton	Pennsylvania
+16226	40.711634	-79.486534	Ford City	Pennsylvania
+15764	40.987013	-79.027561	Oliveburg	Pennsylvania
+16057	41.034074	-80.060300	Slippery Rock	Pennsylvania
+17532	39.858156	-76.288008	Holtwood	Pennsylvania
+17020	40.414171	-77.041503	Duncannon	Pennsylvania
+18441	41.649966	-75.643481	Lenoxville	Pennsylvania
+17945	40.785086	-76.376846	Locustdale	Pennsylvania
+15857	41.455283	-78.519875	Saint Marys	Pennsylvania
+15322	39.981643	-80.053364	Clarksville	Pennsylvania
+17076	40.620637	-77.309084	Oakland Mills	Pennsylvania
+18457	41.471966	-75.049326	Rowland	Pennsylvania
+17744	41.252004	-77.153630	Linden	Pennsylvania
+18349	41.099514	-75.368212	Pocono Manor	Pennsylvania
+15353	39.960187	-80.300049	Nineveh	Pennsylvania
+15445	39.876101	-79.667884	Hopwood	Pennsylvania
+16827	40.764029	-77.769144	Boalsburg	Pennsylvania
+16244	40.798691	-79.272536	Nu Mine	Pennsylvania
+18813	41.751887	-75.800608	Brooklyn	Pennsylvania
+16426	41.979331	-80.142080	Mc Kean	Pennsylvania
+16879	40.962739	-78.149386	Winburne	Pennsylvania
+15679	40.170481	-79.650724	Ruffs Dale	Pennsylvania
+19547	40.375945	-75.757012	Oley	Pennsylvania
+15320	39.875092	-80.004842	Carmichaels	Pennsylvania
+18611	41.193242	-76.299476	Cambra	Pennsylvania
+16157	40.882301	-80.335879	Wampum	Pennsylvania
+17329	39.763335	-76.850330	Glenville	Pennsylvania
+16370	41.575468	-79.421275	West Hickory	Pennsylvania
+15773	40.626123	-78.739449	Saint Benedict	Pennsylvania
+16329	41.831996	-79.269365	Irvine	Pennsylvania
+17930	40.708049	-76.111945	Cumbola	Pennsylvania
+17090	40.328385	-77.189878	Shermans Dale	Pennsylvania
+16028	40.954281	-79.639606	East Brady	Pennsylvania
+18920	40.497718	-75.084034	Erwinna	Pennsylvania
+15940	40.517029	-78.625232	Loretto	Pennsylvania
+18337	41.329110	-74.871787	Milford	Pennsylvania
+18621	41.253526	-76.085468	Hunlock Creek	Pennsylvania
+18332	41.094938	-75.261302	Henryville	Pennsylvania
+19330	39.871898	-75.914423	Cochranville	Pennsylvania
+16116	41.044162	-80.449625	Edinburg	Pennsylvania
+15760	40.651952	-78.798286	Marsteller	Pennsylvania
+16826	41.050633	-77.599423	Blanchard	Pennsylvania
+17222	39.896398	-77.493986	Fayetteville	Pennsylvania
+17041	40.225019	-76.526678	Lawn	Pennsylvania
+16365	41.839268	-79.174039	Warren	Pennsylvania
+15722	40.595234	-78.723869	Carrolltown	Pennsylvania
+15827	41.279780	-78.515956	Byrnedale	Pennsylvania
+18053	40.719230	-75.704117	Germansville	Pennsylvania
+18438	41.431506	-75.261724	Lakeville	Pennsylvania
+16132	40.998634	-80.490701	Hillsville	Pennsylvania
+18817	41.872722	-76.631611	East Smithfield	Pennsylvania
+15480	39.986994	-79.777710	Smock	Pennsylvania
+17922	40.592937	-76.116672	Auburn	Pennsylvania
+18346	41.144187	-75.436225	Pocono Summit	Pennsylvania
+17821	40.989183	-76.643864	Danville	Pennsylvania
+18414	41.541894	-75.745401	Dalton	Pennsylvania
+18216	40.942594	-75.890620	Beaver Meadows	Pennsylvania
+16646	40.692702	-78.702801	Hastings	Pennsylvania
+17844	40.936255	-77.055318	Mifflinburg	Pennsylvania
+19520	40.164546	-75.799796	Elverson	Pennsylvania
+15492	40.118345	-79.764086	Wickhaven	Pennsylvania
+18610	41.069264	-75.549243	Blakeslee	Pennsylvania
+17824	40.852310	-76.505353	Elysburg	Pennsylvania
+17752	41.183801	-76.921655	Montgomery	Pennsylvania
+16052	40.899942	-80.061831	Prospect	Pennsylvania
+15963	40.220951	-78.781115	Windber	Pennsylvania
+15427	40.068210	-79.973300	Daisytown	Pennsylvania
+18419	41.585933	-75.792369	Factoryville	Pennsylvania
+18229	40.939334	-75.706631	Jim Thorpe	Pennsylvania
+18326	41.162884	-75.291379	Cresco	Pennsylvania
+15344	39.916830	-80.047088	Jefferson	Pennsylvania
+17023	40.580391	-76.812347	Elizabethville	Pennsylvania
+18356	41.011933	-75.097363	Shawnee On Delaware	Pennsylvania
+16651	40.851582	-78.380057	Houtzdale	Pennsylvania
+15845	41.508427	-78.707153	Johnsonburg	Pennsylvania
+16037	40.842611	-80.133751	Harmony	Pennsylvania
+15479	40.151237	-79.707539	Smithton	Pennsylvania
+15717	40.457271	-79.243322	Blairsville	Pennsylvania
+15501	40.035187	-79.119951	Somerset	Pennsylvania
+15938	40.414044	-78.595451	Lilly	Pennsylvania
+17321	39.751261	-76.442912	Fawn Grove	Pennsylvania
+16866	40.867118	-78.165508	Philipsburg	Pennsylvania
+18810	41.930521	-76.501406	Athens	Pennsylvania
+16652	40.504071	-77.973104	Huntingdon	Pennsylvania
+17320	39.770148	-77.389864	Fairfield	Pennsylvania
+16912	41.672902	-77.054954	Blossburg	Pennsylvania
+16137	41.229657	-80.241424	Mercer	Pennsylvania
+18420	41.606272	-75.702395	Fleetville	Pennsylvania
+15942	40.397429	-78.810779	Mineral Point	Pennsylvania
+18930	40.521080	-75.218629	Kintnersville	Pennsylvania
+18615	41.457106	-75.855367	Falls	Pennsylvania
+17028	40.402470	-76.676230	Grantville	Pennsylvania
+16036	41.125473	-79.668277	Foxburg	Pennsylvania
+18823	41.785037	-75.692052	Harford	Pennsylvania
+17068	40.410416	-77.178369	New Bloomfield	Pennsylvania
+18421	41.677074	-75.459891	Forest City	Pennsylvania
+15779	40.414066	-79.231459	Torrance	Pennsylvania
+17536	39.847199	-76.071957	Kirkwood	Pennsylvania
+16730	41.820912	-78.406372	East Smethport	Pennsylvania
+18464	41.408256	-75.181444	Tafton	Pennsylvania
+17365	40.061406	-76.933268	Wellsville	Pennsylvania
+18444	41.335044	-75.542940	Moscow	Pennsylvania
+16143	41.113729	-80.447190	Pulaski	Pennsylvania
+18820	41.809709	-75.648279	Gibson	Pennsylvania
+18436	41.436009	-75.407089	Lake Ariel	Pennsylvania
+15541	40.052739	-78.980608	Friedens	Pennsylvania
+16849	40.961737	-78.114665	Lanse	Pennsylvania
+15486	40.025885	-79.711164	Vanderbilt	Pennsylvania
+16154	41.325901	-80.420117	Transfer	Pennsylvania
+16316	41.585876	-80.293879	Conneaut Lake	Pennsylvania
+17048	40.605341	-76.725258	Lykens	Pennsylvania
+16250	40.785649	-79.226198	Sagamore	Pennsylvania
+15410	39.932329	-79.911597	Adah	Pennsylvania
+18210	41.001347	-75.575162	Albrightsville	Pennsylvania
+16631	40.277279	-78.347842	Curryville	Pennsylvania
+17864	40.704727	-76.905819	Port Trevorton	Pennsylvania
+16401	41.882663	-80.395839	Albion	Pennsylvania
+15935	40.204689	-78.957908	Hollsopple	Pennsylvania
+17563	39.765330	-76.180277	Peach Bottom	Pennsylvania
+15954	40.414088	-79.003532	Seward	Pennsylvania
+18066	40.663414	-75.740129	New Tripoli	Pennsylvania
+15920	40.474500	-79.047534	Armagh	Pennsylvania
+15478	39.787462	-79.804657	Smithfield	Pennsylvania
+17772	41.114545	-76.712349	Turbotville	Pennsylvania
+18334	41.054267	-75.455537	Long Pond	Pennsylvania
+17865	40.985399	-76.791186	Potts Grove	Pennsylvania
+15423	40.087483	-79.922400	Coal Center	Pennsylvania
+15929	40.474490	-78.998433	Dilltown	Pennsylvania
+16670	40.271810	-78.504402	Queen	Pennsylvania
+17074	40.484326	-77.140862	Newport	Pennsylvania
+18246	40.958119	-76.194637	Rock Glen	Pennsylvania
+16666	40.856498	-78.302637	Osceola Mills	Pennsylvania
+17756	41.204863	-76.729619	Muncy	Pennsylvania
+15931	40.508202	-78.769344	Ebensburg	Pennsylvania
+17889	40.877442	-76.921646	Winfield	Pennsylvania
+15330	40.179441	-80.089927	Eighty Four	Pennsylvania
+18347	41.126986	-75.586268	Pocono Lake	Pennsylvania
+17372	40.003372	-77.107894	York Springs	Pennsylvania
+16662	40.295021	-78.297153	Martinsburg	Pennsylvania
+16681	40.800427	-78.439565	Smokerun	Pennsylvania
+16701	41.918636	-78.750236	Bradford	Pennsylvania
+15050	40.562142	-80.443812	Hookstown	Pennsylvania
+18251	41.005872	-76.085137	Sybertsville	Pennsylvania
+16123	40.821932	-80.196513	Fombell	Pennsylvania
+16686	40.671364	-78.248282	Tyrone	Pennsylvania
+15026	40.512736	-80.332723	Clinton	Pennsylvania
+15431	39.955499	-79.606209	Dunbar	Pennsylvania
+15681	40.518300	-79.439262	Saltsburg	Pennsylvania
+15338	39.818193	-79.959217	Greensboro	Pennsylvania
+15370	39.873863	-80.186200	Waynesburg	Pennsylvania
+16034	40.863580	-79.728488	Fenelton	Pennsylvania
+15926	40.053269	-78.823632	Central City	Pennsylvania
+16443	41.935296	-80.484211	West Springfield	Pennsylvania
+15841	41.257739	-78.528817	Force	Pennsylvania
+16025	40.942440	-79.753365	Chicora	Pennsylvania
+18435	41.471725	-74.997357	Lackawaxen	Pennsylvania
+17740	41.205806	-77.256858	Jersey Shore	Pennsylvania
+16663	40.795530	-78.381686	Morann	Pennsylvania
+17810	41.100941	-77.039037	Allenwood	Pennsylvania
+18350	41.111433	-75.458151	Pocono Pines	Pennsylvania
+16371	41.856877	-79.319294	Youngsville	Pennsylvania
+16407	41.905637	-79.667983	Corry	Pennsylvania
+18249	40.972399	-76.114180	Sugarloaf	Pennsylvania
+16440	41.782549	-80.126018	Venango	Pennsylvania
+17004	40.597812	-77.738868	Belleville	Pennsylvania
+15748	40.521263	-79.095165	Homer City	Pennsylvania
+17304	39.971280	-77.228505	Aspers	Pennsylvania
+16855	40.997587	-78.372961	Mineral Springs	Pennsylvania
+17923	40.667861	-76.328359	Branchdale	Pennsylvania
+15610	40.146956	-79.417201	Acme	Pennsylvania
+17241	40.176528	-77.408448	Newville	Pennsylvania
+15670	40.414800	-79.428730	New Alexandria	Pennsylvania
+15490	40.077908	-79.423958	White	Pennsylvania
+16141	40.865421	-80.381749	New Galilee	Pennsylvania
+16433	41.736113	-80.144454	Saegertown	Pennsylvania
+15658	40.252467	-79.218914	Ligonier	Pennsylvania
+17963	40.556550	-76.395892	Pine Grove	Pennsylvania
+17842	40.802890	-77.048649	Middleburg	Pennsylvania
+16354	41.614268	-79.706413	Titusville	Pennsylvania
+15840	41.171972	-78.822649	Falls Creek	Pennsylvania
+18635	41.029240	-76.201347	Nescopeck	Pennsylvania
+19506	40.464739	-76.131786	Bernville	Pennsylvania
+19534	40.578428	-75.865931	Lenhartsville	Pennsylvania
+16234	41.130714	-79.338020	Limestone	Pennsylvania
+15955	40.313716	-78.697793	Sidman	Pennsylvania
+17018	40.422122	-76.825931	Dauphin	Pennsylvania
+17307	39.947765	-77.326817	Biglerville	Pennsylvania
+15428	40.084267	-79.682026	Dawson	Pennsylvania
+18456	41.608858	-75.349973	Prompton	Pennsylvania
+19435	40.327484	-75.569174	Frederick	Pennsylvania
+18655	41.187417	-76.195153	Shickshinny	Pennsylvania
+18431	41.617553	-75.257668	Honesdale	Pennsylvania
+17981	40.632656	-76.378710	Tremont	Pennsylvania
+17728	41.327819	-77.107692	Cogan Station	Pennsylvania
+16625	40.300138	-78.516857	Claysburg	Pennsylvania
+18657	41.522511	-75.959481	Tunkhannock	Pennsylvania
+16263	40.804914	-79.335514	Yatesboro	Pennsylvania
+15340	40.286451	-80.316715	Hickory	Pennsylvania
+16865	40.722503	-77.972925	Pennsylvania Furnace	Pennsylvania
+15451	39.744544	-79.848473	Lake Lynn	Pennsylvania
+15767	40.965965	-78.975628	Punxsutawney	Pennsylvania
+19507	40.504840	-76.271196	Bethel	Pennsylvania
+17920	40.814382	-76.336770	Aristes	Pennsylvania
+17045	40.597093	-77.000928	Liverpool	Pennsylvania
+16262	40.843135	-79.652236	Worthington	Pennsylvania
+17038	40.456618	-76.563247	Jonestown	Pennsylvania
+16115	40.796605	-80.460695	Darlington	Pennsylvania
+15345	40.022639	-80.107770	Marianna	Pennsylvania
+15728	40.675665	-78.971780	Clymer	Pennsylvania
+17324	40.031811	-77.234957	Gardners	Pennsylvania
+18660	41.097697	-76.062317	Wapwallopen	Pennsylvania
+16847	40.987697	-78.150211	Kylertown	Pennsylvania
+17309	39.873520	-76.450795	Brogue	Pennsylvania
+16939	41.662022	-77.028939	Morris Run	Pennsylvania
+16411	41.977956	-80.447072	East Springfield	Pennsylvania
+16828	40.821483	-77.668477	Centre Hall	Pennsylvania
+18626	41.439763	-76.511483	Laporte	Pennsylvania
+18214	40.800261	-76.083954	Barnesville	Pennsylvania
+15021	40.388565	-80.441527	Burgettstown	Pennsylvania
+16051	40.951574	-80.138797	Portersville	Pennsylvania
+16833	40.948214	-78.574026	Curwensville	Pennsylvania
+17982	40.785654	-76.022177	Tuscarora	Pennsylvania
+17967	40.856049	-76.215953	Ringtown	Pennsylvania
+16441	41.950388	-79.986389	Waterford	Pennsylvania
+16667	40.178297	-78.531657	Osterburg	Pennsylvania
+15712	40.793352	-78.846767	Arcadia	Pennsylvania
+17846	41.141745	-76.517122	Millville	Pennsylvania
+18323	41.199162	-75.270951	Buck Hill Falls	Pennsylvania
+16134	41.512025	-80.445261	Jamestown	Pennsylvania
+16410	41.922751	-80.308509	Cranesville	Pennsylvania
+18472	41.586388	-75.403716	Waymart	Pennsylvania
+17978	40.628292	-76.629268	Spring Glen	Pennsylvania
+17049	40.653606	-77.260729	Mc Alisterville	Pennsylvania
+15327	39.744871	-79.960854	Dilliner	Pennsylvania
+15936	40.157631	-78.916415	Hooversville	Pennsylvania
+15019	40.406974	-80.328574	Bulger	Pennsylvania
+16438	41.893341	-79.847963	Union City	Pennsylvania
+17352	39.763128	-76.498458	New Park	Pennsylvania
+15043	40.564410	-80.480039	Georgetown	Pennsylvania
+18255	40.939003	-75.836256	Weatherly	Pennsylvania
+18240	40.877771	-75.821777	Nesquehoning	Pennsylvania
+17244	40.090333	-77.672277	Orrstown	Pennsylvania
+16829	41.059002	-77.959790	Clarence	Pennsylvania
+15558	39.742860	-79.093889	Salisbury	Pennsylvania
+18822	41.940111	-75.794988	Hallstead	Pennsylvania
+15957	40.546257	-78.899995	Strongstown	Pennsylvania
+15729	40.699760	-78.919781	Commodore	Pennsylvania
+17059	40.586764	-77.404442	Mifflintown	Pennsylvania
+17518	39.808930	-76.253014	Drumore	Pennsylvania
+17856	41.054417	-76.950026	New Columbia	Pennsylvania
+15531	40.190198	-79.069464	Boswell	Pennsylvania
+17980	40.518658	-76.644738	Tower City	Pennsylvania
+16822	41.096193	-77.617712	Beech Creek	Pennsylvania
+15530	39.940809	-78.924027	Berlin	Pennsylvania
+17058	40.471465	-77.537161	Mifflin	Pennsylvania
+16695	40.208763	-78.365722	Woodbury	Pennsylvania
+17737	41.315885	-76.680284	Hughesville	Pennsylvania
+17959	40.732069	-76.149951	New Philadelphia	Pennsylvania
+17032	40.489882	-76.832805	Halifax	Pennsylvania
+15747	40.775788	-79.145875	Home	Pennsylvania
+16249	40.763428	-79.319081	Rural Valley	Pennsylvania
+18340	41.417841	-74.765299	Millrift	Pennsylvania
+16858	40.999648	-78.178153	Morrisdale	Pennsylvania
+18622	41.202816	-76.271316	Huntington Mills	Pennsylvania
+16124	41.336120	-80.275915	Fredonia	Pennsylvania
+16232	41.230211	-79.553247	Knox	Pennsylvania
+16038	41.164483	-79.953343	Harrisville	Pennsylvania
+16680	40.743210	-78.377590	Smithmill	Pennsylvania
+16668	40.655088	-78.619468	Patton	Pennsylvania
+16732	41.853486	-78.604416	Gifford	Pennsylvania
+17859	41.116964	-76.398094	Orangeville	Pennsylvania
+16424	41.664355	-80.428937	Linesville	Pennsylvania
+17353	39.883247	-77.371900	Orrtanna	Pennsylvania
+16878	40.938978	-78.325172	West Decatur	Pennsylvania
+16120	40.884991	-80.478980	Enon Valley	Pennsylvania
+16627	40.752287	-78.507220	Coalport	Pennsylvania
+16645	40.801081	-78.497041	Glen Hope	Pennsylvania
+17094	40.587377	-77.217119	Thompsontown	Pennsylvania
+15469	40.008165	-79.408633	Normalville	Pennsylvania
+17240	40.154022	-77.587523	Newburg	Pennsylvania
+16881	41.026792	-78.320258	Woodland	Pennsylvania
+17302	39.817290	-76.413678	Airville	Pennsylvania
+18848	41.736326	-76.455010	Towanda	Pennsylvania
+16870	40.799152	-78.057804	Port Matilda	Pennsylvania
+16254	41.313120	-79.493759	Shippenville	Pennsylvania
+15824	41.258556	-78.849139	Brockway	Pennsylvania
+16050	41.034841	-79.763143	Petrolia	Pennsylvania
+15554	40.122772	-78.621987	New Paris	Pennsylvania
+15851	41.102605	-78.909616	Reynoldsville	Pennsylvania
+16403	41.792276	-80.022731	Cambridge Springs	Pennsylvania
+16729	41.962550	-78.477022	Duke Center	Pennsylvania
+16933	41.818908	-77.076852	Mansfield	Pennsylvania
+15923	40.355236	-79.158522	Bolivar	Pennsylvania
+15537	40.004831	-78.363857	Everett	Pennsylvania
+18446	41.655814	-75.759164	Nicholson	Pennsylvania
+15360	40.085459	-80.079466	Scenery Hill	Pennsylvania
+15562	39.746183	-79.131093	Springs	Pennsylvania
+17853	40.687984	-77.010671	Mount Pleasant Mills	Pennsylvania
+16860	40.943192	-78.173621	Munson	Pennsylvania
+16041	41.007569	-79.711140	Karns City	Pennsylvania
+17840	40.770568	-76.443879	Locust Gap	Pennsylvania
+17830	40.686064	-76.805171	Herndon	Pennsylvania
+18328	41.226791	-75.010515	Dingmans Ferry	Pennsylvania
+17860	40.857431	-76.623749	Paxinos	Pennsylvania
+15323	40.112233	-80.405642	Claysville	Pennsylvania
+16326	41.361480	-79.432101	Fryburg	Pennsylvania
+15433	39.982683	-79.948732	East Millsboro	Pennsylvania
+16130	41.445846	-80.212382	Hadley	Pennsylvania
+15522	39.948998	-78.554960	Bedford	Pennsylvania
+16727	41.978719	-78.535227	Derrick City	Pennsylvania
+16334	41.304473	-79.446426	Marble	Pennsylvania
+17820	40.896020	-76.403972	Catawissa	Pennsylvania
+15552	39.791191	-78.988875	Meyersdale	Pennsylvania
+16156	41.088767	-80.216432	Volant	Pennsylvania
+15762	40.605635	-78.811854	Nicktown	Pennsylvania
+16248	41.036152	-79.505510	Rimersburg	Pennsylvania
+17878	41.166163	-76.343678	Stillwater	Pennsylvania
+15761	40.617187	-78.905099	Mentcle	Pennsylvania
+17017	40.640112	-76.887798	Dalmatia	Pennsylvania
+18842	41.751206	-75.618035	South Gibson	Pennsylvania
+17938	40.654229	-76.492923	Hegins	Pennsylvania
+16153	41.322240	-80.086586	Stoneboro	Pennsylvania
+17024	40.413364	-77.290341	Elliottsburg	Pennsylvania
+18424	41.245791	-75.544493	Gouldsboro	Pennsylvania
+17060	40.512886	-77.860274	Mill Creek	Pennsylvania
+17233	39.975605	-77.987160	Mc Connellsburg	Pennsylvania
+16678	40.229066	-78.223038	Saxton	Pennsylvania
+16350	41.956938	-79.334446	Sugar Grove	Pennsylvania
+15825	41.174947	-79.034401	Brookville	Pennsylvania
+16314	41.520676	-80.077072	Cochranton	Pennsylvania
+18426	41.325438	-75.239118	Greentown	Pennsylvania
+17236	39.801080	-77.947561	Mercersburg	Pennsylvania
+16638	40.330889	-78.207199	Entriken	Pennsylvania
+17960	40.697241	-75.947044	New Ringgold	Pennsylvania
+17086	40.690624	-77.122007	Richfield	Pennsylvania
+18428	41.404303	-75.118060	Hawley	Pennsylvania
+17968	40.644157	-76.622459	Sacramento	Pennsylvania
+15774	40.654690	-79.323835	Shelocta	Pennsylvania
+15563	40.097575	-78.928920	Stoystown	Pennsylvania
+15545	39.789996	-78.780037	Hyndman	Pennsylvania
+16242	41.005427	-79.352992	New Bethlehem	Pennsylvania
+15724	40.735096	-78.813634	Cherry Tree	Pennsylvania
+15944	40.365585	-79.101427	New Florence	Pennsylvania
+16442	42.038485	-79.825705	Wattsburg	Pennsylvania
+15732	40.732730	-79.216471	Creekside	Pennsylvania
+16877	40.727315	-78.088888	Warriors Mark	Pennsylvania
+17841	40.725401	-77.363466	Mc Clure	Pennsylvania
+18211	40.744080	-75.830406	Andreas	Pennsylvania
+16611	40.559498	-78.111798	Alexandria	Pennsylvania
+15311	40.045171	-80.185927	Amity	Pennsylvania
+16224	41.065080	-79.294860	Fairmount City	Pennsylvania
+16145	41.382241	-80.070623	Sandy Lake	Pennsylvania
+15846	41.320283	-78.600388	Kersey	Pennsylvania
+15772	40.870692	-78.905814	Rossiter	Pennsylvania
+17763	41.507375	-76.976180	Ralston	Pennsylvania
+16738	41.817108	-78.704247	Lewis Run	Pennsylvania
+16693	40.465399	-78.224555	Williamsburg	Pennsylvania
+17082	40.495748	-77.422362	Port Royal	Pennsylvania
+19113	39.870679	-75.247782	Philadelphia	Pennsylvania
+16061	41.005135	-79.884843	West Sunbury	Pennsylvania
+15770	40.997590	-79.153317	Ringgold	Pennsylvania
+18445	41.297916	-75.359358	Newfoundland	Pennsylvania
+16114	41.405478	-80.185551	Clarks Mills	Pennsylvania
+16040	41.094245	-79.840200	Hilliards	Pennsylvania
+18854	41.790670	-76.355806	Wysox	Pennsylvania
+15759	40.773017	-79.031699	Marion Center	Pennsylvania
+15686	40.602372	-79.425929	Spring Church	Pennsylvania
+15459	39.766780	-79.467334	Markleysburg	Pennsylvania
+17047	40.371068	-77.411986	Loysville	Pennsylvania
+15312	40.260072	-80.434832	Avella	Pennsylvania
+18405	41.599551	-75.104240	Beach Lake	Pennsylvania
+18834	41.830965	-75.720935	New Milford	Pennsylvania
+17751	41.129530	-77.521242	Mill Hall	Pennsylvania
+17051	40.462752	-77.780341	Mc Veytown	Pennsylvania
+17724	41.640936	-76.810414	Canton	Pennsylvania
+16613	40.535775	-78.540888	Ashville	Pennsylvania
+19529	40.640078	-75.878650	Kempton	Pennsylvania
+16740	41.751841	-78.622445	Mount Jewett	Pennsylvania
+16929	41.960642	-77.133320	Lawrenceville	Pennsylvania
+16317	41.531263	-79.861994	Cooperstown	Pennsylvania
+17813	40.780401	-77.172083	Beavertown	Pennsylvania
+16110	41.505249	-80.380762	Adamsville	Pennsylvania
+18844	41.690970	-75.905239	Springville	Pennsylvania
+18460	41.259443	-75.336297	South Sterling	Pennsylvania
+16133	41.267791	-80.114451	Jackson Center	Pennsylvania
+16940	41.973609	-77.280856	Nelson	Pennsylvania
+17812	40.733914	-77.234052	Beaver Springs	Pennsylvania
+18248	40.894708	-76.117449	Sheppton	Pennsylvania
+15521	40.199817	-78.630167	Alum Bank	Pennsylvania
+18812	41.973201	-75.964742	Brackney	Pennsylvania
+16258	41.236936	-79.278339	Strattanville	Pennsylvania
+15329	40.027715	-80.279927	Prosperity	Pennsylvania
+16255	41.128813	-79.466757	Sligo	Pennsylvania
+15687	40.138197	-79.325825	Stahlstown	Pennsylvania
+17271	40.099592	-77.815254	Willow Hill	Pennsylvania
+15741	40.797153	-78.874273	Gipsy	Pennsylvania
+18801	41.826600	-75.939366	Montrose	Pennsylvania
+16321	41.573710	-79.389509	East Hickory	Pennsylvania
+16210	40.897680	-79.519931	Adrian	Pennsylvania
+18632	41.460530	-76.397837	Mildred	Pennsylvania
+15725	40.518948	-79.348779	Clarksburg	Pennsylvania
+17845	40.888439	-77.190598	Millmont	Pennsylvania
+16655	40.227417	-78.503221	Imler	Pennsylvania
+16692	40.750827	-78.710802	Westover	Pennsylvania
+18661	41.094332	-75.746390	White Haven	Pennsylvania
+16838	40.991458	-78.636587	Grampian	Pennsylvania
+17229	40.083918	-78.010105	Hustontown	Pennsylvania
+16235	41.322661	-79.352334	Lucinda	Pennsylvania
+16731	41.951380	-78.360378	Eldred	Pennsylvania
+16256	40.855267	-79.134458	Smicksburg	Pennsylvania
+16640	40.710899	-78.565143	Flinton	Pennsylvania
+18630	41.673908	-76.029472	Meshoppen	Pennsylvania
+17062	40.553087	-77.158863	Millerstown	Pennsylvania
+15622	40.040642	-79.319033	Champion	Pennsylvania
+16664	40.175941	-78.430324	New Enterprise	Pennsylvania
+17867	40.708518	-76.686877	Rebuck	Pennsylvania
+16946	41.917989	-77.125280	Tioga	Pennsylvania
+16745	41.914962	-78.485077	Rixford	Pennsylvania
+15765	40.597935	-78.991085	Penn Run	Pennsylvania
+15864	41.103570	-79.197541	Summerville	Pennsylvania
+15853	41.392336	-78.791707	Ridgway	Pennsylvania
+17888	40.828969	-76.371201	Wilburton	Pennsylvania
+16656	40.824016	-78.564131	Irvona	Pennsylvania
+16406	41.748267	-80.364727	Conneautville	Pennsylvania
+17262	40.154028	-77.787746	Spring Run	Pennsylvania
+16327	41.637082	-79.959566	Guys Mills	Pennsylvania
+16936	41.933216	-76.972613	Millerton	Pennsylvania
+15376	40.096264	-80.480999	West Alexander	Pennsylvania
+16925	41.948502	-76.783646	Gillett	Pennsylvania
+18623	41.664801	-76.151984	Laceyville	Pennsylvania
+16111	41.518524	-80.283445	Atlantic	Pennsylvania
+16362	41.451137	-79.978986	Utica	Pennsylvania
+16360	41.679643	-79.890518	Townville	Pennsylvania
+16218	40.926447	-79.593435	Cowansville	Pennsylvania
+16434	41.796904	-79.668625	Spartansburg	Pennsylvania
+16661	40.831088	-78.460928	Madera	Pennsylvania
+15349	39.761371	-80.073268	Mount Morris	Pennsylvania
+16623	40.276985	-78.044720	Cassville	Pennsylvania
+18458	41.412222	-74.917678	Shohola	Pennsylvania
+16875	40.833519	-77.575471	Spring Mills	Pennsylvania
+16724	41.754405	-78.382052	Crosby	Pennsylvania
+16844	40.908912	-77.932408	Julian	Pennsylvania
+18825	41.826103	-75.597592	Jackson	Pennsylvania
+16373	41.208469	-79.698409	Emlenton	Pennsylvania
+16679	40.162389	-78.202655	Six Mile Run	Pennsylvania
+18824	41.697366	-75.787183	Hop Bottom	Pennsylvania
+17002	40.435033	-77.893046	Allensville	Pennsylvania
+16342	41.327885	-79.939336	Polk	Pennsylvania
+16901	41.731919	-77.339236	Wellsboro	Pennsylvania
+15730	41.036933	-79.092164	Coolspring	Pennsylvania
+17040	40.297838	-77.360841	Landisburg	Pennsylvania
+16333	41.753624	-78.919668	Ludlow	Pennsylvania
+17052	40.308915	-77.982192	Mapleton Depot	Pennsylvania
+16841	41.016439	-77.673007	Howard	Pennsylvania
+18847	41.928680	-75.578980	Susquehanna	Pennsylvania
+18325	41.204764	-75.225301	Canadensis	Pennsylvania
+15557	39.943440	-79.227941	Rockwood	Pennsylvania
+15437	39.780204	-79.612135	Farmington	Pennsylvania
+15559	40.060248	-78.691065	Schellsburg	Pennsylvania
+16864	41.100602	-77.789027	Orviston	Pennsylvania
+16259	40.929677	-79.451487	Templeton	Pennsylvania
+16131	41.550522	-80.378230	Hartstown	Pennsylvania
+18832	41.679089	-76.567419	Monroeton	Pennsylvania
+17264	40.182492	-77.992746	Three Springs	Pennsylvania
+16621	40.262372	-78.107646	Broad Top	Pennsylvania
+18656	41.333037	-76.184840	Sweet Valley	Pennsylvania
+18425	41.437116	-75.057034	Greeley	Pennsylvania
+15533	39.991275	-78.234356	Breezewood	Pennsylvania
+16416	41.827502	-79.461243	Garland	Pennsylvania
+16222	40.873677	-79.257025	Dayton	Pennsylvania
+18853	41.724956	-76.267951	Wyalusing	Pennsylvania
+17224	39.979136	-77.884529	Fort Loudon	Pennsylvania
+18850	41.864069	-76.531080	Ulster	Pennsylvania
+16616	40.767547	-78.440079	Beccaria	Pennsylvania
+16435	41.822381	-80.382821	Springboro	Pennsylvania
+16820	40.869683	-77.429779	Aaronsburg	Pennsylvania
+17221	40.069340	-77.803995	Fannettsburg	Pennsylvania
+16947	41.759502	-76.804050	Troy	Pennsylvania
+16859	41.050369	-78.021379	Moshannon	Pennsylvania
+16743	41.795490	-78.256410	Port Allegany	Pennsylvania
+17774	41.251867	-76.546733	Unityville	Pennsylvania
+15334	39.818547	-79.998594	Garards Fort	Pennsylvania
+16405	41.943483	-79.533379	Columbus	Pennsylvania
+17037	40.451264	-77.405675	Ickesburg	Pennsylvania
+16674	40.187065	-78.084374	Robertsdale	Pennsylvania
+16928	41.950876	-77.433287	Knoxville	Pennsylvania
+15316	39.763513	-80.267735	Brave	Pennsylvania
+15924	40.142780	-78.829554	Cairnbrook	Pennsylvania
+16345	41.944404	-79.082917	Russell	Pennsylvania
+16927	41.959600	-77.660056	Harrison Valley	Pennsylvania
+16404	41.725761	-79.796029	Centerville	Pennsylvania
+15829	41.178556	-79.201066	Corsica	Pennsylvania
+18469	41.703684	-75.130492	Tyler Hill	Pennsylvania
+18828	41.770739	-76.097817	Lawton	Pennsylvania
+17255	40.138314	-77.874187	Shade Gap	Pennsylvania
+16650	40.120958	-78.288103	Hopewell	Pennsylvania
+16746	41.793894	-78.122427	Roulette	Pennsylvania
+16917	41.728109	-77.081110	Covington	Pennsylvania
+17941	40.674238	-76.617629	Klingerstown	Pennsylvania
+16874	41.020197	-77.918959	Snow Shoe	Pennsylvania
+16744	41.872411	-78.553076	Rew	Pennsylvania
+17260	40.298812	-77.900330	Shirleysburg	Pennsylvania
+16647	40.404585	-78.094503	Hesston	Pennsylvania
+15646	40.090540	-79.307686	Jones Mills	Pennsylvania
+18415	41.743530	-75.124268	Damascus	Pennsylvania
+18826	41.746913	-75.724169	Kingsley	Pennsylvania
+16049	41.099334	-79.672348	Parker	Pennsylvania
+15848	41.030154	-78.710580	Luthersburg	Pennsylvania
+16942	41.960072	-77.351053	Osceola	Pennsylvania
+16364	41.369633	-79.516789	Venus	Pennsylvania
+15961	40.466443	-78.943367	Vintondale	Pennsylvania
+16319	41.325416	-79.653595	Cranberry	Pennsylvania
+16020	41.111797	-79.898974	Boyers	Pennsylvania
+18443	41.666014	-75.113690	Milanville	Pennsylvania
+18831	41.894223	-76.598118	Milan	Pennsylvania
+17223	40.086500	-77.942752	Fort Littleton	Pennsylvania
+15542	39.870201	-79.082545	Garrett	Pennsylvania
+18470	41.724676	-75.535512	Union Dale	Pennsylvania
+15823	41.265894	-78.714775	Brockport	Pennsylvania
+17063	40.760937	-77.484920	Milroy	Pennsylvania
+15464	39.922294	-79.439346	Mill Run	Pennsylvania
+17985	40.918455	-76.238710	Zion Grove	Pennsylvania
+16233	41.366921	-79.281974	Leeper	Pennsylvania
+16331	41.304704	-79.575543	Kossuth	Pennsylvania
+17814	41.258021	-76.370581	Benton	Pennsylvania
+16639	40.681879	-78.463286	Fallentimber	Pennsylvania
+17823	40.719950	-76.717531	Dornsife	Pennsylvania
+18837	41.915054	-76.302838	Rome	Pennsylvania
+15742	40.816978	-78.864006	Glen Campbell	Pennsylvania
+15362	39.759410	-80.209971	Spraggs	Pennsylvania
+17964	40.714366	-76.502961	Pitman	Pennsylvania
+16361	41.383889	-79.345873	Tylersburg	Pennsylvania
+15470	39.867154	-79.532018	Ohiopyle	Pennsylvania
+16402	41.961028	-79.469799	Bear Lake	Pennsylvania
+17228	39.989455	-78.096548	Harrisonville	Pennsylvania
+16223	40.955562	-79.378716	Distant	Pennsylvania
+15655	40.147768	-79.180648	Laughlintown	Pennsylvania
+16311	41.453715	-80.031554	Carlton	Pennsylvania
+16863	40.903571	-78.458850	Olanta	Pennsylvania
+18829	41.837985	-76.174293	Le Raysville	Pennsylvania
+16941	41.988298	-77.758037	Genesee	Pennsylvania
+18830	41.959087	-76.114440	Little Meadows	Pennsylvania
+17747	41.032613	-77.331592	Loganton	Pennsylvania
+15424	39.829817	-79.363331	Confluence	Pennsylvania
+18845	41.788797	-76.188339	Stevensville	Pennsylvania
+16926	41.704778	-76.756678	Granville Summit	Pennsylvania
+16852	40.928560	-77.521499	Madisonburg	Pennsylvania
+16861	40.876560	-78.535836	New Millport	Pennsylvania
+16914	41.871859	-76.781444	Columbia Cross Roads	Pennsylvania
+18636	41.391348	-76.113689	Noxen	Pennsylvania
+16950	41.899491	-77.519659	Westfield	Pennsylvania
+15550	39.994600	-78.653116	Manns Choice	Pennsylvania
+16748	41.942013	-78.144807	Shinglehouse	Pennsylvania
+16735	41.611384	-78.828387	Kane	Pennsylvania
+15551	39.868516	-79.283213	Markleton	Pennsylvania
+15771	40.831556	-78.989145	Rochester Mills	Pennsylvania
+16240	41.036013	-79.225000	Mayport	Pennsylvania
+16260	41.407111	-79.215972	Vowinckel	Pennsylvania
+17238	39.849405	-78.128642	Needmore	Pennsylvania
+15411	39.748578	-79.340476	Addison	Pennsylvania
+16332	41.356717	-79.369545	Lickingville	Pennsylvania
+16657	40.335401	-78.180408	James Creek	Pennsylvania
+16932	41.778620	-76.939295	Mainesburg	Pennsylvania
+18818	41.896071	-76.054765	Friendsville	Pennsylvania
+17220	40.222741	-77.676159	Dry Run	Pennsylvania
+15440	39.733340	-79.606044	Gibbon Glade	Pennsylvania
+18846	41.591137	-76.247706	Sugar Run	Pennsylvania
+17267	39.808886	-78.232865	Warfordsburg	Pennsylvania
+17243	40.263546	-77.843670	Orbisonia	Pennsylvania
+18851	41.938852	-76.171143	Warren Center	Pennsylvania
+15834	41.500748	-78.322817	Emporium	Pennsylvania
+16636	40.600113	-78.507143	Dysart	Pennsylvania
+15337	39.949850	-80.378848	Graysville	Pennsylvania
+16352	41.765732	-79.035056	Tiona	Pennsylvania
+15364	39.954222	-80.283892	Sycamore	Pennsylvania
+16347	41.657402	-79.039704	Sheffield	Pennsylvania
+16685	40.268447	-78.084043	Todd	Pennsylvania
+18624	41.053592	-75.641135	Lake Harmony	Pennsylvania
+18465	41.831305	-75.516842	Thompson	Pennsylvania
+16935	41.877494	-77.304722	Middlebury Center	Pennsylvania
+16341	41.563350	-79.541975	Pleasantville	Pennsylvania
+16374	41.263498	-79.815085	Kennerdell	Pennsylvania
+16749	41.759815	-78.420972	Smethport	Pennsylvania
+17836	40.714342	-76.606462	Leck Kill	Pennsylvania
+18430	41.763887	-75.503006	Herrick Center	Pennsylvania
+16313	41.714672	-79.145169	Clarendon	Pennsylvania
+17219	40.233966	-77.711589	Doylesburg	Pennsylvania
+15776	41.010988	-79.111592	Sprankle Mills	Pennsylvania
+17006	40.319494	-77.532660	Blain	Pennsylvania
+16937	41.967896	-77.710941	Mills	Pennsylvania
+16915	41.775629	-77.970678	Coudersport	Pennsylvania
+16832	40.840309	-77.478044	Coburn	Pennsylvania
+17239	40.131501	-77.837073	Neelyton	Pennsylvania
+15744	40.922559	-79.084009	Hamilton	Pennsylvania
+16872	40.969683	-77.351204	Rebersburg	Pennsylvania
+15380	39.867562	-80.467119	Wind Ridge	Pennsylvania
+18453	41.745029	-75.367604	Pleasant Mount	Pennsylvania
+16351	41.673946	-79.383298	Tidioute	Pennsylvania
+16669	40.643970	-77.938260	Petersburg	Pennsylvania
+15849	41.186953	-78.572679	Penfield	Pennsylvania
+15677	40.151930	-79.234332	Rector	Pennsylvania
+15757	40.900608	-78.728807	Mahaffey	Pennsylvania
+16726	41.808409	-78.587420	Cyclone	Pennsylvania
+16750	41.901571	-78.291724	Turtlepoint	Pennsylvania
+15352	39.750005	-80.411001	New Freeport	Pennsylvania
+18629	41.517593	-76.141300	Mehoopany	Pennsylvania
+17748	41.129466	-77.363084	Mc Elhattan	Pennsylvania
+17215	40.070789	-77.908464	Burnt Cabins	Pennsylvania
+16689	40.104762	-78.100099	Waterfall	Pennsylvania
+16340	41.801336	-79.415827	Pittsfield	Pennsylvania
+15377	39.988469	-80.449057	West Finley	Pennsylvania
+17212	39.821579	-78.046329	Big Cove Tannery	Pennsylvania
+16353	41.495720	-79.373001	Tionesta	Pennsylvania
+16322	41.608862	-79.383746	Endeavor	Pennsylvania
+15763	40.905056	-79.143613	Northpoint	Pennsylvania
+15341	39.835127	-80.341292	Holbrook	Pennsylvania
+16845	41.129759	-78.050355	Karthaus	Pennsylvania
+18437	41.875251	-75.285748	Lake Como	Pennsylvania
+18455	41.893001	-75.359193	Preston Park	Pennsylvania
+18628	41.430240	-76.313808	Lopez	Pennsylvania
+18462	41.914124	-75.409462	Starrucca	Pennsylvania
+18417	41.799197	-75.203836	Equinunk	Pennsylvania
+18833	41.590781	-76.492725	New Albany	Pennsylvania
+15534	39.890191	-78.701143	Buffalo Mills	Pennsylvania
+15310	39.790705	-80.478042	Aleppo	Pennsylvania
+16923	41.950572	-77.870544	Genesee	Pennsylvania
+18439	41.825503	-75.348966	Lakewood	Pennsylvania
+17035	40.424881	-77.579265	Honey Grove	Pennsylvania
+16683	40.668048	-78.070705	Spruce Creek	Pennsylvania
+16834	41.051824	-78.087077	Drifting	Pennsylvania
+17739	41.355110	-77.396623	Jersey Mills	Pennsylvania
+18461	41.929003	-75.327674	Starlight	Pennsylvania
+17764	41.361589	-77.833845	Renovo	Pennsylvania
+16436	41.838902	-79.510334	Spring Creek	Pennsylvania
+15856	41.087730	-78.599298	Rockton	Pennsylvania
+18614	41.514516	-76.486444	Dushore	Pennsylvania
+16948	41.854715	-77.759215	Ulysses	Pennsylvania
+19112	39.893156	-75.168944	Philadelphia	Pennsylvania
+17021	40.339952	-77.677405	East Waterford	Pennsylvania
+15870	41.601552	-78.603383	Wilcox	Pennsylvania
+16836	41.113399	-78.271300	Frenchville	Pennsylvania
+16733	41.735487	-78.571745	Hazel Hurst	Pennsylvania
+17213	40.261245	-77.764539	Blairs Mills	Pennsylvania
+16943	41.843678	-77.606642	Sabinsville	Pennsylvania
+16930	41.564888	-77.149685	Liberty	Pennsylvania
+16420	41.701612	-79.550098	Grand Valley	Pennsylvania
+16911	41.668762	-77.138837	Arnot	Pennsylvania
+17771	41.437306	-77.035738	Trout Run	Pennsylvania
+17765	41.597194	-76.969926	Roaring Branch	Pennsylvania
+15535	39.828647	-78.447166	Clearville	Pennsylvania
+16622	40.335839	-78.072960	Calvin	Pennsylvania
+16882	40.911905	-77.326812	Woodward	Pennsylvania
+18616	41.504887	-76.635657	Forksville	Pennsylvania
+16922	41.666229	-77.702300	Galeton	Pennsylvania
+15828	41.366514	-79.141654	Clarington	Pennsylvania
+16691	40.075738	-78.149270	Wells Tannery	Pennsylvania
+17738	41.350415	-77.646397	Hyner	Pennsylvania
+17758	41.329545	-76.501825	Muncy Valley	Pennsylvania
+17211	39.745188	-78.419409	Artemas	Pennsylvania
+15536	39.937476	-78.206205	Crystal Spring	Pennsylvania
+17731	41.429408	-76.578666	Eagles Mere	Pennsylvania
+17768	41.549361	-76.756845	Shunk	Pennsylvania
+16217	41.346142	-79.181312	Cooksburg	Pennsylvania
+15538	39.863719	-78.834453	Fairhope	Pennsylvania
+15753	40.795648	-78.653877	La Jose	Pennsylvania
+16239	41.485264	-79.171550	Marienville	Pennsylvania
+17885	40.873819	-77.285907	Weikert	Pennsylvania
+15860	41.342196	-79.068996	Sigel	Pennsylvania
+17760	41.432429	-77.693409	North Bend	Pennsylvania
+16677	40.777099	-78.286059	Sandy Ridge	Pennsylvania
+16938	41.572550	-77.312925	Morris	Pennsylvania
+16921	41.724126	-77.556256	Gaines	Pennsylvania
+17265	40.032061	-77.798850	Upperstrasburg	Pennsylvania
+18936	40.220190	-75.229147	Montgomeryville	Pennsylvania
+15868	41.320276	-78.436433	Weedville	Pennsylvania
+15540	39.807229	-79.225758	Fort Hill	Pennsylvania
+18619	41.439562	-76.709259	Hillsgrove	Pennsylvania
+16720	41.618072	-78.070999	Austin	Pennsylvania
+15821	41.350958	-78.368514	Benezett	Pennsylvania
+17776	41.380530	-77.369244	Waterville	Pennsylvania
+15832	41.349495	-78.187384	Driftwood	Pennsylvania
+16871	41.190724	-78.031315	Pottersdale	Pennsylvania
+17729	41.527076	-77.762951	Cross Fork	Pennsylvania
+15861	41.400385	-78.059161	Sinnamahoning	Pennsylvania
+17778	41.315490	-77.973779	Westport	Pennsylvania
