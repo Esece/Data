@@ -1,0 +1,581 @@
+08625	40.207185	-74.756664	Trenton	New Jersey
+07093	40.788031	-74.011606	West New York	New Jersey
+07087	40.767853	-74.028069	Union City	New Jersey
+07030	40.745122	-74.032085	Hoboken	New Jersey
+07106	40.741799	-74.230425	Newark	New Jersey
+07010	40.822040	-73.987850	Cliffside Park	New Jersey
+07522	40.924959	-74.179096	Paterson	New Jersey
+07304	40.717234	-74.074096	Jersey City	New Jersey
+07505	40.916204	-74.171459	Paterson	New Jersey
+07107	40.760696	-74.187812	Newark	New Jersey
+07055	40.856413	-74.126940	Passaic	New Jersey
+07513	40.905381	-74.148205	Paterson	New Jersey
+07111	40.723860	-74.232517	Irvington	New Jersey
+07302	40.720262	-74.046496	Jersey City	New Jersey
+07306	40.734932	-74.070495	Jersey City	New Jersey
+07104	40.767910	-74.168380	Newark	New Jersey
+07018	40.755613	-74.218781	East Orange	New Jersey
+07208	40.673830	-74.226408	Elizabeth	New Jersey
+07108	40.722981	-74.200251	Newark	New Jersey
+07112	40.710735	-74.211412	Newark	New Jersey
+07501	40.911998	-74.170965	Paterson	New Jersey
+07307	40.754890	-74.060750	Jersey City	New Jersey
+07017	40.771410	-74.207171	East Orange	New Jersey
+07502	40.918677	-74.194818	Paterson	New Jersey
+07514	40.922096	-74.142524	Paterson	New Jersey
+07524	40.931711	-74.156870	Paterson	New Jersey
+07022	40.821054	-74.003061	Fairview	New Jersey
+07504	40.912224	-74.141613	Paterson	New Jersey
+07050	40.768040	-74.235692	Orange	New Jersey
+07103	40.738890	-74.195397	Newark	New Jersey
+07024	40.850065	-73.973777	Fort Lee	New Jersey
+08629	40.220723	-74.731100	Trenton	New Jersey
+07650	40.846603	-73.996336	Palisades Park	New Jersey
+07026	40.879797	-74.108250	Garfield	New Jersey
+07206	40.651594	-74.189279	Elizabeth	New Jersey
+07503	40.897455	-74.154174	Paterson	New Jersey
+07029	40.743664	-74.152959	Harrison	New Jersey
+08611	40.205509	-74.753197	Trenton	New Jersey
+08609	40.224974	-74.742152	Trenton	New Jersey
+07047	40.794175	-74.024960	North Bergen	New Jersey
+07011	40.879847	-74.145773	Clifton	New Jersey
+07202	40.644032	-74.215183	Elizabeth	New Jersey
+07310	40.731082	-74.038712	Jersey City	New Jersey
+07057	40.853084	-74.106323	Wallington	New Jersey
+07756	40.212092	-74.008223	Ocean Grove	New Jersey
+07204	40.665272	-74.266616	Roselle Park	New Jersey
+07102	40.735593	-74.173744	Newark	New Jersey
+07109	40.795515	-74.161850	Belleville	New Jersey
+07002	40.665183	-74.110059	Bayonne	New Jersey
+07603	40.875012	-74.029072	Bogota	New Jersey
+07644	40.877913	-74.082485	Lodi	New Jersey
+07601	40.889694	-74.046340	Hackensack	New Jersey
+07305	40.698119	-74.080370	Jersey City	New Jersey
+07088	40.718239	-74.283845	Vauxhall	New Jersey
+08102	39.950423	-75.120259	Camden	New Jersey
+08861	40.522216	-74.274020	Perth Amboy	New Jersey
+08542	40.354274	-74.660505	Princeton	New Jersey
+07621	40.922334	-73.998001	Bergenfield	New Jersey
+07003	40.809128	-74.187155	Bloomfield	New Jersey
+07628	40.945239	-73.992428	Dumont	New Jersey
+07105	40.723013	-74.140954	Newark	New Jersey
+08105	39.952576	-75.090040	Camden	New Jersey
+07020	40.823707	-73.978099	Edgewater	New Jersey
+07734	40.443198	-74.133625	Keansburg	New Jersey
+08901	40.484302	-74.444308	New Brunswick	New Jersey
+07110	40.820570	-74.156072	Nutley	New Jersey
+07205	40.695889	-74.228800	Hillside	New Jersey
+07203	40.652211	-74.260158	Roselle	New Jersey
+08104	39.917545	-75.111385	Camden	New Jersey
+07034	40.881309	-74.382628	Lake Hiawatha	New Jersey
+08107	39.909000	-75.080627	Oaklyn	New Jersey
+07720	40.201604	-74.012056	Bradley Beach	New Jersey
+07070	40.825910	-74.110400	Rutherford	New Jersey
+07604	40.862751	-74.075182	Hasbrouck Heights	New Jersey
+07040	40.728871	-74.268007	Maplewood	New Jersey
+08904	40.500795	-74.427911	Highland Park	New Jersey
+07660	40.854705	-74.019926	Ridgefield Park	New Jersey
+08103	39.934921	-75.108933	Camden	New Jersey
+07607	40.902885	-74.063457	Maywood	New Jersey
+07042	40.812449	-74.217330	Montclair	New Jersey
+07646	40.934161	-74.019453	New Milford	New Jersey
+07063	40.605118	-74.444522	Plainfield	New Jersey
+07643	40.847184	-74.039257	Little Ferry	New Jersey
+07075	40.850183	-74.087068	Wood Ridge	New Jersey
+08863	40.537300	-74.311151	Fords	New Jersey
+07062	40.631253	-74.403884	Plainfield	New Jersey
+07407	40.904526	-74.119514	Elmwood Park	New Jersey
+08618	40.247077	-74.786529	Trenton	New Jersey
+08108	39.915048	-75.062244	Collingswood	New Jersey
+08406	39.344153	-74.483384	Ventnor City	New Jersey
+07428	41.181315	-74.517986	Mc Afee	New Jersey
+07065	40.607152	-74.280531	Rahway	New Jersey
+07666	40.890317	-74.011478	Teaneck	New Jersey
+08106	39.890992	-75.073329	Audubon	New Jersey
+07027	40.651249	-74.323137	Garwood	New Jersey
+07410	40.935833	-74.117504	Fair Lawn	New Jersey
+07878	40.870682	-74.479043	Mount Tabor	New Jersey
+07605	40.863391	-73.988471	Leonia	New Jersey
+08880	40.553947	-74.527455	South Bound Brook	New Jersey
+07661	40.927354	-74.039611	River Edge	New Jersey
+08402	39.329808	-74.505791	Margate City	New Jersey
+07083	40.695266	-74.269078	Union	New Jersey
+07740	40.295591	-73.993543	Long Branch	New Jersey
+07013	40.869405	-74.173062	Clifton	New Jersey
+07028	40.804798	-74.204569	Glen Ridge	New Jersey
+08882	40.445652	-74.378459	South River	New Jersey
+07023	40.641703	-74.385714	Fanwood	New Jersey
+07506	40.956957	-74.158561	Hawthorne	New Jersey
+07631	40.891197	-73.972515	Englewood	New Jersey
+07662	40.910694	-74.082895	Rochelle Park	New Jersey
+07012	40.846569	-74.157072	Clifton	New Jersey
+07717	40.191938	-74.015037	Avon By The Sea	New Jersey
+08840	40.543139	-74.358981	Metuchen	New Jersey
+08052	39.952381	-74.994896	Maple Shade	New Jersey
+08035	39.879661	-75.066162	Haddon Heights	New Jersey
+08830	40.569291	-74.321106	Iselin	New Jersey
+07031	40.782994	-74.124708	North Arlington	New Jersey
+07663	40.902976	-74.101061	Saddle Brook	New Jersey
+07044	40.832415	-74.242092	Verona	New Jersey
+07079	40.748937	-74.265047	South Orange	New Jersey
+08030	39.889634	-75.115850	Gloucester City	New Jersey
+08084	39.828957	-75.015458	Stratford	New Jersey
+07043	40.844837	-74.200502	Montclair	New Jersey
+07008	40.584543	-74.228223	Carteret	New Jersey
+08029	39.840937	-75.067211	Glendora	New Jersey
+07016	40.656391	-74.304830	Cranford	New Jersey
+08109	39.950637	-75.049324	Merchantville	New Jersey
+07067	40.592764	-74.314977	Colonia	New Jersey
+08742	40.080479	-74.062219	Point Pleasant Beach	New Jersey
+08740	39.925846	-74.134614	Ocean Gate	New Jersey
+08817	40.516983	-74.392534	Edison	New Jersey
+07071	40.791792	-74.102972	Lyndhurst	New Jersey
+07463	41.013615	-74.125919	Waldwick	New Jersey
+08638	40.254018	-74.763385	Trenton	New Jersey
+07432	40.995809	-74.141262	Midland Park	New Jersey
+08059	39.884418	-75.092268	Mount Ephraim	New Jersey
+07032	40.752794	-74.128811	Kearny	New Jersey
+07095	40.553151	-74.288563	Woodbridge	New Jersey
+07060	40.630507	-74.431593	Plainfield	New Jersey
+08401	39.372200	-74.453868	Atlantic City	New Jersey
+08049	39.854400	-75.038524	Magnolia	New Jersey
+07090	40.649809	-74.347533	Westfield	New Jersey
+07508	40.955744	-74.183873	Haledon	New Jersey
+07450	40.981591	-74.113506	Ridgewood	New Jersey
+07001	40.582316	-74.271506	Avenel	New Jersey
+07452	40.959471	-74.125202	Glen Rock	New Jersey
+07201	40.681553	-74.177967	Elizabeth	New Jersey
+08046	40.028492	-74.886353	Willingboro	New Jersey
+08805	40.570621	-74.537518	Bound Brook	New Jersey
+07657	40.832337	-74.015134	Ridgefield	New Jersey
+08007	39.865560	-75.053579	Barrington	New Jersey
+08033	39.892421	-75.036651	Haddonfield	New Jersey
+07036	40.625643	-74.243483	Linden	New Jersey
+08078	39.851738	-75.074803	Runnemede	New Jersey
+07735	40.450109	-74.172274	Keyport	New Jersey
+08846	40.574089	-74.502311	Middlesex	New Jersey
+08083	39.841266	-75.028593	Somerdale	New Jersey
+08036	39.985936	-74.829866	Hainesport	New Jersey
+07424	40.882454	-74.205834	Little Falls	New Jersey
+07626	40.939786	-73.958581	Cresskill	New Jersey
+07052	40.785753	-74.265059	West Orange	New Jersey
+07442	41.002734	-74.286742	Pompton Lakes	New Jersey
+07704	40.360347	-74.037847	Fair Haven	New Jersey
+08065	40.001838	-75.032208	Palmyra	New Jersey
+08031	39.867686	-75.093563	Bellmawr	New Jersey
+08820	40.576806	-74.365750	Edison	New Jersey
+08751	39.946092	-74.078974	Seaside Heights	New Jersey
+07843	40.938024	-74.660879	Hopatcong	New Jersey
+08722	39.928405	-74.202189	Beachwood	New Jersey
+07033	40.678089	-74.288114	Kenilworth	New Jersey
+08835	40.544163	-74.584313	Manville	New Jersey
+07940	40.760545	-74.427358	Madison	New Jersey
+07066	40.622601	-74.313779	Clark	New Jersey
+07901	40.714923	-74.366372	Summit	New Jersey
+07642	41.007127	-74.045119	Hillsdale	New Jersey
+08021	39.806194	-75.000151	Clementon	New Jersey
+07014	40.831352	-74.135424	Clifton	New Jersey
+08884	40.394165	-74.392072	Spotswood	New Jersey
+07730	40.422444	-74.174216	Hazlet	New Jersey
+07750	40.333197	-73.981080	Monmouth Beach	New Jersey
+08724	40.090149	-74.116852	Brick	New Jersey
+07649	40.956651	-74.032858	Oradell	New Jersey
+07656	41.034672	-74.040797	Park Ridge	New Jersey
+07670	40.918847	-73.957377	Tenafly	New Jersey
+08554	40.115259	-74.778861	Roebling	New Jersey
+08859	40.453482	-74.311779	Parlin	New Jersey
+08610	40.192939	-74.714254	Trenton	New Jersey
+08090	39.799077	-75.150692	Wenonah	New Jersey
+07758	40.430684	-74.103295	Port Monmouth	New Jersey
+08034	39.904611	-74.997000	Cherry Hill	New Jersey
+08536	40.330078	-74.583273	Plainsboro	New Jersey
+07712	40.246796	-74.055541	Asbury Park	New Jersey
+07762	40.153878	-74.036112	Spring Lake	New Jersey
+07630	40.974575	-74.026019	Emerson	New Jersey
+07974	40.696910	-74.403867	New Providence	New Jersey
+08232	39.392795	-74.517815	Pleasantville	New Jersey
+08869	40.572127	-74.646514	Raritan	New Jersey
+08824	40.420727	-74.553458	Kendall Park	New Jersey
+08063	39.865145	-75.181649	National Park	New Jersey
+08071	39.733304	-75.135333	Pitman	New Jersey
+08850	40.448582	-74.441418	Milltown	New Jersey
+08608	40.219897	-74.766464	Trenton	New Jersey
+07081	40.697899	-74.334520	Springfield	New Jersey
+08051	39.788218	-75.182443	Mantua	New Jersey
+08002	39.931989	-75.023935	Cherry Hill	New Jersey
+07764	40.287904	-74.020019	West Long Branch	New Jersey
+08110	39.975186	-75.048788	Pennsauken	New Jersey
+08732	39.944115	-74.145867	Island Heights	New Jersey
+07041	40.737406	-74.298021	Millburn	New Jersey
+07009	40.858023	-74.229791	Cedar Grove	New Jersey
+07094	40.782013	-74.060778	Secaucus	New Jersey
+07006	40.849747	-74.282597	Caldwell	New Jersey
+08003	39.885852	-74.971145	Cherry Hill	New Jersey
+08075	40.026676	-74.947054	Riverside	New Jersey
+08730	40.110571	-74.070347	Brielle	New Jersey
+08887	40.526703	-74.788644	Three Bridges	New Jersey
+07721	40.436522	-74.234672	Cliffwood	New Jersey
+08753	39.979031	-74.160429	Toms River	New Jersey
+07440	40.946468	-74.293040	Pequannock	New Jersey
+08879	40.466131	-74.283122	South Amboy	New Jersey
+08854	40.545640	-74.460817	Piscataway	New Jersey
+07064	40.568447	-74.247736	Port Reading	New Jersey
+08902	40.439218	-74.484332	North Brunswick	New Jersey
+08010	40.053356	-74.918438	Beverly	New Jersey
+07080	40.574413	-74.414800	South Plainfield	New Jersey
+08012	39.782579	-75.055596	Blackwood	New Jersey
+07711	40.234394	-73.999505	Allenhurst	New Jersey
+07755	40.263513	-74.022060	Oakhurst	New Jersey
+07718	40.419831	-74.083815	Belford	New Jersey
+07446	41.059136	-74.145931	Ramsey	New Jersey
+08735	39.981695	-74.071306	Lavallette	New Jersey
+08741	39.933966	-74.168198	Pine Beach	New Jersey
+07481	40.999093	-74.168849	Wyckoff	New Jersey
+07652	40.945123	-74.071337	Paramus	New Jersey
+08872	40.463352	-74.345433	Sayreville	New Jersey
+08723	40.038085	-74.120818	Brick	New Jersey
+07701	40.358855	-74.080266	Red Bank	New Jersey
+08097	39.813376	-75.150617	Woodbury Heights	New Jersey
+08690	40.227147	-74.657009	Trenton	New Jersey
+08701	40.077041	-74.200383	Lakewood	New Jersey
+07512	40.904737	-74.221751	Totowa	New Jersey
+08043	39.848539	-74.953498	Voorhees	New Jersey
+08226	39.259040	-74.606119	Ocean City	New Jersey
+07857	40.899232	-74.700823	Netcong	New Jersey
+08244	39.318683	-74.599110	Somers Point	New Jersey
+07423	40.999485	-74.096574	Ho Ho Kus	New Jersey
+07675	41.024281	-73.992516	Westwood	New Jersey
+07747	40.413448	-74.249764	Matawan	New Jersey
+07627	40.954576	-73.956563	Demarest	New Jersey
+07076	40.628693	-74.376459	Scotch Plains	New Jersey
+07606	40.862155	-74.054377	South Hackensack	New Jersey
+07640	40.991681	-73.980202	Harrington Park	New Jersey
+08619	40.242301	-74.696408	Trenton	New Jersey
+08736	40.120018	-74.053257	Manasquan	New Jersey
+07739	40.336952	-74.034535	Little Silver	New Jersey
+08812	40.598731	-74.478793	Dunellen	New Jersey
+08073	40.009956	-74.866930	Rancocas	New Jersey
+07922	40.676393	-74.425027	Berkeley Heights	New Jersey
+07470	40.955587	-74.251598	Wayne	New Jersey
+08518	40.114445	-74.804937	Florence	New Jersey
+07401	41.032669	-74.133826	Allendale	New Jersey
+07748	40.396300	-74.115274	Middletown	New Jersey
+07632	40.888066	-73.948143	Englewood Cliffs	New Jersey
+07647	41.006364	-73.942772	Northvale	New Jersey
+07648	40.992252	-73.950917	Norwood	New Jersey
+08096	39.826057	-75.125482	Woodbury	New Jersey
+08077	40.000162	-74.991632	Riverton	New Jersey
+07757	40.314075	-74.017690	Oceanport	New Jersey
+08750	40.134189	-74.043885	Sea Girt	New Jersey
+08823	40.446854	-74.566354	Franklin Park	New Jersey
+08816	40.426247	-74.418244	East Brunswick	New Jersey
+07950	40.845342	-74.477250	Morris Plains	New Jersey
+08828	40.379795	-74.421591	Helmetta	New Jersey
+07073	40.817097	-74.085024	East Rutherford	New Jersey
+07850	40.904312	-74.664938	Landing	New Jersey
+08260	38.986666	-74.827161	Wildwood	New Jersey
+07753	40.210835	-74.074213	Neptune	New Jersey
+08045	39.867080	-75.029086	Lawnside	New Jersey
+08093	39.862488	-75.141054	Westville	New Jersey
+07624	40.970754	-73.949679	Closter	New Jersey
+07054	40.856841	-74.401556	Parsippany	New Jersey
+07928	40.725966	-74.409706	Chatham	New Jersey
+07724	40.298625	-74.074178	Eatontown	New Jersey
+08081	39.739094	-74.983741	Sicklerville	New Jersey
+07039	40.785828	-74.329100	Livingston	New Jersey
+07876	40.854699	-74.656097	Succasunna	New Jersey
+07737	40.409528	-74.063028	Leonardo	New Jersey
+07856	40.908684	-74.639308	Mount Arlington	New Jersey
+08221	39.343718	-74.571049	Linwood	New Jersey
+08054	39.946946	-74.906125	Mount Laurel	New Jersey
+07420	41.030354	-74.300779	Haskell	New Jersey
+08757	39.963623	-74.257549	Toms River	New Jersey
+08032	39.780717	-75.059807	Grenloch	New Jersey
+07077	40.553712	-74.253211	Sewaren	New Jersey
+07645	41.054594	-74.047298	Montvale	New Jersey
+07078	40.741036	-74.330477	Short Hills	New Jersey
+07058	40.868093	-74.341587	Pine Brook	New Jersey
+07641	40.961576	-73.994235	Haworth	New Jersey
+07719	40.168908	-74.073226	Belmar	New Jersey
+07444	40.967407	-74.306967	Pompton Plains	New Jersey
+07801	40.901473	-74.565394	Dover	New Jersey
+08648	40.283038	-74.718714	Lawrence Township	New Jersey
+07927	40.822778	-74.453743	Cedar Knolls	New Jersey
+08001	39.560014	-75.357133	Alloway	New Jersey
+08091	39.807116	-74.924178	West Berlin	New Jersey
+07702	40.326064	-74.059667	Shrewsbury	New Jersey
+07074	40.841361	-74.057656	Moonachie	New Jersey
+07716	40.400765	-74.027841	Atlantic Highlands	New Jersey
+07021	40.827431	-74.280769	Essex Fells	New Jersey
+08321	39.239767	-75.171824	Fortescue	New Jersey
+07114	40.697362	-74.170093	Newark	New Jersey
+08053	39.874438	-74.900006	Marlton	New Jersey
+07092	40.681742	-74.359837	Mountainside	New Jersey
+08203	39.409603	-74.390116	Brigantine	New Jersey
+07035	40.924376	-74.304247	Lincoln Park	New Jersey
+08829	40.669591	-74.890548	High Bridge	New Jersey
+08837	40.515370	-74.349011	Edison	New Jersey
+07072	40.826424	-74.062338	Carlstadt	New Jersey
+07068	40.820559	-74.307403	Roseland	New Jersey
+08857	40.394007	-74.330124	Old Bridge	New Jersey
+07046	40.887678	-74.440666	Mountain Lakes	New Jersey
+08807	40.595055	-74.622386	Bridgewater	New Jersey
+08755	40.008440	-74.221884	Toms River	New Jersey
+07436	41.029980	-74.243842	Oakland	New Jersey
+08016	40.068937	-74.827043	Burlington	New Jersey
+08326	39.525273	-74.936920	Landisville	New Jersey
+07746	40.320572	-74.251415	Marlboro	New Jersey
+08023	39.685128	-75.487125	Deepwater	New Jersey
+08252	39.038064	-74.856932	Whitesboro	New Jersey
+07732	40.401268	-73.993710	Highlands	New Jersey
+07936	40.820548	-74.363507	East Hanover	New Jersey
+07760	40.368746	-74.012589	Rumson	New Jersey
+07932	40.779422	-74.394280	Florham Park	New Jersey
+08243	39.151013	-74.696319	Sea Isle City	New Jersey
+08251	39.031725	-74.923929	Villas	New Jersey
+08873	40.499237	-74.532086	Somerset	New Jersey
+08641	40.029317	-74.587752	Trenton	New Jersey
+07834	40.885954	-74.489332	Denville	New Jersey
+07045	40.913170	-74.365101	Montville	New Jersey
+08520	40.249949	-74.524348	Hightstown	New Jersey
+08057	39.979664	-74.941312	Moorestown	New Jersey
+08832	40.515837	-74.313500	Keasbey	New Jersey
+08738	40.030427	-74.054466	Mantoloking	New Jersey
+08028	39.696036	-75.127841	Glassboro	New Jersey
+07981	40.820381	-74.422399	Whippany	New Jersey
+08876	40.525035	-74.620250	Somerville	New Jersey
+07457	40.995424	-74.315775	Riverdale	New Jersey
+08080	39.756192	-75.121941	Sewell	New Jersey
+08072	39.544638	-75.418268	Quinton	New Jersey
+07869	40.841886	-74.578381	Randolph	New Jersey
+08734	39.862497	-74.175461	Lanoka Harbor	New Jersey
+07803	40.878175	-74.600780	Mine Hill	New Jersey
+08628	40.276175	-74.813981	Trenton	New Jersey
+07960	40.779262	-74.502462	Morristown	New Jersey
+07980	40.676874	-74.500450	Stirling	New Jersey
+07731	40.149318	-74.204208	Howell	New Jersey
+07920	40.677383	-74.564513	Basking Ridge	New Jersey
+07738	40.337907	-74.127066	Lincroft	New Jersey
+08225	39.362667	-74.530934	Northfield	New Jersey
+07970	40.813672	-74.575196	Mount Freedom	New Jersey
+07403	41.020920	-74.332852	Bloomingdale	New Jersey
+08060	39.995248	-74.799256	Mount Holly	New Jersey
+08026	39.833065	-74.965087	Gibbsboro	New Jersey
+07458	41.046652	-74.096511	Saddle River	New Jersey
+07417	41.007529	-74.205652	Franklin Lakes	New Jersey
+07751	40.361692	-74.256136	Morganville	New Jersey
+07439	41.080090	-74.597626	Ogdensburg	New Jersey
+08006	39.752007	-74.110893	Barnegat Light	New Jersey
+08553	40.398244	-74.643362	Rocky Hill	New Jersey
+08312	39.663737	-75.077192	Clayton	New Jersey
+08066	39.830410	-75.225702	Paulsboro	New Jersey
+07849	40.965158	-74.606932	Lake Hopatcong	New Jersey
+08852	40.387313	-74.545983	Monmouth Junction	New Jersey
+08620	40.141933	-74.649789	Trenton	New Jersey
+08086	39.840463	-75.189510	Thorofare	New Jersey
+07005	40.930427	-74.415660	Boonton	New Jersey
+08550	40.280155	-74.614673	Princeton Junction	New Jersey
+08810	40.381447	-74.480194	Dayton	New Jersey
+08360	39.495524	-75.008665	Vineland	New Jersey
+07430	41.082067	-74.183061	Mahwah	New Jersey
+07852	40.883269	-74.668029	Ledgewood	New Jersey
+08809	40.638623	-74.903972	Clinton	New Jersey
+08721	39.905041	-74.177164	Bayville	New Jersey
+07723	40.250909	-74.001999	Deal	New Jersey
+07728	40.225793	-74.285785	Freehold	New Jersey
+07733	40.374964	-74.173849	Holmdel	New Jersey
+07874	40.932095	-74.712590	Stanhope	New Jersey
+08217	39.577456	-74.719645	Elwood	New Jersey
+08352	39.474017	-75.130336	Rosenhayn	New Jersey
+07726	40.273201	-74.364305	Englishtown	New Jersey
+08341	39.514866	-74.958415	Minotola	New Jersey
+07946	40.662272	-74.524786	Millington	New Jersey
+07866	40.962761	-74.485745	Rockaway	New Jersey
+08540	40.364789	-74.654310	Princeton	New Jersey
+07405	40.982158	-74.362173	Butler	New Jersey
+07082	40.926343	-74.346563	Towaco	New Jersey
+08821	40.520946	-74.681625	Flagtown	New Jersey
+08204	38.967042	-74.907817	Cape May	New Jersey
+07828	40.883501	-74.749441	Budd Lake	New Jersey
+08245	39.175772	-74.816825	South Dennis	New Jersey
+08212	38.936909	-74.965374	Cape May Point	New Jersey
+08831	40.334355	-74.432508	Monroe Township	New Jersey
+07836	40.842413	-74.703258	Flanders	New Jersey
+08759	39.947674	-74.366913	Manchester Township	New Jersey
+07885	40.911424	-74.609685	Wharton	New Jersey
+08328	39.579668	-75.056375	Malaga	New Jersey
+07059	40.634588	-74.519044	Warren	New Jersey
+08048	39.968821	-74.811259	Lumberton	New Jersey
+08836	40.596376	-74.557320	Martinsville	New Jersey
+08050	39.705853	-74.260285	Manahawkin	New Jersey
+08865	40.708224	-75.147074	Phillipsburg	New Jersey
+08502	40.462506	-74.644112	Belle Mead	New Jersey
+07004	40.882508	-74.304593	Fairfield	New Jersey
+08069	39.699258	-75.445180	Penns Grove	New Jersey
+08009	39.760656	-74.932860	Berlin	New Jersey
+07416	41.117042	-74.603086	Franklin	New Jersey
+07465	41.054855	-74.332764	Wanaque	New Jersey
+08061	39.802302	-75.200878	Mount Royal	New Jersey
+08027	39.823144	-75.289522	Gibbstown	New Jersey
+08055	39.878650	-74.826672	Medford	New Jersey
+07840	40.859692	-74.833473	Hackettstown	New Jersey
+08015	39.948419	-74.549314	Browns Mills	New Jersey
+08008	39.756653	-74.132728	Beach Haven	New Jersey
+08752	39.833476	-74.091124	Seaside Park	New Jersey
+08070	39.619113	-75.512237	Pennsville	New Jersey
+08094	39.650587	-74.959292	Williamstown	New Jersey
+07462	41.198457	-74.495577	Vernon	New Jersey
+08720	40.135366	-74.098050	Allenwood	New Jersey
+08505	40.100251	-74.717307	Bordentown	New Jersey
+08361	39.451537	-74.960026	Vineland	New Jersey
+07924	40.730394	-74.592580	Bernardsville	New Jersey
+08527	40.107276	-74.342925	Jackson	New Jersey
+08403	39.318681	-74.543485	Longport	New Jersey
+07847	40.889346	-74.623879	Kenvil	New Jersey
+07945	40.781948	-74.599501	Mendham	New Jersey
+08234	39.388393	-74.620728	Egg Harbor Township	New Jersey
+08201	39.471343	-74.447517	Absecon	New Jersey
+08555	40.220742	-74.470155	Roosevelt	New Jersey
+08534	40.329422	-74.792789	Pennington	New Jersey
+07871	41.046696	-74.627989	Sparta	New Jersey
+07933	40.695654	-74.472424	Gillette	New Jersey
+08801	40.619224	-74.889803	Annandale	New Jersey
+08511	40.043738	-74.547654	Cookstown	New Jersey
+07703	40.312218	-74.045577	Fort Monmouth	New Jersey
+08004	39.768106	-74.844456	Atco	New Jersey
+07456	41.111972	-74.265223	Ringwood	New Jersey
+08822	40.521629	-74.860058	Flemington	New Jersey
+08353	39.462259	-75.292520	Shiloh	New Jersey
+08020	39.790108	-75.226517	Clarksboro	New Jersey
+07418	41.241915	-74.489591	Glenwood	New Jersey
+08042	40.015423	-74.664271	Juliustown	New Jersey
+07480	41.089631	-74.380807	West Milford	New Jersey
+07422	41.183570	-74.455151	Highland Lakes	New Jersey
+08515	40.149291	-74.661437	Chesterfield	New Jersey
+08733	40.014963	-74.353433	Lakehurst	New Jersey
+07882	40.752121	-75.019474	Washington	New Jersey
+08691	40.211209	-74.588918	Trenton	New Jersey
+08731	39.873620	-74.252511	Forked River	New Jersey
+08512	40.315110	-74.535193	Cranbury	New Jersey
+07853	40.784843	-74.798225	Long Valley	New Jersey
+07977	40.711343	-74.651625	Peapack	New Jersey
+08889	40.609021	-74.754216	Whitehouse Station	New Jersey
+08202	39.094697	-74.736156	Avalon	New Jersey
+08242	39.020888	-74.864051	Rio Grande	New Jersey
+07921	40.656019	-74.678657	Bedminster	New Jersey
+07979	40.710140	-74.730717	Pottersville	New Jersey
+08535	40.226835	-74.451077	Millstone Township	New Jersey
+08853	40.499908	-74.731791	Neshanic Station	New Jersey
+08062	39.715505	-75.230177	Mullica Hill	New Jersey
+07419	41.159776	-74.560291	Hamburg	New Jersey
+08886	40.687677	-75.101254	Stewartsville	New Jersey
+07722	40.294420	-74.161841	Colts Neck	New Jersey
+08087	39.587126	-74.371879	Tuckerton	New Jersey
+07438	41.031435	-74.518212	Oak Ridge	New Jersey
+08332	39.371364	-75.061920	Millville	New Jersey
+08095	39.659484	-74.868079	Winslow	New Jersey
+08558	40.415918	-74.704427	Skillman	New Jersey
+07833	40.892562	-75.069300	Delaware	New Jersey
+08005	39.764476	-74.307856	Barnegat	New Jersey
+07620	40.984877	-73.912695	Alpine	New Jersey
+08640	40.004416	-74.591269	Fort Dix	New Jersey
+08322	39.610619	-75.048907	Franklinville	New Jersey
+08223	39.275617	-74.672540	Marmora	New Jersey
+08064	39.963394	-74.639414	New Lisbon	New Jersey
+07930	40.781167	-74.684234	Chester	New Jersey
+08827	40.668619	-74.968085	Hampton	New Jersey
+08327	39.248618	-74.960307	Leesburg	New Jersey
+08302	39.439049	-75.257663	Bridgeton	New Jersey
+08350	39.488386	-74.871571	Richland	New Jersey
+07421	41.174004	-74.352494	Hewitt	New Jersey
+08316	39.274671	-74.967507	Dorchester	New Jersey
+07934	40.701629	-74.704734	Gladstone	New Jersey
+08248	39.194835	-74.660373	Strathmere	New Jersey
+08056	39.783669	-75.255275	Mickleton	New Jersey
+08530	40.370685	-74.908492	Lambertville	New Jersey
+08068	39.959242	-74.660551	Pemberton	New Jersey
+08230	39.205060	-74.708381	Ocean View	New Jersey
+08758	39.792858	-74.264215	Waretown	New Jersey
+08344	39.561745	-74.986037	Newfield	New Jersey
+07846	40.967531	-74.879879	Johnsonburg	New Jersey
+08560	40.315730	-74.857279	Titusville	New Jersey
+07823	40.821516	-75.033111	Belvidere	New Jersey
+08510	40.182665	-74.432516	Millstone Township	New Jersey
+08247	39.052267	-74.783628	Stone Harbor	New Jersey
+08804	40.649071	-75.089909	Bloomsbury	New Jersey
+08346	39.562976	-74.858320	Newtonville	New Jersey
+08528	40.391847	-74.619948	Kingston	New Jersey
+07830	40.719283	-74.794021	Califon	New Jersey
+08833	40.645542	-74.816261	Lebanon	New Jersey
+07727	40.204403	-74.149231	Farmingdale	New Jersey
+07860	41.060702	-74.807773	Newton	New Jersey
+08085	39.753766	-75.331040	Swedesboro	New Jersey
+08533	40.070206	-74.472872	New Egypt	New Jersey
+08562	40.071307	-74.607500	Wrightstown	New Jersey
+08848	40.599045	-75.093756	Milford	New Jersey
+08089	39.723889	-74.813753	Waterford Works	New Jersey
+08826	40.726367	-74.894441	Glen Gardner	New Jersey
+07435	41.055240	-74.429164	Newfoundland	New Jersey
+08022	40.067590	-74.705741	Columbus	New Jersey
+08525	40.397648	-74.779412	Hopewell	New Jersey
+07461	41.246268	-74.610416	Sussex	New Jersey
+07821	40.965937	-74.754393	Andover	New Jersey
+08011	39.974297	-74.713197	Birmingham	New Jersey
+08074	39.716183	-75.172270	Richwood	New Jersey
+08210	39.119086	-74.823186	Cape May Court House	New Jersey
+07848	41.097903	-74.680163	Lafayette	New Jersey
+08551	40.441180	-74.844836	Ringoes	New Jersey
+08088	39.851569	-74.701332	Vincentown	New Jersey
+07863	40.808136	-74.957899	Oxford	New Jersey
+08092	39.651575	-74.281121	West Creek	New Jersey
+07865	40.784794	-74.908969	Port Murray	New Jersey
+08561	40.249939	-74.578389	Windsor	New Jersey
+08330	39.472768	-74.741809	Mays Landing	New Jersey
+08037	39.635918	-74.773067	Hammonton	New Jersey
+08314	39.204310	-74.940870	Delmont	New Jersey
+08501	40.151633	-74.560497	Allentown	New Jersey
+08825	40.514186	-75.027170	Frenchtown	New Jersey
+07931	40.681427	-74.616525	Far Hills	New Jersey
+08039	39.682054	-75.275247	Harrisonville	New Jersey
+08098	39.638274	-75.324411	Woodstown	New Jersey
+08867	40.572827	-74.959321	Pittstown	New Jersey
+08318	39.557728	-75.177717	Elmer	New Jersey
+08014	39.804702	-75.349468	Bridgeport	New Jersey
+08802	40.676357	-75.025821	Asbury	New Jersey
+08317	39.405031	-74.821265	Dorothy	New Jersey
+07976	40.729572	-74.492095	New Vernon	New Jersey
+08215	39.562305	-74.581969	Egg Harbor City	New Jersey
+08241	39.530032	-74.491680	Port Republic	New Jersey
+08343	39.636316	-75.167607	Monroeville	New Jersey
+07825	40.969280	-74.957637	Blairstown	New Jersey
+08559	40.429224	-74.979065	Stockton	New Jersey
+08079	39.542408	-75.431684	Salem	New Jersey
+08224	39.593814	-74.459047	New Gretna	New Jersey
+07822	41.143715	-74.701913	Augusta	New Jersey
+07838	40.887892	-74.911656	Great Meadows	New Jersey
+07935	40.730048	-74.453965	Green Village	New Jersey
+07826	41.188409	-74.771236	Branchville	New Jersey
+07460	41.108749	-74.505141	Stockholm	New Jersey
+08514	40.134234	-74.491720	Cream Ridge	New Jersey
+08310	39.523751	-74.887132	Buena	New Jersey
+08348	39.334598	-74.983614	Port Elizabeth	New Jersey
+08319	39.370409	-74.810816	Estell Manor	New Jersey
+08067	39.739885	-75.411655	Pedricktown	New Jersey
+08329	39.275985	-75.007658	Mauricetown	New Jersey
+08313	39.530841	-75.229590	Deerfield Street	New Jersey
+07827	41.280864	-74.730427	Montague	New Jersey
+08041	40.039074	-74.678698	Jobstown	New Jersey
+08340	39.437245	-74.876499	Milmay	New Jersey
+08270	39.276725	-74.797368	Woodbine	New Jersey
+07832	40.973458	-75.051078	Columbia	New Jersey
+08311	39.327866	-75.204035	Cedarville	New Jersey
+08858	40.682576	-74.737037	Oldwick	New Jersey
+08324	39.214626	-74.996612	Heislerville	New Jersey
+08349	39.248953	-75.092256	Port Norris	New Jersey
+08323	39.396273	-75.367551	Greenwich	New Jersey
+08345	39.284301	-75.157520	Newport	New Jersey
+07842	40.942121	-74.512172	Hibernia	New Jersey
+07608	40.852999	-74.060355	Teterboro	New Jersey
+08038	39.474765	-75.489241	Hancocks Bridge	New Jersey
+08019	39.779138	-74.521162	Chatsworth	New Jersey
+07851	41.123325	-74.934412	Layton	New Jersey
