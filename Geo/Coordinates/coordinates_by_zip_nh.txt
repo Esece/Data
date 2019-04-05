@@ -1,0 +1,227 @@
+03060	42.740552	-71.460094	Nashua	New Hampshire
+03104	43.008591	-71.439599	Manchester	New Hampshire
+03103	42.954906	-71.442225	Manchester	New Hampshire
+03101	42.987948	-71.465055	Manchester	New Hampshire
+03064	42.779378	-71.474918	Nashua	New Hampshire
+03102	43.005039	-71.495184	Manchester	New Hampshire
+03062	42.722134	-71.497861	Nashua	New Hampshire
+03063	42.782152	-71.517942	Nashua	New Hampshire
+03854	43.065520	-70.721014	New Castle	New Hampshire
+03109	42.963734	-71.400350	Manchester	New Hampshire
+03842	42.939601	-70.836728	Hampton	New Hampshire
+03878	43.253476	-70.887944	Somersworth	New Hampshire
+03079	42.788275	-71.221720	Salem	New Hampshire
+03038	42.887613	-71.282047	Derry	New Hampshire
+03801	43.068417	-70.797639	Portsmouth	New Hampshire
+03874	42.886835	-70.863465	Seabrook	New Hampshire
+03826	42.891255	-71.123677	East Hampstead	New Hampshire
+03051	42.760506	-71.409495	Hudson	New Hampshire
+03054	42.853756	-71.520956	Merrimack	New Hampshire
+03865	42.840703	-71.094993	Plaistow	New Hampshire
+03820	43.187186	-70.902839	Dover	New Hampshire
+03857	43.069332	-70.955743	Newmarket	New Hampshire
+03301	43.232270	-71.553012	Concord	New Hampshire
+03868	43.314811	-70.918758	Rochester	New Hampshire
+03053	42.869670	-71.387919	Londonderry	New Hampshire
+03110	42.935584	-71.536871	Bedford	New Hampshire
+03811	42.839166	-71.166253	Atkinson	New Hampshire
+03841	42.879285	-71.177186	Hampstead	New Hampshire
+03055	42.826059	-71.674474	Milford	New Hampshire
+03052	42.846726	-71.467628	Litchfield	New Hampshire
+03869	43.219845	-70.843112	Rollinsford	New Hampshire
+03858	42.870369	-71.045915	Newton	New Hampshire
+03885	43.014997	-70.902586	Stratham	New Hampshire
+03784	43.652081	-72.296760	West Lebanon	New Hampshire
+03839	43.262994	-70.991203	Rochester	New Hampshire
+03870	43.008649	-70.758330	Rye	New Hampshire
+03076	42.730992	-71.337073	Pelham	New Hampshire
+03824	43.117035	-70.950954	Durham	New Hampshire
+03833	42.978383	-70.987504	Exeter	New Hampshire
+03087	42.811092	-71.302688	Windham	New Hampshire
+03246	43.559175	-71.407340	Laconia	New Hampshire
+03873	42.934018	-71.183605	Sandown	New Hampshire
+03819	42.927131	-71.129770	Danville	New Hampshire
+03755	43.741015	-72.139338	Hanover	New Hampshire
+03609	43.150833	-72.436024	North Walpole	New Hampshire
+03431	42.965044	-72.294803	Keene	New Hampshire
+03077	43.032583	-71.203144	Raymond	New Hampshire
+03291	43.179735	-71.141976	West Nottingham	New Hampshire
+03106	43.083588	-71.447128	Hooksett	New Hampshire
+03867	43.315765	-71.046685	Rochester	New Hampshire
+03031	42.874854	-71.600512	Amherst	New Hampshire
+03840	43.027974	-70.844787	Greenland	New Hampshire
+03862	42.978317	-70.830109	North Hampton	New Hampshire
+03848	42.913728	-71.073610	Kingston	New Hampshire
+03766	43.623318	-72.251456	Lebanon	New Hampshire
+03235	43.449136	-71.674267	Franklin	New Hampshire
+03275	43.166029	-71.416310	Suncook	New Hampshire
+03860	44.045426	-71.143615	North Conway	New Hampshire
+03304	43.133177	-71.537242	Bow	New Hampshire
+03743	43.360725	-72.326929	Claremont	New Hampshire
+03835	43.400801	-71.059281	Farmington	New Hampshire
+03045	43.051477	-71.587199	Goffstown	New Hampshire
+03049	42.749626	-71.585401	Hollis	New Hampshire
+03856	43.038509	-70.967954	Newfields	New Hampshire
+03042	43.049101	-71.078634	Epping	New Hampshire
+03033	42.749989	-71.675830	Brookline	New Hampshire
+03303	43.311685	-71.665421	Concord	New Hampshire
+03044	42.999857	-71.119714	Fremont	New Hampshire
+03276	43.431031	-71.575998	Tilton	New Hampshire
+03220	43.447755	-71.454763	Belmont	New Hampshire
+03451	42.809298	-72.504822	Hinsdale	New Hampshire
+03032	42.997261	-71.363424	Auburn	New Hampshire
+03825	43.208189	-71.045068	Barrington	New Hampshire
+03844	42.928861	-70.893020	Hampton Falls	New Hampshire
+03263	43.288501	-71.309368	Pittsfield	New Hampshire
+03036	42.984657	-71.255213	Chester	New Hampshire
+03827	42.903739	-70.995570	East Kingston	New Hampshire
+03253	43.632178	-71.513851	Meredith	New Hampshire
+03446	42.858271	-72.296360	Swanzey	New Hampshire
+03461	42.756663	-72.013247	Rindge	New Hampshire
+03452	42.829254	-72.059901	Jaffrey	New Hampshire
+03281	43.078061	-71.703612	Weare	New Hampshire
+03086	42.830063	-71.780488	Wilton	New Hampshire
+03442	43.020097	-71.903972	Bennington	New Hampshire
+03034	43.061446	-71.319997	Candia	New Hampshire
+03071	42.746257	-71.874434	New Ipswich	New Hampshire
+03782	43.390088	-72.093129	Sunapee	New Hampshire
+03261	43.210589	-71.215974	Northwood	New Hampshire
+03229	43.193327	-71.697464	Contoocook	New Hampshire
+03257	43.435082	-72.010744	New London	New Hampshire
+03894	43.614985	-71.169037	Wolfeboro	New Hampshire
+03561	44.329119	-71.806227	Littleton	New Hampshire
+03458	42.878610	-71.943575	Peterborough	New Hampshire
+03234	43.229841	-71.361349	Epsom	New Hampshire
+03887	43.469882	-71.036769	Union	New Hampshire
+03465	42.825164	-72.190663	Troy	New Hampshire
+03048	42.754691	-71.754261	Greenville	New Hampshire
+03057	42.902826	-71.699089	Mont Vernon	New Hampshire
+03462	42.908391	-72.407623	Spofford	New Hampshire
+03815	43.266849	-71.107519	Center Strafford	New Hampshire
+03307	43.312692	-71.440356	Loudon	New Hampshire
+03217	43.687828	-71.606863	Ashland	New Hampshire
+03603	43.244284	-72.366299	Charlestown	New Hampshire
+03264	43.794873	-71.725755	Plymouth	New Hampshire
+03242	43.169421	-71.831189	Henniker	New Hampshire
+03070	42.981207	-71.677524	New Boston	New Hampshire
+03748	43.615423	-72.111654	Enfield	New Hampshire
+03765	44.035227	-72.050203	Haverhill	New Hampshire
+03884	43.275599	-71.168991	Strafford	New Hampshire
+03845	44.095417	-71.120515	Intervale	New Hampshire
+03225	43.344805	-71.212282	Center Barnstead	New Hampshire
+03570	44.462562	-71.186877	Berlin	New Hampshire
+03751	43.438659	-72.090671	Georges Mills	New Hampshire
+03244	43.124555	-71.930862	Hillsborough	New Hampshire
+03608	43.076505	-72.395926	Walpole	New Hampshire
+03466	42.890524	-72.515761	West Chesterfield	New Hampshire
+03852	43.504782	-70.979586	Milton Mills	New Hampshire
+03830	43.606618	-70.985954	East Wakefield	New Hampshire
+03237	43.408480	-71.375387	Gilmanton	New Hampshire
+03773	43.370546	-72.197494	Newport	New Hampshire
+03809	43.465516	-71.226413	Alton	New Hampshire
+03222	43.622375	-71.799245	Bristol	New Hampshire
+03290	43.129847	-71.131859	Nottingham	New Hampshire
+03233	43.438900	-71.952889	Elkins	New Hampshire
+03753	43.516590	-72.149093	Grantham	New Hampshire
+03774	44.076321	-71.992087	North Haverhill	New Hampshire
+03037	43.136321	-71.255077	Deerfield	New Hampshire
+03875	43.873467	-71.190037	Silver Lake	New Hampshire
+03440	43.047726	-71.974648	Antrim	New Hampshire
+03254	43.729488	-71.375608	Moultonborough	New Hampshire
+03047	42.936255	-71.866942	Greenfield	New Hampshire
+03470	42.772075	-72.329615	Winchester	New Hampshire
+03872	43.559555	-71.048050	Sanbornville	New Hampshire
+03750	43.708188	-72.195047	Etna	New Hampshire
+03853	43.634685	-71.287947	Mirror Lake	New Hampshire
+03584	44.481029	-71.543721	Lancaster	New Hampshire
+03082	42.907285	-71.784411	Lyndeborough	New Hampshire
+03455	42.938699	-72.153950	Marlborough	New Hampshire
+03447	42.753845	-72.153167	Fitzwilliam	New Hampshire
+03256	43.600909	-71.648247	New Hampton	New Hampshire
+03449	42.977339	-71.997821	Hancock	New Hampshire
+03886	43.864038	-71.296068	Tamworth	New Hampshire
+03770	43.525429	-72.279984	Meriden	New Hampshire
+03864	43.681988	-71.093691	Ossipee	New Hampshire
+03855	43.463672	-71.152216	New Durham	New Hampshire
+03448	43.055240	-72.261640	Gilsum	New Hampshire
+03218	43.345937	-71.299230	Barnstead	New Hampshire
+03450	42.948318	-72.068558	Harrisville	New Hampshire
+03814	43.764180	-71.120863	Center Ossipee	New Hampshire
+03269	43.529736	-71.608845	Sanbornton	New Hampshire
+03216	43.449011	-71.793622	Andover	New Hampshire
+03816	43.697835	-71.258159	Center Tuftonboro	New Hampshire
+03226	43.714987	-71.493693	Center Harbor	New Hampshire
+03574	44.285960	-71.674851	Bethlehem	New Hampshire
+03598	44.378898	-71.628699	Whitefield	New Hampshire
+03467	42.968075	-72.430856	Westmoreland	New Hampshire
+03817	43.887170	-71.229402	Chocorua	New Hampshire
+03043	42.979687	-71.803627	Francestown	New Hampshire
+03084	42.832843	-71.863263	Temple	New Hampshire
+03849	43.911873	-71.141938	Madison	New Hampshire
+03741	43.674942	-72.008828	Canaan	New Hampshire
+03287	43.443115	-71.922637	Wilmot	New Hampshire
+03581	44.390191	-71.131048	Gorham	New Hampshire
+03278	43.307975	-71.835082	Warner	New Hampshire
+03224	43.352567	-71.533765	Canterbury	New Hampshire
+03602	43.126804	-72.323044	Alstead	New Hampshire
+03444	42.897551	-72.082869	Dublin	New Hampshire
+03255	43.318441	-72.022359	Newbury	New Hampshire
+03273	43.305178	-71.917681	South Sutton	New Hampshire
+03745	43.472988	-72.311749	Cornish	New Hampshire
+03810	43.513646	-71.293868	Alton Bay	New Hampshire
+03781	43.544404	-72.281364	Plainfield	New Hampshire
+03838	44.111991	-71.240706	Glen	New Hampshire
+03221	43.246239	-71.959116	Bradford	New Hampshire
+03882	43.726601	-70.989411	Effingham	New Hampshire
+03443	42.864048	-72.437717	Chesterfield	New Hampshire
+03818	43.959523	-71.275322	Conway	New Hampshire
+03243	43.528694	-71.768677	Hill	New Hampshire
+03836	43.829753	-71.069001	Freedom	New Hampshire
+03837	43.456117	-71.347971	Gilmanton Iron Works	New Hampshire
+03223	43.903518	-71.657735	Campton	New Hampshire
+03268	43.388528	-71.769947	Salisbury	New Hampshire
+03785	44.110537	-71.924436	Woodsville	New Hampshire
+03752	43.272295	-72.100485	Goshen	New Hampshire
+03582	44.562220	-71.441411	Groveton	New Hampshire
+03260	43.368032	-71.917724	North Sutton	New Hampshire
+03771	44.296664	-71.980649	Monroe	New Hampshire
+03457	43.029289	-72.142192	Nelson	New Hampshire
+03585	44.222416	-71.877173	Lisbon	New Hampshire
+03768	43.816372	-72.094012	Lyme	New Hampshire
+03456	43.138546	-72.208779	Marlow	New Hampshire
+03780	44.050867	-71.987511	Pike	New Hampshire
+03262	44.046479	-71.756046	North Woodstock	New Hampshire
+03605	43.222516	-72.178888	Lempster	New Hampshire
+03445	43.039073	-72.198266	Sullivan	New Hampshire
+03576	44.907413	-71.398513	Colebrook	New Hampshire
+03230	43.508650	-71.890242	Danbury	New Hampshire
+03240	43.576693	-71.962546	Grafton	New Hampshire
+03813	44.127209	-71.061204	Center Conway	New Hampshire
+03601	43.235118	-72.302410	Acworth	New Hampshire
+03777	43.886181	-72.061138	Orford	New Hampshire
+03897	43.900597	-71.331011	Wonalancet	New Hampshire
+03607	43.198060	-72.262227	South Acworth	New Hampshire
+03251	44.091867	-71.634690	Lincoln	New Hampshire
+03280	43.193790	-72.093594	Washington	New Hampshire
+03779	43.961593	-72.001418	Piermont	New Hampshire
+03441	42.825401	-72.445418	Ashuelot	New Hampshire
+03266	43.818140	-71.875484	Rumney	New Hampshire
+03282	43.872911	-71.939824	Wentworth	New Hampshire
+03464	43.086996	-72.107396	Stoddard	New Hampshire
+03279	43.952771	-71.878102	Warren	New Hampshire
+03241	43.722754	-71.835197	Hebron	New Hampshire
+03583	44.392977	-71.448213	Jefferson	New Hampshire
+03284	43.512863	-71.991656	Springfield	New Hampshire
+03832	43.889982	-71.050300	Eaton Center	New Hampshire
+03588	44.593881	-71.233351	Milan	New Hampshire
+03846	44.202173	-71.219277	Jackson	New Hampshire
+03227	43.841356	-71.481080	Center Sandwich	New Hampshire
+03595	44.305325	-71.497304	Twin Mountain	New Hampshire
+03812	44.081130	-71.297237	Bartlett	New Hampshire
+03883	43.809599	-71.322198	South Tamworth	New Hampshire
+03259	43.875712	-71.395018	North Sandwich	New Hampshire
+03590	44.750929	-71.476720	North Stratford	New Hampshire
+03580	44.177143	-71.618565	Franconia	New Hampshire
+03215	43.942624	-71.447783	Waterville Valley	New Hampshire
+03592	45.116271	-71.260979	Pittsburg	New Hampshire
+03579	44.787238	-71.171440	Errol	New Hampshire
