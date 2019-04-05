@@ -1,0 +1,374 @@
+58202	47.921494	-97.074972	Grand Forks	North Dakota
+58103	46.856786	-96.825501	Fargo	North Dakota
+58102	46.927094	-96.834703	Fargo	North Dakota
+58704	48.422283	-101.334153	Minot Afb	North Dakota
+58001	46.451700	-96.730701	Abercrombie	North Dakota
+58078	46.881098	-96.937950	West Fargo	North Dakota
+58201	47.866638	-97.141144	Grand Forks	North Dakota
+58204	47.956141	-97.385616	Grand Forks Afb	North Dakota
+58104	46.802092	-96.877324	Fargo	North Dakota
+58501	46.891079	-100.738728	Bismarck	North Dakota
+58203	47.970477	-97.165490	Grand Forks	North Dakota
+58504	46.687364	-100.629889	Bismarck	North Dakota
+58703	48.334038	-101.307237	Minot	North Dakota
+58701	48.131607	-101.328491	Minot	North Dakota
+58316	48.824301	-99.776962	Belcourt	North Dakota
+58335	47.969682	-99.028963	Fort Totten	North Dakota
+58075	46.275536	-96.730394	Wahpeton	North Dakota
+58401	46.884369	-98.766655	Jamestown	North Dakota
+58047	46.706432	-96.870208	Horace	North Dakota
+58554	46.742723	-100.935300	Mandan	North Dakota
+58601	46.883857	-102.825657	Dickinson	North Dakota
+58370	47.996846	-98.869194	Saint Michael	North Dakota
+58301	48.142106	-98.871704	Devils Lake	North Dakota
+58313	48.159676	-100.048449	Balta	North Dakota
+58042	46.984680	-96.953756	Harwood	North Dakota
+58012	46.927195	-97.168530	Casselton	North Dakota
+58722	48.222609	-101.502564	Burlington	North Dakota
+58565	47.484321	-101.363284	Riverdale	North Dakota
+58072	46.930687	-98.028396	Valley City	North Dakota
+58237	48.405618	-97.402587	Grafton	North Dakota
+58257	47.491344	-97.280604	Mayville	North Dakota
+58801	48.223105	-103.749639	Williston	North Dakota
+58785	48.307789	-101.089369	Surrey	North Dakota
+58379	47.888710	-98.826791	Tokio	North Dakota
+58220	48.794505	-97.699198	Cavalier	North Dakota
+58040	46.204376	-97.669175	Gwinner	North Dakota
+58255	48.996928	-98.351766	Maida	North Dakota
+58270	48.394753	-97.791155	Park River	North Dakota
+58278	47.770086	-97.121538	Thompson	North Dakota
+58318	48.873879	-100.407644	Bottineau	North Dakota
+58853	48.075312	-103.944000	Trenton	North Dakota
+58329	48.862621	-100.071990	Dunseith	North Dakota
+58015	46.586888	-96.814329	Christine	North Dakota
+58369	48.958910	-99.813735	Saint John	North Dakota
+58051	46.637105	-97.041669	Kindred	North Dakota
+58261	48.288209	-97.287019	Minto	North Dakota
+58523	47.275868	-101.812593	Beulah	North Dakota
+58251	47.937377	-97.692397	Larimore	North Dakota
+58054	46.416881	-97.668729	Lisbon	North Dakota
+58545	47.331069	-101.587417	Hazen	North Dakota
+58367	48.864158	-99.564834	Rolla	North Dakota
+58228	47.868000	-97.352832	Emerado	North Dakota
+58577	47.317793	-101.052285	Washburn	North Dakota
+58045	47.374746	-97.017215	Hillsboro	North Dakota
+58256	48.097018	-97.206809	Manvel	North Dakota
+58262	48.683636	-97.877944	Mountain	North Dakota
+58528	46.321486	-100.659538	Cannon Ball	North Dakota
+58538	46.086236	-100.731754	Fort Yates	North Dakota
+58790	48.029571	-100.947714	Velva	North Dakota
+58505	46.820211	-100.780918	Bismarck	North Dakota
+58059	46.834340	-97.129685	Mapleton	North Dakota
+58258	48.015382	-97.351918	Mekinock	North Dakota
+58271	48.912895	-97.289694	Pembina	North Dakota
+58006	47.101524	-97.209408	Arthur	North Dakota
+58041	46.047905	-96.918364	Hankinson	North Dakota
+58275	47.683796	-97.129335	Reynolds	North Dakota
+58240	47.634161	-97.487234	Hatton	North Dakota
+58027	46.631427	-97.613606	Enderlin	North Dakota
+58032	46.090251	-97.654290	Forman	North Dakota
+58474	46.100294	-98.127097	Oakes	North Dakota
+58421	47.436479	-99.060929	Carrington	North Dakota
+58425	47.453212	-98.126485	Cooperstown	North Dakota
+58458	46.376968	-98.274975	Lamoure	North Dakota
+58274	47.475493	-97.491088	Portland	North Dakota
+58282	48.912003	-97.940624	Walhalla	North Dakota
+58265	48.956126	-97.590287	Neche	North Dakota
+58243	48.515649	-97.676524	Hoople	North Dakota
+58249	48.833738	-98.310490	Langdon	North Dakota
+58267	47.767346	-97.619138	Northwood	North Dakota
+58436	46.090322	-98.599243	Ellendale	North Dakota
+58021	46.739076	-97.083235	Davenport	North Dakota
+58081	46.303302	-97.146628	Wyndmere	North Dakota
+58341	47.767599	-99.844393	Harvey	North Dakota
+58356	47.678659	-99.085157	New Rockford	North Dakota
+58061	46.274595	-96.894203	Mooreton	North Dakota
+58781	48.016897	-101.111287	Sawyer	North Dakota
+58058	46.177154	-96.973969	Mantador	North Dakota
+58053	46.052506	-97.180528	Lidgerwood	North Dakota
+58225	48.603987	-97.222903	Drayton	North Dakota
+58324	48.479397	-99.220944	Cando	North Dakota
+58030	46.030939	-96.669241	Fairmount	North Dakota
+58060	46.275197	-97.420865	Milnor	North Dakota
+58576	47.436908	-101.214233	Underwood	North Dakota
+58571	47.292360	-101.406757	Stanton	North Dakota
+58218	47.593867	-97.038395	Buxton	North Dakota
+58067	46.070822	-97.469354	Rutland	North Dakota
+58368	48.239469	-100.031162	Rugby	North Dakota
+58770	47.910429	-102.144783	Parshall	North Dakota
+58276	48.626976	-97.457735	Saint Thomas	North Dakota
+58438	47.644574	-99.611641	Fessenden	North Dakota
+58579	47.179088	-100.760103	Wilton	North Dakota
+58235	48.080821	-97.476943	Gilby	North Dakota
+58254	47.774003	-98.150008	Mcville	North Dakota
+58784	48.364360	-102.417701	Stanley	North Dakota
+58227	48.536576	-97.910181	Edinburg	North Dakota
+58775	47.710059	-101.861201	Roseglen	North Dakota
+58018	46.435975	-96.899003	Colfax	North Dakota
+58219	47.472392	-96.888432	Caledonia	North Dakota
+58730	48.862129	-103.299304	Crosby	North Dakota
+58558	46.813996	-100.509467	Menoken	North Dakota
+58233	48.223415	-97.514796	Forest River	North Dakota
+58038	47.245953	-96.975006	Grandin	North Dakota
+58763	47.982392	-102.577512	New Town	North Dakota
+58214	47.922893	-97.494800	Arvilla	North Dakota
+58231	48.201726	-97.833979	Fordville	North Dakota
+58048	47.202480	-97.207326	Hunter	North Dakota
+58077	46.524144	-96.979370	Walcott	North Dakota
+58852	48.364287	-102.946753	Tioga	North Dakota
+58222	48.625557	-97.684725	Crystal	North Dakota
+58052	46.651086	-97.293761	Leonard	North Dakota
+58004	47.026475	-97.270723	Amenia	North Dakota
+58540	47.625652	-101.685136	Garrison	North Dakota
+58005	47.056304	-96.954953	Argusville	North Dakota
+58273	48.299218	-97.690412	Pisek	North Dakota
+58366	48.653852	-99.917470	Rolette	North Dakota
+58740	48.478131	-101.228554	Glenburn	North Dakota
+58230	47.477314	-97.803967	Finley	North Dakota
+58344	48.013836	-98.299201	Lakota	North Dakota
+58623	46.155936	-103.444271	Bowman	North Dakota
+58639	46.094238	-102.602641	Hettinger	North Dakota
+58008	46.309475	-97.003536	Barney	North Dakota
+58482	46.829231	-99.923924	Steele	North Dakota
+58036	47.155669	-96.959320	Gardner	North Dakota
+58854	47.834591	-103.202187	Watford City	North Dakota
+58071	46.941848	-97.693114	Tower City	North Dakota
+58244	48.144067	-97.611693	Inkster	North Dakota
+58561	46.491755	-99.697036	Napoleon	North Dakota
+58573	46.064656	-100.283253	Strasburg	North Dakota
+58079	46.868438	-97.366675	Wheatland	North Dakota
+58793	48.871861	-101.071304	Westhope	North Dakota
+58346	48.283882	-99.425802	Leeds	North Dakota
+58492	47.151304	-98.442121	Wimbledon	North Dakota
+58495	46.278365	-99.591869	Wishek	North Dakota
+58259	48.042739	-98.141541	Michigan	North Dakota
+58433	46.379487	-98.718805	Edgeley	North Dakota
+58563	46.908264	-101.444215	New Salem	North Dakota
+58223	47.505229	-97.059266	Cummings	North Dakota
+58552	46.249550	-100.261422	Linton	North Dakota
+58224	48.174366	-97.957076	Dahlen	North Dakota
+58353	48.634785	-99.618105	Mylo	North Dakota
+58068	46.550685	-97.416545	Sheldon	North Dakota
+58046	47.291419	-97.742217	Hope	North Dakota
+58761	48.784372	-101.534814	Mohall	North Dakota
+58062	46.651940	-97.818417	Nome	North Dakota
+58733	48.131458	-101.637963	Des Lacs	North Dakota
+58530	47.134245	-101.147165	Center	North Dakota
+58768	48.243625	-101.001699	Norwich	North Dakota
+58575	47.552062	-100.894306	Turtle Lake	North Dakota
+58746	48.728264	-102.104423	Kenmare	North Dakota
+58497	46.765067	-98.549987	Ypsilanti	North Dakota
+58638	46.927423	-102.047233	Hebron	North Dakota
+58655	46.761219	-103.058237	South Heart	North Dakota
+58241	48.709462	-97.699433	Hensel	North Dakota
+58250	48.286915	-98.001185	Lankin	North Dakota
+58413	46.034544	-99.254021	Ashley	North Dakota
+58035	47.260314	-97.441123	Galesburg	North Dakota
+58011	46.919914	-97.545712	Buffalo	North Dakota
+58029	47.118962	-97.377216	Erie	North Dakota
+58348	47.953439	-99.521094	Maddock	North Dakota
+58741	48.279190	-100.811544	Granville	North Dakota
+58631	46.798609	-101.837100	Glen Ullin	North Dakota
+58533	46.367250	-101.812032	Elgin	North Dakota
+58480	46.945029	-98.259337	Sanborn	North Dakota
+58759	47.855616	-101.238927	Max	North Dakota
+58269	48.690293	-98.169023	Osnabrock	North Dakota
+58849	48.322615	-103.183845	Ray	North Dakota
+58622	46.918244	-103.242249	Belfield	North Dakota
+58374	47.838187	-99.073487	Sheyenne	North Dakota
+58630	46.869094	-102.565463	Gladstone	North Dakota
+58063	46.957359	-97.826882	Oriska	North Dakota
+58043	45.974268	-97.565615	Havana	North Dakota
+58731	48.436664	-100.962142	Deering	North Dakota
+58210	48.405691	-98.111589	Adams	North Dakota
+58429	47.190250	-98.179529	Dazey	North Dakota
+58521	47.018237	-100.671251	Baldwin	North Dakota
+58710	47.868061	-100.231091	Anamoose	North Dakota
+58632	46.681365	-103.955536	Golva	North Dakota
+58362	48.216680	-99.103020	Penn	North Dakota
+58772	48.956196	-102.600469	Portal	North Dakota
+58033	46.449130	-97.919438	Fort Ransom	North Dakota
+58736	47.930851	-100.396626	Drake	North Dakota
+58351	48.100587	-99.297162	Minnewaukan	North Dakota
+58031	46.767684	-97.671491	Fingal	North Dakota
+58472	46.638569	-98.650249	Montpelier	North Dakota
+58212	47.695168	-97.997380	Aneta	North Dakota
+58580	47.178331	-101.928610	Zap	North Dakota
+58490	46.376963	-98.045245	Verona	North Dakota
+58064	47.144741	-97.610872	Page	North Dakota
+58456	46.265514	-98.954289	Kulm	North Dakota
+58007	47.022478	-97.467037	Ayr	North Dakota
+58455	47.290512	-98.753473	Kensal	North Dakota
+58782	48.944346	-101.704670	Sherwood	North Dakota
+58416	47.549820	-98.340106	Binford	North Dakota
+58752	48.829231	-102.595438	Lignite	North Dakota
+58380	47.817338	-98.546896	Tolna	North Dakota
+58009	47.331257	-97.250884	Blanchard	North Dakota
+58448	47.305957	-98.225008	Hannaford	North Dakota
+58466	46.623799	-98.368908	Marion	North Dakota
+58441	46.174814	-98.387502	Fullerton	North Dakota
+58479	47.106684	-98.203819	Rogers	North Dakota
+58581	46.046269	-99.821218	Zeeland	North Dakota
+58640	47.472447	-102.908367	Killdeer	North Dakota
+58721	48.813101	-102.274918	Bowbells	North Dakota
+58442	46.553679	-99.179594	Gackle	North Dakota
+58277	47.608381	-97.823310	Sharon	North Dakota
+58572	46.902104	-100.298105	Sterling	North Dakota
+58352	48.710574	-98.872781	Munich	North Dakota
+58049	46.663773	-98.001893	Kathryn	North Dakota
+58750	48.611170	-101.419066	Lansford	North Dakota
+58625	47.268133	-102.199765	Dodge	North Dakota
+58467	46.877126	-99.343306	Medina	North Dakota
+58762	48.679728	-100.956267	Newburg	North Dakota
+58216	48.883238	-97.433341	Bathgate	North Dakota
+58016	47.362989	-97.475053	Clifford	North Dakota
+58461	46.655146	-98.200265	Litchville	North Dakota
+58415	46.361573	-98.485453	Berlin	North Dakota
+58758	47.782028	-100.101707	Martin	North Dakota
+58531	47.602104	-101.154346	Coleharbor	North Dakota
+58652	46.906214	-102.268978	Richardton	North Dakota
+58773	48.567057	-102.637727	Powers Lake	North Dakota
+58788	48.325232	-100.477506	Towner	North Dakota
+58789	48.567613	-100.830813	Upham	North Dakota
+58013	46.057851	-97.353266	Cayuga	North Dakota
+58272	47.990708	-98.000346	Petersburg	North Dakota
+58445	47.565749	-98.787887	Grace City	North Dakota
+58744	48.116546	-100.615320	Karlsruhe	North Dakota
+58718	48.290906	-101.803550	Berthold	North Dakota
+58725	48.481029	-101.679944	Carpio	North Dakota
+58486	47.406821	-99.404692	Sykeston	North Dakota
+58330	48.434163	-98.504756	Edmore	North Dakota
+58756	47.970898	-101.814643	Makoti	North Dakota
+58647	46.508395	-102.896052	New England	North Dakota
+58646	46.392574	-102.267712	Mott	North Dakota
+58385	48.479811	-99.656395	Wolford	North Dakota
+58017	46.043361	-97.851471	Cogswell	North Dakota
+58069	46.236091	-97.871175	Stirum	North Dakota
+58355	48.606231	-98.373320	Nekoma	North Dakota
+58483	46.609117	-99.393718	Streeter	North Dakota
+58327	48.100954	-98.594378	Crary	North Dakota
+58481	46.943275	-98.407611	Spiritwood	North Dakota
+58381	47.840276	-98.748811	Warwick	North Dakota
+58377	48.464438	-98.872823	Starkweather	North Dakota
+58443	47.435289	-98.638384	Glenfield	North Dakota
+58711	48.929575	-101.289090	Antler	North Dakota
+58636	47.369718	-102.361070	Halliday	North Dakota
+58266	48.000939	-97.849975	Niagara	North Dakota
+58317	48.605338	-99.373909	Bisbee	North Dakota
+58343	48.288705	-99.728892	Knox	North Dakota
+58735	47.884246	-101.475674	Douglas	North Dakota
+58535	46.501789	-101.247288	Flasher	North Dakota
+58566	46.581376	-100.934925	Saint Anthony	North Dakota
+58542	46.037412	-100.055829	Hague	North Dakota
+58424	46.878951	-99.094899	Cleveland	North Dakota
+58420	47.060960	-98.874375	Buchanan	North Dakota
+58236	48.715802	-97.459784	Glasston	North Dakota
+58357	47.948460	-99.238515	Oberon	North Dakota
+58541	47.359501	-102.086798	Golden Valley	North Dakota
+58487	46.828019	-99.605399	Tappen	North Dakota
+58656	47.024486	-102.492890	Taylor	North Dakota
+58363	48.768972	-99.449253	Perth	North Dakota
+58757	47.686282	-102.555817	Mandaree	North Dakota
+58621	47.247025	-103.881061	Beach	North Dakota
+58765	48.873295	-103.042817	Noonan	North Dakota
+58771	48.074881	-101.974923	Plaza	North Dakota
+58431	46.510931	-98.486606	Dickey	North Dakota
+58238	48.782789	-97.392813	Hamilton	North Dakota
+58544	46.491467	-100.346595	Hazelton	North Dakota
+58463	47.493414	-100.471014	Mcclusky	North Dakota
+58332	48.057871	-99.776534	Esmond	North Dakota
+58382	48.318001	-98.799048	Webster	North Dakota
+58260	48.631590	-98.035068	Milton	North Dakota
+58760	48.686467	-101.158156	Maxbass	North Dakota
+58422	47.609453	-99.404962	Cathay	North Dakota
+58056	47.262227	-97.918471	Luverne	North Dakota
+58653	46.162499	-103.109694	Scranton	North Dakota
+58560	46.678439	-100.265129	Moffit	North Dakota
+58229	48.491661	-98.246035	Fairdale	North Dakota
+58418	47.407086	-99.639686	Bowdon	North Dakota
+58361	47.752047	-98.375596	Pekin	North Dakota
+58426	47.218524	-98.589253	Courtenay	North Dakota
+58451	47.447140	-99.958447	Hurdsfield	North Dakota
+58464	47.610726	-98.565277	Mchenry	North Dakota
+58529	46.267502	-101.584298	Carson	North Dakota
+58723	47.759107	-100.679226	Butte	North Dakota
+58384	48.608934	-100.265348	Willow City	North Dakota
+58338	48.522349	-98.655539	Hampden	North Dakota
+58559	47.458475	-100.769480	Mercer	North Dakota
+58331	48.639292	-99.088781	Egeland	North Dakota
+58716	47.804326	-101.067845	Benedict	North Dakota
+58484	47.379473	-98.447327	Sutton	North Dakota
+58475	47.147054	-99.565962	Pettibone	North Dakota
+58428	46.828271	-99.779393	Dawson	North Dakota
+58562	46.318681	-102.015512	New Leipzig	North Dakota
+58454	46.594665	-98.923164	Jud	North Dakota
+58712	47.985429	-100.553324	Balfour	North Dakota
+58365	48.860723	-99.277163	Rocklake	North Dakota
+58310	48.625590	-99.678870	Agate	North Dakota
+58642	47.190384	-102.852674	Manning	North Dakota
+58345	48.299216	-98.362377	Lawton	North Dakota
+58787	48.756322	-101.813659	Tolley	North Dakota
+58792	47.971228	-100.746785	Voltaire	North Dakota
+58649	46.140677	-102.923061	Reeder	North Dakota
+58532	46.857617	-100.129912	Driscoll	North Dakota
+58325	48.293933	-99.171536	Churchs Ferry	North Dakota
+58843	48.261623	-103.372990	Epping	North Dakota
+58734	48.505996	-101.928862	Donnybrook	North Dakota
+58783	48.900931	-100.764051	Souris	North Dakota
+58650	46.419931	-102.585345	Regent	North Dakota
+58626	47.388389	-102.606834	Dunn Center	North Dakota
+58430	47.529396	-100.269507	Denhoff	North Dakota
+58755	48.625886	-102.951118	Mcgregor	North Dakota
+58444	47.465323	-100.129209	Goodrich	North Dakota
+58460	46.326673	-99.329895	Lehr	North Dakota
+58321	48.200714	-98.344818	Brocket	North Dakota
+58748	48.698072	-100.650416	Kramer	North Dakota
+58570	46.389004	-100.865108	Solen	North Dakota
+58057	46.449196	-97.237491	Mcleod	North Dakota
+58520	46.674204	-101.576123	Almont	North Dakota
+58845	48.641039	-103.917535	Grenora	North Dakota
+58727	48.830441	-102.804889	Columbus	North Dakota
+58476	47.186074	-99.005891	Pingree	North Dakota
+58794	48.312729	-102.787049	White Earth	North Dakota
+58549	46.479104	-99.929710	Kintyre	North Dakota
+58835	47.727711	-103.479980	Arnegard	North Dakota
+58795	48.629196	-103.160822	Wildrose	North Dakota
+58779	47.811796	-101.839652	Ryder	North Dakota
+58641	46.667130	-102.486272	Lefor	North Dakota
+58831	47.783034	-103.654758	Alexander	North Dakota
+58386	48.334087	-99.592199	York	North Dakota
+58737	48.915978	-102.382326	Flaxton	North Dakota
+58488	47.198473	-99.978488	Tuttle	North Dakota
+58524	46.596541	-100.094954	Braddock	North Dakota
+58372	48.942552	-99.011644	Sarles	North Dakota
+58423	47.464888	-99.830606	Chaseley	North Dakota
+58311	48.652259	-98.622865	Alsen	North Dakota
+58778	47.768546	-100.923180	Ruso	North Dakota
+58494	47.142466	-100.271016	Wing	North Dakota
+58281	48.855839	-98.616489	Wales	North Dakota
+58776	48.206004	-102.628704	Ross	North Dakota
+58440	46.300153	-99.153841	Fredonia	North Dakota
+58847	47.861374	-102.887795	Keene	North Dakota
+58478	47.161779	-99.745443	Robinson	North Dakota
+58769	48.305398	-102.235295	Palermo	North Dakota
+58564	46.277147	-101.372036	Raleigh	North Dakota
+58323	48.850791	-98.917919	Calvin	North Dakota
+58568	46.064527	-101.202674	Selfridge	North Dakota
+58833	48.887118	-103.510039	Ambrose	North Dakota
+58477	47.234208	-100.526803	Regan	North Dakota
+58439	46.008986	-98.847545	Forbes	North Dakota
+58239	48.950169	-98.691551	Hannah	North Dakota
+58496	47.161654	-99.317896	Woodworth	North Dakota
+58844	48.887530	-103.749947	Fortuna	North Dakota
+58651	46.303626	-103.702535	Rhame	North Dakota
+58838	47.769991	-103.900837	Cartwright	North Dakota
+58569	46.268099	-101.199370	Shields	North Dakota
+58830	48.597340	-103.461192	Alamo	North Dakota
+58654	46.820725	-103.771220	Sentinel Butte	North Dakota
+58620	46.503569	-103.310980	Amidon	North Dakota
+58645	47.040328	-103.551421	Medora	North Dakota
+58713	48.552655	-100.614455	Bantry	North Dakota
+58627	47.239896	-103.262066	Fairfield	North Dakota
+58856	48.581390	-103.724351	Zahl	North Dakota
+58634	47.436757	-103.349763	Grassy Butte	North Dakota
+58643	46.267270	-103.934132	Marmarth	North Dakota
