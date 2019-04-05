@@ -1,0 +1,1006 @@
+63118	38.592669	-90.226606	Saint Louis	Missouri
+63116	38.580389	-90.264469	Saint Louis	Missouri
+63108	38.644575	-90.253731	Saint Louis	Missouri
+63109	38.584353	-90.295618	Saint Louis	Missouri
+64124	39.107078	-94.539760	Kansas City	Missouri
+63107	38.663591	-90.211403	Saint Louis	Missouri
+63111	38.558992	-90.251686	Saint Louis	Missouri
+63130	38.664726	-90.324624	Saint Louis	Missouri
+64111	39.057797	-94.594181	Kansas City	Missouri
+63113	38.658007	-90.247331	Saint Louis	Missouri
+63112	38.658395	-90.283116	Saint Louis	Missouri
+63139	38.610571	-90.291924	Saint Louis	Missouri
+63115	38.678788	-90.238652	Saint Louis	Missouri
+64109	39.065794	-94.566343	Kansas City	Missouri
+64110	39.034587	-94.572984	Kansas City	Missouri
+64112	39.035983	-94.595196	Kansas City	Missouri
+63104	38.611501	-90.214852	Saint Louis	Missouri
+64123	39.114977	-94.521063	Kansas City	Missouri
+65806	37.205409	-93.298916	Springfield	Missouri
+63143	38.611813	-90.319885	Saint Louis	Missouri
+63136	38.743457	-90.259551	Saint Louis	Missouri
+64127	39.089151	-94.538288	Kansas City	Missouri
+64128	39.065694	-94.534852	Kansas City	Missouri
+63105	38.643746	-90.326201	Saint Louis	Missouri
+63106	38.644487	-90.208310	Saint Louis	Missouri
+64113	39.014065	-94.595652	Kansas City	Missouri
+63121	38.708223	-90.299238	Saint Louis	Missouri
+63114	38.703372	-90.363497	Saint Louis	Missouri
+63120	38.693966	-90.256254	Saint Louis	Missouri
+63117	38.630844	-90.331048	Saint Louis	Missouri
+63074	38.727571	-90.387748	Saint Ann	Missouri
+63119	38.588615	-90.350875	Saint Louis	Missouri
+63123	38.549159	-90.327346	Saint Louis	Missouri
+63144	38.619146	-90.348241	Saint Louis	Missouri
+64106	39.105268	-94.570205	Kansas City	Missouri
+64063	38.912693	-94.357683	Lees Summit	Missouri
+64130	39.033582	-94.541101	Kansas City	Missouri
+63033	38.794656	-90.277950	Florissant	Missouri
+63135	38.751033	-90.298527	Saint Louis	Missouri
+63110	38.623851	-90.264625	Saint Louis	Missouri
+63101	38.631243	-90.192679	Saint Louis	Missouri
+63031	38.811435	-90.347720	Florissant	Missouri
+64114	38.957802	-94.598599	Kansas City	Missouri
+64501	39.766018	-94.843689	Saint Joseph	Missouri
+63125	38.519319	-90.294342	Saint Louis	Missouri
+64105	39.104652	-94.589828	Kansas City	Missouri
+63126	38.549373	-90.378601	Saint Louis	Missouri
+64052	39.073511	-94.450862	Independence	Missouri
+64118	39.212625	-94.572341	Kansas City	Missouri
+63303	38.754625	-90.540148	Saint Charles	Missouri
+63137	38.750568	-90.215840	Saint Louis	Missouri
+64131	38.959809	-94.571951	Kansas City	Missouri
+63011	38.603592	-90.565702	Ballwin	Missouri
+64126	39.090986	-94.496649	Kansas City	Missouri
+64055	39.050847	-94.397998	Independence	Missouri
+63132	38.676450	-90.377332	Saint Louis	Missouri
+63021	38.569666	-90.545237	Ballwin	Missouri
+63122	38.581190	-90.417981	Saint Louis	Missouri
+63129	38.459471	-90.317037	Saint Louis	Missouri
+63133	38.683181	-90.307026	Saint Louis	Missouri
+63147	38.697139	-90.217467	Saint Louis	Missouri
+65807	37.165878	-93.322688	Springfield	Missouri
+65664	37.193827	-93.626369	Halltown	Missouri
+64117	39.164449	-94.522657	Kansas City	Missouri
+63758	37.191467	-89.549336	Kelso	Missouri
+63103	38.629877	-90.216700	Saint Louis	Missouri
+64014	39.006760	-94.255136	Blue Springs	Missouri
+63017	38.648053	-90.536205	Chesterfield	Missouri
+65804	37.150575	-93.251867	Springfield	Missouri
+64133	39.013941	-94.455876	Kansas City	Missouri
+64506	39.794467	-94.808836	Saint Joseph	Missouri
+64050	39.115913	-94.410525	Independence	Missouri
+63043	38.728070	-90.452027	Maryland Heights	Missouri
+63850	36.822157	-89.781340	Grayridge	Missouri
+63128	38.493363	-90.382077	Saint Louis	Missouri
+63824	37.004158	-89.525611	Blodgett	Missouri
+64134	38.930972	-94.487154	Kansas City	Missouri
+64108	39.084895	-94.586470	Kansas City	Missouri
+64119	39.209967	-94.514665	Kansas City	Missouri
+64138	38.967971	-94.471739	Kansas City	Missouri
+63040	38.571484	-90.626381	Grover	Missouri
+63088	38.552601	-90.494021	Valley Park	Missouri
+64054	39.112373	-94.439192	Independence	Missouri
+63134	38.740962	-90.347520	Saint Louis	Missouri
+63146	38.702855	-90.475486	Saint Louis	Missouri
+64053	39.111271	-94.465172	Independence	Missouri
+64030	38.881359	-94.522744	Grandview	Missouri
+63376	38.796281	-90.616293	Saint Peters	Missouri
+63367	38.788068	-90.789735	Lake Saint Louis	Missouri
+64151	39.214341	-94.630214	Kansas City	Missouri
+64137	38.931621	-94.542913	Kansas City	Missouri
+63026	38.503260	-90.460979	Fenton	Missouri
+63010	38.437982	-90.402156	Arnold	Missouri
+64132	38.985578	-94.544550	Kansas City	Missouri
+64116	39.149635	-94.574806	Kansas City	Missouri
+63140	38.739799	-90.321543	Saint Louis	Missouri
+64015	39.023354	-94.297161	Blue Springs	Missouri
+65810	37.121358	-93.315816	Springfield	Missouri
+65278	39.341196	-92.410902	Renick	Missouri
+64081	38.907791	-94.410568	Lees Summit	Missouri
+64155	39.277070	-94.573222	Kansas City	Missouri
+63141	38.656853	-90.457391	Saint Louis	Missouri
+63048	38.265782	-90.381923	Herculaneum	Missouri
+64125	39.106825	-94.492512	Kansas City	Missouri
+63131	38.616573	-90.443600	Saint Louis	Missouri
+63868	36.846014	-89.691405	Morehouse	Missouri
+63124	38.639880	-90.378958	Saint Louis	Missouri
+63880	36.331047	-90.026517	Whiteoak	Missouri
+63042	38.789772	-90.399357	Hazelwood	Missouri
+64849	37.256614	-94.444191	Neck City	Missouri
+65623	36.749205	-93.906255	Butterfield	Missouri
+63138	38.801051	-90.192396	Saint Louis	Missouri
+63044	38.761014	-90.429705	Bridgeton	Missouri
+64158	39.234236	-94.477444	Kansas City	Missouri
+63019	38.235243	-90.379637	Crystal City	Missouri
+63653	37.860000	-90.586873	Leadwood	Missouri
+64129	39.048972	-94.497692	Kansas City	Missouri
+63703	37.273477	-89.548293	Cape Girardeau	Missouri
+64090	38.759359	-94.163578	Strasburg	Missouri
+63034	38.845391	-90.288495	Florissant	Missouri
+64101	39.103351	-94.600689	Kansas City	Missouri
+63304	38.709380	-90.652536	Saint Charles	Missouri
+64145	38.878030	-94.596188	Kansas City	Missouri
+63102	38.651211	-90.185906	Saint Louis	Missouri
+65675	36.929377	-93.497259	Hurley	Missouri
+64503	39.750153	-94.842680	Saint Joseph	Missouri
+63127	38.534665	-90.412217	Saint Louis	Missouri
+64057	39.071957	-94.319308	Independence	Missouri
+64835	37.146683	-94.437188	Carterville	Missouri
+64056	39.113308	-94.319802	Independence	Missouri
+65740	36.713701	-93.160005	Rockaway Beach	Missouri
+63663	37.626970	-90.652601	Pilot Knob	Missouri
+65305	38.733096	-93.553162	Whiteman Air Force Base	Missouri
+64152	39.208188	-94.740339	Kansas City	Missouri
+63052	38.388903	-90.436886	Imperial	Missouri
+64841	37.087774	-94.408876	Duenweg	Missouri
+65802	37.210517	-93.347255	Springfield	Missouri
+63366	38.826669	-90.732453	O Fallon	Missouri
+63767	37.046231	-89.611565	Morley	Missouri
+65203	38.895416	-92.396065	Columbia	Missouri
+65809	37.168255	-93.194047	Springfield	Missouri
+64150	39.170054	-94.629946	Riverside	Missouri
+64012	38.788391	-94.551918	Belton	Missouri
+64801	37.111706	-94.500482	Joplin	Missouri
+64086	38.899171	-94.272385	Lees Summit	Missouri
+63301	38.858035	-90.463316	Saint Charles	Missouri
+63049	38.478748	-90.536223	High Ridge	Missouri
+64064	38.976923	-94.341749	Lees Summit	Missouri
+64083	38.798579	-94.449086	Raymore	Missouri
+64072	39.235398	-94.303600	Missouri City	Missouri
+63005	38.640920	-90.654871	Chesterfield	Missouri
+65529	37.924477	-91.983848	Jerome	Missouri
+65714	37.038095	-93.320282	Nixa	Missouri
+65803	37.283140	-93.289599	Springfield	Missouri
+64858	36.901178	-94.530495	Racine	Missouri
+64068	39.256763	-94.393240	Liberty	Missouri
+65201	38.900932	-92.238438	Columbia	Missouri
+63070	38.282351	-90.428814	Pevely	Missouri
+65686	36.635894	-93.444930	Kimberling City	Missouri
+63828	36.750369	-89.691841	Canalou	Missouri
+64804	37.020237	-94.507294	Joplin	Missouri
+64870	37.187183	-94.486441	Webb City	Missouri
+63012	38.343565	-90.451743	Barnhart	Missouri
+65109	38.545549	-92.276364	Jefferson City	Missouri
+64154	39.281279	-94.626948	Kansas City	Missouri
+64157	39.278370	-94.468821	Kansas City	Missouri
+64847	36.612861	-94.452809	Lanagan	Missouri
+63742	37.159996	-89.447090	Commerce	Missouri
+64505	39.841340	-94.843212	Saint Joseph	Missouri
+65065	38.125442	-92.674668	Osage Beach	Missouri
+63051	38.377504	-90.576595	House Springs	Missouri
+65049	38.190890	-92.659383	Lake Ozark	Missouri
+63738	37.089840	-89.957230	Brownwood	Missouri
+64066	39.137842	-94.135931	Levasy	Missouri
+64830	37.233824	-94.426557	Alba	Missouri
+64029	39.004741	-94.214828	Grain Valley	Missouri
+64082	38.862111	-94.408320	Lees Summit	Missouri
+63016	38.353691	-90.643520	Cedar Hill	Missouri
+64136	39.012768	-94.405845	Kansas City	Missouri
+63601	37.817405	-90.555750	Park Hills	Missouri
+63025	38.488576	-90.618449	Eureka	Missouri
+64034	38.858551	-94.297554	Greenwood	Missouri
+65101	38.495772	-92.134554	Jefferson City	Missouri
+64857	37.247557	-94.428284	Purcell	Missouri
+64874	36.758998	-94.057784	Wheaton	Missouri
+63090	38.528786	-91.046750	Washington	Missouri
+63038	38.578335	-90.677814	Glencoe	Missouri
+64167	39.323147	-94.480960	Kansas City	Missouri
+64834	37.190741	-94.565737	Carl Junction	Missouri
+64504	39.691247	-94.905924	Saint Joseph	Missouri
+63701	37.344600	-89.585921	Cape Girardeau	Missouri
+64507	39.765373	-94.726410	Saint Joseph	Missouri
+64146	38.883038	-94.572741	Kansas City	Missouri
+65202	39.020486	-92.296729	Columbia	Missouri
+64024	39.321594	-94.232325	Excelsior Springs	Missouri
+64781	37.979459	-93.808180	Roscoe	Missouri
+65566	37.720734	-91.126642	Viburnum	Missouri
+65738	37.139280	-93.506398	Republic	Missouri
+64147	38.852723	-94.550490	Kansas City	Missouri
+63069	38.490376	-90.740602	Pacific	Missouri
+65616	36.675370	-93.241170	Branson	Missouri
+65619	37.122246	-93.387471	Brookline	Missouri
+63385	38.793508	-90.857565	Wentzville	Missouri
+63084	38.420539	-91.003545	Union	Missouri
+63874	36.535530	-89.813599	Risco	Missouri
+63028	38.137919	-90.392182	Festus	Missouri
+63401	39.689938	-91.466239	Hannibal	Missouri
+65721	36.982818	-93.209226	Ozark	Missouri
+63089	38.458837	-90.876712	Villa Ridge	Missouri
+64743	38.663579	-94.214831	East Lynne	Missouri
+64192	38.955811	-94.523770	Kansas City	Missouri
+64139	38.954778	-94.404843	Kansas City	Missouri
+64058	39.173856	-94.313560	Independence	Missouri
+65624	36.729951	-93.530340	Cape Fair	Missouri
+64075	38.999801	-94.145265	Oak Grove	Missouri
+63878	36.505849	-89.818378	Tallapoosa	Missouri
+63039	38.498535	-90.843833	Gray Summit	Missouri
+64060	39.370839	-94.363788	Kearney	Missouri
+65731	36.649793	-93.126654	Powersite	Missouri
+65270	39.413639	-92.394950	Moberly	Missouri
+63882	36.903873	-89.202692	Wyatt	Missouri
+65583	37.823723	-92.221021	Waynesville	Missouri
+65672	36.561516	-93.219296	Hollister	Missouri
+65079	38.155761	-92.752145	Sunrise Beach	Missouri
+63050	38.254768	-90.577992	Hillsboro	Missouri
+65473	37.705557	-92.157817	Fort Leonard Wood	Missouri
+65043	38.623449	-92.102764	Holts Summit	Missouri
+63853	36.069500	-89.871398	Holland	Missouri
+65301	38.700559	-93.221159	Sedalia	Missouri
+63020	38.100971	-90.565549	De Soto	Missouri
+63472	40.404428	-91.585849	Wayland	Missouri
+64089	39.386560	-94.563610	Smithville	Missouri
+65327	38.974790	-93.496799	Emma	Missouri
+64093	38.792042	-93.730669	Warrensburg	Missouri
+64016	39.119616	-94.215755	Buckner	Missouri
+63866	36.536606	-89.601567	Marston	Missouri
+63077	38.323466	-90.988544	Saint Clair	Missouri
+64836	37.183178	-94.301684	Carthage	Missouri
+64078	38.702692	-94.458131	Peculiar	Missouri
+63820	36.825082	-89.319944	Anniston	Missouri
+65708	36.904683	-93.904985	Monett	Missouri
+63755	37.437575	-89.657176	Jackson	Missouri
+64163	39.330217	-94.683162	Kansas City	Missouri
+63857	36.228668	-90.043386	Kennett	Missouri
+63830	36.132049	-89.689540	Caruthersville	Missouri
+63780	37.195014	-89.519156	Scott City	Missouri
+65401	37.928061	-91.769179	Rolla	Missouri
+63379	39.000905	-90.995709	Troy	Missouri
+63660	37.918223	-90.709860	Mineral Point	Missouri
+63640	37.754123	-90.394240	Farmington	Missouri
+63801	36.902199	-89.598790	Sikeston	Missouri
+63362	38.938117	-90.883811	Moscow Mills	Missouri
+64701	38.624513	-94.329255	Harrisonville	Missouri
+63015	38.392625	-90.748431	Catawissa	Missouri
+64850	36.860355	-94.401796	Neosho	Missouri
+63934	37.202796	-90.408225	Clubb	Missouri
+63628	37.952579	-90.541765	Bonne Terre	Missouri
+64772	37.825799	-94.342043	Nevada	Missouri
+64067	39.154878	-93.830311	Lexington	Missouri
+63901	36.772431	-90.458437	Poplar Bluff	Missouri
+63501	40.158668	-92.599814	Kirksville	Missouri
+63389	39.000511	-90.772845	Winfield	Missouri
+64153	39.274581	-94.726643	Kansas City	Missouri
+63863	36.562556	-89.968385	Malden	Missouri
+64468	40.339286	-94.878816	Maryville	Missouri
+65020	38.006674	-92.769102	Camdenton	Missouri
+63841	36.771316	-89.984451	Dexter	Missouri
+65739	36.519497	-93.267230	Ridgedale	Missouri
+64011	38.968847	-94.061287	Bates City	Missouri
+65705	37.029690	-93.616233	Marionville	Missouri
+65251	38.851965	-91.975419	Fulton	Missouri
+63348	38.785616	-90.945263	Foristell	Missouri
+63851	36.245624	-89.759708	Hayti	Missouri
+65781	37.355541	-93.417569	Willard	Missouri
+64048	39.437763	-94.363579	Holt	Missouri
+65072	38.279055	-92.715811	Rocky Mount	Missouri
+64079	39.352631	-94.790537	Platte City	Missouri
+63023	38.263551	-90.720393	Dittmer	Missouri
+64080	38.772701	-94.260341	Pleasant Hill	Missouri
+65737	36.718019	-93.357590	Reeds Spring	Missouri
+63390	38.796017	-91.033070	Wright City	Missouri
+65026	38.315890	-92.571504	Eldon	Missouri
+63770	37.590273	-89.699656	Old Appleton	Missouri
+65613	37.636902	-93.396427	Bolivar	Missouri
+63072	38.369499	-90.817766	Robertsville	Missouri
+65233	38.917096	-92.728078	Boonville	Missouri
+64156	39.281657	-94.526131	Kansas City	Missouri
+65742	37.129260	-93.078943	Rogersville	Missouri
+63369	38.941256	-90.788192	Old Monroe	Missouri
+63869	36.637460	-89.544435	New Madrid	Missouri
+65725	37.429655	-93.264141	Pleasant Hope	Missouri
+65010	38.793269	-92.237172	Ashland	Missouri
+65653	36.784856	-93.108648	Forsyth	Missouri
+64076	38.983162	-93.948056	Odessa	Missouri
+64429	39.736726	-94.225807	Cameron	Missouri
+64686	39.750662	-93.636341	Utica	Missouri
+64833	37.205688	-94.135551	Avilla	Missouri
+65265	39.203373	-91.885371	Mexico	Missouri
+64485	39.949977	-94.818163	Savannah	Missouri
+65757	37.282848	-93.098940	Strafford	Missouri
+65706	37.322820	-92.898635	Marshfield	Missouri
+63383	38.811485	-91.201380	Warrenton	Missouri
+64432	40.263524	-94.667831	Clyde	Missouri
+64865	36.826247	-94.568269	Seneca	Missouri
+63347	39.069871	-90.766733	Foley	Missouri
+63637	37.712286	-90.518346	Doe Run	Missouri
+63740	37.175369	-89.680721	Chaffee	Missouri
+65681	36.545152	-93.468684	Lampe	Missouri
+65611	36.530428	-93.350407	Blue Eye	Missouri
+64070	38.886795	-94.149407	Lone Jack	Missouri
+65536	37.681382	-92.644564	Lebanon	Missouri
+64843	36.736527	-94.444699	Goodman	Missouri
+64844	36.916226	-94.238563	Granby	Missouri
+64062	39.455731	-94.163205	Lawson	Missouri
+65712	37.112228	-93.806614	Mount Vernon	Missouri
+64433	40.230712	-94.678187	Conception	Missouri
+65052	38.060770	-92.648240	Linn Creek	Missouri
+65605	36.869577	-93.684556	Aurora	Missouri
+64120	39.135007	-94.514957	Kansas City	Missouri
+65340	39.087742	-93.173645	Marshall	Missouri
+65631	37.000699	-93.423999	Clever	Missouri
+63860	36.679911	-89.572877	Kewanee	Missouri
+63630	38.024709	-90.740962	Cadet	Missouri
+65724	37.818903	-93.309955	Pittsburg	Missouri
+64854	36.545988	-94.455884	Noel	Missouri
+64166	39.321599	-94.518270	Kansas City	Missouri
+63624	37.739670	-90.659324	Bismarck	Missouri
+63055	38.537634	-90.838774	Labadie	Missouri
+65037	38.240656	-92.868535	Gravois Mills	Missouri
+65648	37.408853	-93.167091	Fair Grove	Missouri
+63552	39.757309	-92.443638	Macon	Missouri
+63080	38.215015	-91.109483	Sullivan	Missouri
+65453	38.106493	-91.439811	Cuba	Missouri
+63837	36.450290	-89.986451	Clarkton	Missouri
+65255	39.102561	-92.218393	Hallsville	Missouri
+63341	38.670825	-90.815888	Defiance	Missouri
+64085	39.343321	-93.955431	Richmond	Missouri
+64037	39.059058	-93.741833	Higginsville	Missouri
+65652	37.133949	-92.948822	Fordland	Missouri
+65753	36.996939	-93.066854	Sparta	Missouri
+65622	37.635150	-93.110192	Buffalo	Missouri
+65747	36.597894	-93.571574	Shell Knob	Missouri
+63736	37.066804	-89.531915	Benton	Missouri
+63334	39.308441	-91.191569	Bowling Green	Missouri
+65668	37.924816	-93.313305	Hermitage	Missouri
+65036	38.682131	-91.605441	Gasconade	Missouri
+64863	36.559367	-94.583340	South West City	Missouri
+65625	36.676818	-93.812287	Cassville	Missouri
+63068	38.565884	-91.244062	New Haven	Missouri
+64840	37.012369	-94.327220	Diamond	Missouri
+65658	36.540154	-93.637963	Golden	Missouri
+63060	38.263874	-90.856484	Lonedell	Missouri
+63938	36.519966	-90.264293	Fagus	Missouri
+63648	37.815647	-90.686206	Irondale	Missouri
+63353	39.454496	-91.113225	Louisiana	Missouri
+65617	37.441639	-93.341824	Brighton	Missouri
+63061	38.256978	-90.806949	Luebbering	Missouri
+65775	36.703780	-91.858102	West Plains	Missouri
+64735	38.370055	-93.743956	Clinton	Missouri
+64746	38.602100	-94.496698	Freeman	Missouri
+64831	36.656652	-94.448776	Anderson	Missouri
+65610	37.030759	-93.530942	Billings	Missouri
+65633	36.902831	-93.524713	Crane	Missouri
+64088	39.151928	-94.183551	Sibley	Missouri
+64601	39.805381	-93.579097	Chillicothe	Missouri
+65559	38.024853	-91.610098	Saint James	Missouri
+63674	38.036656	-90.659306	Tiff	Missouri
+65081	38.644446	-92.815678	Tipton	Missouri
+63847	36.441493	-90.037120	Gibson	Missouri
+63041	38.264386	-90.774578	Grubville	Missouri
+64734	38.654734	-94.559334	Cleveland	Missouri
+63829	36.042766	-90.306619	Cardwell	Missouri
+63774	37.089468	-89.764251	Perkins	Missouri
+65336	38.785292	-93.557596	Knob Noster	Missouri
+63775	37.707087	-89.883691	Perryville	Missouri
+63627	38.058107	-90.235646	Bloomsdale	Missouri
+63839	36.054705	-89.812586	Cooter	Missouri
+64628	39.803035	-93.043896	Brookfield	Missouri
+64149	38.861907	-94.468876	Kansas City	Missouri
+65018	38.617511	-92.561409	California	Missouri
+63650	37.622425	-90.606831	Ironton	Missouri
+65669	36.910081	-93.307479	Highlandville	Missouri
+63349	38.983714	-91.150553	Hawk Point	Missouri
+65734	36.795214	-93.941817	Purdy	Missouri
+63343	39.153537	-90.845906	Elsberry	Missouri
+63822	36.663477	-90.016096	Bernie	Missouri
+63670	37.901884	-90.175771	Sainte Genevieve	Missouri
+64465	39.549898	-94.287621	Lathrop	Missouri
+63087	37.995846	-90.432304	Valles Mines	Missouri
+65483	37.298711	-91.944217	Houston	Missouri
+65679	36.571084	-93.106614	Kirbyville	Missouri
+64061	38.779438	-94.101217	Kingsville	Missouri
+64018	39.454719	-94.721261	Camden Point	Missouri
+65355	38.219545	-93.366948	Warsaw	Missouri
+63382	39.312046	-91.491013	Vandalia	Missouri
+65647	36.692553	-94.007438	Exeter	Missouri
+65604	37.268140	-93.613081	Ash Grove	Missouri
+64855	37.295478	-94.485320	Oronogo	Missouri
+63357	38.656538	-91.094058	Marthasville	Missouri
+64454	39.596423	-94.591810	Gower	Missouri
+65284	39.186823	-92.304160	Sturgeon	Missouri
+65535	38.079116	-91.280549	Leasburg	Missouri
+65084	38.438023	-92.855365	Versailles	Missouri
+64658	39.662965	-92.917299	Marceline	Missouri
+63825	36.931174	-89.945547	Bloomfield	Missouri
+65723	36.952343	-94.041341	Pierce City	Missouri
+63037	38.422603	-91.316406	Gerald	Missouri
+65722	37.570820	-92.724984	Phillipsburg	Missouri
+63013	38.405123	-91.145996	Beaufort	Missouri
+65047	38.150970	-92.578409	Kaiser	Missouri
+63876	36.132271	-90.175088	Senath	Missouri
+65746	37.144293	-92.789250	Seymour	Missouri
+65728	36.873246	-93.344369	Ponce De Leon	Missouri
+65240	39.223550	-92.129050	Centralia	Missouri
+64477	39.576483	-94.462967	Plattsburg	Missouri
+65064	38.402845	-92.471423	Olean	Missouri
+64098	39.468076	-94.891475	Weston	Missouri
+63966	36.970516	-90.260720	Wappapello	Missouri
+65769	36.919096	-93.799405	Verona	Missouri
+63933	36.519181	-90.111928	Campbell	Missouri
+64040	38.713406	-93.988181	Holden	Missouri
+65066	38.330979	-91.483873	Owensville	Missouri
+64097	39.112332	-93.974109	Wellington	Missouri
+63739	37.358550	-89.800258	Burfordville	Missouri
+65612	37.215241	-93.540109	Bois D Arc	Missouri
+64444	39.471640	-94.650976	Edgerton	Missouri
+65053	38.541224	-92.369637	Lohman	Missouri
+63879	36.353355	-89.796047	Wardell	Missouri
+65745	36.532347	-93.929549	Seligman	Missouri
+63438	39.968514	-91.687967	Durham	Missouri
+65656	36.779671	-93.507741	Galena	Missouri
+63939	36.654881	-90.686879	Fairdealing	Missouri
+64862	37.100665	-94.119523	Sarcoxie	Missouri
+64683	40.076727	-93.609971	Trenton	Missouri
+64842	36.800210	-94.106181	Fairview	Missouri
+64492	39.509610	-94.559699	Trimble	Missouri
+64856	36.548954	-94.252855	Pineville	Missouri
+63862	36.548810	-89.749929	Lilbourn	Missouri
+65710	37.485556	-93.421088	Morrisville	Missouri
+65459	38.020992	-92.098770	Dixon	Missouri
+63461	39.801374	-91.579013	Palmyra	Missouri
+63823	36.885675	-89.445033	Bertrand	Missouri
+65274	39.015799	-92.686203	New Franklin	Missouri
+63955	36.603650	-90.680840	Oxly	Missouri
+64421	39.911300	-94.924259	Amazonia	Missouri
+64725	38.495991	-94.386890	Archie	Missouri
+65039	38.712565	-92.293736	Hartsburg	Missouri
+63784	36.986759	-89.694189	Vanduser	Missouri
+65051	38.475369	-91.810469	Linn	Missouri
+65063	38.728539	-92.093495	New Bloomfield	Missouri
+65754	36.834616	-93.277591	Spokane	Missouri
+64401	39.625258	-94.709161	Agency	Missouri
+63056	38.400696	-91.214245	Leslie	Missouri
+65054	38.478929	-91.951245	Loose Creek	Missouri
+64020	38.969942	-93.592203	Concordia	Missouri
+63877	36.079702	-89.857084	Steele	Missouri
+65711	37.176383	-92.275679	Mountain Grove	Missouri
+65548	37.008700	-91.704883	Mountain View	Missouri
+65452	37.971664	-92.285943	Crocker	Missouri
+65680	36.642374	-92.990689	Kissee Mills	Missouri
+65704	37.127620	-92.586107	Mansfield	Missouri
+65023	38.653901	-92.396296	Centertown	Missouri
+63036	37.970090	-90.368494	French Village	Missouri
+63448	40.015964	-91.542113	La Grange	Missouri
+64745	38.151260	-94.507744	Foster	Missouri
+65074	38.477360	-92.467491	Russellville	Missouri
+63351	38.860008	-91.319315	Jonesburg	Missouri
+63852	36.375579	-90.008998	Holcomb	Missouri
+64744	37.849165	-93.982609	El Dorado Springs	Missouri
+65791	36.546217	-91.564476	Thayer	Missouri
+64747	38.578826	-94.182182	Garden City	Missouri
+64074	39.089949	-94.086263	Napoleon	Missouri
+65360	38.521569	-93.512850	Windsor	Missouri
+63945	36.627492	-90.529434	Harviell	Missouri
+65644	37.510937	-93.038245	Elkland	Missouri
+64448	39.596748	-94.822765	Faucett	Missouri
+65085	38.398267	-92.060859	Westphalia	Missouri
+65050	38.540286	-92.688708	Latham	Missouri
+63821	36.041693	-90.223684	Arbyrd	Missouri
+64759	37.521813	-94.267098	Lamar	Missouri
+65676	36.580592	-92.607456	Isabella	Missouri
+65279	39.017450	-92.531705	Rocheport	Missouri
+63664	37.917503	-90.914269	Potosi	Missouri
+63764	37.314855	-89.987815	Marble Hill	Missouri
+63435	40.215966	-91.588119	Canton	Missouri
+64439	39.524413	-94.753373	Dearborn	Missouri
+63373	38.928157	-90.407025	Portage Des Sioux	Missouri
+65661	37.462825	-93.838004	Greenfield	Missouri
+63771	37.071612	-89.703733	Oran	Missouri
+63953	36.596037	-90.623197	Naylor	Missouri
+64084	39.384345	-94.066883	Rayville	Missouri
+63957	37.160766	-90.664667	Piedmont	Missouri
+63433	39.560628	-91.184753	Ashburn	Missouri
+65231	39.019466	-91.895155	Auxvasse	Missouri
+63532	39.760888	-92.572883	Bevier	Missouri
+65016	38.564017	-91.926345	Bonnots Mill	Missouri
+65256	39.121230	-92.456512	Harrisburg	Missouri
+65040	38.351846	-92.320302	Henley	Missouri
+65770	37.422627	-93.548226	Walnut Grove	Missouri
+64077	39.224578	-94.139126	Orrick	Missouri
+63645	37.543131	-90.317480	Fredericktown	Missouri
+63960	36.956940	-90.131465	Puxico	Missouri
+65032	38.293713	-92.417716	Eugene	Missouri
+65779	37.977567	-93.378863	Wheatland	Missouri
+65350	38.661253	-93.092285	Smithton	Missouri
+64742	38.508095	-94.541195	Drexel	Missouri
+63459	39.584494	-91.382316	New London	Missouri
+63848	36.436436	-89.887815	Gideon	Missouri
+65017	38.092140	-92.494369	Brumley	Missouri
+63940	36.768003	-90.227674	Fisk	Missouri
+64644	39.731055	-93.973869	Hamilton	Missouri
+63730	37.102446	-89.908862	Advance	Missouri
+65674	37.791412	-93.621620	Humansville	Missouri
+65349	39.231822	-93.067179	Slater	Missouri
+65759	36.755579	-92.999648	Taneyville	Missouri
+65486	38.108287	-92.328061	Iberia	Missouri
+65248	39.138606	-92.660133	Fayette	Missouri
+64096	39.208822	-93.552504	Waverly	Missouri
+65685	37.752300	-93.166953	Louisburg	Missouri
+63783	37.606007	-89.681839	Uniontown	Missouri
+63384	39.092528	-91.553592	Wellsville	Missouri
+64161	39.163907	-94.449106	Kansas City	Missouri
+64633	39.346226	-93.475178	Carrollton	Missouri
+65772	36.592579	-94.042964	Washburn	Missouri
+64720	38.404277	-94.335778	Adrian	Missouri
+64866	36.869577	-94.156423	Stark City	Missouri
+63361	38.955726	-91.553419	Montgomery City	Missouri
+63932	36.697312	-90.250354	Broseley	Missouri
+65689	37.135811	-92.090889	Cabool	Missouri
+65632	37.503896	-92.819570	Conway	Missouri
+65789	36.814685	-91.937861	Pomona	Missouri
+65557	37.507867	-92.091343	Roby	Missouri
+65756	37.098035	-93.973906	Stotts City	Missouri
+63445	40.395662	-91.732212	Kahoka	Missouri
+65441	38.088696	-91.147077	Bourbon	Missouri
+65236	39.456463	-93.086382	Brunswick	Missouri
+65243	39.268467	-92.354425	Clark	Missouri
+63769	37.517357	-89.751743	Oak Ridge	Missouri
+65013	38.269917	-91.752129	Belle	Missouri
+63454	39.922981	-91.650377	Maywood	Missouri
+65083	38.142872	-92.443872	Ulman	Missouri
+65011	38.389067	-92.713345	Barnett	Missouri
+64071	39.036190	-93.827186	Mayview	Missouri
+65787	38.083359	-92.917859	Roach	Missouri
+64424	40.260657	-94.034735	Bethany	Missouri
+64730	38.255967	-94.283818	Butler	Missouri
+63345	39.275042	-91.557765	Farber	Missouri
+65707	37.235900	-93.823990	Miller	Missouri
+64164	39.338175	-94.624160	Kansas City	Missouri
+65556	37.840992	-92.407141	Richland	Missouri
+65041	38.632996	-91.489763	Hermann	Missouri
+64490	39.731215	-94.514713	Stewartsville	Missouri
+63834	36.933989	-89.285847	Charleston	Missouri
+64859	37.164209	-94.113408	Reeds	Missouri
+64019	38.777542	-93.865281	Centerview	Missouri
+65641	36.571748	-93.752911	Eagle Rock	Missouri
+64867	36.721123	-94.234359	Stella	Missouri
+65767	37.852256	-93.155931	Urbana	Missouri
+63845	36.684560	-89.336580	East Prairie	Missouri
+64443	39.751634	-94.648908	Easton	Missouri
+65729	36.523501	-92.562324	Pontiac	Missouri
+65259	39.469541	-92.568200	Huntsville	Missouri
+64436	39.857727	-94.691859	Cosby	Missouri
+65059	38.705635	-91.891267	Mokane	Missouri
+63350	38.904226	-91.351355	High Hill	Missouri
+65649	37.618433	-93.611523	Fair Play	Missouri
+65351	38.994268	-93.381217	Sweet Springs	Missouri
+64459	39.928943	-94.649389	Helena	Missouri
+63370	39.080576	-91.223333	Olney	Missouri
+63673	37.825276	-90.014166	Saint Mary	Missouri
+65609	36.542529	-92.151702	Bakersfield	Missouri
+65785	37.708475	-93.825054	Stockton	Missouri
+63766	37.444017	-89.851486	Millersville	Missouri
+63091	38.379132	-91.392587	Rosebud	Missouri
+65608	36.908604	-92.660380	Ava	Missouri
+63456	39.656470	-91.728331	Monroe City	Missouri
+65338	38.360286	-93.289805	Lincoln	Missouri
+65771	36.778058	-93.203194	Walnut Shade	Missouri
+65035	38.347899	-91.924208	Freeburg	Missouri
+65239	39.533520	-92.432043	Cairo	Missouri
+63567	40.424368	-92.715620	Worthington	Missouri
+65337	38.794493	-93.431379	La Monte	Missouri
+65078	38.389492	-93.022188	Stover	Missouri
+64873	37.010659	-94.053847	Wentworth	Missouri
+63873	36.404691	-89.652396	Portageville	Missouri
+65793	37.004210	-91.951306	Willow Springs	Missouri
+64017	39.197836	-94.027381	Camden	Missouri
+63631	37.741997	-90.788369	Caledonia	Missouri
+63943	36.818373	-90.769662	Grandin	Missouri
+65542	37.495709	-91.883745	Licking	Missouri
+65324	38.126812	-93.029914	Climax Springs	Missouri
+63014	38.651805	-91.313445	Berger	Missouri
+63332	38.615820	-90.892680	Augusta	Missouri
+63782	37.130115	-90.047783	Sturdivant	Missouri
+65560	37.587539	-91.510050	Salem	Missouri
+65713	37.405733	-92.739217	Niangua	Missouri
+63935	36.675603	-90.921127	Doniphan	Missouri
+63387	39.168733	-91.026437	Whiteside	Missouri
+64640	39.897693	-93.949302	Gallatin	Missouri
+65280	39.218776	-91.731274	Rush Hill	Missouri
+65325	38.439774	-93.189165	Cole Camp	Missouri
+64470	40.160107	-95.229189	Mound City	Missouri
+64036	39.205256	-93.929071	Henrietta	Missouri
+64620	39.899627	-94.102867	Altamont	Missouri
+65076	38.363207	-92.211554	Saint Thomas	Missouri
+63622	37.791060	-90.907437	Belgrade	Missouri
+64671	39.531881	-94.050775	Polo	Missouri
+65663	37.586021	-93.235620	Half Way	Missouri
+64763	38.144005	-93.711500	Lowry City	Missouri
+63732	37.577851	-89.573328	Altenburg	Missouri
+63468	39.679710	-92.018554	Shelbina	Missouri
+65348	38.712427	-92.989910	Otterville	Missouri
+63760	37.242876	-89.917411	Leopold	Missouri
+63785	37.266837	-89.822213	Whitewater	Missouri
+64440	39.577197	-94.925388	De Kalb	Missouri
+65001	38.282228	-92.023400	Argyle	Missouri
+64483	40.045149	-94.847354	Rosendale	Missouri
+64649	39.773347	-94.086390	Kidder	Missouri
+64761	38.601551	-93.683114	Leeton	Missouri
+65786	37.952816	-92.952115	Macks Creek	Missouri
+63743	37.523800	-89.818915	Daisy	Missouri
+64491	40.467390	-95.337778	Tarkio	Missouri
+65567	37.865133	-92.535705	Stoutland	Missouri
+64739	38.511280	-94.096624	Creighton	Missouri
+65354	38.678154	-92.918056	Syracuse	Missouri
+65590	37.636437	-92.973925	Long Lane	Missouri
+63363	38.883906	-91.454906	New Florence	Missouri
+65254	39.276405	-92.791036	Glasgow	Missouri
+65701	36.795787	-92.775526	Mc Clurg	Missouri
+65777	36.526802	-91.988836	Moody	Missouri
+65080	38.636261	-91.978927	Tebbetts	Missouri
+64689	39.869518	-94.152185	Winston	Missouri
+63549	40.015484	-92.498179	La Plata	Missouri
+64430	39.838990	-94.565539	Clarksdale	Missouri
+63386	38.870227	-90.219634	West Alton	Missouri
+65620	37.017469	-92.955719	Bruner	Missouri
+64469	39.931296	-94.361173	Maysville	Missouri
+64740	38.226188	-93.703771	Deepwater	Missouri
+65565	37.893625	-91.242232	Steelville	Missouri
+64861	36.695352	-94.154072	Rocky Comfort	Missouri
+65717	37.064659	-92.407746	Norwood	Missouri
+64022	39.201655	-93.672247	Dover	Missouri
+65646	37.333448	-93.703246	Everton	Missouri
+64648	39.986285	-93.812341	Jamesport	Missouri
+65774	37.922482	-93.492385	Weaubleau	Missouri
+65630	36.831783	-93.212521	Chestnutridge	Missouri
+63747	37.553730	-89.816264	Friedheim	Missouri
+64402	40.255454	-94.329775	Albany	Missouri
+63030	38.124692	-90.746292	Fletcher	Missouri
+65650	37.813060	-93.453181	Flemington	Missouri
+63333	39.035280	-91.320376	Bellflower	Missouri
+63870	36.621298	-89.844043	Parma	Missouri
+63961	36.567208	-90.277076	Qulin	Missouri
+63781	37.527511	-89.926219	Sedgewickville	Missouri
+65281	39.460584	-92.805726	Salisbury	Missouri
+63381	38.996676	-91.253874	Truxton	Missouri
+64021	39.114935	-93.637442	Corder	Missouri
+65589	37.246602	-91.828351	Yukon	Missouri
+63555	40.486404	-92.193179	Memphis	Missouri
+65257	39.282824	-92.528667	Higbee	Missouri
+63626	38.055815	-90.628156	Blackwell	Missouri
+63537	40.158886	-92.156537	Edina	Missouri
+64755	37.331360	-94.296391	Jasper	Missouri
+63662	37.532424	-90.050025	Patton	Missouri
+65667	37.308459	-92.514047	Hartville	Missouri
+64722	38.278074	-94.542511	Amoret	Missouri
+63751	37.311386	-90.124472	Glenallen	Missouri
+64484	39.561200	-95.017149	Rushville	Missouri
+65034	38.559677	-92.818106	Fortuna	Missouri
+63377	39.107191	-91.096214	Silex	Missouri
+65534	37.690279	-92.284280	Laquey	Missouri
+65760	36.628783	-92.270071	Tecumseh	Missouri
+64489	40.236887	-94.547271	Stanberry	Missouri
+65275	39.453066	-91.994965	Paris	Missouri
+64482	40.458126	-95.555082	Rock Port	Missouri
+65640	37.698467	-93.566848	Dunnegan	Missouri
+63071	38.132269	-90.851685	Richwoods	Missouri
+63855	36.069107	-90.056809	Hornersville	Missouri
+63556	40.176075	-93.112340	Milan	Missouri
+64494	39.989408	-94.609608	Union Star	Missouri
+65025	38.675948	-92.690020	Clarksburg	Missouri
+65276	38.849568	-92.952563	Pilot Grove	Missouri
+65075	38.253165	-92.264926	Saint Elizabeth	Missouri
+65626	36.594943	-92.130859	Caulfield	Missouri
+65014	38.322769	-91.624636	Bland	Missouri
+65332	38.625322	-93.412048	Green Ridge	Missouri
+65591	37.975287	-92.583573	Montreal	Missouri
+65082	38.219449	-92.425753	Tuscumbia	Missouri
+63636	37.314595	-90.575901	Des Arc	Missouri
+65662	37.419146	-92.572234	Grovespring	Missouri
+63336	39.333135	-90.932259	Clarksville	Missouri
+65788	36.806689	-91.694945	Peace Valley	Missouri
+64001	39.114216	-93.540908	Alma	Missouri
+65323	38.443904	-93.617513	Calhoun	Missouri
+65550	37.822689	-91.954540	Newburg	Missouri
+64473	39.979261	-95.076209	Oregon	Missouri
+65321	39.080277	-93.448871	Blackburn	Missouri
+65778	36.530448	-91.271025	Myrtle	Missouri
+63436	39.500689	-91.539951	Center	Missouri
+63344	39.238189	-91.016453	Eolia	Missouri
+64733	38.584819	-93.827198	Chilhowee	Missouri
+63471	39.907238	-91.487808	Taylor	Missouri
+65582	38.176007	-91.935104	Vienna	Missouri
+63846	36.810669	-89.798768	Essex	Missouri
+65727	37.765849	-93.295111	Polk	Missouri
+64651	39.776866	-93.181934	Laclede	Missouri
+65606	36.696956	-91.359473	Alton	Missouri
+65068	38.815854	-92.608954	Prairie Home	Missouri
+64650	39.633222	-94.053671	Kingston	Missouri
+64724	38.153210	-94.006638	Appleton City	Missouri
+63954	36.544694	-90.477466	Neelyville	Missouri
+63548	40.536366	-92.489160	Lancaster	Missouri
+65329	38.611342	-92.975658	Florence	Missouri
+63621	37.497064	-90.586913	Arcadia	Missouri
+65570	37.467905	-92.097516	Success	Missouri
+64723	38.361639	-94.559592	Amsterdam	Missouri
+65601	37.530032	-93.585730	Aldrich	Missouri
+65580	38.116494	-91.789799	Vichy	Missouri
+65655	36.589175	-92.430062	Gainesville	Missouri
+65077	38.772199	-91.812579	Steedman	Missouri
+65443	38.124302	-92.099480	Brinktown	Missouri
+65541	37.622927	-91.787393	Lenox	Missouri
+64748	37.361453	-94.096348	Golden City	Missouri
+64434	40.258796	-94.733053	Conception Junction	Missouri
+64738	37.901664	-93.651689	Collins	Missouri
+65046	38.786494	-92.488423	Jamestown	Missouri
+63463	39.851438	-91.780965	Philadelphia	Missouri
+65320	39.089489	-92.942024	Arrow Rock	Missouri
+63937	36.935115	-90.784013	Ellsinore	Missouri
+64493	39.629629	-94.314883	Turney	Missouri
+64474	39.755309	-94.379595	Osborn	Missouri
+63735	36.977711	-89.775684	Bell City	Missouri
+63561	40.410574	-92.534729	Queen City	Missouri
+63748	37.672210	-89.617350	Frohna	Missouri
+64624	39.566636	-93.792907	Braymer	Missouri
+64682	39.549487	-93.469593	Tina	Missouri
+63440	39.987475	-91.758834	Ewing	Missouri
+64769	37.493192	-94.548169	Mindenmines	Missouri
+65263	39.461874	-92.220167	Madison	Missouri
+65766	36.541132	-92.254044	Udall	Missouri
+65635	37.531741	-93.717143	Dadeville	Missouri
+65732	37.934974	-93.177422	Preston	Missouri
+64848	37.179767	-93.983029	La Russell	Missouri
+65457	37.782592	-92.078264	Devils Elbow	Missouri
+63565	40.480620	-92.947276	Unionville	Missouri
+65682	37.416231	-93.979593	Lockwood	Missouri
+64776	38.040016	-93.675988	Osceola	Missouri
+65463	37.847675	-92.783349	Eldridge	Missouri
+64788	38.423906	-94.019548	Urich	Missouri
+64779	38.092018	-94.396212	Rich Hill	Missouri
+63967	36.942846	-90.485614	Williamsville	Missouri
+64479	40.338132	-94.670901	Ravenwood	Missouri
+63559	40.231429	-92.747628	Novinger	Missouri
+64659	39.781475	-93.289747	Meadville	Missouri
+65462	37.683375	-91.848757	Edgar Springs	Missouri
+64750	37.933868	-94.123399	Harwood	Missouri
+65333	38.900768	-93.319941	Houstonia	Missouri
+65783	37.711735	-92.942002	Windyville	Missouri
+64771	37.763856	-94.460686	Moundville	Missouri
+64476	40.439923	-94.834349	Pickering	Missouri
+64762	37.546659	-94.501483	Liberal	Missouri
+63540	40.087350	-92.411274	Gibbs	Missouri
+64165	39.321457	-94.573972	Kansas City	Missouri
+65262	38.962524	-91.939528	Kingdom City	Missouri
+63827	36.266166	-89.877044	Bragg City	Missouri
+65555	37.371778	-91.738882	Raymondville	Missouri
+65024	38.619249	-91.756356	Chamois	Missouri
+63826	36.170362	-89.841743	Braggadocio	Missouri
+65702	37.052336	-92.486004	Macomb	Missouri
+63447	40.101032	-91.890259	La Belle	Missouri
+63339	39.336612	-91.375802	Curryville	Missouri
+65264	39.088314	-91.685640	Martinsburg	Missouri
+63430	40.398647	-91.547338	Alexandria	Missouri
+65326	38.160469	-93.161376	Edwards	Missouri
+65730	36.617139	-94.157479	Powell	Missouri
+65446	37.810607	-91.290188	Cherryville	Missouri
+64035	39.290513	-93.812219	Hardin	Missouri
+63944	37.080992	-90.398425	Greenville	Missouri
+65720	36.935198	-92.936527	Oldfield	Missouri
+65334	38.845310	-93.226858	Hughesville	Missouri
+63452	40.101846	-91.796892	Lewistown	Missouri
+63533	40.199773	-92.392226	Brashear	Missouri
+63437	39.728217	-92.220654	Clarence	Missouri
+64784	37.670426	-94.244375	Sheldon	Missouri
+64756	37.615521	-94.013764	Jerico Springs	Missouri
+65764	37.814850	-92.949058	Tunas	Missouri
+63956	37.219752	-90.522582	Patterson	Missouri
+65588	36.966274	-91.293650	Winona	Missouri
+65790	36.703024	-92.109540	Pottersville	Missouri
+65260	39.580629	-92.385861	Jacksonville	Missouri
+63964	37.239593	-90.402537	Silva	Missouri
+65261	39.490308	-92.931129	Keytesville	Missouri
+64783	37.999804	-94.105267	Schell City	Missouri
+64497	39.930459	-94.219852	Weatherby	Missouri
+65247	39.643902	-92.471736	Excello	Missouri
+64471	40.274616	-94.193859	New Hampton	Missouri
+63965	36.958261	-90.996800	Van Buren	Missouri
+63787	37.075749	-90.083421	Zalma	Missouri
+63462	39.419207	-91.701130	Perry	Missouri
+63546	40.337948	-92.502527	Greentop	Missouri
+65637	36.774632	-92.202008	Dora	Missouri
+65345	38.547647	-93.136470	Mora	Missouri
+63655	37.390559	-90.189106	Marquand	Missouri
+65250	39.030100	-92.840101	Franklin	Missouri
+63936	36.808925	-90.129028	Dudley	Missouri
+65444	37.371499	-92.067195	Bucyrus	Missouri
+65755	36.802257	-92.625700	Squires	Missouri
+64767	37.737357	-94.201452	Milo	Missouri
+63443	39.677942	-91.858118	Hunnewell	Missouri
+64461	40.521587	-94.807190	Hopkins	Missouri
+65335	38.501668	-93.330471	Ionia	Missouri
+64631	39.837305	-92.882820	Bucklin	Missouri
+63867	36.739147	-89.542190	Matthews	Missouri
+64625	39.744043	-93.802883	Breckenridge	Missouri
+65285	39.204026	-91.999682	Thompson	Missouri
+65564	37.237270	-91.939609	Solo	Missouri
+63441	39.474035	-91.318315	Frankford	Missouri
+64423	40.192871	-94.851656	Barnard	Missouri
+65287	38.886302	-92.530138	Wooldridge	Missouri
+65692	36.621450	-91.650328	Koshkonong	Missouri
+63388	38.875057	-91.757686	Williamsburg	Missouri
+64449	40.050226	-94.989019	Fillmore	Missouri
+65061	38.600281	-91.651819	Morrison	Missouri
+64463	40.062598	-94.482585	King City	Missouri
+64668	39.355068	-93.704415	Norborne	Missouri
+65629	36.886332	-93.019636	Chadwick	Missouri
+63952	37.021941	-90.672119	Mill Spring	Missouri
+65282	39.387929	-91.822967	Santa Fe	Missouri
+65552	37.549343	-92.170749	Plato	Missouri
+64652	40.021508	-93.418192	Laredo	Missouri
+64656	39.690639	-93.671237	Ludlow	Missouri
+63551	40.503968	-92.739285	Livonia	Missouri
+65752	37.327705	-93.830886	South Greenfield	Missouri
+65322	38.982087	-92.951995	Blackwater	Missouri
+63534	39.737309	-92.648407	Callao	Missouri
+63457	40.165850	-91.711889	Monticello	Missouri
+63536	40.485291	-92.355927	Downing	Missouri
+64427	40.108578	-94.846324	Bolckow	Missouri
+64832	37.326633	-94.573882	Asbury	Missouri
+65761	36.576449	-92.724984	Theodosia	Missouri
+64752	38.087951	-94.571355	Hume	Missouri
+63352	39.254356	-91.657538	Laddonia	Missouri
+65230	39.290548	-92.702593	Armstrong	Missouri
+63545	40.264833	-92.961534	Green City	Missouri
+64661	40.536314	-93.517049	Mercer	Missouri
+64664	39.752911	-93.690469	Mooresville	Missouri
+65571	37.213035	-91.625298	Summersville	Missouri
+64636	40.110098	-93.980463	Coffey	Missouri
+65532	37.771107	-91.670239	Lake Spring	Missouri
+65058	38.249621	-92.127853	Meta	Missouri
+65232	39.171349	-91.755032	Benton City	Missouri
+64790	37.927026	-94.220647	Walker	Missouri
+65466	37.182902	-91.373016	Eminence	Missouri
+64480	40.054176	-94.715078	Rea	Missouri
+64456	40.493138	-94.391080	Grant City	Missouri
+65069	38.753943	-91.601969	Rhineland	Missouri
+64673	40.374309	-93.586901	Princeton	Missouri
+65258	39.525741	-92.135614	Holliday	Missouri
+65733	36.533097	-92.851245	Protem	Missouri
+65690	36.588574	-91.327065	Couch	Missouri
+65330	39.217726	-92.952862	Gilliam	Missouri
+65627	36.564690	-93.030872	Cedarcreek	Missouri
+64428	40.434165	-95.087518	Burlington Junction	Missouri
+63543	40.352420	-92.014125	Gorin	Missouri
+65773	36.745052	-92.492160	Wasola	Missouri
+63541	40.495585	-92.633006	Glenwood	Missouri
+65438	36.931336	-91.501101	Birch Tree	Missouri
+64643	39.622529	-93.375818	Hale	Missouri
+64622	39.493404	-93.561160	Bogard	Missouri
+65347	38.976797	-93.052724	Nelson	Missouri
+64770	38.281457	-93.989537	Montrose	Missouri
+64499	40.401203	-94.425909	Worth	Missouri
+64637	39.575717	-93.917412	Cowgill	Missouri
+63469	39.825851	-92.041218	Shelbyville	Missouri
+63465	40.527638	-91.679549	Revere	Missouri
+64422	39.894787	-94.493961	Amity	Missouri
+64623	39.474274	-93.339829	Bosworth	Missouri
+63951	37.113212	-90.288029	Lowndes	Missouri
+64442	40.489895	-94.011464	Eagleville	Missouri
+64466	40.166220	-95.106267	Maitland	Missouri
+65237	38.766639	-92.793644	Bunceton	Missouri
+64726	38.506772	-93.928107	Blairstown	Missouri
+64653	39.895133	-93.194089	Linneus	Missouri
+63763	37.050366	-90.184100	Mc Gee	Missouri
+64451	39.974131	-95.181971	Forest City	Missouri
+64431	40.528193	-94.996257	Clearmont	Missouri
+64641	40.164488	-93.402039	Galt	Missouri
+64481	40.353947	-93.887733	Ridgeway	Missouri
+63359	39.159982	-91.339227	Middletown	Missouri
+63530	39.907620	-92.455054	Atlanta	Missouri
+63464	39.964496	-92.064581	Plevna	Missouri
+64635	39.952780	-93.433845	Chula	Missouri
+65603	37.557468	-93.884895	Arcola	Missouri
+65439	37.664882	-91.094227	Bixby	Missouri
+64438	40.171906	-94.410370	Darlington	Missouri
+63638	37.219832	-90.992991	Ellington	Missouri
+64486	40.537508	-94.613020	Sheridan	Missouri
+65784	36.689459	-92.319386	Zanoni	Missouri
+65470	37.543516	-92.382924	Falcon	Missouri
+64728	37.703047	-94.523816	Bronaugh	Missouri
+65067	38.766201	-91.703148	Portland	Missouri
+64679	40.229042	-93.570011	Spickard	Missouri
+64446	40.316786	-95.422168	Fairfax	Missouri
+65768	36.925085	-92.258237	Vanzant	Missouri
+63620	37.402922	-90.667773	Annapolis	Missouri
+63849	36.128882	-89.993309	Gobler	Missouri
+65634	38.015397	-93.194616	Cross Timbers	Missouri
+65464	37.212389	-91.946598	Elk Creek	Missouri
+63656	37.599791	-90.798157	Middle Brook	Missouri
+65339	39.176555	-93.379272	Malta Bend	Missouri
+63431	39.740221	-92.313960	Anabel	Missouri
+64674	39.967615	-93.156958	Purdin	Missouri
+64455	40.180566	-95.004990	Graham	Missouri
+65449	37.855134	-91.478472	Cook Sta	Missouri
+64688	39.835973	-93.372296	Wheeling	Missouri
+64660	39.562613	-93.064143	Mendon	Missouri
+64445	40.538711	-95.129266	Elmo	Missouri
+64741	37.818234	-94.562345	Deerfield	Missouri
+63963	37.074448	-90.313565	Shook	Missouri
+65715	36.695782	-92.546840	Noble	Missouri
+65660	37.334212	-92.273898	Graff	Missouri
+65638	36.852026	-92.328723	Drury	Missouri
+64676	39.652594	-93.066557	Rothville	Missouri
+64457	40.162713	-94.682355	Guilford	Missouri
+63654	37.483034	-90.802428	Lesterville	Missouri
+63474	40.349765	-91.893573	Wyaconda	Missouri
+63547	40.135832	-92.297714	Hurdland	Missouri
+64642	40.170792	-93.836449	Gilman City	Missouri
+63623	37.653020	-90.920661	Belleview	Missouri
+65456	37.783239	-91.212672	Davisville	Missouri
+64647	40.026443	-93.967299	Jameson	Missouri
+65657	36.838309	-93.007524	Garrison	Missouri
+63458	40.005785	-92.002135	Newark	Missouri
+63439	39.801258	-91.857543	Emden	Missouri
+64670	40.047302	-94.141265	Pattonsburg	Missouri
+63453	40.510756	-91.867256	Luray	Missouri
+64426	40.521710	-93.859518	Blythedale	Missouri
+63558	39.731378	-92.756416	New Cambria	Missouri
+63434	39.906730	-91.947197	Bethel	Missouri
+64632	40.464024	-93.761805	Cainsville	Missouri
+63560	40.359626	-93.120409	Pollock	Missouri
+63942	36.554374	-91.074481	Gatewood	Missouri
+63675	37.322159	-90.702813	Vulcan	Missouri
+65735	38.039877	-93.486631	Quincy	Missouri
+64780	38.056499	-94.064601	Rockville	Missouri
+64638	39.612058	-93.615116	Dawn	Missouri
+63563	40.296193	-92.070607	Rutledge	Missouri
+64657	40.132300	-94.207594	Mc Fall	Missouri
+63625	37.554897	-90.971768	Black	Missouri
+64646	40.099034	-93.309021	Humphreys	Missouri
+63544	40.245752	-92.840197	Green Castle	Missouri
+63450	39.664175	-92.152085	Lentner	Missouri
+65048	38.374157	-92.040877	Koeltztown	Missouri
+65484	37.375913	-92.234415	Huggins	Missouri
+64498	40.542098	-95.333420	Westboro	Missouri
+64475	40.436130	-94.612976	Parnell	Missouri
+65283	39.528176	-91.838977	Stoutsville	Missouri
+64453	40.337879	-94.478006	Gentry	Missouri
+65762	36.680587	-92.662870	Thornfield	Missouri
+63750	37.132463	-90.171057	Gipsy	Missouri
+63446	40.129461	-92.015380	Knox City	Missouri
+64630	40.043444	-93.146791	Browning	Missouri
+64437	40.135587	-95.338513	Craig	Missouri
+63633	37.425753	-90.988404	Centerville	Missouri
+64487	40.308015	-95.112604	Skidmore	Missouri
+63531	40.300263	-92.241036	Baring	Missouri
+65440	37.619926	-91.172728	Boss	Missouri
+65461	37.676732	-92.043738	Duke	Missouri
+65501	37.454610	-91.541535	Jadwin	Missouri
+65618	36.751766	-92.387678	Brixey	Missouri
+63432	40.516796	-91.991635	Arbela	Missouri
+65244	39.490093	-92.676714	Clifton Hill	Missouri
+64639	39.389444	-93.237226	De Witt	Missouri
+64778	37.906670	-94.534380	Richards	Missouri
+64496	40.489884	-95.642285	Watson	Missouri
+65543	37.474745	-92.298857	Lynchburg	Missouri
+65468	37.271130	-91.784196	Eunice	Missouri
+65479	37.342026	-91.636139	Hartshorn	Missouri
+63538	39.950907	-92.680666	Elmer	Missouri
+63330	39.266002	-90.814550	Annada	Missouri
+64667	40.400409	-93.344760	Newtown	Missouri
+63535	40.559957	-92.664954	Coatsville	Missouri
+63539	39.925596	-92.768903	Ethel	Missouri
+65614	36.733727	-92.897090	Bradleyville	Missouri
+63629	37.385517	-91.235545	Bunker	Missouri
+65436	37.623801	-91.963610	Beulah	Missouri
+64655	40.446530	-93.257493	Lucerne	Missouri
+63473	40.246043	-91.774555	Williamstown	Missouri
+65344	39.310785	-93.206772	Miami	Missouri
+64645	40.284707	-93.334249	Harris	Missouri
+63451	39.917465	-92.206036	Leonard	Missouri
+65744	36.613092	-92.867747	Rueter	Missouri
+63665	37.323552	-90.840256	Redford	Missouri
+63460	40.011297	-92.207573	Novelty	Missouri
+64467	40.401658	-94.162947	Martinsville	Missouri
+63557	39.971058	-92.890654	New Boston	Missouri
+64681	39.644744	-93.205256	Sumner	Missouri
+64441	40.404844	-94.261379	Denver	Missouri
+64672	40.544835	-93.255082	Powersville	Missouri
+65286	39.506748	-93.204481	Triplett	Missouri
+64458	40.506679	-94.164585	Hatfield	Missouri
+63833	36.654382	-89.724022	Catron	Missouri
+65246	39.373460	-93.017421	Dalton	Missouri
+65062	38.501140	-91.659576	Mount Sterling	Missouri
+63941	36.901205	-91.155188	Fremont	Missouri
+63566	40.019774	-92.970245	Winigan	Missouri
