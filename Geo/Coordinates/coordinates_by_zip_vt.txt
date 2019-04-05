@@ -1,0 +1,254 @@
+05678	44.158880	-72.469740	Websterville	Vermont
+05404	44.495588	-73.184854	Winooski	Vermont
+05401	44.495820	-73.229305	Burlington	Vermont
+05664	44.165703	-72.647909	Northfield Falls	Vermont
+05088	43.678311	-72.308272	Wilder	Vermont
+05154	43.139907	-72.508611	Saxtons River	Vermont
+05403	44.444866	-73.173468	South Burlington	Vermont
+05058	43.883963	-72.259303	Post Mills	Vermont
+05446	44.541385	-73.182904	Colchester	Vermont
+05825	44.864933	-72.270046	Coventry	Vermont
+05452	44.538872	-73.050085	Essex Junction	Vermont
+05868	44.898488	-72.406973	Troy	Vermont
+05150	43.334972	-72.530152	North Springfield	Vermont
+05641	44.188466	-72.483080	Barre	Vermont
+05701	43.624577	-72.910205	Rutland	Vermont
+05657	44.547227	-72.528699	Lake Elmore	Vermont
+05482	44.380451	-73.211077	Shelburne	Vermont
+05654	44.140286	-72.475659	Graniteville	Vermont
+05732	43.623455	-73.210570	Bomoseen	Vermont
+05765	43.654029	-73.032540	Proctor	Vermont
+05495	44.429068	-73.096245	Williston	Vermont
+05257	42.969542	-73.262730	North Bennington	Vermont
+05254	43.160007	-73.067015	Manchester	Vermont
+05001	43.667714	-72.382167	White River Junction	Vermont
+05902	45.009587	-71.487927	Beecher Falls	Vermont
+05468	44.650319	-73.142684	Milton	Vermont
+05478	44.790829	-73.107050	Saint Albans	Vermont
+05750	43.620161	-73.234209	Hydeville	Vermont
+05054	43.845647	-72.196032	North Thetford	Vermont
+05156	43.310627	-72.461623	Springfield	Vermont
+05101	43.161424	-72.486916	Bellows Falls	Vermont
+05736	43.589662	-73.009777	Center Rutland	Vermont
+05083	43.910424	-72.269659	West Fairlee	Vermont
+05465	44.464905	-72.959411	Jericho	Vermont
+05052	43.604335	-72.338025	North Hartland	Vermont
+05855	44.918094	-72.183151	Newport	Vermont
+05602	44.292663	-72.624710	Montpelier	Vermont
+05158	43.108795	-72.473352	Westminster	Vermont
+05753	43.989492	-73.178550	Middlebury	Vermont
+05201	42.869481	-73.129196	Bennington	Vermont
+05458	44.717847	-73.307486	Grand Isle	Vermont
+05488	44.919895	-73.132021	Swanton	Vermont
+05486	44.642247	-73.307740	South Hero	Vermont
+05677	44.388606	-72.695465	Waterbury Center	Vermont
+05059	43.654996	-72.440357	Quechee	Vermont
+05089	43.495642	-72.442298	Windsor	Vermont
+05759	43.532157	-72.964768	North Clarendon	Vermont
+05301	42.842767	-72.655571	Brattleboro	Vermont
+05461	44.332309	-73.089997	Hinesburg	Vermont
+05354	42.764133	-72.522086	Vernon	Vermont
+05777	43.547543	-73.029665	West Rutland	Vermont
+05260	42.812565	-73.253163	North Pownal	Vermont
+05255	43.137364	-73.022200	Manchester Center	Vermont
+05819	44.392460	-72.005603	Saint Johnsbury	Vermont
+05663	44.147613	-72.691275	Northfield	Vermont
+05454	44.710289	-73.028878	Fairfax	Vermont
+05043	43.805098	-72.204673	East Thetford	Vermont
+05048	43.579026	-72.413414	Hartland	Vermont
+05651	44.282307	-72.489262	East Montpelier	Vermont
+05261	42.768893	-73.211264	Pownal	Vermont
+05073	43.627350	-72.489196	Taftsville	Vermont
+05763	43.738631	-73.009047	Pittsford	Vermont
+05445	44.309955	-73.220978	Charlotte	Vermont
+05655	44.624817	-72.567051	Hyde Park	Vermont
+05661	44.532670	-72.620196	Morrisville	Vermont
+05084	43.724995	-72.437208	West Hartford	Vermont
+05055	43.777628	-72.323984	Norwich	Vermont
+05764	43.525972	-73.189974	Poultney	Vermont
+05679	44.106853	-72.542702	Williamstown	Vermont
+05904	44.425206	-71.706176	Gilman	Vermont
+05033	44.012180	-72.158312	Bradford	Vermont
+05444	44.649097	-72.911222	Cambridge	Vermont
+05477	44.404825	-72.936896	Richmond	Vermont
+05473	44.239770	-73.180758	North Ferrisburgh	Vermont
+05459	44.950434	-73.028986	Highgate Center	Vermont
+05346	43.037688	-72.536522	Putney	Vermont
+05829	44.967210	-72.068265	Derby	Vermont
+05656	44.648124	-72.688840	Johnson	Vermont
+05483	44.888041	-72.984470	Sheldon	Vermont
+05060	43.967072	-72.708604	Randolph	Vermont
+05041	43.955539	-72.538882	East Randolph	Vermont
+05491	44.111961	-73.310796	Vergennes	Vermont
+05843	44.547637	-72.371716	Hardwick	Vermont
+05851	44.546307	-72.048757	Lyndonville	Vermont
+05440	44.957882	-73.291974	Alburgh	Vermont
+05344	42.851355	-72.739583	Marlboro	Vermont
+05735	43.662574	-73.157757	Castleton	Vermont
+05061	43.945678	-72.589922	Randolph Center	Vermont
+05051	44.076035	-72.072537	Newbury	Vermont
+05463	44.871324	-73.349200	Isle La Motte	Vermont
+05149	43.408631	-72.701269	Ludlow	Vermont
+05474	44.787732	-73.297992	North Hero	Vermont
+05489	44.571190	-72.901623	Underhill	Vermont
+05672	44.491975	-72.713006	Stowe	Vermont
+05148	43.231362	-72.791008	Londonderry	Vermont
+05443	44.139443	-73.039930	Bristol	Vermont
+05074	43.857757	-72.215590	Thetford	Vermont
+05733	43.822795	-73.081094	Brandon	Vermont
+05660	44.244291	-72.779812	Moretown	Vermont
+05494	44.607422	-73.003642	Westford	Vermont
+05676	44.298567	-72.827795	Waterbury	Vermont
+05091	43.633433	-72.539301	Woodstock	Vermont
+05363	42.891559	-72.845164	Wilmington	Vermont
+05151	43.395317	-72.496973	Perkinsville	Vermont
+05774	43.442986	-73.191086	Wells	Vermont
+05253	43.245835	-73.001948	East Dorset	Vermont
+05476	44.955228	-72.643138	Richford	Vermont
+05456	44.219011	-73.255184	Ferrisburgh	Vermont
+05648	44.372090	-72.502104	Calais	Vermont
+05068	43.780980	-72.547487	South Royalton	Vermont
+05034	43.574500	-72.643241	Bridgewater	Vermont
+05356	42.948696	-72.870938	West Dover	Vermont
+05666	44.353785	-72.435272	North Montpelier	Vermont
+05037	43.450454	-72.471143	Brownsville	Vermont
+05053	43.732675	-72.487943	North Pomfret	Vermont
+05345	43.003348	-72.657255	Newfane	Vermont
+05667	44.285485	-72.389356	Plainfield	Vermont
+05464	44.628827	-72.812301	Jeffersonville	Vermont
+05075	43.835681	-72.266795	Thetford Center	Vermont
+05743	43.677330	-73.304926	Fair Haven	Vermont
+05830	44.973220	-71.985854	Derby Line	Vermont
+05462	44.288815	-72.950004	Huntington	Vermont
+05746	43.786799	-72.715574	Gaysville	Vermont
+05821	44.326429	-72.112062	Barnet	Vermont
+05492	44.737614	-72.761719	Waterville	Vermont
+05673	44.199031	-72.840840	Waitsfield	Vermont
+05674	44.112526	-72.874028	Warren	Vermont
+05640	44.358165	-72.500686	Adamant	Vermont
+05472	44.102761	-73.155209	New Haven	Vermont
+05143	43.254159	-72.645911	Chester	Vermont
+05065	43.790882	-72.416502	Sharon	Vermont
+05040	44.069880	-72.198724	East Corinth	Vermont
+05828	44.437504	-72.124822	Danville	Vermont
+05450	44.891537	-72.786011	Enosburg Falls	Vermont
+05487	44.228435	-72.990128	Starksboro	Vermont
+05842	44.590054	-72.245075	Greensboro Bend	Vermont
+05045	43.917846	-72.180296	Fairlee	Vermont
+05070	43.851588	-72.344406	South Strafford	Vermont
+05032	43.800744	-72.665298	Bethel	Vermont
+05457	44.957693	-72.917923	Franklin	Vermont
+05769	43.932071	-73.119822	Salisbury	Vermont
+05250	43.103629	-73.173050	Arlington	Vermont
+05742	43.456863	-72.913445	East Wallingford	Vermont
+05757	43.482834	-73.127574	Middletown Springs	Vermont
+05857	44.928911	-72.312700	Newport Center	Vermont
+05822	44.752720	-72.142891	Barton	Vermont
+05658	44.364724	-72.354830	Marshfield	Vermont
+05776	43.236376	-73.238492	West Rupert	Vermont
+05860	44.815189	-72.098488	Orleans	Vermont
+05342	42.777498	-72.794821	Jacksonville	Vermont
+05262	42.973748	-73.075260	Shaftsbury	Vermont
+05069	44.151048	-72.152208	South Ryegate	Vermont
+05341	42.971889	-72.823523	East Dover	Vermont
+05086	44.121206	-72.314761	West Topsham	Vermont
+05362	42.946902	-72.699848	Williamsville	Vermont
+05650	44.420259	-72.446457	East Calais	Vermont
+05038	43.993916	-72.459992	Chelsea	Vermont
+05142	43.407472	-72.582469	Cavendish	Vermont
+05647	44.402700	-72.282372	Cabot	Vermont
+05836	44.529160	-72.249901	East Hardwick	Vermont
+05775	43.348326	-73.216645	West Pawlet	Vermont
+05081	44.112478	-72.087436	Wells River	Vermont
+05832	44.578024	-71.917703	East Burke	Vermont
+05875	44.719781	-72.260833	West Glover	Vermont
+05036	44.023896	-72.587090	Brookfield	Vermont
+05734	43.988151	-73.326348	Bridport	Vermont
+05871	44.689305	-71.936955	West Burke	Vermont
+05680	44.540570	-72.471993	Wolcott	Vermont
+05770	43.890205	-73.329850	Shoreham	Vermont
+05077	43.900529	-72.485341	Tunbridge	Vermont
+05826	44.634876	-72.406149	Craftsbury	Vermont
+05773	43.427498	-72.950234	Wallingford	Vermont
+05361	42.780832	-72.877859	Whitingham	Vermont
+05761	43.365236	-73.135427	Pawlet	Vermont
+05039	44.029910	-72.298965	Corinth	Vermont
+05062	43.489424	-72.574102	Reading	Vermont
+05251	43.259298	-73.117863	Dorset	Vermont
+05153	43.439590	-72.636552	Proctorsville	Vermont
+05067	43.686750	-72.551594	South Pomfret	Vermont
+05448	44.745032	-72.881977	East Fairfield	Vermont
+05355	43.020138	-72.813530	Wardsboro	Vermont
+05839	44.673749	-72.219699	Glover	Vermont
+05455	44.796298	-72.953878	Fairfield	Vermont
+05820	44.763601	-72.375155	Albany	Vermont
+05859	44.958270	-72.438189	North Troy	Vermont
+05042	44.232549	-72.101023	East Ryegate	Vermont
+05730	43.406777	-72.837106	Belmont	Vermont
+05353	43.071031	-72.682189	Townshend	Vermont
+05760	43.800615	-73.289701	Orwell	Vermont
+05071	43.572534	-72.570760	South Woodstock	Vermont
+05758	43.434531	-72.797521	Mount Holly	Vermont
+05778	43.876421	-73.212537	Whiting	Vermont
+05682	44.401783	-72.565453	Worcester	Vermont
+05085	44.064433	-72.139737	West Newbury	Vermont
+05675	44.076165	-72.422633	Washington	Vermont
+05845	44.799978	-72.331932	Irasburg	Vermont
+05867	44.664115	-72.047488	Sutton	Vermont
+05744	43.694013	-73.080457	Florence	Vermont
+05872	44.852932	-72.035807	West Charleston	Vermont
+05906	44.483097	-71.720449	Lunenburg	Vermont
+05751	43.657584	-72.784410	Killington	Vermont
+05739	43.342622	-73.000171	Danby	Vermont
+05652	44.723235	-72.611082	Eden	Vermont
+05738	43.528587	-72.860737	Cuttingsville	Vermont
+05350	42.790943	-72.972640	Readsboro	Vermont
+05762	43.804480	-72.836936	Pittsfield	Vermont
+05866	44.641631	-72.110075	Sheffield	Vermont
+05824	44.416783	-71.850051	Concord	Vermont
+05873	44.358917	-72.184964	West Danville	Vermont
+05827	44.676898	-72.362504	Craftsbury Common	Vermont
+05031	43.729209	-72.598174	Barnard	Vermont
+05352	42.808039	-73.076527	Stamford	Vermont
+05767	43.871952	-72.831850	Rochester	Vermont
+05155	43.082408	-72.916030	South Londonderry	Vermont
+05441	44.805565	-72.720038	Bakersfield	Vermont
+05343	43.103091	-72.820260	Jamaica	Vermont
+05161	43.321441	-72.802903	Weston	Vermont
+05072	43.898928	-72.372069	Strafford	Vermont
+05359	43.153015	-72.715939	West Townshend	Vermont
+05681	44.458978	-72.373069	Woodbury	Vermont
+05833	44.842482	-71.959591	East Charleston	Vermont
+05853	44.888401	-71.939340	Morgan	Vermont
+05079	43.956765	-72.326539	Vershire	Vermont
+05649	44.175508	-72.358230	East Barre	Vermont
+05076	44.141854	-72.230959	Topsham	Vermont
+05146	43.184944	-72.633968	Grafton	Vermont
+05471	44.827981	-72.577366	Montgomery Center	Vermont
+05340	43.158051	-72.931400	Bondville	Vermont
+05035	43.611670	-72.686400	Bridgewater Corners	Vermont
+05358	42.758727	-72.722922	West Halifax	Vermont
+05351	42.930092	-72.727101	South Newfane	Vermont
+05360	43.020547	-72.908302	West Wardsboro	Vermont
+05903	44.935092	-71.588008	Canaan	Vermont
+05653	44.714847	-72.472560	Eden Mills	Vermont
+05772	43.750797	-72.760914	Stockbridge	Vermont
+05874	44.883431	-72.484844	Westfield	Vermont
+05046	44.256409	-72.229976	Groton	Vermont
+05847	44.785096	-72.467592	Lowell	Vermont
+05669	44.064618	-72.729887	Roxbury	Vermont
+05737	43.773202	-72.906334	Chittenden	Vermont
+05841	44.607037	-72.288766	Greensboro	Vermont
+05846	44.825340	-71.805750	Island Pond	Vermont
+05152	43.280281	-72.928421	Peru	Vermont
+05766	43.984944	-72.996753	Ripton	Vermont
+05748	43.905480	-72.921823	Hancock	Vermont
+05442	44.758843	-72.677684	Belvidere Center	Vermont
+05252	43.081011	-73.068759	East Arlington	Vermont
+05056	43.506770	-72.704195	Plymouth	Vermont
+05837	44.662848	-71.804948	East Haven	Vermont
+05858	44.531464	-71.832289	North Concord	Vermont
+05747	44.005499	-72.841199	Granville	Vermont
+05905	44.701940	-71.679079	Guildhall	Vermont
+05840	44.597632	-71.747466	Granby	Vermont
+05907	44.946913	-71.781954	Norton	Vermont
