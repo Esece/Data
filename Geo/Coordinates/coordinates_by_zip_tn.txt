@@ -1,0 +1,610 @@
+37916	35.953657	-83.933148	Knoxville	Tennessee
+37614	36.301650	-82.370809	Johnson City	Tennessee
+37212	36.133973	-86.801471	Nashville	Tennessee
+37219	36.166457	-86.782946	Nashville	Tennessee
+37203	36.149926	-86.789227	Nashville	Tennessee
+37917	36.001410	-83.911674	Knoxville	Tennessee
+38138	35.088600	-89.804570	Germantown	Tennessee
+38135	35.236895	-89.854890	Memphis	Tennessee
+38139	35.079657	-89.755097	Germantown	Tennessee
+37204	36.106277	-86.773949	Nashville	Tennessee
+37205	36.103877	-86.869505	Nashville	Tennessee
+37220	36.068452	-86.793116	Nashville	Tennessee
+37221	36.063625	-86.977097	Nashville	Tennessee
+37804	35.789271	-83.893628	Maryville	Tennessee
+37701	35.792740	-83.986067	Alcoa	Tennessee
+37351	35.104194	-85.264615	Lupton City	Tennessee
+37744	36.182885	-82.740218	Greeneville	Tennessee
+38105	35.150642	-90.033969	Memphis	Tennessee
+38104	35.132422	-90.004640	Memphis	Tennessee
+38103	35.184023	-90.077284	Memphis	Tennessee
+38115	35.053329	-89.862806	Memphis	Tennessee
+38116	35.032339	-90.008916	Memphis	Tennessee
+38114	35.096438	-89.985644	Memphis	Tennessee
+38112	35.147662	-89.976392	Memphis	Tennessee
+37919	35.917290	-84.004214	Knoxville	Tennessee
+37918	36.056202	-83.916890	Knoxville	Tennessee
+38111	35.110521	-89.943501	Memphis	Tennessee
+38108	35.176666	-89.967917	Memphis	Tennessee
+38109	35.040014	-90.163407	Memphis	Tennessee
+38126	35.126608	-90.042212	Memphis	Tennessee
+38128	35.226047	-89.925072	Memphis	Tennessee
+38127	35.257534	-90.049395	Memphis	Tennessee
+38107	35.170636	-90.022027	Memphis	Tennessee
+38106	35.104113	-90.090113	Memphis	Tennessee
+37201	36.165550	-86.777679	Nashville	Tennessee
+37206	36.180771	-86.730153	Nashville	Tennessee
+38122	35.158183	-89.921806	Memphis	Tennessee
+38120	35.124974	-89.858293	Memphis	Tennessee
+38125	35.027321	-89.790249	Memphis	Tennessee
+37208	36.178567	-86.805263	Nashville	Tennessee
+37207	36.238944	-86.779883	Nashville	Tennessee
+37402	35.046090	-85.314720	Chattanooga	Tennessee
+37415	35.127353	-85.282509	Chattanooga	Tennessee
+37211	36.066734	-86.722609	Nashville	Tennessee
+37915	35.971478	-83.899274	Knoxville	Tennessee
+37912	36.006879	-83.984421	Knoxville	Tennessee
+38141	35.016729	-89.858616	Memphis	Tennessee
+37216	36.216583	-86.726843	Nashville	Tennessee
+37217	36.113155	-86.667020	Nashville	Tennessee
+37215	36.080535	-86.833278	Nashville	Tennessee
+37902	35.963879	-83.919923	Knoxville	Tennessee
+37909	35.947867	-84.019431	Knoxville	Tennessee
+38117	35.115293	-89.905382	Memphis	Tennessee
+37921	35.978277	-84.001874	Knoxville	Tennessee
+37922	35.888230	-84.068326	Knoxville	Tennessee
+37404	35.029159	-85.274304	Chattanooga	Tennessee
+37421	35.031635	-85.147624	Chattanooga	Tennessee
+37403	35.046837	-85.295350	Chattanooga	Tennessee
+38119	35.078410	-89.844431	Memphis	Tennessee
+38118	35.032631	-89.932532	Memphis	Tennessee
+37412	34.997030	-85.228921	Chattanooga	Tennessee
+37411	35.025867	-85.230184	Chattanooga	Tennessee
+37410	35.001899	-85.314220	Chattanooga	Tennessee
+37409	35.000173	-85.334570	Chattanooga	Tennessee
+37407	35.001943	-85.289724	Chattanooga	Tennessee
+37406	35.075375	-85.242970	Chattanooga	Tennessee
+37408	35.029019	-85.310872	Chattanooga	Tennessee
+38134	35.174969	-89.859874	Memphis	Tennessee
+37923	35.927634	-84.080719	Knoxville	Tennessee
+37931	35.976399	-84.125445	Knoxville	Tennessee
+37665	36.579763	-82.571771	Kingsport	Tennessee
+37394	35.538301	-85.860898	Viola	Tennessee
+37210	36.149265	-86.732957	Nashville	Tennessee
+37209	36.150239	-86.966459	Nashville	Tennessee
+37152	36.396966	-86.766777	Ridgetop	Tennessee
+37115	36.254221	-86.699060	Madison	Tennessee
+37138	36.241789	-86.619937	Old Hickory	Tennessee
+38018	35.155860	-89.765331	Cordova	Tennessee
+38133	35.215207	-89.787809	Memphis	Tennessee
+37214	36.197795	-86.673345	Nashville	Tennessee
+37013	36.037730	-86.640276	Antioch	Tennessee
+37027	36.005063	-86.782005	Brentwood	Tennessee
+37416	35.099412	-85.173466	Chattanooga	Tennessee
+37076	36.161849	-86.576611	Hermitage	Tennessee
+37075	36.346217	-86.605248	Hendersonville	Tennessee
+38050	35.815867	-89.222818	Maury City	Tennessee
+37684	36.308302	-82.376077	Mountain Home	Tennessee
+37343	35.166618	-85.212288	Hixson	Tennessee
+37042	36.567946	-87.415508	Clarksville	Tennessee
+37604	36.293242	-82.384084	Johnson City	Tennessee
+37601	36.331933	-82.322687	Johnson City	Tennessee
+37130	35.884923	-86.317204	Murfreesboro	Tennessee
+37664	36.514170	-82.504747	Kingsport	Tennessee
+37663	36.463754	-82.487995	Kingsport	Tennessee
+37645	36.562380	-82.663683	Mount Carmel	Tennessee
+37086	36.021924	-86.558356	La Vergne	Tennessee
+37814	36.233235	-83.337421	Morristown	Tennessee
+37849	36.054313	-84.046042	Powell	Tennessee
+37167	35.957875	-86.536490	Smyrna	Tennessee
+37660	36.526722	-82.571648	Kingsport	Tennessee
+37311	35.104025	-84.920821	Cleveland	Tennessee
+37350	35.002199	-85.358237	Lookout Mountain	Tennessee
+38036	35.315491	-89.622040	Gallaway	Tennessee
+37920	35.908797	-83.869045	Knoxville	Tennessee
+37914	35.983165	-83.795797	Knoxville	Tennessee
+38058	35.462729	-89.798722	Munford	Tennessee
+37067	35.911307	-86.779248	Franklin	Tennessee
+37129	35.929834	-86.450822	Murfreesboro	Tennessee
+37719	36.029139	-84.428649	Coalfield	Tennessee
+38157	35.114207	-89.891661	Memphis	Tennessee
+37615	36.402411	-82.457202	Johnson City	Tennessee
+37828	36.197405	-84.068809	Norris	Tennessee
+37938	36.124222	-83.939377	Knoxville	Tennessee
+37312	35.232461	-84.879821	Cleveland	Tennessee
+38017	35.066971	-89.648939	Collierville	Tennessee
+37932	35.917328	-84.198756	Knoxville	Tennessee
+38501	36.226045	-85.533285	Cookeville	Tennessee
+37218	36.209917	-86.889939	Nashville	Tennessee
+37069	35.990070	-86.918069	Franklin	Tennessee
+37341	35.210592	-85.072961	Harrison	Tennessee
+37128	35.767761	-86.447216	Murfreesboro	Tennessee
+37072	36.352140	-86.746651	Goodlettsville	Tennessee
+37863	35.786538	-83.561703	Pigeon Forge	Tennessee
+37845	36.088304	-84.446248	Petros	Tennessee
+37830	35.971209	-84.283356	Oak Ridge	Tennessee
+37188	36.479727	-86.680363	White House	Tennessee
+37040	36.516175	-87.338010	Clarksville	Tennessee
+37924	36.036612	-83.802264	Knoxville	Tennessee
+37777	35.815169	-84.050164	Louisville	Tennessee
+38305	35.700182	-88.776179	Jackson	Tennessee
+37363	35.119527	-85.055780	Ooltewah	Tennessee
+37716	36.092385	-84.167677	Clinton	Tennessee
+37877	36.148521	-83.399897	Talbott	Tennessee
+37066	36.399928	-86.461600	Gallatin	Tennessee
+37760	36.103582	-83.466081	Jefferson City	Tennessee
+37122	36.182639	-86.480715	Mount Juliet	Tennessee
+37757	36.309990	-84.149678	Jacksboro	Tennessee
+37043	36.490923	-87.240549	Clarksville	Tennessee
+37801	35.670863	-84.078663	Maryville	Tennessee
+37813	36.175136	-83.257023	Morristown	Tennessee
+37620	36.549600	-82.094050	Bristol	Tennessee
+37803	35.660842	-83.981389	Maryville	Tennessee
+37228	36.196291	-86.803583	Nashville	Tennessee
+37771	35.838371	-84.316931	Lenoir City	Tennessee
+37643	36.376052	-82.138593	Elizabethton	Tennessee
+37127	35.783469	-86.324201	Murfreesboro	Tennessee
+37405	35.124186	-85.405866	Chattanooga	Tennessee
+38301	35.588164	-88.853395	Jackson	Tennessee
+37764	35.971711	-83.617997	Kodak	Tennessee
+37617	36.529615	-82.374255	Blountville	Tennessee
+37772	35.791140	-84.218553	Lenoir City	Tennessee
+37642	36.526378	-82.723545	Church Hill	Tennessee
+38004	35.433055	-89.815466	Atoka	Tennessee
+37853	35.836719	-83.910713	Rockford	Tennessee
+37865	35.850344	-83.734626	Seymour	Tennessee
+37073	36.432426	-86.816630	Greenbrier	Tennessee
+38378	35.764199	-88.685463	Spring Creek	Tennessee
+37323	35.096183	-84.816533	Cleveland	Tennessee
+37379	35.291025	-85.189304	Soddy Daisy	Tennessee
+37871	36.041110	-83.679527	Strawberry Plains	Tennessee
+37686	36.430622	-82.333061	Piney Flats	Tennessee
+37769	36.217207	-84.156243	Lake City	Tennessee
+37721	36.130591	-83.814869	Corryton	Tennessee
+37064	35.884862	-86.954138	Franklin	Tennessee
+37737	35.757928	-84.117987	Friendsville	Tennessee
+37862	35.783114	-83.608012	Sevierville	Tennessee
+37087	36.263321	-86.268888	Lebanon	Tennessee
+37388	35.351838	-86.188905	Tullahoma	Tennessee
+37213	36.166795	-86.766631	Nashville	Tennessee
+37618	36.464478	-82.211253	Bluff City	Tennessee
+37330	35.288092	-86.125985	Estill Springs	Tennessee
+37331	35.324033	-84.528837	Etowah	Tennessee
+37377	35.199511	-85.348092	Signal Mountain	Tennessee
+37659	36.275517	-82.498693	Jonesborough	Tennessee
+37730	36.550319	-83.973383	Eagan	Tennessee
+37748	35.945651	-84.516338	Harriman	Tennessee
+38024	36.039610	-89.383342	Dyersburg	Tennessee
+38401	35.626371	-87.024484	Columbia	Tennessee
+37890	36.085282	-83.298857	White Pine	Tennessee
+37303	35.434130	-84.646612	Athens	Tennessee
+37821	35.975170	-83.195566	Newport	Tennessee
+37774	35.728603	-84.356131	Loudon	Tennessee
+37694	36.381153	-82.273310	Watauga	Tennessee
+37347	35.065845	-85.621664	Jasper	Tennessee
+38053	35.365242	-89.948330	Millington	Tennessee
+37806	36.084693	-83.727986	Mascot	Tennessee
+37732	36.324760	-84.610481	Elgin	Tennessee
+37082	36.087432	-87.120400	Kingston Springs	Tennessee
+37302	35.004854	-85.009676	Apison	Tennessee
+37419	35.031519	-85.392888	Chattanooga	Tennessee
+37763	35.821331	-84.497600	Kingston	Tennessee
+37080	36.326612	-86.919550	Joelton	Tennessee
+38002	35.292085	-89.702262	Arlington	Tennessee
+37708	36.329769	-83.365245	Bean Station	Tennessee
+37860	36.245936	-83.183526	Russellville	Tennessee
+37146	36.404175	-87.035720	Pleasant View	Tennessee
+37321	35.506607	-85.005429	Dayton	Tennessee
+37745	36.278033	-82.820602	Greeneville	Tennessee
+37766	36.399393	-84.065663	La Follette	Tennessee
+38358	35.922616	-88.756088	Milan	Tennessee
+37172	36.548385	-86.849451	Springfield	Tennessee
+38506	36.186907	-85.422641	Cookeville	Tennessee
+37725	35.996106	-83.399349	Dandridge	Tennessee
+38011	35.463950	-89.718089	Brighton	Tennessee
+37062	35.990900	-87.135993	Fairview	Tennessee
+37318	35.177111	-85.974623	Cowan	Tennessee
+37724	36.550819	-83.706353	Cumberland Gap	Tennessee
+37135	35.911586	-86.678895	Nolensville	Tennessee
+37874	35.596056	-84.457013	Sweetwater	Tennessee
+37048	36.493057	-86.596530	Cottontown	Tennessee
+37189	36.278598	-86.831464	Whites Creek	Tennessee
+37148	36.566636	-86.495247	Portland	Tennessee
+37690	36.248246	-82.560777	Telford	Tennessee
+37354	35.494715	-84.355914	Madisonville	Tennessee
+37754	36.128998	-84.034589	Heiskell	Tennessee
+37160	35.455761	-86.484563	Shelbyville	Tennessee
+38237	36.362820	-88.833793	Martin	Tennessee
+37840	36.068046	-84.411074	Oliver Springs	Tennessee
+37174	35.719863	-86.898467	Spring Hill	Tennessee
+37055	36.077149	-87.442912	Dickson	Tennessee
+37353	35.124699	-84.982033	Mc Donald	Tennessee
+37650	36.087629	-82.468565	Erwin	Tennessee
+37398	35.174413	-86.149098	Winchester	Tennessee
+37179	35.812192	-86.910297	Thompsons Station	Tennessee
+37762	36.560646	-84.084837	Jellico	Tennessee
+37355	35.513102	-86.086055	Manchester	Tennessee
+37752	36.553211	-83.545062	Harrogate	Tennessee
+38343	35.831994	-88.928257	Humboldt	Tennessee
+37807	36.251202	-83.832611	Maynardville	Tennessee
+37876	35.859133	-83.478278	Sevierville	Tennessee
+37015	36.298099	-87.069313	Ashland City	Tennessee
+37143	36.143320	-87.040249	Pegram	Tennessee
+38019	35.555600	-89.615647	Covington	Tennessee
+37656	36.401300	-82.630518	Fall Branch	Tennessee
+37641	36.224742	-82.679165	Chuckey	Tennessee
+37035	36.387654	-87.126655	Chapmansboro	Tennessee
+38242	36.306931	-88.337585	Paris	Tennessee
+37743	36.070523	-82.834302	Greeneville	Tennessee
+38362	35.728541	-88.788855	Oakfield	Tennessee
+37820	36.085171	-83.566057	New Market	Tennessee
+37616	36.222507	-82.751600	Afton	Tennessee
+38555	35.915879	-85.085268	Crossville	Tennessee
+37755	36.423752	-84.531567	Helenwood	Tennessee
+37030	36.278400	-85.947644	Carthage	Tennessee
+37049	36.562101	-86.682142	Cross Plains	Tennessee
+37779	36.212369	-83.753221	Luttrell	Tennessee
+37191	36.494075	-87.529654	Woodlawn	Tennessee
+37336	35.308865	-84.931502	Georgetown	Tennessee
+37356	35.225646	-85.823552	Monteagle	Tennessee
+37705	36.228674	-84.008690	Andersonville	Tennessee
+37891	36.285246	-83.143651	Whitesburg	Tennessee
+37818	36.228866	-82.943676	Mosheim	Tennessee
+37329	35.397961	-84.459853	Englewood	Tennessee
+38261	36.429231	-89.102770	Union City	Tennessee
+37110	35.662745	-85.761436	Mc Minnville	Tennessee
+37825	36.415885	-83.679104	New Tazewell	Tennessee
+37029	36.048826	-87.261944	Burns	Tennessee
+37023	36.586188	-87.803845	Big Rock	Tennessee
+38060	35.209347	-89.505468	Oakland	Tennessee
+37381	35.684024	-84.831295	Spring City	Tennessee
+37091	35.489239	-86.767472	Lewisburg	Tennessee
+37681	36.255659	-82.623602	Limestone	Tennessee
+37854	35.887063	-84.733427	Rockwood	Tennessee
+37025	35.949371	-87.304142	Bon Aqua	Tennessee
+37310	35.224262	-84.717199	Charleston	Tennessee
+38132	35.071052	-89.994613	Memphis	Tennessee
+37886	35.745379	-83.801864	Walland	Tennessee
+38028	35.228643	-89.587447	Eads	Tennessee
+38565	36.269926	-85.010148	Grimsley	Tennessee
+37334	35.154442	-86.584340	Fayetteville	Tennessee
+37153	35.766633	-86.553056	Rockvale	Tennessee
+37307	35.163937	-84.625932	Benton	Tennessee
+37098	35.872377	-87.319372	Lyles	Tennessee
+38257	36.456475	-88.877060	South Fulton	Tennessee
+37683	36.467916	-81.806895	Mountain City	Tennessee
+37658	36.254782	-82.149145	Hampton	Tennessee
+37857	36.422635	-82.949064	Rogersville	Tennessee
+37742	35.678980	-84.174441	Greenback	Tennessee
+37134	36.003814	-87.954956	New Johnsonville	Tennessee
+37186	36.586540	-86.222637	Westmoreland	Tennessee
+37811	36.351328	-83.221743	Mooresburg	Tennessee
+37711	36.282918	-83.026495	Bulls Gap	Tennessee
+37166	35.923618	-85.796107	Smithville	Tennessee
+37083	36.535354	-86.011048	Lafayette	Tennessee
+37709	36.176795	-83.659951	Blaine	Tennessee
+37887	36.094836	-84.565849	Wartburg	Tennessee
+38481	35.026068	-87.488951	Saint Joseph	Tennessee
+38464	35.290794	-87.433722	Lawrenceburg	Tennessee
+37692	36.184458	-82.303732	Unicoi	Tennessee
+38375	35.164376	-88.587087	Selmer	Tennessee
+37180	35.624663	-86.584942	Unionville	Tennessee
+37361	35.097299	-84.692475	Ocoee	Tennessee
+38570	36.382270	-85.313517	Livingston	Tennessee
+37187	36.144149	-87.197891	White Bluff	Tennessee
+38355	35.773087	-88.759597	Medina	Tennessee
+38544	36.109472	-85.656503	Baxter	Tennessee
+38320	36.052072	-88.116701	Camden	Tennessee
+37090	36.111740	-86.299189	Lebanon	Tennessee
+38351	35.670883	-88.399499	Lexington	Tennessee
+37387	35.295664	-85.758745	Tracy City	Tennessee
+37843	36.012411	-83.047891	Parrottsville	Tennessee
+37861	36.240743	-83.513713	Rutledge	Tennessee
+38579	35.827774	-85.550783	Quebeck	Tennessee
+37362	35.040963	-84.738207	Oldfort	Tennessee
+38201	36.125312	-88.528535	Mc Kenzie	Tennessee
+38317	36.057937	-88.263813	Bruceton	Tennessee
+38001	35.816186	-89.149391	Alamo	Tennessee
+38478	35.210923	-87.010869	Pulaski	Tennessee
+38563	36.229735	-86.049263	Gordonsville	Tennessee
+38363	35.685853	-88.100268	Parsons	Tennessee
+38008	35.247215	-89.001822	Bolivar	Tennessee
+37326	35.032250	-84.377420	Ducktown	Tennessee
+37034	35.641822	-86.692242	Chapel Hill	Tennessee
+37031	36.366154	-86.292718	Castalian Springs	Tennessee
+37370	35.357756	-84.695738	Riceville	Tennessee
+38559	35.797770	-85.487902	Doyle	Tennessee
+38474	35.517968	-87.226224	Mount Pleasant	Tennessee
+37052	36.368892	-87.405159	Cunningham	Tennessee
+37324	35.239373	-85.991204	Decherd	Tennessee
+38327	35.240502	-88.289088	Crump	Tennessee
+37809	36.156247	-83.030688	Midway	Tennessee
+37826	35.558727	-84.594197	Niota	Tennessee
+38015	35.556935	-89.823415	Burlison	Tennessee
+37873	36.526270	-82.843047	Surgoinsville	Tennessee
+37074	36.426436	-86.152749	Hartsville	Tennessee
+37397	35.212948	-85.517337	Whitwell	Tennessee
+37375	35.150642	-85.890914	Sewanee	Tennessee
+37333	35.154599	-84.331684	Farner	Tennessee
+38258	36.032792	-88.619287	Trezevant	Tennessee
+38558	36.054837	-84.922626	Crossville	Tennessee
+38330	36.070503	-89.034414	Dyer	Tennessee
+38340	35.401322	-88.683250	Henderson	Tennessee
+37308	35.342635	-84.993756	Birchwood	Tennessee
+38063	35.743099	-89.615785	Ripley	Tennessee
+38021	35.877711	-89.172962	Crockett Mills	Tennessee
+37313	35.362568	-85.698606	Coalmont	Tennessee
+38225	36.324019	-88.688992	Dresden	Tennessee
+37687	36.179017	-82.092629	Roan Mountain	Tennessee
+37373	35.399958	-85.110152	Sale Creek	Tennessee
+37012	36.075985	-86.000420	Alexandria	Tennessee
+38235	36.005743	-88.568793	Mc Lemoresville	Tennessee
+38382	35.968463	-88.984393	Trenton	Tennessee
+38469	35.071484	-87.419694	Loretto	Tennessee
+38456	35.338613	-87.265190	Ethridge	Tennessee
+37722	35.814831	-83.202699	Cosby	Tennessee
+37352	35.277520	-86.353027	Lynchburg	Tennessee
+37014	35.863935	-86.651934	Arrington	Tennessee
+37846	35.679307	-84.481891	Philadelphia	Tennessee
+37691	36.371662	-81.756681	Trade	Tennessee
+37322	35.499366	-84.809587	Decatur	Tennessee
+37360	35.437596	-86.254339	Normandy	Tennessee
+38012	35.610362	-89.274004	Brownsville	Tennessee
+38583	35.936185	-85.429518	Sparta	Tennessee
+37335	35.068898	-86.403992	Flintville	Tennessee
+37190	35.832371	-86.056687	Woodbury	Tennessee
+38059	36.115718	-89.239733	Newbern	Tennessee
+38451	35.460534	-86.992239	Culleoka	Tennessee
+37870	36.470673	-83.840995	Speedwell	Tennessee
+37325	35.251371	-84.591697	Delano	Tennessee
+38372	35.165582	-88.149011	Savannah	Tennessee
+38310	35.256558	-88.404209	Adamsville	Tennessee
+38366	35.479000	-88.741273	Pinson	Tennessee
+38344	35.978164	-88.424138	Huntingdon	Tennessee
+37340	35.021988	-85.519895	Guild	Tennessee
+37879	36.499169	-83.451477	Tazewell	Tennessee
+37036	36.238196	-87.278159	Charlotte	Tennessee
+37317	35.016471	-84.425492	Copperhill	Tennessee
+37037	35.703085	-86.351273	Christiana	Tennessee
+38260	36.360777	-89.200363	Troy	Tennessee
+38326	35.048371	-88.286046	Counce	Tennessee
+38547	36.149648	-86.007626	Brush Creek	Tennessee
+37715	36.576216	-83.962066	Clairfield	Tennessee
+37022	36.512878	-86.316197	Bethpage	Tennessee
+38545	36.231467	-85.661180	Bloomington Springs	Tennessee
+38075	35.381986	-89.135495	Whiteville	Tennessee
+37309	35.301912	-84.741487	Calhoun	Tennessee
+37061	36.276541	-87.663027	Erin	Tennessee
+38229	36.221508	-88.603480	Gleason	Tennessee
+38347	35.464395	-88.497750	Jacks Creek	Tennessee
+37841	36.507620	-84.529158	Oneida	Tennessee
+37880	35.686732	-84.661507	Ten Mile	Tennessee
+37085	35.954543	-86.282994	Lascassas	Tennessee
+37810	36.177664	-83.101960	Mohawk	Tennessee
+38256	36.301175	-88.109894	Springville	Tennessee
+38369	36.131924	-88.942668	Rutherford	Tennessee
+38006	35.693693	-89.089516	Bells	Tennessee
+37140	35.860974	-87.660782	Only	Tennessee
+37060	35.745256	-86.637365	Eagleville	Tennessee
+38359	35.363576	-88.359880	Milledgeville	Tennessee
+37714	36.284145	-84.264573	Caryville	Tennessee
+38220	35.995939	-88.664609	Atwood	Tennessee
+38316	36.069862	-88.816891	Bradford	Tennessee
+38255	36.238355	-88.859211	Sharon	Tennessee
+38342	36.071740	-88.288871	Hollow Rock	Tennessee
+37380	35.070937	-85.754605	South Pittsburg	Tennessee
+38023	35.474533	-89.964133	Drummonds	Tennessee
+38468	35.123560	-87.286661	Leoma	Tennessee
+37059	35.982789	-85.919165	Dowelltown	Tennessee
+37046	35.770700	-86.729990	College Grove	Tennessee
+38462	35.527425	-87.543752	Hohenwald	Tennessee
+37680	36.584618	-81.757046	Laurel Bloomery	Tennessee
+38552	36.201821	-85.818053	Chestnut Mound	Tennessee
+38549	36.562131	-85.149087	Byrdstown	Tennessee
+38337	35.791474	-89.018613	Gadsden	Tennessee
+38562	36.352921	-85.633074	Gainesboro	Tennessee
+38483	35.440767	-87.333653	Summertown	Tennessee
+37888	36.312301	-83.597917	Washburn	Tennessee
+37178	36.321820	-87.780974	Tennessee Ridge	Tennessee
+37327	35.443552	-85.415350	Dunlap	Tennessee
+37713	36.081454	-83.134295	Bybee	Tennessee
+38449	35.040439	-86.818172	Ardmore	Tennessee
+38581	35.741040	-85.620827	Rock Island	Tennessee
+37332	35.600587	-84.949552	Evensville	Tennessee
+37339	35.367471	-85.626123	Gruetli Laager	Tennessee
+38041	35.659640	-89.704489	Henning	Tennessee
+38230	36.155265	-88.768315	Greenfield	Tennessee
+37142	36.412077	-87.502278	Palmyra	Tennessee
+38551	36.555172	-85.503086	Celina	Tennessee
+37032	36.519743	-87.021740	Cedar Hill	Tennessee
+37141	36.614143	-86.698360	Orlinda	Tennessee
+37051	36.303018	-87.405856	Cumberland Furnace	Tennessee
+37171	36.365289	-87.301805	Southside	Tennessee
+37328	35.036942	-86.357374	Elora	Tennessee
+38079	36.413327	-89.469896	Tiptonville	Tennessee
+37848	36.241221	-83.677489	Powder Springs	Tennessee
+37316	34.998420	-84.718033	Conasauga	Tennessee
+38574	36.143643	-85.229289	Monterey	Tennessee
+38232	36.343792	-89.322002	Hornbeak	Tennessee
+38460	35.093138	-87.151103	Goodspring	Tennessee
+38357	35.044826	-88.415338	Michie	Tennessee
+38553	36.209522	-85.008002	Clarkrange	Tennessee
+38037	35.794739	-89.393020	Gates	Tennessee
+37150	36.541483	-85.810410	Red Boiling Springs	Tennessee
+38374	35.509391	-88.223621	Scotts Hill	Tennessee
+38313	35.604517	-88.621051	Beech Bluff	Tennessee
+38049	35.390333	-89.538210	Mason	Tennessee
+37342	35.391968	-85.948000	Hillsboro	Tennessee
+37184	36.076402	-86.143136	Watertown	Tennessee
+37018	35.630679	-86.211258	Beechgrove	Tennessee
+37345	35.036473	-86.242930	Huntland	Tennessee
+37028	36.634248	-87.854188	Bumpus Mills	Tennessee
+38587	35.864761	-85.613998	Walling	Tennessee
+37026	35.695594	-86.104843	Bradyville	Tennessee
+37058	36.444339	-87.876719	Dover	Tennessee
+37869	36.514752	-83.244970	Sneedville	Tennessee
+37829	36.001020	-84.617381	Oakdale	Tennessee
+38488	35.041960	-86.670916	Taft	Tennessee
+37010	36.575109	-87.101199	Adams	Tennessee
+37019	35.391058	-86.700557	Belfast	Tennessee
+37016	35.956367	-86.091671	Auburntown	Tennessee
+37118	35.923474	-86.192518	Milton	Tennessee
+37357	35.593332	-85.921699	Morrison	Tennessee
+38556	36.406761	-84.918949	Jamestown	Tennessee
+38068	35.271633	-89.348223	Somerville	Tennessee
+38370	35.382713	-88.239356	Saltillo	Tennessee
+38473	35.026020	-87.161665	Minor Hill	Tennessee
+38379	35.164501	-88.429150	Stantonville	Tennessee
+38560	36.226979	-85.867548	Elmwood	Tennessee
+38334	35.349837	-88.586353	Finger	Tennessee
+38040	35.879972	-89.484717	Halls	Tennessee
+38066	35.076505	-89.534306	Rossville	Tennessee
+37047	35.318555	-86.839155	Cornersville	Tennessee
+38390	35.837589	-88.370824	Yuma	Tennessee
+37020	35.634389	-86.407093	Bell Buckle	Tennessee
+37185	36.064237	-87.857679	Waverly	Tennessee
+38482	35.779069	-87.152649	Santa Fe	Tennessee
+38339	35.054630	-88.511153	Guys	Tennessee
+37657	36.009624	-82.569201	Flag Pond	Tennessee
+37183	35.494486	-86.303180	Wartrace	Tennessee
+37729	36.506667	-84.028787	Duff	Tennessee
+38368	35.510913	-88.348130	Reagan	Tennessee
+38315	35.269898	-88.631695	Bethel Springs	Tennessee
+37338	35.427296	-85.216944	Graysville	Tennessee
+38367	35.052128	-88.626992	Ramer	Tennessee
+38567	36.135578	-85.916750	Hickman	Tennessee
+38457	35.029008	-87.287926	Five Points	Tennessee
+37033	35.765332	-87.509315	Centerville	Tennessee
+37640	36.336067	-81.978182	Butler	Tennessee
+38345	35.598180	-88.505481	Huron	Tennessee
+37365	35.377809	-85.547658	Palmer	Tennessee
+37367	35.639774	-85.211962	Pikeville	Tennessee
+38231	36.218331	-88.412613	Henry	Tennessee
+38034	35.911414	-89.236962	Friendship	Tennessee
+37149	35.802771	-86.195165	Readyville	Tennessee
+37050	36.371745	-87.624045	Cumberland City	Tennessee
+38222	36.438223	-88.183701	Buchanan	Tennessee
+38233	36.200817	-89.041594	Kenton	Tennessee
+38580	36.277339	-85.290851	Rickman	Tennessee
+37348	35.121806	-86.431102	Kelso	Tennessee
+38352	35.529455	-88.533846	Luray	Tennessee
+37866	36.357963	-83.841285	Sharps Chapel	Tennessee
+38057	35.061089	-89.364782	Moscow	Tennessee
+38425	35.415637	-87.958243	Clifton	Tennessee
+38251	36.458930	-88.355755	Puryear	Tennessee
+38477	35.064923	-86.993079	Prospect	Tennessee
+38376	35.130665	-88.347373	Shiloh	Tennessee
+37057	36.418109	-86.029944	Dixon Springs	Tennessee
+37765	36.577861	-83.068082	Kyles Ford	Tennessee
+37396	35.012139	-85.482955	Whiteside	Tennessee
+38259	36.199152	-89.183658	Trimble	Tennessee
+37819	36.533309	-84.230301	Newcomb	Tennessee
+38371	35.424293	-88.295085	Sardis	Tennessee
+38582	36.094825	-85.750823	Silver Point	Tennessee
+37391	35.076070	-84.435668	Turtletown	Tennessee
+38328	35.668624	-88.216010	Darden	Tennessee
+38356	35.438418	-88.893810	Medon	Tennessee
+37305	35.470614	-85.683974	Beersheba Springs	Tennessee
+38573	36.483994	-85.202603	Monroe	Tennessee
+38575	36.553145	-85.629295	Moss	Tennessee
+37885	35.512780	-84.115364	Vonore	Tennessee
+38329	35.536869	-88.107281	Decaturville	Tennessee
+37881	36.406476	-83.342508	Thorn Hill	Tennessee
+37892	36.553175	-84.363165	Winfield	Tennessee
+37145	36.377361	-85.906530	Pleasant Shade	Tennessee
+38240	36.245091	-89.318119	Obion	Tennessee
+37385	35.336793	-84.228286	Tellico Plains	Tennessee
+37101	36.054263	-87.639917	Mc Ewen	Tennessee
+38052	35.090254	-88.917801	Middleton	Tennessee
+38569	36.107137	-85.856058	Lancaster	Tennessee
+38568	36.434814	-85.470191	Hilham	Tennessee
+38039	35.067070	-89.182722	Grand Junction	Tennessee
+38221	36.235601	-88.037648	Big Sandy	Tennessee
+38541	36.521902	-85.342550	Allons	Tennessee
+38381	35.357200	-88.971358	Toone	Tennessee
+38450	35.187288	-87.771406	Collinwood	Tennessee
+38472	35.376649	-87.044685	Lynnville	Tennessee
+37753	35.822979	-83.100424	Hartford	Tennessee
+38321	35.845504	-88.532266	Cedar Grove	Tennessee
+37301	35.417716	-85.793529	Altamont	Tennessee
+37095	35.905050	-86.002492	Liberty	Tennessee
+37181	36.244403	-87.505833	Vanleer	Tennessee
+37151	36.329392	-86.038012	Riddleton	Tennessee
+37137	35.884160	-87.505366	Nunnelly	Tennessee
+38476	35.844660	-87.215746	Primm Springs	Tennessee
+38076	35.136965	-89.446056	Williston	Tennessee
+37079	36.506966	-87.652500	Indian Mound	Tennessee
+37872	36.269542	-84.674828	Sunbright	Tennessee
+37756	36.300248	-84.412704	Huntsville	Tennessee
+38485	35.338145	-87.770726	Waynesboro	Tennessee
+38548	36.171635	-85.772273	Buffalo Valley	Tennessee
+37847	36.419979	-84.269855	Pioneer	Tennessee
+38504	36.386889	-84.739801	Allardt	Tennessee
+38554	36.252407	-85.164830	Crawford	Tennessee
+38388	35.773219	-88.328352	Wildersville	Tennessee
+37738	35.671239	-83.474798	Gatlinburg	Tennessee
+37144	35.300002	-86.638140	Petersburg	Tennessee
+38463	35.073883	-87.615241	Iron City	Tennessee
+38585	35.690323	-85.416390	Spencer	Tennessee
+38333	36.132111	-87.985288	Eva	Tennessee
+38392	35.467648	-89.042302	Mercer	Tennessee
+37366	35.328323	-85.851378	Pelham	Tennessee
+37852	36.330224	-84.584598	Robbins	Tennessee
+38046	35.050280	-89.224950	La Grange	Tennessee
+38348	35.871585	-88.646506	Lavinia	Tennessee
+38332	35.414289	-88.417498	Enville	Tennessee
+38391	35.546571	-88.992177	Denmark	Tennessee
+38044	35.199329	-88.809547	Hornsby	Tennessee
+37359	35.199368	-86.415696	Mulberry	Tennessee
+37374	35.168410	-85.646585	Sequatchie	Tennessee
+37306	35.098113	-86.154782	Belvidere	Tennessee
+38361	35.322268	-88.301895	Morris Chapel	Tennessee
+38042	35.145160	-89.137403	Hickory Valley	Tennessee
+37770	36.152396	-84.666787	Lancing	Tennessee
+37688	36.545442	-81.882882	Shady Valley	Tennessee
+37097	35.779865	-87.823480	Lobelville	Tennessee
+38067	35.081609	-89.041788	Saulsbury	Tennessee
+38461	35.596889	-87.338462	Hampshire	Tennessee
+38069	35.465338	-89.354740	Stanton	Tennessee
+38453	35.123141	-86.807548	Dellrose	Tennessee
+38080	36.207086	-89.519208	Ridgely	Tennessee
+37723	35.918914	-84.866409	Crab Orchard	Tennessee
+38253	36.293824	-89.040359	Rives	Tennessee
+38487	35.718427	-87.233402	Williamsport	Tennessee
+38454	35.687723	-87.389548	Duck River	Tennessee
+38459	35.193152	-86.802810	Frankewing	Tennessee
+37337	35.799105	-84.904005	Grandview	Tennessee
+37096	35.612807	-87.870302	Linden	Tennessee
+37878	35.638235	-83.863606	Tallassee	Tennessee
+37727	35.892116	-83.004810	Del Rio	Tennessee
+38236	36.174890	-88.257900	Mansfield	Tennessee
+37710	36.158442	-84.316768	Briceville	Tennessee
+37726	36.204182	-84.830473	Deer Lodge	Tennessee
+38452	35.080509	-87.789813	Cypress Inn	Tennessee
+38226	36.476217	-88.670226	Dukedom	Tennessee
+37731	36.537183	-82.998515	Eidson	Tennessee
+38224	36.387017	-88.492197	Cottage Grove	Tennessee
+38564	36.275933	-85.735915	Granville	Tennessee
+38341	35.882040	-88.104186	Holladay	Tennessee
+38241	36.427772	-88.591844	Palmersville	Tennessee
+38061	35.067042	-88.766924	Pocahontas	Tennessee
+37882	35.658932	-83.763518	Townsend	Tennessee
+37175	36.324726	-87.888932	Stewart	Tennessee
+38311	35.449567	-88.124506	Bath Springs	Tennessee
+38543	36.380225	-85.150534	Alpine	Tennessee
+37369	35.196386	-84.495105	Reliance	Tennessee
+38380	35.789889	-88.032881	Sugar Tree	Tennessee
+38486	35.172506	-87.538424	Westpoint	Tennessee
+38577	36.564918	-84.922503	Pall Mall	Tennessee
+38318	35.950509	-88.258084	Buena Vista	Tennessee
+38542	36.315028	-85.205336	Allred	Tennessee
+38588	36.446386	-85.730671	Whitleyville	Tennessee
+38475	35.265671	-88.014064	Olivehill	Tennessee
+38387	35.872920	-88.277462	Westport	Tennessee
+37078	35.910747	-87.788565	Hurricane Mills	Tennessee
+38471	35.083901	-87.932397	Lutts	Tennessee
+37376	35.050411	-85.956005	Sherwood	Tennessee
+38589	36.288383	-85.074008	Wilder	Tennessee
+38030	35.974140	-89.582619	Finley	Tennessee
+38131	35.065335	-89.998640	Memphis	Tennessee
+38047	36.031840	-89.631994	Lenox	Tennessee
