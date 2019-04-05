@@ -1,0 +1,510 @@
+70116	29.967962	-90.064428	New Orleans	Louisiana
+70115	29.925541	-90.102406	New Orleans	Louisiana
+70119	29.977355	-90.088091	New Orleans	Louisiana
+70125	29.952077	-90.104363	New Orleans	Louisiana
+70113	29.943549	-90.083662	New Orleans	Louisiana
+70117	29.971844	-90.025834	New Orleans	Louisiana
+70118	29.947460	-90.124196	New Orleans	Louisiana
+70130	29.936902	-90.070949	New Orleans	Louisiana
+70112	29.957043	-90.076911	New Orleans	Louisiana
+70006	30.012812	-90.191162	Metairie	Louisiana
+70065	30.027948	-90.254458	Kenner	Louisiana
+70001	29.983583	-90.168538	Metairie	Louisiana
+70122	30.009529	-90.064799	New Orleans	Louisiana
+70003	30.001164	-90.209724	Metairie	Louisiana
+70002	30.009762	-90.162220	Metairie	Louisiana
+70005	29.999416	-90.134065	Metairie	Louisiana
+70056	29.888653	-90.029014	Gretna	Louisiana
+70114	29.935429	-90.032447	New Orleans	Louisiana
+70053	29.912850	-90.053490	Gretna	Louisiana
+70127	30.024049	-89.974545	New Orleans	Louisiana
+70128	30.044719	-89.951376	New Orleans	Louisiana
+70121	29.961768	-90.160355	New Orleans	Louisiana
+70124	30.007483	-90.104955	New Orleans	Louisiana
+71104	32.486281	-93.732011	Shreveport	Louisiana
+70123	29.953372	-90.204612	New Orleans	Louisiana
+70805	30.488088	-91.150954	Baton Rouge	Louisiana
+70802	30.453796	-91.177907	Baton Rouge	Louisiana
+70815	30.455277	-91.066311	Baton Rouge	Louisiana
+70043	29.953699	-89.961323	Chalmette	Louisiana
+70806	30.447907	-91.124843	Baton Rouge	Louisiana
+70126	30.009213	-90.007649	New Orleans	Louisiana
+70812	30.500424	-91.110507	Baton Rouge	Louisiana
+70503	30.181804	-92.051247	Lafayette	Louisiana
+70550	30.516875	-92.183905	Lawtell	Louisiana
+71103	32.491227	-93.771635	Shreveport	Louisiana
+70062	29.991669	-90.258033	Kenner	Louisiana
+70808	30.404141	-91.139138	Baton Rouge	Louisiana
+71108	32.443173	-93.787826	Shreveport	Louisiana
+70580	30.675152	-92.426046	Reddell	Louisiana
+70075	29.933315	-89.921256	Meraux	Louisiana
+71101	32.506172	-93.749868	Shreveport	Louisiana
+70131	29.907999	-89.969204	New Orleans	Louisiana
+70092	29.898940	-89.895262	Violet	Louisiana
+70816	30.426670	-91.027400	Baton Rouge	Louisiana
+71461	31.114465	-93.281565	Newllano	Louisiana
+70079	30.007440	-90.415454	Norco	Louisiana
+71105	32.457188	-93.713279	Shreveport	Louisiana
+70601	30.224892	-93.212364	Lake Charles	Louisiana
+70501	30.236833	-91.991759	Lafayette	Louisiana
+70058	29.838720	-90.077458	Harvey	Louisiana
+71109	32.464849	-93.814992	Shreveport	Louisiana
+71301	31.276815	-92.467058	Alexandria	Louisiana
+70032	29.984247	-89.980761	Arabi	Louisiana
+70814	30.485097	-91.068321	Baton Rouge	Louisiana
+71118	32.393679	-93.804064	Shreveport	Louisiana
+70047	29.975174	-90.370209	Destrehan	Louisiana
+70506	30.194283	-92.081223	Lafayette	Louisiana
+71021	32.971913	-93.448830	Cullen	Louisiana
+71201	32.532695	-92.105168	Monroe	Louisiana
+70071	30.051526	-90.705712	Lutcher	Louisiana
+70072	29.825078	-90.130059	Marrero	Louisiana
+70458	30.261581	-89.790853	Slidell	Louisiana
+70809	30.393266	-91.067247	Baton Rouge	Louisiana
+71253	32.996626	-91.316627	Kilbourne	Louisiana
+70811	30.537870	-91.134691	Baton Rouge	Louisiana
+70523	29.880712	-91.532039	Charenton	Louisiana
+70521	30.336473	-91.849187	Cecilia	Louisiana
+70576	30.783660	-92.416242	Pine Prairie	Louisiana
+70068	30.069594	-90.476631	La Place	Louisiana
+70817	30.375014	-90.980560	Baton Rouge	Louisiana
+70508	30.156006	-92.026831	Lafayette	Louisiana
+70810	30.332395	-91.091387	Baton Rouge	Louisiana
+70052	30.061062	-90.688698	Gramercy	Louisiana
+71106	32.378473	-93.730665	Shreveport	Louisiana
+70819	30.473912	-91.016393	Baton Rouge	Louisiana
+70801	30.449200	-91.186235	Baton Rouge	Louisiana
+70448	30.367489	-90.035903	Mandeville	Louisiana
+70820	30.365042	-91.204051	Baton Rouge	Louisiana
+70465	30.875646	-90.512436	Tangipahoa	Louisiana
+70094	29.904397	-90.204310	Westwego	Louisiana
+70391	29.990641	-91.059645	Paincourtville	Louisiana
+70364	29.627663	-90.681807	Houma	Louisiana
+70038	29.307923	-89.380005	Boothville	Louisiana
+70359	29.694036	-90.777488	Gray	Louisiana
+70084	30.068710	-90.560370	Reserve	Louisiana
+71459	31.077264	-93.208455	Fort Polk	Louisiana
+70541	30.421951	-92.049479	Grand Coteau	Louisiana
+71112	32.448826	-93.645111	Bossier City	Louisiana
+71111	32.573112	-93.699378	Bossier City	Louisiana
+70605	30.128204	-93.274700	Lake Charles	Louisiana
+71415	32.033971	-92.139394	Clarks	Louisiana
+70818	30.544132	-91.051520	Baton Rouge	Louisiana
+70507	30.283663	-92.030161	Lafayette	Louisiana
+70714	30.588689	-91.130501	Baker	Louisiana
+70659	30.921862	-93.273390	Rosepine	Louisiana
+70087	29.994018	-90.320832	Saint Rose	Louisiana
+70807	30.570002	-91.217886	Baton Rouge	Louisiana
+70471	30.394235	-90.109428	Mandeville	Louisiana
+70342	29.693147	-91.238340	Berwick	Louisiana
+70041	29.348922	-89.442235	Buras	Louisiana
+70401	30.523022	-90.459068	Hammond	Louisiana
+70354	29.434763	-90.304088	Galliano	Louisiana
+70403	30.478375	-90.487862	Hammond	Louisiana
+70031	29.945227	-90.291852	Ama	Louisiana
+70460	30.290951	-89.847365	Slidell	Louisiana
+71245	32.526610	-92.713350	Grambling	Louisiana
+70737	30.222380	-90.922197	Gonzales	Louisiana
+71291	32.565665	-92.172943	West Monroe	Louisiana
+71330	31.109760	-92.237537	Echo	Louisiana
+70769	30.302396	-90.930093	Prairieville	Louisiana
+70057	29.964470	-90.417090	Hahnville	Louisiana
+70433	30.469530	-90.150063	Covington	Louisiana
+70451	30.548924	-90.487542	Natalbany	Louisiana
+70514	29.852670	-91.549461	Baldwin	Louisiana
+70726	30.433416	-90.902310	Denham Springs	Louisiana
+70747	30.874086	-91.676393	Innis	Louisiana
+70520	30.329934	-92.029483	Carencro	Louisiana
+70583	30.256794	-92.119723	Scott	Louisiana
+71009	32.571884	-93.887715	Blanchard	Louisiana
+70050	29.379520	-89.590148	Empire	Louisiana
+70540	29.761729	-91.465649	Garden City	Louisiana
+70076	30.062458	-90.635398	Mount Airy	Louisiana
+71303	31.280064	-92.537433	Alexandria	Louisiana
+70719	30.383957	-91.283528	Brusly	Louisiana
+70669	30.248969	-93.275579	Westlake	Louisiana
+70763	30.041352	-90.743212	Paulina	Louisiana
+71426	31.494850	-93.462003	Fisher	Louisiana
+70563	30.026799	-91.738897	New Iberia	Louisiana
+70363	29.518317	-90.697814	Houma	Louisiana
+70592	30.084214	-92.012583	Youngsville	Louisiana
+70380	29.682242	-91.086044	Morgan City	Louisiana
+70585	30.871859	-92.402064	Turkey Creek	Louisiana
+70394	29.698537	-90.618784	Raceland	Louisiana
+70345	29.516301	-90.307004	Cut Off	Louisiana
+71119	32.490693	-93.925460	Shreveport	Louisiana
+70518	30.134806	-91.927448	Broussard	Louisiana
+70663	30.276652	-93.389140	Sulphur	Louisiana
+70461	30.241712	-89.684869	Slidell	Louisiana
+70615	30.254011	-93.117717	Lake Charles	Louisiana
+71202	32.399905	-92.056550	Monroe	Louisiana
+70570	30.527824	-92.118812	Opelousas	Louisiana
+70529	30.188629	-92.153892	Duson	Louisiana
+71129	32.393039	-93.926716	Shreveport	Louisiana
+71203	32.582264	-92.018528	Monroe	Louisiana
+70360	29.571618	-90.818318	Houma	Louisiana
+70706	30.607202	-90.907437	Denham Springs	Louisiana
+71302	31.209223	-92.399206	Alexandria	Louisiana
+71345	30.724669	-91.961614	Lebeau	Louisiana
+70037	29.715894	-90.035359	Belle Chasse	Louisiana
+70039	29.886734	-90.389186	Boutte	Louisiana
+71377	31.608631	-91.776024	Wildsville	Louisiana
+70739	30.601066	-90.965337	Greenwell Springs	Louisiana
+70129	30.069295	-89.844987	New Orleans	Louisiana
+70051	30.073208	-90.633550	Garyville	Louisiana
+70080	29.880682	-90.428572	Paradis	Louisiana
+70466	30.568281	-90.500481	Tickfaw	Louisiana
+71107	32.600409	-93.858512	Shreveport	Louisiana
+70343	29.550859	-90.577077	Bourg	Louisiana
+70558	30.101095	-92.061682	Milton	Louisiana
+70346	30.100806	-91.064405	Donaldsonville	Louisiana
+70711	30.530369	-90.598868	Albany	Louisiana
+71075	32.993762	-93.476532	Springhill	Louisiana
+71066	31.872367	-93.193843	Powhatan	Louisiana
+70611	30.348118	-93.203600	Lake Charles	Louisiana
+71247	32.270445	-92.743713	Hodge	Louisiana
+70760	30.705802	-91.443686	New Roads	Louisiana
+70607	30.055684	-93.187571	Lake Charles	Louisiana
+71360	31.328100	-92.350361	Pineville	Louisiana
+70791	30.655686	-91.140202	Zachary	Louisiana
+70301	29.814717	-90.799133	Thibodaux	Louisiana
+70463	30.658239	-89.903867	Sun	Louisiana
+70778	30.171065	-90.855604	Sorrento	Louisiana
+71270	32.502204	-92.641969	Ruston	Louisiana
+70785	30.557101	-90.819236	Walker	Louisiana
+70640	30.366958	-92.916560	Fenton	Louisiana
+70528	29.893705	-91.964044	Delcambre	Louisiana
+70584	30.386694	-92.098490	Sunset	Louisiana
+70770	30.638279	-90.996933	Pride	Louisiana
+70776	30.269264	-91.080696	Saint Gabriel	Louisiana
+70049	30.030493	-90.567863	Edgard	Louisiana
+70526	30.210272	-92.385085	Crowley	Louisiana
+70030	29.816890	-90.424304	Des Allemands	Louisiana
+70517	30.295306	-91.820696	Breaux Bridge	Louisiana
+70427	30.740966	-89.924171	Bogalusa	Louisiana
+70392	29.699306	-91.329459	Patterson	Louisiana
+70374	29.607036	-90.465628	Lockport	Louisiana
+70560	29.909279	-91.923379	New Iberia	Louisiana
+71037	32.474983	-93.487497	Haughton	Louisiana
+70734	30.232191	-91.013990	Geismar	Louisiana
+70353	29.405074	-90.692849	Dulac	Louisiana
+70070	29.829844	-90.310628	Luling	Louisiana
+70710	30.347037	-91.253404	Addis	Louisiana
+71480	31.862283	-92.290599	Urania	Louisiana
+70435	30.564211	-90.084141	Covington	Louisiana
+70555	30.081400	-92.145854	Maurice	Louisiana
+71034	32.174297	-93.306882	Hall Summit	Louisiana
+70578	30.230644	-92.263778	Rayne	Louisiana
+71061	32.759298	-93.974910	Oil City	Louisiana
+70090	29.969253	-90.701136	Vacherie	Louisiana
+70447	30.423458	-90.208923	Madisonville	Louisiana
+71292	32.396678	-92.214764	West Monroe	Louisiana
+70767	30.481128	-91.330712	Port Allen	Louisiana
+70733	30.317245	-90.792436	French Settlement	Louisiana
+71414	31.805756	-93.006937	Clarence	Louisiana
+70764	30.219737	-91.283085	Plaquemine	Louisiana
+70535	30.473218	-92.419637	Eunice	Louisiana
+70339	29.965851	-91.224366	Pierre Part	Louisiana
+70452	30.447496	-89.783517	Pearl River	Louisiana
+71341	31.063572	-92.167077	Hessmer	Louisiana
+71327	30.982392	-92.031295	Cottonport	Louisiana
+71218	32.358032	-91.769361	Archibald	Louisiana
+71033	32.451837	-93.993145	Greenwood	Louisiana
+70445	30.359566	-89.936405	Lacombe	Louisiana
+70544	29.902505	-91.692360	Jeanerette	Louisiana
+70556	30.194416	-92.555922	Mermentau	Louisiana
+70783	30.667076	-91.398629	Ventress	Louisiana
+70524	30.567398	-92.319210	Chataignier	Louisiana
+70454	30.362846	-90.358594	Ponchatoula	Louisiana
+70358	29.197011	-90.065211	Grand Isle	Louisiana
+71350	31.068702	-92.064907	Mansura	Louisiana
+70525	30.413625	-92.221959	Church Point	Louisiana
+70443	30.626590	-90.556623	Independence	Louisiana
+70546	30.266368	-92.673552	Jennings	Louisiana
+70774	30.214553	-90.761905	Saint Amant	Louisiana
+70393	29.996217	-91.005585	Plattenville	Louisiana
+71457	31.747712	-93.092166	Natchitoches	Louisiana
+70537	30.250363	-92.569402	Evangeline	Louisiana
+71110	32.504882	-93.596138	Barksdale Afb	Louisiana
+71047	32.289524	-93.914938	Keithville	Louisiana
+70712	30.922860	-91.601968	Angola	Louisiana
+70533	29.907306	-92.034364	Erath	Louisiana
+70749	30.637193	-91.459553	Jarreau	Louisiana
+70372	29.781222	-90.989727	Labadieville	Louisiana
+70736	30.633975	-91.338448	Glynn	Louisiana
+71115	32.268803	-93.579561	Shreveport	Louisiana
+70646	30.096098	-92.916098	Hayes	Louisiana
+70650	30.234948	-92.905224	Lacassine	Louisiana
+71078	32.270888	-93.800017	Stonewall	Louisiana
+70456	30.815324	-90.469820	Roseland	Louisiana
+70743	30.031099	-90.769342	Hester	Louisiana
+70395	29.697436	-90.861730	Schriever	Louisiana
+70534	30.174372	-92.468922	Estherwood	Louisiana
+70721	30.223688	-91.084262	Carville	Louisiana
+71073	32.532851	-93.302459	Sibley	Louisiana
+70420	30.487479	-89.953328	Abita Springs	Louisiana
+70091	29.292202	-89.382362	Venice	Louisiana
+70725	30.139645	-90.969688	Darrow	Louisiana
+71225	32.498523	-92.340154	Calhoun	Louisiana
+70341	30.026111	-91.079622	Belle Rose	Louisiana
+70436	30.793499	-90.521701	Fluker	Louisiana
+70780	30.298733	-91.185298	Sunshine	Louisiana
+71055	32.687991	-93.286622	Minden	Louisiana
+70538	29.792457	-91.511544	Franklin	Louisiana
+70422	30.732735	-90.490726	Amite	Louisiana
+70512	30.433421	-91.912798	Arnaudville	Louisiana
+70344	29.372654	-90.636653	Chauvin	Louisiana
+70554	30.611906	-92.443128	Mamou	Louisiana
+70762	30.596048	-91.462227	Oscar	Louisiana
+70757	30.486837	-91.513782	Maringouin	Louisiana
+71280	32.713665	-92.103820	Sterlington	Louisiana
+71220	32.864539	-91.908541	Bastrop	Louisiana
+70577	30.560251	-91.926908	Port Barre	Louisiana
+70437	30.619256	-90.190212	Folsom	Louisiana
+70586	30.746507	-92.328138	Ville Platte	Louisiana
+70755	30.587659	-91.538776	Livonia	Louisiana
+71474	31.252443	-93.026823	Simpson	Louisiana
+71082	32.846915	-93.974042	Vivian	Louisiana
+71351	31.153126	-92.021909	Marksville	Louisiana
+70582	30.155898	-91.661858	Saint Martinville	Louisiana
+70462	30.376282	-90.580772	Springfield	Louisiana
+70723	30.066896	-90.823919	Convent	Louisiana
+70083	29.578434	-89.866440	Port Sulphur	Louisiana
+70086	30.036818	-90.866682	Saint James	Louisiana
+70375	29.699308	-90.552722	Mathews	Louisiana
+70510	29.813443	-92.183195	Abbeville	Louisiana
+71369	30.936543	-91.854161	Simmesport	Louisiana
+70777	30.742797	-91.068128	Slaughter	Louisiana
+70665	30.120167	-93.447613	Sulphur	Louisiana
+70633	30.413359	-93.391222	Dequincy	Louisiana
+70634	30.812385	-93.246350	Deridder	Louisiana
+70730	30.816514	-91.102324	Ethel	Louisiana
+70515	30.512343	-92.608474	Basile	Louisiana
+71007	32.395425	-93.990032	Bethany	Louisiana
+71071	32.921887	-93.456762	Sarepta	Louisiana
+70638	30.863967	-92.786045	Elizabeth	Louisiana
+70752	30.579510	-91.417070	Lakeland	Louisiana
+70754	30.389465	-90.733402	Livingston	Louisiana
+71067	32.598629	-93.503881	Princeton	Louisiana
+71328	31.364263	-92.198277	Deville	Louisiana
+70390	29.889533	-91.032951	Napoleonville	Louisiana
+71023	32.492634	-93.402987	Doyline	Louisiana
+70552	30.073813	-91.682008	Loreauville	Louisiana
+70426	30.932581	-89.860415	Angie	Louisiana
+70446	30.632644	-90.334952	Loranger	Louisiana
+71423	31.576543	-92.550370	Dry Prong	Louisiana
+71241	32.777427	-92.367399	Farmerville	Louisiana
+70772	30.438667	-91.470872	Rosedale	Louisiana
+70748	30.850899	-91.229851	Jackson	Louisiana
+71378	31.963628	-91.696826	Wisner	Louisiana
+71251	32.218720	-92.684713	Jonesboro	Louisiana
+70455	30.528054	-90.307159	Robert	Louisiana
+70773	30.611166	-91.361880	Rougon	Louisiana
+71486	31.642850	-93.621942	Zwolle	Louisiana
+70082	29.554250	-89.735531	Pointe A La Hache	Louisiana
+71334	31.653948	-91.587057	Ferriday	Louisiana
+70356	29.652926	-90.998865	Gibson	Louisiana
+71295	32.159951	-91.696787	Winnsboro	Louisiana
+70438	30.846224	-90.111321	Franklinton	Louisiana
+70431	30.599001	-89.925645	Bush	Louisiana
+70513	29.899969	-91.903251	Avery Island	Louisiana
+70067	29.592797	-90.031635	Lafitte	Louisiana
+71485	31.173647	-92.520828	Woodworth	Louisiana
+71006	32.725633	-93.643214	Benton	Louisiana
+70744	30.549047	-90.684042	Holden	Louisiana
+70750	30.461666	-91.759384	Krotz Springs	Louisiana
+71463	30.806747	-92.626079	Oakdale	Louisiana
+70543	30.339014	-92.503610	Iota	Louisiana
+71263	32.873248	-91.425862	Oak Grove	Louisiana
+71446	31.147871	-93.184378	Leesville	Louisiana
+71060	32.636718	-93.988253	Mooringsport	Louisiana
+70789	30.940581	-91.082957	Wilson	Louisiana
+71409	31.312557	-92.698550	Boyce	Louisiana
+71411	31.908020	-93.104115	Campti	Louisiana
+71342	31.612960	-92.139377	Jena	Louisiana
+71043	32.895801	-93.881818	Hosston	Louisiana
+70647	30.247259	-93.015300	Iowa	Louisiana
+71466	31.203133	-92.739824	Otis	Louisiana
+70775	30.874007	-91.380808	Saint Francisville	Louisiana
+71049	32.017609	-93.967137	Logansport	Louisiana
+71323	31.258794	-92.216765	Center Point	Louisiana
+70449	30.273972	-90.670157	Maurepas	Louisiana
+70531	30.233947	-92.517483	Egan	Louisiana
+71407	31.525954	-92.483289	Bentley	Louisiana
+70464	30.519560	-89.894870	Talisheek	Louisiana
+70085	29.793769	-89.662074	Saint Bernard	Louisiana
+71439	31.332146	-93.380871	Hornbeck	Louisiana
+70668	30.191259	-93.613359	Vinton	Louisiana
+71322	30.858308	-92.161866	Bunkie	Louisiana
+70444	30.909303	-90.470689	Kentwood	Louisiana
+71039	32.429488	-93.278152	Heflin	Louisiana
+70788	30.138820	-91.178830	White Castle	Louisiana
+71269	32.440635	-91.793784	Rayville	Louisiana
+71483	31.892384	-92.657875	Winnfield	Louisiana
+71282	32.381990	-91.198844	Tallulah	Louisiana
+70442	30.693719	-90.336463	Husser	Louisiana
+71449	31.545133	-93.511491	Many	Louisiana
+70759	30.702662	-91.567174	Morganza	Louisiana
+70722	30.857424	-90.929032	Clinton	Louisiana
+70648	30.493624	-92.890254	Kinder	Louisiana
+70549	30.068927	-92.808363	Lake Arthur	Louisiana
+71001	32.591547	-92.889253	Arcadia	Louisiana
+70756	30.542936	-91.639838	Lottie	Louisiana
+71462	31.670197	-93.714924	Noble	Louisiana
+71052	32.003718	-93.663325	Mansfield	Louisiana
+71356	30.838942	-92.034522	Morrow	Louisiana
+70782	30.950345	-91.538611	Tunica	Louisiana
+71346	31.118246	-92.374928	Lecompte	Louisiana
+71417	31.508165	-92.649637	Colfax	Louisiana
+70377	29.400468	-90.505907	Montegut	Louisiana
+71353	30.612676	-91.767227	Melville	Louisiana
+71234	32.645272	-92.330561	Downsville	Louisiana
+70516	30.364974	-92.304219	Branch	Louisiana
+71373	31.325657	-91.590244	Vidalia	Louisiana
+70581	30.250866	-92.731431	Roanoke	Louisiana
+71424	31.169989	-92.690798	Elmer	Louisiana
+71467	31.546330	-92.373064	Pollock	Louisiana
+71040	32.789452	-93.031335	Homer	Louisiana
+71410	31.947404	-92.794525	Calvin	Louisiana
+71018	32.801222	-93.399732	Cotton Valley	Louisiana
+71030	32.197188	-93.781128	Gloster	Louisiana
+70040	29.740211	-89.922602	Braithwaite	Louisiana
+70450	30.942521	-90.261736	Mount Hermon	Louisiana
+71254	32.769151	-91.272303	Lake Providence	Louisiana
+71433	31.000760	-92.637678	Glenmora	Louisiana
+70559	30.118379	-92.512100	Morse	Louisiana
+70591	30.257744	-92.832802	Welsh	Louisiana
+70548	29.806991	-92.361380	Kaplan	Louisiana
+71340	31.759812	-91.808050	Harrisonburg	Louisiana
+71452	31.610048	-92.972866	Melrose	Louisiana
+71232	32.423194	-91.502258	Delhi	Louisiana
+71068	32.278612	-93.310394	Ringgold	Louisiana
+71227	32.547534	-92.487161	Choudrant	Louisiana
+70732	30.642719	-91.621030	Fordoche	Louisiana
+71268	32.348017	-92.724599	Quitman	Louisiana
+70532	30.470900	-92.697075	Elton	Louisiana
+71427	31.380271	-92.883120	Flatwoods	Louisiana
+70355	29.673747	-90.441975	Gheens	Louisiana
+71229	32.643312	-91.891140	Collinston	Louisiana
+71019	32.059846	-93.297087	Coushatta	Louisiana
+70657	30.485818	-93.160419	Ragley	Louisiana
+71069	32.974012	-93.990565	Rodessa	Louisiana
+70036	29.585362	-90.109958	Barataria	Louisiana
+70740	30.365932	-91.418914	Grosse Tete	Louisiana
+71454	31.683615	-92.865581	Montgomery	Louisiana
+71403	31.234885	-93.406016	Anacoco	Louisiana
+71237	32.591505	-91.472018	Epps	Louisiana
+70787	30.981734	-91.467693	Weyanoke	Louisiana
+71362	30.899115	-91.961060	Plaucheville	Louisiana
+70655	30.627672	-92.713081	Oberlin	Louisiana
+71406	31.734232	-93.508333	Belmont	Louisiana
+71235	32.692530	-92.674464	Dubach	Louisiana
+70453	30.690294	-90.780294	Pine Grove	Louisiana
+71222	32.829452	-92.652679	Bernice	Louisiana
+70652	30.598810	-93.255916	Longville	Louisiana
+70589	30.680315	-92.003197	Washington	Louisiana
+70729	30.547261	-91.420873	Erwinville	Louisiana
+71438	31.118157	-92.800429	Hineston	Louisiana
+70644	30.797737	-92.964929	Grant	Louisiana
+71238	32.363146	-92.375771	Eros	Louisiana
+71275	32.511899	-92.816833	Simsboro	Louisiana
+71027	32.225619	-93.677597	Frierson	Louisiana
+70661	30.369078	-93.685336	Starks	Louisiana
+71355	31.057720	-91.841124	Moreauville	Louisiana
+70715	30.829313	-91.717266	Batchelor	Louisiana
+70441	30.859967	-90.749066	Greensburg	Louisiana
+71051	32.319454	-93.477953	Elm Grove	Louisiana
+71333	30.909986	-92.071870	Evergreen	Louisiana
+71038	32.951539	-93.062870	Haynesville	Louisiana
+71331	31.240254	-92.087757	Effie	Louisiana
+71065	31.800690	-93.504181	Pleasant Hill	Louisiana
+71430	31.055624	-92.518346	Forest Hill	Louisiana
+70660	30.576390	-93.420713	Singer	Louisiana
+71343	31.558794	-91.872056	Jonesville	Louisiana
+71024	32.498109	-93.201695	Dubberly	Louisiana
+70357	29.225983	-90.222214	Golden Meadow	Louisiana
+71465	31.850778	-92.187114	Olla	Louisiana
+71456	31.626208	-92.975931	Natchez	Louisiana
+71259	32.259068	-91.837886	Mangham	Louisiana
+71277	32.961534	-92.553851	Spearsville	Louisiana
+71450	31.777653	-93.415279	Marthaville	Louisiana
+71325	31.007286	-92.334245	Cheneyville	Louisiana
+70645	29.928002	-93.473885	Hackberry	Louisiana
+71367	30.895210	-92.335292	Saint Landry	Louisiana
+71418	32.130233	-92.052228	Columbia	Louisiana
+71219	32.325706	-91.693220	Baskin	Louisiana
+71016	32.224416	-93.116270	Castor	Louisiana
+70753	30.929153	-91.726744	Lettsworth	Louisiana
+71371	31.690856	-92.251105	Trout	Louisiana
+71002	32.123816	-93.103643	Ashland	Louisiana
+71064	32.919650	-93.665970	Plain Dealing	Louisiana
+70542	30.009678	-92.584774	Gueydan	Louisiana
+70761	30.978671	-91.031423	Norwood	Louisiana
+71432	31.756103	-92.447590	Georgetown	Louisiana
+71004	32.741443	-93.860079	Belcher	Louisiana
+71072	32.938004	-93.312011	Shongaloo	Louisiana
+71003	32.629546	-93.030824	Athens	Louisiana
+71368	31.849333	-91.695485	Sicily Island	Louisiana
+71419	31.819541	-93.712333	Converse	Louisiana
+71336	32.018246	-91.586231	Gilbert	Louisiana
+71028	32.497702	-93.075167	Gibsland	Louisiana
+70397	29.328783	-90.846255	Theriot	Louisiana
+71366	31.964396	-91.378630	Saint Joseph	Louisiana
+71357	32.093359	-91.289517	Newellton	Louisiana
+71226	32.269384	-92.456485	Chatham	Louisiana
+71266	32.710941	-91.477186	Pioneer	Louisiana
+71429	31.409171	-93.434636	Florien	Louisiana
+70654	30.659467	-92.890417	Mittie	Louisiana
+71435	32.017572	-92.163617	Grayson	Louisiana
+71434	31.465499	-92.948951	Gorum	Louisiana
+71375	31.823126	-91.506889	Waterproof	Louisiana
+71032	32.094865	-93.795369	Grand Cane	Louisiana
+70639	30.971951	-93.509290	Evans	Louisiana
+71045	32.335859	-93.162817	Jamestown	Louisiana
+71260	32.902225	-92.260180	Marion	Louisiana
+71358	30.742753	-91.875847	Palmetto	Louisiana
+70656	30.924916	-92.931137	Pitkin	Louisiana
+71223	32.891020	-91.678540	Bonita	Louisiana
+70653	30.664549	-93.564912	Merryville	Louisiana
+71441	31.951563	-92.153440	Kelly	Louisiana
+71079	32.928744	-92.810110	Summerfield	Louisiana
+71046	32.167672	-93.954041	Keatchie	Louisiana
+70662	30.814950	-93.004302	Sugartown	Louisiana
+71479	31.848859	-92.367977	Tullos	Louisiana
+71422	32.081965	-92.654042	Dodson	Louisiana
+71286	32.650571	-91.218685	Transylvania	Louisiana
+71469	31.694472	-93.270631	Robeline	Louisiana
+71044	32.954178	-93.882456	Ida	Louisiana
+71261	32.791546	-91.683231	Mer Rouge	Louisiana
+71416	31.540434	-92.896951	Cloutierville	Louisiana
+71256	32.924376	-92.681022	Lillie	Louisiana
+70637	30.677341	-92.989968	Dry Creek	Louisiana
+70651	30.567901	-92.954149	Leblanc	Louisiana
+71326	31.767566	-91.661182	Clayton	Louisiana
+70658	30.522640	-93.022636	Reeves	Louisiana
+71401	31.748861	-91.968654	Aimwell	Louisiana
+71029	32.835814	-93.833796	Gilliam	Louisiana
+71354	31.376836	-91.749856	Monterey	Louisiana
+71447	31.457446	-92.825829	Lena	Louisiana
+71404	31.759586	-92.755729	Atlanta	Louisiana
+71264	32.605653	-91.772887	Oak Ridge	Louisiana
+71276	32.570705	-91.197426	Sondheimer	Louisiana
+71425	31.884420	-91.865689	Enterprise	Louisiana
+71070	32.100033	-93.003694	Saline	Louisiana
+71063	31.902321	-93.521042	Pelican	Louisiana
+71472	31.168851	-92.787163	Sieper	Louisiana
+70632	29.885263	-92.996319	Creole	Louisiana
+71031	32.026663	-92.895924	Goldonna	Louisiana
+71243	31.965407	-91.836837	Fort Necessity	Louisiana
+71468	31.479508	-93.182937	Provencal	Louisiana
+70631	29.853375	-93.568288	Cameron	Louisiana
+70643	29.723371	-92.802145	Grand Chenier	Louisiana
+71455	31.394002	-92.954115	Mora	Louisiana
+70630	30.028471	-93.037875	Bell City	Louisiana
+71008	32.332855	-92.968970	Bienville	Louisiana
+71473	32.091942	-92.444140	Sikes	Louisiana
+71339	31.017834	-91.864187	Hamburg	Louisiana
+71048	32.838712	-92.861756	Lisbon	Louisiana
+71250	32.958209	-91.572997	Jones	Louisiana
+71316	31.241848	-91.741404	Acme	Louisiana
+70373	29.523011	-90.436566	Larose	Louisiana
