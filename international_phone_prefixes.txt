@@ -1,0 +1,667 @@
++0	unassigned
++1201	New Jersey
++1202	District of Columbia
++1203	Connecticut
++1204	Manitoba
++1205	Alabama
++1206	Washington
++1207	Maine
++1208	Idaho
++1209	California
++1210	Texas
++1212	New York
++1213	California
++1214	Texas
++1215	Pennsylvania
++1216	Ohio
++1217	Illinois
++1218	Minnesota
++1219	Indiana
++1224	Illinois
++1225	Louisiana
++1226	Ontario
++1227	assignment withdrawn
++1228	Mississippi
++1229	Georgia
++1231	Michigan
++1234	Ohio
++1239	Florida
++1240	Maryland
++1242	BAHAMAS 
++1246	BARBADOS 
++1248	Michigan
++1250	British Columbia
++1251	Alabama
++1252	North Carolina
++1253	Washington
++1254	Texas
++1256	Alabama
++1260	Indiana
++1262	Wisconsin
++1264	ANGUILLA 
++1267	Pennsylvania
++1268	ANTIGUA & BARBUDA 
++1269	Michigan
++1270	Kentucky
++1274	Wisconsin
++1276	Virginia
++1278	assignment withdrawn
++1281	Texas
++1283	assignment withdrawn
++1284	BRITISH VIRGIN ISLANDS 
++1289	Ontario
++1301	Maryland
++1302	Delaware
++1303	Colorado
++1304	West Virginia
++1305	Florida
++1306	Saskatchuan
++1307	Wyoming
++1308	Nebraska
++1309	Illinois
++1310	California
++1312	Illinois
++1313	Michigan
++1314	Missouri
++1315	New York
++1316	Kansas
++1317	Indiana
++1318	Louisiana
++1319	Iowa
++1320	Minnesota
++1321	Florida
++1323	California
++1325	Texas
++1330	Ohio
++1331	Illinois
++1334	Alabama
++1336	North Carolina
++1337	Louisiana
++1339	Massachusetts
++1340	US Virgin Islands
++1341	assignment withdrawn
++1343	Ontario
++1345	CAYMAN ISLANDS 
++1347	New York
++1351	Massachusetts
++1352	Florida
++1356	assignment withdrawn
++1360	Washington
++1361	Texas
++1364	Kentucky
++1369	assignment withdrawn
++1380	assignment withdrawn
++1385	Utah
++1386	Florida
++1401	Rhode Island
++1402	Nebraska
++1403	Alberta
++1404	Georgia
++1405	Oklahoma
++1406	Montana
++1407	Florida
++1408	California
++1409	Texas
++1410	Maryland
++1412	Pennsylvania
++1413	Massachusetts
++1414	Wisconsin
++1415	California
++1416	Ontario
++1417	Missouri
++1418	Quebec
++1419	Ohio
++1423	Tennessee
++1424	California
++1425	Washington
++1430	Texas
++1432	Texas
++1434	Virginia
++1435	Utah
++1438	Quebec
++1440	Ohio
++1441	BERMUDA 
++1442	California
++1443	Maryland
++1445	assignment withdrawn
++1447	Illinois
++1450	Quebec
++1456	International inbound switched-56K services]
++1458	Oregon
++1464	assignment withdrawn
++1469	Texas
++1470	Georgia
++1473	GRENADA 
++1475	Connecticut
++1478	Georgia
++1479	Arkansas
++1480	Arizona
++1484	Pennsylvania
++1500	Premium Services
++1501	Arkansas
++1502	Kentucky
++1503	Oregon
++1504	Louisiana
++1505	New Mexico
++1506	New Brunswick
++1507	Minnesota
++1508	Massachusetts
++1509	Washington
++1510	California
++1512	Texas
++1513	Ohio
++1514	Quebec
++1515	Iowa
++1516	New York
++1517	Michigan
++1518	New York
++1519	Ontario
++1520	Arizona
++1530	California
++1533	assignment withdrawn
++1534	Wisconsin
++1540	Virginia
++1541	Oregon
++1551	New Jersey
++1557	assignment withdrawn
++1559	California
++1561	Florida
++1562	California
++1563	Iowa
++1564	assignment withdrawn
++1567	Ohio
++1570	Pennsylvania
++1571	Virginia
++1573	Missouri
++1574	Indiana
++1575	New Mexico
++1580	Oklahoma
++1581	Quebec
++1585	New York
++1586	Michigan
++1587	Alberta
++1600	Premium Services
++1601	Mississippi
++1602	Arizona
++1603	New Hampshire
++1604	British Columbia
++1605	South Dakota
++1606	Kentucky
++1607	New York
++1608	Wisconsin
++1609	New Jersey
++1610	Pennsylvania
++1612	Minnesota
++1613	Ontario
++1614	Ohio
++1615	Tennessee
++1616	Michigan
++1617	Massachusetts
++1618	Illinois
++1619	California
++1620	Kansas
++1623	Arizona
++1626	California
++1627	assignment withdrawn
++1628	assignment withdrawn
++1630	Illinois
++1631	New York
++1636	Missouri
++1641	Iowa
++1646	New York
++1647	Ontario
++1649	TURKS & CAICOS ISLANDS 
++1650	California
++1651	Minnesota
++1657	California
++1659	assignment withdrawn
++1660	Missouri
++1661	California
++1662	Mississippi
++1664	MONTSERRAT 
++1667	assignment withdrawn
++1669	assignment withdrawn
++1670	Northern Mariana Islands
++1671	Guam
++1678	Georgia
++1679	assignment withdrawn
++1681	West Virginia
++1682	Texas
++1684	American Samoa
++1689	assignment withdrawn
++1700	Premium Services
++1701	North Dakota
++1702	Nevada
++1703	Virginia
++1704	North Carolina
++1705	Ontario
++1706	Georgia
++1707	California
++1708	Illinois
++1709	Newfoundland & Labrador
++1710	US Government
++1712	Iowa
++1713	Texas
++1714	California
++1715	Wisconsin
++1716	New York
++1717	Pennsylvania
++1718	New York
++1719	Colorado
++1720	Colorado
++1724	Pennsylvania
++1727	Florida
++1730	Illinois
++1731	Tennessee
++1732	New Jersey
++1734	Michigan
++1737	assignment withdrawn
++1740	Ohio
++1747	California
++1752	assignment withdrawn
++1754	Florida
++1757	Virginia
++1758	ST. LUCIA 
++1760	California
++1762	Georgia
++1763	Minnesota
++1764	assignment withdrawn
++1765	Indiana
++1767	DOMINICA 
++1769	Mississippi
++1770	Georgia
++1772	Florida
++1773	Illinois
++1774	Massachusetts
++1775	Nevada
++1778	British Columbia
++1779	Illinois
++1780	Alberta
++1781	Massachusetts
++1784	ST. VINCENT & the GRENADINES 
++1785	Kansas
++1786	Florida
++1787	Puerto Rico
++1800	Toll Free
++1801	Utah
++1802	Vermont
++1803	South Carolina
++1804	Virginia
++1805	California
++1806	Texas
++1807	Ontario
++1808	Hawaii
++1809	DOMINICAN REPUBLIC 
++1810	Michigan
++1812	Indiana
++1813	Florida
++1814	Pennsylvania
++1815	Illinois
++1816	Missouri
++1817	Texas
++1818	California
++1819	Quebec
++1822	Toll Free
++1828	North Carolina
++1829	DOMINICAN REPUBLIC; 
++1830	Texas
++1831	California
++1832	Texas
++1833	Toll Free
++1835	assignment withdrawn
++1843	South Carolina
++1844	Toll Free
++1845	New York
++1847	Illinois
++1848	New Jersey
++1850	Florida
++1855	Toll Free
++1856	New Jersey
++1857	Massachusetts
++1858	California
++1859	Kentucky
++1860	Connecticut
++1862	New Jersey
++1863	Florida
++1864	South Carolina
++1865	Tennessee
++1866	Toll Free
++1867	Yukon Territory
++1868	TRINIDAD & TOBAGO 
++1869	ST. KITTS & NEVIS 
++1870	Arkansas
++1872	assignment withdrawn
++1876	JAMAICA 
++1877	Toll Free
++1878	Pennsylvania
++1880	assignment withdrawn
++1881	assignment withdrawn
++1882	assignment withdrawn
++1883	Paid International
++1884	Paid International
++1885	Paid International
++1886	Paid International
++1887	Paid International
++1888	Toll Free
++1900	Premium Services
++1901	Tennessee
++1902	Nova Scotia, Prince Edward Island
++1903	Texas
++1904	Florida
++1905	Ontario
++1906	Michigan
++1907	Alaska
++1908	New Jersey
++1909	California
++1910	North Carolina
++1912	Georgia
++1913	Kansas
++1914	New York
++1915	Texas
++1916	California
++1917	New York
++1918	Oklahoma
++1919	North Carolina
++1920	Wisconsin
++1925	California
++1928	Arizona
++1931	Tennessee
++1935	assignment withdrawn
++1936	Texas
++1937	Ohio
++1939	Puerto Rico
++1940	Texas
++1941	Florida
++1947	Michigan
++1949	California
++1951	California
++1952	Minnesota
++1954	Florida
++1956	Texas
++1959	Connecticut
++1970	Colorado
++1971	Oregon
++1972	Texas
++1973	New Jersey
++1975	assignment withdrawn
++1978	Massachusetts
++1979	Texas
++1980	North Carolina
++1984	assignment withdrawn
++1985	Louisiana
++1989	Michigan
++20	Egypt
++210	Unused: reserved for Morocco
++211	Unused: reserved for Morocco
++212	Morocco
++213	Algeria
++214	Unused: reserved for Algeria
++215	Unused: reserved for Algeria
++216	Tunisia
++217	Unused: reserved for Tunisia
++218	Libya
++219	Unused: reserved for Libya
++220	Gambia
++221	Senegal
++222	Mauritania
++223	Mali
++224	Guinea
++225	Cote d\'Ivoire (Ivory Coast)
++226	Burkina Faso
++227	Niger
++228	Togolese Republic
++229	Benin
++230	Mauritius
++231	Liberia
++232	Sierra Leone
++233	Ghana
++234	Nigeria
++235	Chad
++236	Central African Republic
++237	Cameroon
++238	Cape Verde
++239	Sao Tome and Principe
++240	Equatorial Guinea
++241	Gabon
++242	Congo (Brazzaville)
++243	Congo (Kinshasa, formerly Zaire)
++244	Angola
++245	Guinea-Bissau
++246	Diego-Garcia
++247	Ascension
++248	Seychelles
++249	Sudan
++250	Rwanda
++251	Ethiopia
++252	Somalia
++253	Djibouti
++254	Kenya
++255	Tanzania
++256	Uganda
++257	Burundi
++258	Mozambique
++259	Unassigned: see Zanzibar, Tanzania
++260	Zambia
++261	Madagascar
++262	Mayotte and Reunion
++263	Zimbabwe
++264	Namibia
++265	Malawi
++266	Lesotho
++267	Botswana
++268	Swaziland
++269	Comoros
++27	South Africa
++290	St Helena and Tristan da Cunha
++291	Eritrea
++292	Unassigned
++293	Unassigned
++294	Unassigned
++295	Discontinued: see San Marino
++296	Unassigned: see Trinidad/Tobago
++297	Aruba
++298	Faroe Islands
++299	Greenland
++30	Greece
++31	Netherlands
++32	Belgium
++33	France
++34	Spain
++350	Gibraltar
++351	Portugal
++352	Luxembourg
++353	Ireland
++354	Iceland
++355	Albania
++356	Malta
++357	Cyprus
++358	Finland
++359	Bulgaria
++36	Hungary
++370	Lithuania
++371	Latvia
++372	Estonia
++373	Moldova
++374	Armenia
++375	Belarus
++376	Andorra
++377	Monaco
++378	San Marino
++379	Vatican City
++380	Ukraine
++381	Serbia
++382	Montenegro +383
++383	Unassigned
++384	Unassigned
++385	Croatia
++386	Slovenia
++387	Bosnia and Hercegovina
++388	European Telephony Numbering Space
++389	Macedonia
++39	Italy
++40	Romania
++41	Switzerland
++420	Czech Republic
++421	Slovakia
++422	Unassigned
++423	Liechtenstein
++424	Unassigned
++425	Unassigned
++426	Unassigned
++427	Unassigned
++428	Unassigned
++429	Unassigned
++43	Austria
++44	United Kingdom
++45	Denmark
++46	Sweden
++47	Norway
++48	Poland
++49	Germany
++500	Falkland Islands
++501	Belize
++502	Guatemala
++503	El Salvador
++504	Honduras
++505	Nicaragua
++506	Costa Rica
++507	Panama
++508	St Pierre and Miquelon
++509	Haiti
++51	Peru
++52	Mexico
++53	Cuba
++54	Argentina
++55	Brazil
++56	Chile
++57	Colombia
++58	Venezuela
++590	French Antilles (Guadeloupe, etc.)
++591	Bolivia
++592	Guyana
++593	Ecuador
++594	French Guiana
++595	Paraguay
++596	Martinique
++597	Suriname
++598	Uruguay
++599	Netherlands Antilles
++60	Malaysia
++61	Australia
++62	Indonesia
++63	Philippines
++64	New Zealand
++65	Singapore
++66	Thailand
++670	East Timor
++671	Discontinued: see Guam
++672	Australian External Territories
++673	Brunei Darussalm
++674	Nauru
++675	Papua New Guinea
++676	Tonga
++677	Solomon Islands
++678	Vanuatu
++679	Fiji Islands
++680	Palau
++681	Wallis and Futuna
++682	Cook Islands
++683	Niue Island
++684	Discontinued, see American Samoa
++685	Samoa
++686	Kiribati, Gilbert Is
++687	New Caledonia
++688	Tuvalu, Ellice Is (Saipan?)
++689	French Polynesia
++690	Tokelau
++691	Micronesia
++692	Marshall Islands
++693	Unassigned
++694	Unassigned
++695	Unassigned
++696	Unassigned
++697	Unassigned
++698	Unassigned
++699	Unassigned
++7	Russia, Kazakhstan
++800	International Freephone
++801	Unassigned
++802	Unassigned
++803	Unassigned
++804	Unassigned
++805	Unassigned
++806	Unassigned
++807	Unassigned
++808	Shared Cost Services
++809	Unassigned
++81	Japan
++82	South Korea
++84	Vietnam
++850	North Korea
++851	Unassigned
++852	Hong Kong
++853	Macao
++854	Unassigned
++855	Cambodia
++856	Laos
++857	Unassigned
++858	Unassigned
++859	Unassigned
++86	China
++870	Inmarsat "SNAC" service
++871	Inmarsat (Atlantic East)
++872	Inmarsat (Pacific)
++873	Inmarsat (Indian)
++874	Inmarsat (Atlantic West)
++875	Unassigned: reserved for Maritime Mobile
++876	Unassigned: reserved for Maritime Mobile
++877	Unassigned: reserved for Maritime Mobile
++878	Universal Personal Telecommunications
++879	Reserved: national mobile/maritime uses
++880	Bangladesh
++881	Global Mobile Satellite System
++882	International Networks
++883	International Networks
++884	Unassigned
++885	Unassigned
++886	Taiwan
++887	Unassigned
++888	(apparently unavailable for assignment)
++889	Unassigned
++90	Turkey
++91	India
++92	Pakistan
++93	Afghanistan
++94	Sri Lanka
++95	Burma (Myanmar)
++960	Maldives
++961	Lebanon
++962	Jordan
++963	Syria
++964	Iraq
++965	Kuwait
++966	Saudi Arabia
++967	Yemen
++968	Oman
++969	Discontinued: see Yemen
++970	Palestine
++971	United Arab Emirates
++972	Israel
++973	Bahrain
++974	Qatar
++975	Bhutan
++976	Mongolia
++977	Nepal
++978	Unassigned
++979	International Premium Rate Service
++98	Iran
++990	Unassigned
++991	ITPCS trials
++992	Tajikistan
++993	Turkmenistan
++994	Azerbaijan
++995	Georgia
++996	Kyrgyz Republic
++997	Unassigned
++998	Uzbekistan
++999	Proposed disaster relief (TDR) service
