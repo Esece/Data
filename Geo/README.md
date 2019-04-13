@@ -31,3 +31,12 @@
 |005|mid-island|NY|
 |006|San Juan|PR|
 |007|San Juan|PR|
+
+#### Zip Code Ranges By State
+
+|State|From|To|
+|-----|-----|-----|
+|AK|99501|99950|
+|AL|35004|36925|
+|AR|71601|72959|
+
