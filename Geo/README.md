@@ -22,7 +22,15 @@
 |-----|-----|-----|
 |00601|18.180555|-66.749961| 
 |00602|18.362268|-67.176130| 
-|00603|18.455183|-67.119887| 
+|00603|18.455183|-67.119887|
+
+#### Coordinates by Zip Code
+
+|Zip Code|Latitude|Longitude|City|State|
+|-----|-----|-----|-----|-----|
+|94108|37.791998|-122.408653|San Francisco|California|
+|90057|34.061918|-118.277939|Los Angeles|California|
+|94109|37.794487|-122.422270|San Francisco|California|
 
 #### Zip Code Prefix
 
