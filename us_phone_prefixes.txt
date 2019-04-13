@@ -1,0 +1,433 @@
+201  NJ  Hackensack, Jersey City  (201 & 551);
+202  DC  Washington D.C.
+203  CT  New Haven, Bridgeport, NYC suburbs (203 & 475);
+204  MB  entire province of  Manitoba  (204 & 431);
+205  AL  Birmingham, Tuscaloosa;  (205 & 659  overlay effective 2019-11-12);
+206  WA  Seattle;   (Area code 564 has been added as an overlay on  area code 360 in western Washington, effective  2017-08-28;  subsequently, area code 564 will also overlay the  Seattle metro area codes 206, 253, and 425,  as they run out of available numbers.)
+207  ME  entire state of  Maine
+208  ID  entire state of  Idaho;  (208 & 986);
+209  CA  Modesto, Stockton
+210  TX  San Antonio;  (210 & 726);
+212  NY  New York City: Manhattan  (212 & 646 & 332 & 917 );
+213  CA  Los Angeles/downtown; (on 2017-08-01,  the boundary between 213 and 323  was erased, creating the  213 & 323  overlay);
+214  TX  Dallas and suburbs (214 & 972 & 469);
+215  PA  Philadelphia  (215 & 267 & 445);
+216  OH  Cleveland; (see also 330, 440)
+217  IL  Champaign, Springfield (217 & 447 overlay in 2020 or 2021? );
+218  MN  Duluth, northern
+219  IN  Gary, northwestern; (see also 260, 574)
+220  OH  Marion, Zanesville, southeastern;      (740 & 220);
+223  PA  Harrisburg;  (717 & 223 overlay);
+224  IL  north suburbs of Chicago (847 & 224);
+225  LA  Baton Rouge
+226  ON  London, Windsor, southern  (519 & 226 & 548);
+227  MD  Frederick, Maryland suburbs of Washington DC; currently  301 & 240 overlay.  227 was to be added several years ago, but has been repeatedly postponed.  The current projected activation date is circa 2024.;
+228  MS  Biloxi, Gulfport, extreme southern tip
+229  GA  Albany, Valdosta, southwestern
+231  MI  Muskegon, Traverse City
+234  OH  Akron, Canton, Youngstown (330 & 234);
+236  BC  entire province  of  British Columbia,  overlays 604,  250 and 778;  (672 will be added as an overlay  on the entire province, effective  2019-05-04)
+239  FL  Ft. Myers, Naples
+240  MD  Frederick, suburbs of Washington DC;  (301 & 240);
+242  -  Bahamas (Atlantic Ocean)
+246  -  Barbados (Caribbean)
+248  MI  Pontiac, Troy, NW Detroit suburbs  (248 & 947);
+249  ON  Sudbury (705 & 249);
+250  BC  Victoria, Kamloops  (250 & 778 & 236);  (not Vancouver);  (672 will be added as an overlay  on the entire province, effective  2019-05-04)
+251  AL  Mobile
+252  NC  Greenville, Rocky Mount, Cape Hatteras
+253  WA  Tacoma, southern Seattle area;   (Area code 564 has been added as an overlay on  area code 360 in western Washington, effective  2017-08-28;  subsequently, area code 564 will also overlay the  Seattle metro area codes 206, 253, and 425,  as they run out of available numbers.)
+254  TX  Waco
+256  AL  Huntsville (256 & 938);
+260  IN  Ft. Wayne; (see also 219, 574)
+262  WI  Racine, Waukesha, West Bend; (not Milwaukee)
+264  -  Anguilla (Caribbean)
+267  PA  Philadelphia  (215 & 267 & 445);
+268  -  Antigua & Barbuda (Caribbean);
+269  MI  Kalamazoo, southwestern
+270  KY  Bowling Green, Hopkinsville;      (270 & 364 overlay);
+272  PA  Scranton, Wilkes-Barre (570 & 272);
+274  WI  Green Bay (920 & 274  overlay postponed indefinitely, may happen in  2030?);
+276  VA  Bristol, southwestern
+279  CA  Sacramento;  (916 & 279  overlay);
+281  TX  Houston and suburbs;  (713 & 281 & 832 & 346);
+283  OH  Cincinnati;  (513 & 283?  overlay, circa 2024?);
+284  -  British Virgin Islands (Caribbean)
+289  ON  Hamilton, Toronto suburbs  (905 & 289 & 365);
+301  MD  Frederick, suburbs of Washington DC;  (301 & 240);
+302  DE  entire state of  Delaware
+303  CO  Denver (303 & 720);
+304  WV  entire state of  West Virginia;  (304 & 681);
+305  FL  Miami, Key West (305 & 786);
+306  SK  entire province of  Saskatchewan;  (306 & 639);
+307  WY  entire state of  Wyoming
+308  NE  North Platte, Grand Island, western
+309  IL  Bloomington, Peoria, Moline/Quad Cities
+310  CA  Los Angeles area: Santa Monica, Torrance  (310 & 424);
+312  IL  Chicago/downtown only  (312 & 872);  (see 773)
+313  MI  Detroit; (see also 248 & 947,  586, 734, 810);
+314  MO  St. Louis;  (see also 573,  636)   (314 & 557  overlay expected, circa 2024?);
+315  NY  Syracuse, Utica, north central;  (315 & 680);
+316  KS  Wichita (see also 620)
+317  IN  Indianapolis;  (317 & 463);
+318  LA  Shreveport, Alexandria, northern
+319  IA  Cedar Rapids, Waterloo, Burlington
+320  MN  St. Cloud, central and west central
+321  FL  Melbourne  (321 only); Orlando   (407 & 321 (& 689) )   (area code 689 will be added as  an overlay on the  407 & 321  area - but not on the 321-only area -  effective 2019-06-04);
+323  CA  Los Angeles/downtown; (The boundary between 213 and 323 has been erased, creating the  213 & 323 overlay.);
+325  TX  Abilene, San Angelo
+326  OH  Dayton; (937 & 326 overlay effective  2020-03-08);
+330  OH  Akron, Canton, Youngstown  (330 & 234);
+331  IL  Hinsdale, some W. suburbs of Chicago  (630 & 331);
+332  NY  New York City (Manhattan only);   212 & 646 & 332 & 917;
+334  AL  Montgomery, southeastern; (see also 251)
+336  NC  Greensboro, High Point, Winston-Salem;  (336 & 743);
+337  LA  Lafayette, Lake Charles, southwestern
+339  MA  Lexington, Boston suburbs (781 & 339);
+340  VI  U.S. Virgin Islands (entire territory)
+341  CA  Oakland;  (510 & 341  overlay  2019-07-22);
+343  ON  Ottawa, eastern (613 & 343);
+345  -  Cayman Islands (Caribbean);  Note: effective 2016, the  Cayman Islands do observe Daylight Saving Time
+346  TX  Houston and suburbs;  (713 & 281 & 832 & 346);
+347  NY  NYC: Bronx, Brooklyn, Queens, Staten Island  (718 & 347 & 929 & 917);
+351  MA  Lowell, Leominster, northeastern;  (978 & 351);
+352  FL  Gainesville, Ocala
+354  QC  Laval, Longueuil, suburbs/banlieues of Montr�al;  (450 & 579  (& 354 on 2020-10-24) );
+360  WA  Bellingham, Olympia, Vancouver;  western Washington state, excluding Seattle metro area;  (Area code 564 has been added as an overlay on  area code 360 in western Washington, effective  2017-08-28;  subsequently, area code 564 will also overlay the  Seattle metro area codes 206, 253, and 425,  as they run out of available numbers.)
+361  TX  Corpus Christi
+364  KY  Bowling Green, Hopkinsville;      (270 & 364);
+365  ON  Hamilton, Toronto suburbs  (905 & 289 & 365);
+367  QC  Qu�bec, Gasp�, southeast/sud-est;  ( 418 & 581 & 367   overlay/recouvrement);
+380  OH  Columbus;  (614 & 380);
+385  UT  Salt Lake City, Ogden, Provo  (801 & 385);
+386  FL  Daytona Beach, Lake City;  (not Jacksonville)
+401  RI  entire state of  Rhode Island
+402  NE  Omaha, Lincoln, eastern; (402 & 531);
+403  AB  Calgary, southern third of province;  (403 & 587 & 825);
+404  GA  Atlanta (404 & 770 & 678 & 470);
+405  OK  Oklahoma City, central;   (an additional area code will be required soon; best guess:  405 & 572  overlay in early 2021; new code and dates will be announced soon-ish);
+406  MT  entire state of  Montana
+407  FL  Orlando   (407 & 321) ;   (Melbourne is 321 only)   (area code 689 will be added as  an overlay on the  407 & 321  area - but not on the 321-only area -  effective 2019-06-04)
+408  CA  San Jos�, “Silicon Valley”; (408 & 669)
+409  TX  Galveston, Beaumont; (see also 936, 979)
+410  MD  Baltimore, northern and eastern  (410 & 443 & 667);
+412  PA  Pittsburgh  (412 & 878);  (see also 724)
+413  MA  Springfield, western
+414  WI  Milwaukee
+415  CA  San Francisco, Marin County;  (415 & 628);
+416  ON  Toronto (416 & 647 & 437);
+417  MO  Springfield, Joplin, southwestern
+418  QC  Qu�bec, Gasp�, southeast/sud-est;  ( 418 & 581 & 367   overlay/recouvrement);
+419  OH  Toledo, northwestern (419 & 567);
+423  TN  Chattanooga, Johnson City, (not Knoxville)
+424  CA  Los Angeles area: Santa Monica, Torrance  (310 & 424);
+425  WA  Everett, Redmond, northern/eastern  Seattle area;   (Area code 564 has been added as an overlay on  area code 360 in western Washington, effective  2017-08-28;  subsequently, area code 564 will also overlay the  Seattle metro area codes 206, 253, and 425,  as they run out of available numbers.)
+428  NB  entire province of   New Brunswick (506 & 428 =  2020-11-21);
+430  TX  Tyler, Texarkana, northeastern  (903 & 430);
+431  MB  entire province of  Manitoba  (204 & 431);
+432  TX  Midland, Odessa, Big Bend
+434  VA  Charlottesville, Lynchburg, Emporia
+435  UT  Logan, most of the state;  (not SLC/Ogden/Provo)
+437  ON  city of Toronto (416 & 647 & 437);
+438  QC  Montr�al, �le-Perrot  (514 & 438);  (see also/voir aussi 450)
+440  OH  Lorain, Ashtabula;  (not Cleveland)
+441  -  Bermuda (Atlantic Ocean)
+442  CA  Escondido, Palm Springs, Death Valley  (760 & 442);
+443  MD  Baltimore, northern and eastern  (410 & 443 & 667);
+445  PA  Philadelphia   (215 & 267 & 445);
+447  IL  Champaign, Springfield;  (217 & 447  t.b.a./2020 or 2021? );
+450  QC  Laval, Longueuil, suburbs/banlieues of Montr�al;  (450 & 579  (& 354 on 2020-10-24) );
+458  OR  Eugene, most of the state  (541 & 458);  (not Portland, Salem)
+463  IN  Indianapolis (317 & 463)  (Note: 463 spells  IND for Indianapolis);
+464  IL  La Grange, some southern/western suburbs of Chicago;  (708 & 464 overlay  postponed, probably to 2020 or 2021);
+469  TX  Dallas and suburbs  (214 & 972 & 469);
+470  GA  Atlanta and suburbs  (404 & 770 & 678 & 470);
+473  -  Grenada & Carriacou (Caribbean);
+475  CT  New Haven, Bridgeport, NYC suburbs (203 & 475);
+478  GA  Macon, central
+479  AR  Ft. Smith, Fayetteville, northwestern
+480  AZ  Scottsdale, east Phoenix area;  (see also 602, 623)
+484  PA  Allentown, outer Philadelphia suburbs;  (610 & 484)   (additional 835 overlay to be added, circa 2020 or 2021);
+500  -  Non-geographic Services (premium charges may apply; some numbers non-dialable)
+501  AR  Little Rock, central;  (see also 479, 870)
+502  KY  Louisville, Frankfort; (see also 270)
+503  OR  Portland, Salem, Astoria, Tillamook (503 & 971);
+504  LA  New Orleans; (see also 985)
+505  NM  Albuquerque, Santa Fe, northwest; (see also 575)
+506  NB  entire province of  New Brunswick;  (506 & 428 =  2020-11-21);
+507  MN  Rochester, southern
+508  MA  Worcester, Cape Cod, southeastern (508 & 774);
+509  WA  Spokane, eastern
+510  CA  Oakland, east shore of San Francisco Bay;  (510 & 341  overlay  2019-07-22);
+512  TX  Austin (see also 361);  (512 & 737);
+513  OH  Cincinnati;  (513 & 283?  overlay, circa 2024?);
+514  QC  Montr�al, �le-Perrot (514 & 438); (see also/voir aussi 450)
+515  IA  Des Moines, Ames, Ft. Dodge; (see also 641)
+516  NY  Nassau County (western Long Island); (see also 631)
+517  MI  Lansing; (see also 989)
+518  NY  Albany, northeastern;  (518 & 838  overlay);
+519  ON  London, Windsor, southern;  (519 & 226 & 548);
+520  AZ  Tucson, southeastern;  (see also  928 and  480/602/623)
+521  -  Expansion of 500 Non-geographic Services
+522  -  Expansion of  500 Non-geographic Services
+523  -  Expansion of  500 Non-geographic Services, probably early 2019
+524  -  Future expansion of  500 Non-geographic Services
+525  -  Future expansion of  500 Non-geographic Services
+526  -  Future expansion of  500 Non-geographic Services
+527  -  Future expansion of  500 Non-geographic Services
+528  -  Future expansion of  500 Non-geographic Services
+529  -  Future expansion of  500 Non-geographic Services
+530  CA  Redding, Lake Tahoe, northeastern
+531  NE  Omaha, Lincoln, eastern (402 & 531);
+533  -  Expansion of 500 Non-geographic Services
+534  WI  Eau Claire, northern, northwestern (715 & 534);
+539  OK  Tulsa, northeastern (918 & 539);
+540  VA  Harrisonburg, Roanoke, western; (see also 276)
+541  OR  Eugene, most of the state (541 & 458); (not Portland, Salem)
+544  -  Expansion of 500 Non-geographic Services
+548  ON  London, Windsor, southern;  (519 & 226 & 548);
+551  NJ  Hackensack, Jersey City (201 & 551);
+557  MO  St. Louis;  (see also 573,  636)   (314 & 557  overlay expected, circa 2024?);
+559  CA  Fresno
+561  FL  Palm Beach County; (see also 772)
+562  CA  Los Angeles area: Long Beach
+563  IA  Davenport/Quad Cities, Dubuque, Decorah
+564  WA  Bellingham, Olympia, Vancouver;  western Washington state, excluding Seattle metro area;  (Area code 564 has been added as an overlay on  area code 360 in western Washington, effective  2017-08-28;   subsequently, area code 564 will also overlay the  Seattle metro area codes 206, 253, and 425,  as they run out of available numbers.)
+566  -  Expansion of  500 Non-geographic Services
+567  OH  Toledo, northwest;  (419 & 567);
+570  PA  Scranton, Wilkes-Barre (570 & 272);
+571  VA  Arlington, suburbs of Washington D.C. (703 & 571);
+573  MO  Columbia, Jefferson City, central and eastern; (not St. Louis, St. Charles)
+574  IN  South Bend; (see also 219, 260)
+575  NM  Las Cruces, Taos, most of the state; (not Albuquerque, Santa Fe)
+577  -  Expansion of 500 Non-geographic Services
+579  QC  Laval, Longueuil, suburbs/banlieues of Montr�al  (450 & 579  (& 354 on 2020-10-24) );
+580  OK  Lawton, Enid, Ada; (not OKC, Tulsa)
+581  QC  Qu�bec, Gasp�, southeast/sud-est;  ( 418 & 581 & 367   overlay/recouvrement);
+582  PA  new code to be added to 814 area (Erie, Altoona) circa  2021; may be a split or an overlay
+585  NY  Rochester
+586  MI  Warren, Macomb County
+587  AB  entire province of  Alberta  (403 & 587 & 825 and  780 & 587 & 825;
+588  -  Expansion of 500 Non-geographic Services
+600  -  Canada: Non-geographic services (e.g., caller-pays cellular) / Services non-g�ographiques canadiens (par exemple, service cellulaire avec paiement par lappelant)
+601  MS  Jackson, Hattiesburg, central (601 & 769);
+602  AZ  Phoenix; (not Scottsdale,  Glendale)
+603  NH  entire state of  New Hampshire
+604  BC  Vancouver  (604 & 778 & 236);  (see also 250);  (672 will be added as an overlay  on the entire province, effective  2019-05-04)
+605  SD  entire state of  South Dakota
+606  KY  Ashland, rural E. KY; (not Lexington, Covington)
+607  NY  Binghamton, south central
+608  WI  Madison, southwestern
+609  NJ  Atlantic City, Trenton;  (not Camden, Vineland)  (609 & 640 overlay);
+610  PA  Allentown, outer Philadelphia suburbs;  (610 & 484)   (additional 835 overlay to be added, circa 2020 or 2021);
+612  MN  Minneapolis; (see also 651, 763, 952)
+613  ON  Ottawa, eastern (613 & 343);
+614  OH  Columbus;  (614 & 380);
+615  TN  Nashville (not Clarksville);  (615 & 629);
+616  MI  Grand Rapids; (see also 231, 269)
+617  MA  Boston;  (617 & 857);
+618  IL  East St. Louis, southern;  (618 & 730  t.b.a./2025? );
+619  CA  San Diego, Coronado, La Jolla; (not Escondido) (On 2018-06-19,  the boundary between 619 and 858 was erased, creating the  619 & 858  overlay.);
+620  KS  southern Kansas; (not metro Wichita)
+622  -  Canada: expansion of 600 Non-geographic services (e.g., caller-pays cellular) /  expansion de lindicatif 600 pour les Services non-g�ographiques canadiens (par exemple, service cellulaire avec paiement par lappelant)
+623  AZ  Glendale, west Phoenix area; (see also 480, 602)
+626  CA  Los Angeles area: Pasadena, San Gabriel Valley
+628  CA  San Francisco, Marin County;  (415 & 628);
+629  TN  Nashville, central and north central;  (615 & 629);
+630  IL  Hinsdale, some western suburbs of Chicago (630 & 331);
+631  NY  Suffolk County (eastern Long Island);  (see also 516);  (631 & 934);
+633  -  Canada: future expansion of 600 Non-geographic services (e.g., caller-pays cellular) /  future expansion de lindicatif 600 pour les Services non-g�ographiques canadiens (par exemple, service cellulaire avec paiement par lappelant)
+636  MO  St. Charles;  (see also 314,  573)
+639  SK  entire province of  Saskatchewan   (306 & 639);
+640  NJ  Atlantic City, Trenton;  (not Camden, Vineland)  (609 & 640 overlay);
+641  IA  Mason City, Marshalltown, J-shaped portion of central Iowa
+646  NY  New York City: Manhattan;   (212 & 646 & 332 & 917);
+647  ON  Toronto  (416 & 647 & 437);
+649  -  Turks & Caicos Islands   (Caribbean)  Note: in 2015,  Turks & Caicos changed time zone to  Atlantic Standard year-round;
+650  CA  San Mateo, peninsula, San Francisco Airport  [SFO]
+651  MN  St. Paul, eastern Twin Cities area
+657  CA  Anaheim, northern Orange County (714 & 657);
+658  -  Jamaica (Caribbean);  (876 & 658 effective  2019-04-30);
+659  AL  Birmingham, Tuscaloosa;  (205 & 659 overlay effective  2019-11-12);
+660  MO  Sedalia, north central
+661  CA  Bakersfield, northern Los Angeles County
+662  MS  northern half, Greenville, Tupelo
+664  -  Montserrat (Caribbean)
+667  MD  Baltimore, northern and eastern (410 & 443 & 667);
+669  CA  San Jos�, “Silicon Valley”; (408 & 669)
+670  MP  CNMI / Mariana Islands / U.S. Pacific; (Saipan)
+671  GU  Guam/U.S. Pacific;  (Hagåtña/Agana);
+672  BC  entire province of   British Columbia;   (Area code 604 serves the Vancouver metro area.  Area code 250 serves the rest of the province.  Area codes 778 and 236 overlay the entire province,  and 672 will be added,  2019-05-04.)
+678  GA  Atlanta and suburbs (404 & 770 & 678 & 470);
+680  NY  Syracuse, Utica, north central;  (315 & 680);
+681  WV  entire state of  West Virginia (304 & 681);
+682  TX  Fort Worth (817 & 682);
+684  AS  American Samoa (entire territory)
+689  FL  Orlando   (407 & 321) ;   (Melbourne is 321 only)   (area code 689 will be added as an overlay on the  407 & 321  area - but not on the 321-only area -  effective 2019-06-04)
+700  -  Special purposes: dependent on long-distance carrier used (premium charges may apply)
+701  ND  entire state of  North Dakota
+702  NV  Las Vegas, almost all of Clark County;    (702 & 725);   (rest of state is 775);;
+703  VA  Arlington, suburbs of Washington D.C. (703 & 571);
+704  NC  Charlotte (704 & 980);
+705  ON  Sudbury, north central (705 & 249);
+706  GA  Athens, Columbus, Augusta, Rome (706 & 762);
+707  CA  north coast and wine country: Santa Rosa, Napa, Vallejo
+708  IL  La Grange, some southern/western suburbs of Chicago;   (708 & 464 overlay  has been planned for some time but repeatedly postponed; current  estimated implementation date is 2020 or 2021);
+709  NL  entire province of  Newfoundland & Labrador  (Terre-Neuve-et-Labrador or Akamassiss);   (709 & 879,  was  2018-11-24,  2022-05-20)
+710  US  U.S. Federal Government, authorized users only
+712  IA  Sioux City, Council Bluffs, western
+713  TX  Houston and suburbs;  (713 & 281 & 832 & 346);
+714  CA  Anaheim, northern Orange Co. (714 & 657);
+715  WI  Eau Claire, northern/northwestern (715 & 534);
+716  NY  Buffalo, western tip; (see also 585)
+717  PA  Harrisburg;  (717 & 223 overlay);
+718  NY  NYC: Bronx, Brooklyn, Queens, Staten Island (718 & 347 & 929 & 917);
+719  CO  Colorado Springs, southeastern
+720  CO  Denver (303 & 720);
+721  -  Sint Maarten (Dutch Caribbean);  (Use of the new North American area code  +1 721 is now mandatory.)
+724  PA  New Castle, western (724 & 878); (not Pittsburgh)
+725  NV  Las Vegas (702 & 725);
+726  TX  San Antonio;  (210 & 726)  (Note:  726 spells SAN for San Antonio);
+727  FL  St. Petersburg; (see also 813)
+730  IL  East St. Louis, southern;  (618 & 730  t.b.a./2025? );
+731  TN  Jackson, western TN; (not Memphis)
+732  NJ  New Brunswick, northern Jersey Shore region (732 & 848);
+734  MI  Ann Arbor, Monroe, S. Detroit suburbs & Metro Airport [DTW];
+737  TX  Austin (512 & 737);
+740  OH  Marion, Zanesville, southeastern;      (740 & 220);
+743  NC  Greensboro, High Point, Winston-Salem;  (336 & 743);
+747  CA  Los Angeles area: San Fernando (818 & 747);
+754  FL  Ft. Lauderdale, Broward County (954 & 754);
+757  VA  Norfolk
+758  -  St. Lucia (Caribbean)
+760  CA  Escondido, Palm Springs, Death Valley (760 & 442);
+762  GA  Athens, Columbus, Augusta, Rome (706 & 762);
+763  MN  northwest suburbs of Minneapolis; (see also 952)
+765  IN  Lafayette, Muncie
+767  -  Dominica (Caribbean)  (Note: “Dominica” and “Dominican Republic”  are two different countries in the Caribbean.)
+769  MS  Jackson, Hattiesburg, central (601 & 769);
+770  GA  Atlanta suburbs (404 & 770 & 678 & 470);
+772  FL  Ft. Pierce, central east coast of Florida
+773  IL  Chicago/uptown (773 & 872); (see also 312)
+774  MA  Worcester, Cape Cod, southeastern (508 & 774);
+775  NV  Reno, most of Nevada; (not Las Vegas/Clark Co.)
+778  BC  entire province of  British Columbia  (604 & 778 & 236)  and  (250 & 778 & 236);  (672 will be added as an overlay on the entire province, effective  2019-05-04)
+779  IL  Rockford, Joliet, northern (815 & 779);
+780  AB  Edmonton, northern;  (780 & 587 & 825);  (see also 403);
+781  MA  Lexington, suburbs of Boston (781 & 339);
+782  NSPEI  Nova Scotia & Prince Edward Island (entirety of both provinces);  (902 & 782)
+784  -  St. Vincent & the Grenadines (Caribbean);
+785  KS  Topeka, north central, northwestern
+786  FL  Miami, Key West (305 & 786);
+787  PR  Puerto Rico (entire territory); (787 & 939);
+800  -  Toll-free services
+801  UT  Salt Lake City, Provo, Ogden (801 & 385); (see also 435)
+802  VT  entire state of  Vermont
+803  SC  Columbia, central;   (803 & 839  overlay effective  2020-05-06);
+804  VA  Richmond, Petersburg; (see also 434)
+805  CA  San Luis Obispo, Oxnard;  (see also 661)  (805 & 820 overlay);
+806  TX  Amarillo, Lubbock, panhandle
+807  ON  Thunder Bay, northwestern
+808  HI  entire state of  Hawaii
+809  -  Dominican Republic (Caribbean) (809 & 829 & 849); (for other former 809, see Caribbean page or map)
+810  MI  Flint, Port Huron, NE Detroit suburbs; (see also 586)
+812  IN  Evansville, southern;  (812 & 930);
+813  FL  Tampa
+814  PA  Altoona, Erie; (new 582 area code to be added circa 2021;  split or overlay t.b.d.)
+815  IL  Rockford, Joliet, northern (815 & 779);
+816  MO  Kansas City, St. Joseph
+817  TX  Ft. Worth (817 & 682);
+818  CA  Los Angeles area: San Fernando (818 & 747);
+819  QC  Sherbrooke, Hull, Trois-Rivières, Kuujjuaq; central, western, and northern / centre, ouest, et nord; (819 & 873)
+820  CA  San Luis Obispo, Oxnard;  (see also 661)  (805 & 820 overlay);
+822  -  future toll-free services
+825  AB  Alberta,  Canada (entire province);  (Area code 403 serves the southern part of Alberta,  including Calgary;  780 serves the northern part, including Edmonton.  Area codes 587 and 825 overlay both parts,  serving the entire province.)
+828  NC  Asheville, western tip
+829  -  Dominican Republic (809 & 829 & 849);
+830  TX  Del Rio, New Braunfels; (surrounds San Antonio = 210)
+831  CA  Monterey, Santa Cruz
+832  TX  Houston and suburbs;  (713 & 281 & 832 & 346);
+833  -  Toll-free services
+835  PA  Allentown, outer Philadelphia suburbs;  (610 & 484)  (additional 835 overlay to be added, circa 2020 or 2021);
+838  NY  Albany, northeastern;  (518 & 838  overlay);
+839  SC  Columbia, central;  (803 & 839 overlay effective  2020-05-06);
+843  SC  Charleston, coastal;  (843 & 854);
+844  -  Toll-free services
+845  NY  Poughkeepsie, N. suburbs of NYC; (not Westchester Co.)
+847  IL  Skokie, northern suburbs of Chicago (847 & 224);
+848  NJ  New Brunswick, northern Jersey Shore region (732 & 848);
+849  -  Dominican Republic (809 & 829 & 849);
+850  FL  Tallahassee [7:00 - 8:00],  Pensacola [6:00 - 7:00],  panhandle
+854  SC  Charleston, coastal;    (843 & 854);
+855  -  Toll-free services
+856  NJ  Camden, Vineland, southwestern
+857  MA  Boston (617 & 857);
+858  CA  (most of) San Diego, La Jolla,  near north suburbs of San Diego;  (On 2018-06-19,  the boundary between 619 and 858 was erased, creating the  619 & 858  overlay.);
+859  KY  Lexington, Covington
+860  CT  Hartford, northern and eastern (860 & 959);
+862  NJ  Newark, Paterson (973 & 862);
+863  FL  Lakeland, Okeechobee
+864  SC  Greenville, Spartanburg, northwestern
+865  TN  Knoxville; (see also 423)
+866  -  Toll-free services
+867  -  Yukon [4:00 - 5:00],  Northwest Territories [5:00 - 6:00*],  Nunavut [5:00 - 6:00, 6:00 - 7:00, 7:00,  7:00 - 8:00] [time zone details]
+868  -  Trinidad & Tobago (Caribbean);
+869  -  St. Kitts & Nevis (Caribbean);
+870  AR  Jonesboro, Pine Bluff, most of the state (870 & 327 in 2013 postponed indefinitely,  probably to around 2023);  (see also 479, 501)
+872  IL  Chicago, entire city (312 & 872 and 773 & 872);
+873  QC  Sherbrooke, Hull, Trois-Rivières, Kuujjuaq; central, western, and northern / centre, ouest, et nord; (819 & 873)
+876  -  Jamaica (Caribbean);   (876 & 658 effective  2019-04-30);
+877  -  Toll-free services
+878  PA  Pittsburgh, New Castle (412 & 878 and 724 & 878);
+879  NL  entire province of  Newfoundland & Labrador;  (709 & 879,  was  2018-11-24,  2022-05-20)
+888  -  Toll-free services
+900  -  Premium pay-per-call services
+901  TN  Memphis; (see also 731)
+902  NSPEI  Nova Scotia, Prince Edward Island: entirety of both provinces;  (902 & 782);
+903  TX  Tyler, Texarkana, northeastern (903 & 430);
+904  FL  Jacksonville (see also 386)
+905  ON  Hamilton, Toronto suburbs; (905 & 289 & 365);
+906  MI  Sault Ste. Marie, upper peninsula
+907  AK  entire state of  Alaska (except the tiny town of Hyder)
+908  NJ  Elizabeth
+909  CA  San Bernardino, Ontario; (not Riverside)
+910  NC  Wilmington, Fayetteville, southeastern
+912  GA  Savannah, southeastern; (not Albany, Macon)
+913  KS  Kansas City, Leavenworth
+914  NY  White Plains, Westchester County; (see also 845)
+915  TX  El Paso, western tip; (not Abilene, Midland/Odessa)
+916  CA  Sacramento;  (916 & 279  overlay);
+917  NY  New York City: overlays all 5 boroughs;  (see 212,  718)
+918  OK  Tulsa, northeastern (918 & 539);
+919  NC  Raleigh (919 & 984);
+920  WI  Green Bay, northeastern (920 & 274 overlay postponed,  may happen in 2030?);
+925  CA  Concord, Walnut Creek, Livermore, inland East Bay
+928  AZ  Flagstaff, Yuma, most of the state; (see 520, 480/602/623) [Note: the Navajo Nation does observe DST.]
+929  NY  NYC: Bronx, Brooklyn, Queens, and Staten Island (718 & 347 & 929 & 917);
+930  IN  Evansville, southern Indiana  (812 & 930);
+931  TN  Clarksville, central; (not Nashville)
+934  NY  Suffolk County (eastern Long Island);  (631 & 934);
+936  TX  Huntsville, Nacogdoches
+937  OH  Dayton;  (937 & 326 overlay effective  2020-03-08);
+938  AL  Huntsville, northern (256 & 938);
+939  PR  Puerto Rico (entire territory) (787 & 939);
+940  TX  Wichita Falls, Denton
+941  FL  Sarasota; (see also 239, 863)
+947  MI  Pontiac, Troy, NW Detroit suburbs (248 & 947);
+949  CA  Irvine, Newport Beach, southern Orange County
+951  CA  Riverside; (see also 909)
+952  MN  Bloomington, SW suburbs of Minneapolis; (see also 763)
+954  FL  Ft. Lauderdale, Broward County (954 & 754);
+956  TX  Brownsville, Laredo, Rio Grande Valley
+959  CT  Hartford, northern and eastern  (860 & 959);
+970  CO  Grand Junction, northern and western
+971  OR  Portland, Salem, Tillamook, Astoria (503 & 971);
+972  TX  Dallas and suburbs (214 & 972 & 469);
+973  NJ  Newark, Paterson (973 & 862);
+978  MA  Lowell, Leominster, northeastern (978 & 351);
+979  TX  Bryan/College Station, Wharton
+980  NC  Charlotte (704 & 980);
+984  NC  Raleigh (919 & 984);
+985  LA  Hammond, Houma; (see also 504, 225)
+986  ID  entire state of  Idaho;  (208 & 986);
+989  MI  Saginaw
