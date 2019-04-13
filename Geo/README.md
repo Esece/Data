@@ -40,3 +40,10 @@
 |AL|35004|36925|
 |AR|71601|72959|
 
+#### U.S. States
+
+|Code|Name|
+|-----|-----|
+|AL|Alabama|
+|AK|Alaska|
+|AS|American Samoa|
