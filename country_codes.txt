@@ -1,0 +1,320 @@
+AC	Ascension Island (see SH) -- Exceptionally reserved
+AD	Andorra
+AE	United Arab Emirates (the)
+AF	Afghanistan
+AG	Antigua and Barbuda
+AI	Anguilla
+AI	French Afars and Issas -- Formerly used
+AL	Albania
+AM	Armenia
+AN	Netherlands Antilles (see CW, MF) -- Transitionally reserved
+AO	Angola
+AP	African Regional Industrial Property Organization -- Indeterminately reserved
+AQ	Antarctica
+AR	Argentina
+AS	American Samoa
+AT	Austria
+AU	Australia
+AW	Aruba
+AX	&Aring;land Islands
+AZ	Azerbaijan
+BA	Bosnia and Herzegovina
+BB	Barbados
+BD	Bangladesh
+BE	Belgium
+BF	Burkina Faso
+BG	Bulgaria
+BH	Bahrain
+BI	Burundi
+BJ	Benin
+BL	Saint Barth&eacute;lemy
+BM	Bermuda
+BN	Brunei Darussalam
+BO	Bolivia (Plurinational State of)
+BQ	Bonaire, Sint Eustatius and Saba
+BQ	British Antarctic Territory -- Formerly used
+BR	Brazil
+BS	Bahamas (the)
+BT	Bhutan
+BU	Burma (see MM) -- Transitionally reserved
+BV	Bouvet Island
+BW	Botswana
+BX	Benelux Trademarks and Designs Office -- Indeterminately reserved
+BY	Belarus
+BY	Byelorussian SSR -- Formerly used
+BZ	Belize
+CA	Canada
+CC	Cocos (Keeling) Islands (the)
+CD	Congo (the Democratic Republic of the)
+CF	Central African Republic (the)
+CG	Congo (the)
+CH	Switzerland
+CI	C&ocirc;te d'Ivoire
+CK	Cook Islands (the)
+CL	Chile
+CM	Cameroon
+CN	China
+CO	Colombia
+CP	Clipperton Island -- Exceptionally reserved
+CR	Costa Rica
+CS	Czechoslovakia -- Formerly used
+CS	Serbia and Montenegro (see ME, RS) -- Transitionally reserved
+CT	Canton and Enderbury Islands -- Formerly used
+CU	Cuba
+CV	Cabo Verde
+CW	Cura&ccedil;ao
+CX	Christmas Island
+CY	Cyprus
+CZ	Czechia (a.k.a. The Czech Republic)
+DD	German Democratic Republic -- Formerly used
+DE	Germany
+DG	Diego Garcia -- Exceptionally reserved
+DJ	Djibouti
+DK	Denmark
+DM	Dominica
+DO	Dominican Republic (the)
+DY	Dahomey -- Formerly used
+DY	Benin (obsolete, see BJ) -- Indeterminately reserved
+DZ	Algeria
+EA	Ceuta, Melilla -- Exceptionally reserved
+EC	Ecuador
+EE	Estonia
+EF	Union of countries under the European Community Patent Convention -- Indeterminately reserved
+EG	Egypt
+EH	Western Sahara*
+EM	European Trademark Office -- Indeterminately reserved
+EP	European Patent Organization -- Indeterminately reserved
+ER	Eritrea
+ES	Spain
+ET	Ethiopia
+EU	European Union -- Exceptionally reserved
+EV	Eurasian Patent Organization -- Indeterminately reserved
+EW	Estonia (obsolete, see EE) -- Indeterminately reserved
+EZ	Economic Zone (?) -- Exceptionally reserved
+FI	Finland
+FJ	Fiji
+FK	Falkland Islands (the) [Malvinas]
+FL	Liechtenstein (obsolete, see LI) -- Indeterminately reserved
+FM	Micronesia (Federated States of)
+FO	Faroe Islands (the)
+FQ	French Southern and Antarctic Territories -- Formerly used
+FR	France
+FX	France, Metropolitan (see FR) -- Exceptionally reserved
+GA	Gabon
+GB	United Kingdom of Great Britain and Northern Ireland (the)
+GC	Patent office of the Cooperation Council for the Arab States of the Gulf -- Indeterminately reserved
+GD	Grenada
+GE	Gilbert and Ellice Islands -- Formerly used
+GE	Georgia
+GF	French Guiana
+GG	Guernsey
+GH	Ghana
+GI	Gibraltar
+GL	Greenland
+GM	Gambia (the)
+GN	Guinea
+GP	Guadeloupe
+GQ	Equatorial Guinea
+GR	Greece
+GS	South Georgia and the South Sandwich Islands
+GT	Guatemala
+GU	Guam
+GW	Guinea-Bissau
+GY	Guyana
+HK	Hong Kong
+HM	Heard Island and McDonald Islands
+HN	Honduras
+HR	Croatia
+HT	Haiti
+HU	Hungary
+HV	Upper Volta -- Formerly used
+IB	International Bureau of WIPO -- Indeterminately reserved
+IC	Canary Islands -- Exceptionally reserved
+ID	Indonesia
+IE	Ireland
+IL	Israel
+IM	Isle of Man
+IN	India
+IO	British Indian Ocean Territory (the)
+IQ	Iraq
+IR	Iran (Islamic Republic of)
+IS	Iceland
+IT	Italy
+JA	Jamaica (obsolete, see JM) -- Indeterminately reserved
+JE	Jersey
+JM	Jamaica
+JO	Jordan
+JP	Japan
+JT	Johnston Island -- Formerly used
+KE	Kenya
+KG	Kyrgyzstan
+KH	Cambodia
+KI	Kiribati
+KM	Comoros (the)
+KN	Saint Kitts and Nevis
+KP	Korea (the Democratic People's Republic of)
+KR	Korea (the Republic of)
+KW	Kuwait
+KY	Cayman Islands (the)
+KZ	Kazakhstan
+LA	Lao People's Democratic Republic (the)
+LB	Lebanon
+LC	Saint Lucia
+LF	Libya Fezzan (obsolete, see LY) -- Indeterminately reserved
+LI	Liechtenstein
+LK	Sri Lanka
+LR	Liberia
+LS	Lesotho
+LT	Lithuania
+LU	Luxembourg
+LV	Latvia
+LY	Libya
+MA	Morocco
+MC	Monaco
+MD	Moldova (the Republic of)
+ME	Montenegro
+MF	Saint Martin (French part)
+MG	Madagascar
+MH	Marshall Islands (the)
+MI	Midway Islands -- Formerly used
+MK	Macedonia (the former Yugoslav Republic of)
+ML	Mali
+MM	Myanmar
+MN	Mongolia
+MO	Macao
+MP	Northern Mariana Islands (the)
+MQ	Martinique
+MR	Mauritania
+MS	Montserrat
+MT	Malta
+MU	Mauritius
+MV	Maldives
+MW	Malawi
+MX	Mexico
+MY	Malaysia
+MZ	Mozambique
+NA	Namibia
+NC	New Caledonia
+NE	Niger (the)
+NF	Norfolk Island
+NG	Nigeria
+NH	New Hebrides -- Formerly used
+NI	Nicaragua
+NL	Netherlands (the)
+NO	Norway
+NP	Nepal
+NQ	Dronning Maud Land -- Formerly used
+NR	Nauru
+NT	Neutral Zone (see IQ, SA) -- Transitionally reserved
+NU	Niue
+NZ	New Zealand
+OA	African Intellectual Property Organization -- Indeterminately reserved
+OM	Oman
+PA	Panama
+PC	Pacific Islands (Trust Territory) -- Formerly used
+PE	Peru
+PF	French Polynesia
+PG	Papua New Guinea
+PH	Philippines (the)
+PI	Philippines (obsolete, see PH) -- Indeterminately reserved
+PK	Pakistan
+PL	Poland
+PM	Saint Pierre and Miquelon
+PN	Pitcairn
+PR	Puerto Rico
+PS	Palestine, State of
+PT	Portugal
+PU	United States Miscellaneous Pacific Islands -- Formerly used
+PW	Palau
+PY	Paraguay
+PZ	Panama Canal Zone -- Formerly used
+QA	Qatar
+RA	Argentina (obsolete, see AR) -- Indeterminately reserved
+RB	Bolivia/Botswana (both obsolete, see BO, BW) -- Indeterminately reserved
+RC	China (obsolete, see CN) -- Indeterminately reserved
+RE	R&eacute;union
+RH	Southern Rhodesia -- Formerly used
+RH	Haiti (obsolete, see HT) -- Indeterminately reserved
+RI	Indonesia (obsolete, see ID) -- Indeterminately reserved
+RL	Lebanon (obsolete, see LB) -- Indeterminately reserved
+RM	Madagascar (obsolete, see MG) -- Indeterminately reserved
+RN	Niger (obsolete, see NE) -- Indeterminately reserved
+RO	Romania
+RP	Philippines (obsolete, see PH) -- Indeterminately reserved
+RS	Serbia
+RU	Russian Federation (the)
+RW	Rwanda
+SA	Saudi Arabia
+SB	Solomon Islands
+SC	Seychelles
+SD	Sudan (the)
+SE	Sweden
+SF	Finland (obsolete, see FI) -- Indeterminately reserved
+SG	Singapore
+SH	Saint Helena, Ascension and Tristan da Cunha
+SI	Slovenia
+SJ	Svalbard and Jan Mayen
+SK	Slovakia
+SK	Sikkim -- Formerly used
+SL	Sierra Leone
+SM	San Marino
+SN	Senegal
+SO	Somalia
+SR	Suriname
+SS	South Sudan
+ST	Sao Tome and Principe
+SU	USSR -- Exceptionally reserved
+SV	El Salvador
+SX	Sint Maarten (Dutch part)
+SY	Syrian Arab Republic
+SZ	Swaziland
+TA	Tristan da Cunha (see SH) -- Exceptionally reserved
+TC	Turks and Caicos Islands (the)
+TD	Chad
+TF	French Southern Territories (the)
+TG	Togo
+TH	Thailand
+TJ	Tajikistan
+TK	Tokelau
+TL	Timor-Leste
+TM	Turkmenistan
+TN	Tunisia
+TO	Tonga
+TP	East Timor (see TL) -- Transitionally reserved
+TR	Turkey
+TT	Trinidad and Tobago
+TV	Tuvalu
+TW	Taiwan (Province of China)
+TZ	Tanzania, United Republic of
+UA	Ukraine
+UG	Uganda
+UK	United Kingdom (the) (see GB) -- Exceptionally reserved
+UM	United States Minor Outlying Islands (the)
+UN	United Nations (the) -- Exceptionally reserved
+US	United States of America (the)
+UY	Uruguay
+UZ	Uzbekistan
+VA	Holy See (the)
+VC	Saint Vincent and the Grenadines
+VD	Viet-Nam, Democratic Republic of -- Formerly used
+VE	Venezuela (Bolivarian Republic of)
+VG	Virgin Islands (British)
+VI	Virgin Islands (U.S.)
+VN	Viet Nam
+VU	Vanuatu
+WF	Wallis and Futuna
+WG	Grenada (obsolete, see GD) -- Indeterminately reserved
+WK	Wake Island -- Formerly used
+WL	Saint Lucia (obsolete, see LC) -- Indeterminately reserved
+WO	World Intellectual Property Organization -- Indeterminately reserved
+WS	Samoa
+WV	Saint Vincent (obsolete, see VC) -- Indeterminately reserved
+YD	Yemen, Democratic -- Formerly used
+YE	Yemen
+YT	Mayotte
+YU	Yugoslavia (see BA, HR, MK, ME, RS, SI) -- Transitionally reserved
+YV	Venezuela (obsolete, see VE) -- Indeterminately reserved
+ZA	South Africa
+ZM	Zambia
+ZR	Zaire (see CD) -- Transitionally reserved
+ZW	Zimbabwe
